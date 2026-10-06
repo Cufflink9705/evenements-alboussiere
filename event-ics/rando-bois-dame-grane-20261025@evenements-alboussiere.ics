@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:rando-bois-dame-grane-20261025@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261025T080000
+DTEND;TZID=Europe/Paris:20261025T100000
+SUMMARY:Rando VTT Le Bois de la Dame
+LOCATION:26400 Grane
+DESCRIPTION:Randonnée VTT ouverte aux VAE. Parcours de 23 à 56 km avec différents dénivelés. Départs 8h-10h.
+URL:https://www.jds.fr/valence/sports/balades/rando-vtt-le-bois-de-la-dame-1781823_A
+END:VEVENT
+END:VCALENDAR
