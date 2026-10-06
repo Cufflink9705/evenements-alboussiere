@@ -1,12 +1,17 @@
 {
-  "name":"Événements Alboussière",
-  "short_name":"Événements Alboussière",
-  "start_url":"./",
-  "display":"standalone",
-  "background_color":"#111827",
-  "theme_color":"#111827",
-  "icons":[
-    {"src":"icon-512-final-v14.jpg","sizes":"512x512","type":"image/jpeg","purpose":"any"},
-    {"src":"apple-touch-icon-final-v14.jpg","sizes":"180x180","type":"image/jpeg","purpose":"any"}
+  "name": "Événements Alboussière",
+  "short_name": "Événements Alboussière",
+  "id": "./?app=15",
+  "start_url": "./?app=15",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "icon-512-final-v14.jpg?v=15",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
   ]
 }
