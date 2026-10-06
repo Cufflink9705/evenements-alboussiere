@@ -6,6 +6,6 @@
   "background_color":"#111827",
   "theme_color":"#111827",
   "icons":[
-    {"src":"apple-icon.jpg?v=8","sizes":"96x96","type":"image/jpeg","purpose":"any maskable"}
+    {"src":"apple-touch-icon-v10.jpg?v=10","sizes":"180x180","type":"image/jpeg","purpose":"any"}
   ]
 }
