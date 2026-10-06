@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:course-nature-lafarge-20261108@evenements-alboussiere
+DTSTAMP:20261006T135900Z
+DTSTART;TZID=Europe/Paris:20261108T091500
+DTEND;TZID=Europe/Paris:20261108T140000
+SUMMARY:Course Nature Lafarge - randonnée et trail
+LOCATION:Usine Lafarge, Le Teil, Ardèche
+DESCRIPTION:Randonnée La Cytise 11 km/260 D+, départ 9h15. Trails 11 et 22 km. Inscription en ligne; tarifs randonnée 5 EUR, trails 10 à 20 EUR.
+URL:https://running.life/fr/evenement/course-nature-lafarge-le-teil
+END:VEVENT
+END:VCALENDAR
