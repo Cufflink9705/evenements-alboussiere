@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:rando-saint-agrevoise-20261105@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261105T133000
+DTEND;TZID=Europe/Paris:20261105T170000
+SUMMARY:Rando Saint-Agrèvoise - Lac de Devesset
+LOCATION:Place Félisse d'Asseyne, 07320 Saint-Agrève
+DESCRIPTION:Randonnée pédestre 12 km, 159 m D+, environ 3h30. Départ 13h30. Participation occasionnelle 2 EUR, gratuit moins de 12 ans.
+URL:https://www.ardeche.com/saint-agreve/rando-saint-agrevoise-lac-de-devesset-580474.html
+END:VEVENT
+END:VCALENDAR
