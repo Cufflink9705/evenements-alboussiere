@@ -21,7 +21,7 @@ main{padding:16px 14px 50px}.toolbar{display:grid;grid-template-columns:1fr;gap:
 .empty{background:white;border:1px dashed #cbd5e1;border-radius:14px;padding:28px;text-align:center;color:var(--muted)}
 footer{max-width:900px;margin:auto;padding:0 14px 30px;color:var(--muted);font-size:12px;text-align:center}
 @media(min-width:700px){main{padding:22px 18px 60px}.toolbar{grid-template-columns:1fr 220px}.event{padding:18px}}
-</style>
+.mapwrap{margin-top:12px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#eef2f5}.map{height:210px;width:100%}.maplink{display:block;padding:9px 12px;background:white;color:var(--accent);font-size:13px;font-weight:800;text-decoration:none;border-top:1px solid var(--line)}.travel{display:flex;align-items:center;gap:8px;margin-top:9px;padding:10px 12px;border-radius:10px;background:#f0fdf4;color:#166534;font-weight:800}.travel small{font-weight:500;color:#4b5563}</style>
 </head>
 <body>
 <header>
@@ -44,6 +44,8 @@ footer{max-width:900px;margin:auto;padding:0 14px 30px;color:var(--muted);font-s
  <section id="events"></section>
 </main>
 <footer>Source : veille configurée dans <code>config.json</code>. Les informations signalées comme incertaines doivent être vérifiées auprès de l'organisateur.</footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 <script>
 const state={events:[],dtstamp:null};
 function unfold(s){return s.replace(/\r?\n[ \t]/g,'').split(/\r?\n/).filter(Boolean)}
@@ -56,7 +58,33 @@ function fmtTime(d){return d&&d.getHours()+d.getMinutes()+d.getSeconds()>0?new I
 function esc(s){return String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
 function category(e){const s=(e.summary+' '+e.description).toLowerCase();if(/vtt|vtTAE|enduro|xc|dh/.test(s))return 'VTT / VTTAE';if(/trail/.test(s))return 'Trail';if(/randonnée|randonneurs|marche/.test(s))return 'Randonnée / marche';if(/concert|festival|culture/.test(s))return 'Culture';if(/castagnade|châtaigne|fête/.test(s))return 'Fête locale';if(/famille|enfant|train fantôme/.test(s))return 'Famille';return 'Autres'}
 function detailLine(label,value){return value?'<div><strong>'+label+' :</strong> '+esc(value)+'</div>':''}
-function render(){const q=document.getElementById('search').value.toLowerCase().trim(),cat=document.getElementById('category').value;const filtered=state.events.filter(e=>(!q||(e.summary+' '+e.description+' '+e.location).toLowerCase().includes(q))&&(!cat||category(e)===cat)).sort((a,b)=>a.start-b.start);document.getElementById('count').textContent=filtered.length+' événement'+(filtered.length>1?'s':'');const root=document.getElementById('events');if(!filtered.length){root.innerHTML='<div class="empty">Aucun événement ne correspond à la recherche.</div>';return}let html='',last='';for(const e of filtered){const day=e.start.toISOString().slice(0,10);if(day!==last){html+='<div class="day">'+esc(fmtDate(e.start))+'</div>';last=day}const c=category(e),uncertain=/à confirmer|à vérifier|information horaire/i.test(e.description);const d=e.description.replace(/\n/g,'<br>');html+='<article class="event"><div class="eventtop"><div class="datebox"><b>'+e.start.getDate()+'</b><span>'+e.start.toLocaleDateString('fr-FR',{month:'short'}).replace('.','')+'</span></div><div class="eventmain"><h2 class="name">'+esc(e.summary)+'</h2><div class="chips"><span class="chip">'+esc(c)+'</span>'+(uncertain?'<span class="chip uncertain">À vérifier</span>':'')+'</div></div></div><div class="details">'+detailLine('Heure',fmtTime(e.start)+(e.end&&fmtTime(e.end)?' – '+fmtTime(e.end):''))+detailLine('Lieu',e.location)+ '<div class="desc">'+d+'</div>'+(e.url?'<div class="source"><a href="'+esc(e.url)+'" target="_blank" rel="noopener">Voir la source / inscription →</a></div>':'')+'</div></article>'}root.innerHTML=html}
+const ALB={lat:44.9248,lon:4.7318};
+const mapsUrl=e=>'https://www.google.com/maps/dir/?api=1&origin='+encodeURIComponent('Alboussière, Ardèche, France')+'&destination='+encodeURIComponent(e.location||e.summary+', France')+'&travelmode=driving';
+async function routeInfo(e){
+  if(!e.location)return null;
+  try{
+    const url='https://router.project-osrm.org/route/v1/driving/'+ALB.lon+','+ALB.lat+';'+(e.lon||ALB.lon)+','+(e.lat||ALB.lat)+'?overview=false';
+    const r=await fetch(url); if(!r.ok)return null; const j=await r.json();
+    if(j.code!=='Ok'||!j.routes?.[0])return null;
+    return {km:j.routes[0].distance/1000,min:j.routes[0].duration/60};
+  }catch{return null}
+}
+async function geocode(e){
+  try{
+    const q=encodeURIComponent((e.location||'')+', France');
+    const r=await fetch('https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=fr&q='+q,{headers:{'Accept-Language':'fr'}});
+    const a=await r.json(); if(a[0]){e.lat=Number(a[0].lat);e.lon=Number(a[0].lon);return true}
+  }catch{} return false
+}
+function makeMap(e,id){
+  if(!e.lat||!e.lon)return;
+  const map=L.map(id,{scrollWheelZoom:false}).setView([ALB.lat,ALB.lon],10);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{attribution:'© OpenStreetMap'}).addTo(map);
+  L.circleMarker([ALB.lat,ALB.lon],{radius:7,color:'#2563eb',fillColor:'#2563eb',fillOpacity:.9}).addTo(map).bindPopup('Alboussière');
+  L.circleMarker([e.lat,e.lon],{radius:8,color:'#dc2626',fillColor:'#dc2626',fillOpacity:.95}).addTo(map).bindPopup(e.summary);
+  const group=L.featureGroup([L.marker([ALB.lat,ALB.lon]),L.marker([e.lat,e.lon])]); map.fitBounds(group.getBounds().pad(.25));
+}
+function render(){const q=document.getElementById('search').value.toLowerCase().trim(),cat=document.getElementById('category').value;const filtered=state.events.filter(e=>(!q||(e.summary+' '+e.description+' '+e.location).toLowerCase().includes(q))&&(!cat||category(e)===cat)).sort((a,b)=>a.start-b.start);document.getElementById('count').textContent=filtered.length+' événement'+(filtered.length>1?'s':'');const root=document.getElementById('events');if(!filtered.length){root.innerHTML='<div class="empty">Aucun événement ne correspond à la recherche.</div>';return}let html='',last='';for(const e of filtered){const day=e.start.toISOString().slice(0,10);if(day!==last){html+='<div class="day">'+esc(fmtDate(e.start))+'</div>';last=day}const c=category(e),uncertain=/à confirmer|à vérifier|information horaire/i.test(e.description);const d=e.description.replace(/\n/g,'<br>');const mapId='map-'+Math.random().toString(36).slice(2);html+='<article class="event"><div class="eventtop"><div class="datebox"><b>'+e.start.getDate()+'</b><span>'+e.start.toLocaleDateString('fr-FR',{month:'short'}).replace('.','')+'</span></div><div class="eventmain"><h2 class="name">'+esc(e.summary)+'</h2><div class="chips"><span class="chip">'+esc(c)+'</span>'+(uncertain?'<span class="chip uncertain">À vérifier</span>':'')+'</div></div></div><div class="details">'+detailLine('Heure',fmtTime(e.start)+(e.end&&fmtTime(e.end)?' – '+fmtTime(e.end):''))+detailLine('Lieu',e.location)+ '<div class="desc">'+d+'</div><div class="mapwrap"><div class="map" id="'+mapId+'"></div><a class="maplink" href="'+mapsUrl(e)+'" target="_blank" rel="noopener">📍 Ouvrir l’itinéraire dans Google Maps →</a></div><div class="travel" id="travel-'+mapId+'">🚗 <span>Calcul du temps de trajet…</span></div>'+(e.url?'<div class="source"><a href="'+esc(e.url)+'" target="_blank" rel="noopener">Voir la source / inscription →</a></div>':'')+'</div></article>'}root.innerHTML=html; filtered.forEach(async e=>{const mapId=[...root.querySelectorAll('.map')].find(x=>x.id)?.id; await geocode(e); const el=[...root.querySelectorAll('.event')].find(x=>x.querySelector('.name')?.textContent===e.summary); if(!el||!e.lat)return; const id=el.querySelector('.map')?.id; if(id)makeMap(e,id); const info=await routeInfo(e); const tr=el.querySelector('.travel span'); if(info&&tr)tr.textContent='Environ '+Math.round(info.min)+' min en voiture · '+info.km.toFixed(0)+' km depuis Alboussière'; else if(tr)tr.textContent='Temps de trajet : voir l’itinéraire Google Maps'; });}
 async function init(){try{const r=await fetch('evenements.ics?'+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const txt=await r.text();state.events=parseICS(txt);const cats=[...new Set(state.events.map(category))].sort();const sel=document.getElementById('category');cats.forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;sel.appendChild(o)});document.getElementById('subtitle').textContent=state.events.length+' événements • fenêtre de 60 jours';document.getElementById('updated').textContent=state.dtstamp?'Calendrier mis à jour : '+state.dtstamp.slice(0,8).replace(/(\d{4})(\d{2})(\d{2})/,'$3/$2/$1'):'';render()}catch(e){document.getElementById('subtitle').textContent='Impossible de charger le calendrier';document.getElementById('events').innerHTML='<div class="empty">Le calendrier est temporairement indisponible.</div>'}}
 document.getElementById('search').addEventListener('input',render);document.getElementById('category').addEventListener('change',render);init();
 </script>
