@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:castagnades-privas-20261018@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261018T090000
+DTEND;TZID=Europe/Paris:20261018T180000
+SUMMARY:Castagnades de Privas - fête de la châtaigne
+LOCATION:Centre-ville, 07000 Privas
+DESCRIPTION:Marché de producteurs et artisans, animations, village de la châtaigne, mini-ferme et championnat de la crique ardéchoise. Gratuit.
+URL:https://www.ardeche-guide.com/fete-manifestation/castagnades-de-privas-2026-7996477/
+END:VEVENT
+END:VCALENDAR
