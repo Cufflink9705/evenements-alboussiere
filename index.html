@@ -64,7 +64,7 @@ function parseICS(txt){const out=[];let cur=null;for(const line of unfold(txt)){
 function fmtDate(d){return new Intl.DateTimeFormat('fr-FR',{weekday:'long',day:'numeric',month:'long'}).format(d)}
 function fmtTime(d){return d&&d.getHours()+d.getMinutes()+d.getSeconds()>0?new Intl.DateTimeFormat('fr-FR',{hour:'2-digit',minute:'2-digit'}).format(d):''}
 function esc(s){return String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
-function category(e){const s=(e.summary+' '+e.description).toLowerCase();if(/vtt|vtTAE|enduro|xc|dh/.test(s))return 'VTT / VTTAE';if(/trail/.test(s))return 'Trail';if(/randonnée|randonneurs|marche/.test(s))return 'Randonnée / marche';if(/concert|festival|culture/.test(s))return 'Culture';if(/castagnade|châtaigne|fête/.test(s))return 'Fête locale';if(/famille|enfant|train fantôme/.test(s))return 'Famille';return 'Autres'}
+function category(e){const s=(e.summary+' '+e.description).toLowerCase();if(/brocante|vide-grenier|vide grenier|marché aux puces|bourse aux jouets|bourse aux vêtements|bourse de puériculture|vide-dressing/.test(s))return 'Brocante';if(/vtt|vtTAE|enduro|xc|dh/.test(s))return 'VTT / VTTAE';if(/trail/.test(s))return 'Trail';if(/randonnée|randonneurs|marche/.test(s))return 'Randonnée / marche';if(/concert|festival|culture/.test(s))return 'Culture';if(/castagnade|châtaigne|fête/.test(s))return 'Fête locale';if(/famille|enfant|train fantôme/.test(s))return 'Famille';return 'Autres'}
 function detailLine(label,value){return value?'<div><strong>'+label+' :</strong> '+esc(value)+'</div>':''}
 
 const ALB={lat:44.9296,lon:4.7305};const geoCache={};
