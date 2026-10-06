@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Événements autour d'Alboussière
+X-WR-CALDESC:VTT, randonnées, nature, culture, famille et événements locaux
+X-WR-TIMEZONE:Europe/Paris
+END:VCALENDAR
