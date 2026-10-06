@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:randonneurs-boutieres-suc-eyre-20261115@evenements-alboussiere
+DTSTAMP:20261006T135900Z
+DTSTART;TZID=Europe/Paris:20261115T093000
+DTEND;TZID=Europe/Paris:20261115T140000
+SUMMARY:Randonneurs des Boutières - Suc de l'Eyre
+LOCATION:Parking de la Guinguette, 9 place de la Guinguette, 07160 Le Cheylard
+DESCRIPTION:Randonnée pédestre 12 km, 450 m D+. Départ 9h30. Participation aux frais de déplacement: 0,10 EUR/km/personne.
+URL:https://www.ardeche-hautes-vallees.fr/agenda/randonneurs-des-boutieres-suc-de-leyre/
+END:VEVENT
+END:VCALENDAR
