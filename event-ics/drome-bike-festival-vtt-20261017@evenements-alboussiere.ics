@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:drome-bike-festival-vtt-20261017@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261017T080000
+DTEND;TZID=Europe/Paris:20261018T183000
+SUMMARY:Drôme Bike Festival - VTT
+LOCATION:Allan, 26780
+DESCRIPTION:Événement vélo majeur à distance élargie. VTT le samedi: 26 km/620 D+ facile, 45 km/1100 D+ difficile, 60 km/1600 D+ très difficile.
+URL:https://dromebikefestival.com/db-festival/
+END:VEVENT
+END:VCALENDAR
