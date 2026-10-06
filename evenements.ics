@@ -226,4 +226,125 @@ LOCATION:Salle municipale Jean Norton Cru, Labatie-d'Andaure
 DESCRIPTION:Randonnée 7 ou 14 km. Inscription à partir de 13h, départ 13h30. Participation minimum 5 EUR. Dîner Téléthon le soir. DATE À CONFIRMER.
 URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/le-telethon-de-la-ritournelle-7605543/
 END:VEVENT
+
+BEGIN:VEVENT
+UID:videgrenier-saintprivat-20261011@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261011T060000
+DTEND;TZID=Europe/Paris:20261011T140000
+SUMMARY:Vide-grenier de Saint-Privat
+LOCATION:Route de l'Echelette, 07200 Saint-Privat
+DESCRIPTION:Vide-grenier intéressant pour chiner. Objets du quotidien, décoration, livres, jouets et autres. Accès gratuit pour les visiteurs. Ouvert 6h-14h. Événement récurrent les dimanches et jours fériés.
+URL:https://www.ardeche.com/saint-privat/vide-grenier-de-saint-privat-497546.html
+END:VEVENT
+BEGIN:VEVENT
+UID:brocante-lamastre-20261017@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261017T090000
+DTEND;TZID=Europe/Paris:20261017T180000
+SUMMARY:Brocante l'Ephémère - Lamastre
+LOCATION:Lamastre, Ardèche
+DESCRIPTION:Brocante intéressante à Lamastre. Présente du 1er septembre au 31 octobre 2026 selon l'agenda Ardèche Guide. Horaires indiqués à partir de 9h.
+URL:https://www.ardeche-guide.com/agenda/marches-ardeche/brocantes-ardeche/
+END:VEVENT
+BEGIN:VEVENT
+UID:kidstroc-saintsernin-20261018@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261018T090000
+DTEND;TZID=Europe/Paris:20261018T140000
+SUMMARY:Kid's Troc - jouets, livres et vêtements enfants
+LOCATION:Espace Michel Poudevigne, 35 Chemin de l'Ardèche, 07200 Saint-Sernin
+DESCRIPTION:Vente de jouets, livres, vêtements et jeux pour bébés et enfants. Entrée libre. Stands: 8 EUR extérieur, 10 EUR intérieur.
+URL:https://www.ardeche-guide.com/fete-manifestation/kids-troc-par-le-sou-des-ecoles-5360426/
+END:VEVENT
+BEGIN:VEVENT
+UID:bourse-jouets-sarras-20261018@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261018T083000
+DTEND;TZID=Europe/Paris:20261018T170000
+SUMMARY:Bourse aux jouets - Sarras
+LOCATION:Sarras, Ardèche
+DESCRIPTION:Bourse aux jouets. Horaire d'ouverture indiqué à partir de 8h30. Événement à vérifier pour les horaires détaillés.
+URL:https://www.ardeche-guide.com/agenda/marches-ardeche/page/17/
+END:VEVENT
+BEGIN:VEVENT
+UID:brocante-tournon-quai-farconnet-20261018@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261018T040000
+DTEND;TZID=Europe/Paris:20261018T140000
+SUMMARY:Brocante / vide-grenier - Quai Farconnet
+LOCATION:Quai Farconnet, Tournon-sur-Rhône
+DESCRIPTION:Brocante / vide-grenier intéressant pour chiner. Ouverture indiquée à partir de 4h.
+URL:https://www.ardeche-guide.com/agenda/marches-ardeche/brocantes-ardeche/
+END:VEVENT
+BEGIN:VEVENT
+UID:brocante-saintmartindaout-20261018@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261018T090000
+DTEND;TZID=Europe/Paris:20261018T170000
+SUMMARY:Brocante - Saint-Martin-d'Août
+LOCATION:Saint-Martin-d'Août, Drôme
+DESCRIPTION:Brocante signalée par l'agenda Ardèche Guide. Horaires détaillés à vérifier auprès de l'organisateur.
+URL:https://www.ardeche-guide.com/agenda/marches-ardeche/brocantes-ardeche/
+END:VEVENT
+BEGIN:VEVENT
+UID:videvestiaire-cruas-20261024@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261024T090000
+DTEND;TZID=Europe/Paris:20261024T180000
+SUMMARY:Vide vestiaire - Cruas
+LOCATION:Cruas, Ardèche
+DESCRIPTION:Vide vestiaire du Secours Populaire. Vêtements, vaisselle, bibelots et livres à petits prix. Intéressant pour chiner à petit budget.
+URL:https://www.ardeche.com/ou-sortir/index.php?page=24
+END:VEVENT
+BEGIN:VEVENT
+UID:bourse-jouets-davezieux-20261024@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261024T090000
+DTEND;TZID=Europe/Paris:20261024T170000
+SUMMARY:Bourse aux jouets - Davézieux
+LOCATION:Davézieux, Ardèche
+DESCRIPTION:Bourse aux jouets organisée par le comité d'animation culturelle et de loisirs de Davézieux. Horaires détaillés à vérifier.
+URL:https://www.ardeche.com/ou-sortir/index.php?page=24
+END:VEVENT
+BEGIN:VEVENT
+UID:bourse-desaignes-20261114@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261114T170000
+SUMMARY:Bourse aux jouets, vêtements, livres et puériculture - Désaignes
+LOCATION:Espace culturel, Montée des écoles, 07570 Désaignes
+DESCRIPTION:Bourse aux jouets, vêtements, livres et articles de puériculture. Accès libre. Samedi 14h-17h; 5 EUR la table exposant, 8 EUR les deux. Dates signalées comme à confirmer.
+URL:https://www.ardeche-guide.com/fete-manifestation/bourse-aux-jouets-vetements-livres-et-articles-de-puericulture-5954781/
+END:VEVENT
+BEGIN:VEVENT
+UID:bourse-desaignes-20261115@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261115T080000
+DTEND;TZID=Europe/Paris:20261115T150000
+SUMMARY:Bourse aux jouets, vêtements, livres et puériculture - Désaignes
+LOCATION:Espace culturel, Montée des écoles, 07570 Désaignes
+DESCRIPTION:Bourse aux jouets, vêtements, livres et articles de puériculture. Accès libre. Dimanche 8h-15h. Dates signalées comme à confirmer.
+URL:https://www.ardeche-guide.com/fete-manifestation/bourse-aux-jouets-vetements-livres-et-articles-de-puericulture-5954781/
+END:VEVENT
+BEGIN:VEVENT
+UID:bourse-jouets-saintdonat-20261115@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261115T090000
+DTEND;TZID=Europe/Paris:20261115T170000
+SUMMARY:Bourse aux jouets - Saint-Donat-sur-l'Herbasse
+LOCATION:Halle des Sports, 1 Route de Saint Bardoux, 26260 Saint-Donat-sur-l'Herbasse
+DESCRIPTION:Bourse aux jouets organisée par la Maison du Jeu. Dépôt des jouets le 14 novembre, vente le 15 novembre. Entrée gratuite. Horaire détaillé à confirmer.
+URL:https://www.ardeche-guide.com/fete-manifestation/bourse-aux-jouets-saint-donat-8008244/
+END:VEVENT
+BEGIN:VEVENT
+UID:bourse-jouets-vetements-coucouron-20261115@evenements-alboussiere
+DTSTAMP:20261006T150000Z
+DTSTART;TZID=Europe/Paris:20261115T090000
+DTEND;TZID=Europe/Paris:20261115T170000
+SUMMARY:Bourse aux jouets et aux vêtements - Coucouron
+LOCATION:Halle couverte, 07470 Coucouron
+DESCRIPTION:Bourse permettant de vendre, acheter ou chiner des jouets et vêtements à petits prix. Accès libre. 3 EUR le mètre pour les exposants.
+URL:https://www.ardeche.com/coucouron/bourse-aux-jouets-et-aux-vetements-542919.html
+END:VEVENT
 END:VCALENDAR
