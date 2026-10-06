@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:foulee-sous-bois-20261018@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261018T080000
+DTEND;TZID=Europe/Paris:20261018T130000
+SUMMARY:26e Foulée des Sous Bois - randonnée
+LOCATION:Saint-Marcel-lès-Annonay, 07100
+DESCRIPTION:Randonnée. Parcours 7, 12, 18 et 26 km. Ravitaillements et repas à l'arrivée.
+URL:https://www.vivop.fr/ville/roisey-42191/evenement/26eme-foulee-des-sous-bois/apidae-6989229
+END:VEVENT
+END:VCALENDAR
