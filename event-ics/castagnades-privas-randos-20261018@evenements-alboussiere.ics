@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:castagnades-privas-randos-20261018@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261018T080000
+DTEND;TZID=Europe/Paris:20261018T140000
+SUMMARY:Castagnades de Privas - randonnées pédestres
+LOCATION:Boulodrome, Champ de Mars, 07000 Privas
+DESCRIPTION:4 parcours accompagnés: 20 km/900 D+, 13 km/550 D+, 7.5 km/230 D+, 3.5 km/50 D+. 6 EUR, gratuit moins de 12 ans. Inscription HelloAsso jusqu'au 17 octobre.
+URL:https://www.ardeche-guide.com/fete-manifestation/castagnades-de-privas-randonnees-pedestres-accompagnees-7999005/
+END:VEVENT
+END:VCALENDAR
