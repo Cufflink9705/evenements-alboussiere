@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:train-fantome-20261020@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261020T150000
+DTEND;TZID=Europe/Paris:20261020T164500
+SUMMARY:Train Fantôme à Vapeur - famille
+LOCATION:Gare de Tournon Saint-Jean, 07300 Saint-Jean-de-Muzols
+DESCRIPTION:Spectacle Halloween familial. Animations en gare dès 13h30. Départ 15h, trajet 1h45. 28.50 EUR adulte, 15.50 EUR enfant 10-13 ans. Autres dates du 20 au 31 octobre selon programme.
+URL:https://www.drome-cestmanature.com/fiches/le-train-fantome-a-vapeur-train-de-lardeche/
+END:VEVENT
+END:VCALENDAR
