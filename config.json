@@ -79,5 +79,46 @@
     "brocantes_bourses": "inclure les brocantes, vide-greniers, marchés aux puces, bourses aux jouets, bourses aux vêtements, bourses de puériculture et vide-dressings intéressants; privilégier les événements avec un vrai intérêt pour chiner ou faire de bonnes affaires et exclure les ventes commerciales ordinaires"
   },
   "fichier_calendrier": "evenements.ics",
-  "timezone": "Europe/Paris"
+  "timezone": "Europe/Paris",
+  "surveillances_speciales": {
+    "rammstein_france": {
+      "nom": "Concerts de Rammstein",
+      "zone": "France entière",
+      "exiger_artiste_officiel": true,
+      "exclure": [
+        "Rammstein Symphonic Experience",
+        "tribute",
+        "hommage",
+        "cover",
+        "orchestre symphonique"
+      ],
+      "champs_affiches": [
+        "date",
+        "lieu",
+        "prix",
+        "source"
+      ]
+    },
+    "canon_francais": {
+      "nom": "Buffet du Canon Français",
+      "departements": [
+        "07",
+        "26",
+        "42",
+        "43",
+        "48",
+        "30",
+        "84",
+        "73"
+      ],
+      "zone": "Ardèche et départements limitrophes + Savoie",
+      "champs_affiches": [
+        "date",
+        "lieu",
+        "prix",
+        "source"
+      ]
+    }
+  },
+  "fichier_surveillance_speciale": "surveillance.json"
 }
