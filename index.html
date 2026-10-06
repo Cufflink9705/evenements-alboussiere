@@ -97,9 +97,9 @@ async function loadMaps(events){for(const e of events){const el=document.getElem
 async function init(){try{const r=await fetch('evenements-web.ics?'+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const txt=await r.text();state.events=parseICS(txt);const cats=[...new Set(state.events.map(category))];
 const sel=document.getElementById('category');
 const groups={
-  'Sport':['VTT / VTTAE','Sports mécaniques','Sports de combat','Sports nautiques','Sports nature','Compétition sportive','Randonnée / marche'],
-  'Culture & sorties':['Concert','Festival','Spectacle','Culture','Patrimoine'],
-  'Vie locale':['Fête locale','Marché','Brocante'],
+  'Sport':['VTT / VTTAE','Randonnée / marche','Sports mécaniques','Compétition sportive','Sports de combat','Sports nautiques','Sports nature'],
+  'Culture & sorties':['Concert','Festival','Culture','Spectacle','Patrimoine'],
+  'Vie locale':['Marché','Fête locale','Brocante'],
   'Famille & nature':['Famille / enfants','Nature'],
   'Autres':['Conférence / débat','Autres']
 };
