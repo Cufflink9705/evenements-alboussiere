@@ -7,7 +7,7 @@
 <meta name="description" content="Événements autour d'Alboussière — 60 prochains jours">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-512-v11.jpg?v=18" type="image/jpeg" sizes="512x512">
-<link rel="apple-touch-icon" href="apple-touch-icon-120-final.jpg?v=19" sizes="120x120" type="image/jpeg">
+<link rel="apple-touch-icon" href="icon-512-v11.jpg?v=21" sizes="512x512" type="image/jpeg">
 
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Événements Alboussière">
@@ -111,7 +111,7 @@ const groups={
 };
 Object.entries(groups).forEach(([group,names])=>{
   const og=document.createElement('optgroup');og.label=group;
-  names.filter(c=>cats.includes(c)).forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;og.appendChild(o)});
+  names.forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;og.appendChild(o)});
   if(og.children.length)sel.appendChild(og);
 });document.getElementById('subtitle').textContent=state.events.length+' événements • fenêtre de 60 jours';document.getElementById('updated').textContent=state.dtstamp?'Calendrier mis à jour : '+state.dtstamp.slice(0,8).replace(/(\d{4})(\d{2})(\d{2})/,'$3/$2/$1'):'';render()}catch(e){document.getElementById('subtitle').textContent='Impossible de charger le calendrier';document.getElementById('events').innerHTML='<div class="empty">Le calendrier est temporairement indisponible.</div>'}}
 function calendarUrl(e){
