@@ -9,7 +9,7 @@
 <style>
 :root{--bg:#f4f6f8;--card:#fff;--text:#17202a;--muted:#667085;--line:#e5e7eb;--accent:#2563eb;--soft:#eff6ff;--green:#15803d}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
-header{background:#111827;color:white;padding:28px 18px 22px;position:sticky;top:0;z-index:1000;box-shadow:0 2px 12px #0002}
+header{background:#111827;color:white;padding:28px 18px 22px;position:sticky;top:0;z-index:10000;isolation:isolate;box-shadow:0 2px 12px #0002}
 .wrap{max-width:900px;margin:auto}.eyebrow{font-size:13px;opacity:.75;margin-bottom:5px}.title{font-size:28px;font-weight:800;letter-spacing:-.5px;margin:0 0 5px}.sub{font-size:14px;opacity:.8}
 .actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}.btn{display:inline-flex;align-items:center;justify-content:center;border:0;border-radius:10px;padding:10px 13px;font-weight:700;text-decoration:none;cursor:pointer;font-size:14px}.primary{background:white;color:#111827}.secondary{background:#ffffff18;color:white;border:1px solid #ffffff30}
 main{padding:16px 14px 50px}.toolbar{display:grid;grid-template-columns:1fr;gap:10px;margin-bottom:16px}.input,.select{width:100%;padding:12px 13px;border:1px solid var(--line);border-radius:10px;background:white;font-size:15px;color:var(--text)}
@@ -21,16 +21,16 @@ main{padding:16px 14px 50px}.toolbar{display:grid;grid-template-columns:1fr;gap:
 .empty{background:white;border:1px dashed #cbd5e1;border-radius:14px;padding:28px;text-align:center;color:var(--muted)}
 footer{max-width:900px;margin:auto;padding:0 14px 30px;color:var(--muted);font-size:12px;text-align:center}
 @media(min-width:700px){main{padding:22px 18px 60px}.toolbar{grid-template-columns:1fr 220px}.event{padding:18px}}
-.mapwrap{margin-top:12px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#eef2f5}.map{height:210px;width:100%}.maplink{display:block;padding:9px 12px;background:white;color:var(--accent);font-size:13px;font-weight:800;text-decoration:none;border-top:1px solid var(--line)}.travel{display:flex;align-items:center;gap:8px;margin-top:9px;padding:10px 12px;border-radius:10px;background:#f0fdf4;color:#166534;font-weight:800}.travel small{font-weight:500;color:#4b5563}</style>
+.mapwrap{margin-top:12px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#eef2f5;position:relative;z-index:0}.map{height:210px;width:100%;position:relative;z-index:0}.maplink{display:block;padding:9px 12px;background:white;color:var(--accent);font-size:13px;font-weight:800;text-decoration:none;border-top:1px solid var(--line)}.travel{display:flex;align-items:center;gap:8px;margin-top:9px;padding:10px 12px;border-radius:10px;background:#f0fdf4;color:#166534;font-weight:800}.travel small{font-weight:500;color:#4b5563}</style>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 <style>
 .mapwrap{margin-top:12px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#e5e7eb}
-.eventmap{height:220px;width:100%}
+.eventmap{height:220px;width:100%;position:relative;z-index:0}
 .maplink{display:block;text-decoration:none;color:inherit}
 .drive{margin-top:8px;padding:9px 11px;background:#f0fdf4;border-radius:9px;color:#166534;font-weight:700}
 .drive small{display:block;font-weight:500;color:#4b5563;margin-top:2px}
 .maploading{padding:18px;text-align:center;color:var(--muted);font-size:13px}
-@media(min-width:700px){.eventmap{height:260px}}
+@media(min-width:700px){.eventmap{height:260px}}\n/* Les cartes Leaflet doivent toujours rester sous l’en-tête sticky */\nmain{position:relative;z-index:1}.leaflet-container,.leaflet-pane,.leaflet-control-container{z-index:1!important}
 </style>
 </head>
 <body>
