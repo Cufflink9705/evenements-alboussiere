@@ -156,4 +156,74 @@ LOCATION:Place Félisse d'Asseyne, 07320 Saint-Agrève
 DESCRIPTION:Randonnée pédestre 12 km, 159 m D+, environ 3h30. Départ 13h30. Participation occasionnelle 2 EUR, gratuit moins de 12 ans.
 URL:https://www.ardeche.com/saint-agreve/rando-saint-agrevoise-lac-de-devesset-580474.html
 END:VEVENT
+BEGIN:VEVENT
+UID:course-nature-lafarge-20261108@evenements-alboussiere
+DTSTAMP:20261006T135900Z
+DTSTART;TZID=Europe/Paris:20261108T091500
+DTEND;TZID=Europe/Paris:20261108T140000
+SUMMARY:Course Nature Lafarge - randonnée et trail
+LOCATION:Usine Lafarge, Le Teil, Ardèche
+DESCRIPTION:Randonnée La Cytise 11 km/260 D+, départ 9h15. Trails 11 et 22 km. Inscription en ligne; tarifs randonnée 5 EUR, trails 10 à 20 EUR.
+URL:https://running.life/fr/evenement/course-nature-lafarge-le-teil
+END:VEVENT
+BEGIN:VEVENT
+UID:planete-rouge-randonnee-20261111@evenements-alboussiere
+DTSTAMP:20261006T135900Z
+DTSTART;TZID=Europe/Paris;VALUE=DATE:20261111
+DTEND;TZID=Europe/Paris;VALUE=DATE:20261112
+SUMMARY:Randonnée Planète Rouge
+LOCATION:25 allée de la Mairie, 07320 Mars
+DESCRIPTION:Randonnée tout public. Horaire et lieu précis communiqués sur Facebook ou par téléphone. Information horaire à vérifier.
+URL:https://www.ardeche.com/mars/randonnees-planete-rouge-550791.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sambonitaine-20261111@evenements-alboussiere
+DTSTAMP:20261006T135900Z
+DTSTART;TZID=Europe/Paris:20261111T073000
+DTEND;TZID=Europe/Paris:20261111T163000
+SUMMARY:La Sambonitaine - randonnée VTT
+LOCATION:Salle polyvalente, rue Jean-Sébastien Bach, 42380 Saint-Bonnet-le-Château
+DESCRIPTION:VTT/VTTAE. 18 km/450 D+, 37/850, 48/1200, 60/1550 et 76/1850. Accueil 7h30-11h, inscription en ligne obligatoire. Tarif non communiqué.
+URL:https://destinationgrandr.com/fete-et-manifestation/la-sambonitaine-31eme-edition-randonnee-vtt/
+END:VEVENT
+BEGIN:VEVENT
+UID:randonneurs-boutieres-suc-eyre-20261115@evenements-alboussiere
+DTSTAMP:20261006T135900Z
+DTSTART;TZID=Europe/Paris:20261115T093000
+DTEND;TZID=Europe/Paris:20261115T140000
+SUMMARY:Randonneurs des Boutières - Suc de l'Eyre
+LOCATION:Parking de la Guinguette, 9 place de la Guinguette, 07160 Le Cheylard
+DESCRIPTION:Randonnée pédestre 12 km, 450 m D+. Départ 9h30. Participation aux frais de déplacement: 0,10 EUR/km/personne.
+URL:https://www.ardeche-hautes-vallees.fr/agenda/randonneurs-des-boutieres-suc-de-leyre/
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-castagne-ailhon-20261122@evenements-alboussiere
+DTSTAMP:20261006T135900Z
+DTSTART;TZID=Europe/Paris:20261122T090000
+DTEND;TZID=Europe/Paris:20261122T150000
+SUMMARY:Trail de la Castagne - Ailhon
+LOCATION:Ailhon, Ardèche
+DESCRIPTION:Trail nature 11 et 22 km, avec randonnée non chronométrée. Horaires et tarifs à confirmer auprès de l'organisateur.
+URL:https://runrun.fr/runs/trail-de-la-castagne-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bathernight-20261128@evenements-alboussiere
+DTSTAMP:20261006T135900Z
+DTSTART;TZID=Europe/Paris:20261128T133000
+DTEND;TZID=Europe/Paris:20261128T210000
+SUMMARY:Bather'night Trail - semi-nocturne
+LOCATION:Salle des fêtes au stade, 26260 Bathernay
+DESCRIPTION:Marche 8,6 km départs libres 13h30-15h; trail 19 km départ 16h30; trail 8,5 km départ 17h15; parcours enfants 15h30. Tarifs 2 à 14 EUR.
+URL:https://www.drome-cestmanature.com/fiches/bathernight-trail/
+END:VEVENT
+BEGIN:VEVENT
+UID:telethon-ritournelle-20261205@evenements-alboussiere
+DTSTAMP:20261006T135900Z
+DTSTART;TZID=Europe/Paris:20261205T133000
+DTEND;TZID=Europe/Paris:20261205T190000
+SUMMARY:Téléthon de la Ritournelle - randonnée
+LOCATION:Salle municipale Jean Norton Cru, Labatie-d'Andaure
+DESCRIPTION:Randonnée 7 ou 14 km. Inscription à partir de 13h, départ 13h30. Participation minimum 5 EUR. Dîner Téléthon le soir. DATE À CONFIRMER.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/le-telethon-de-la-ritournelle-7605543/
+END:VEVENT
 END:VCALENDAR
