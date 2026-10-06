@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:automnal-gourmand-20261024@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261024T133000
+DTEND;TZID=Europe/Paris:20261024T170000
+SUMMARY:L'Automnal gourmand - randonnée
+LOCATION:Office de Tourisme, 655 rue du Docteur Tourasse, 07320 Saint-Agrève
+DESCRIPTION:Balade d'environ 10 km. Inscription 13h30, départ 14h, durée 2h30, goûter gourmand. 5 EUR.
+URL:https://www.ardeche-hautes-vallees.fr/agenda/randonnee-gourmande-lautomnal-gourmand/
+END:VEVENT
+END:VCALENDAR
