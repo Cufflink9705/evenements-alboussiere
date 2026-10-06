@@ -69,7 +69,11 @@ function esc(s){return String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt
 function category(e){
   const s=(e.summary+' '+e.description).toLowerCase();
   if(/vtt|vttae|enduro|endurando|xc|dh/.test(s))return 'VTT / VTTAE';
-  if(/trail/.test(s))return 'Trail';
+  if(/moto|motocross|motocross|rallye|rally|automobile|auto|karting|trial|supermotard|circuit/.test(s))return 'Sports mécaniques';
+  if(/boxe|mma|kick-boxing|kickboxing|judo|karaté|karate|lutte|combat/.test(s))return 'Sports de combat';
+  if(/kayak|canoë|canoe|aviron|voile|paddle|nautique/.test(s))return 'Sports nautiques';
+  if(/escalade|orientation|accrobranche|spéléologie|speleologie|sport nature/.test(s))return 'Sports nature';
+  if(/compétition|competition|championnat|championnat|coupe|tournoi|course sportive/.test(s))return 'Compétition sportive';
   if(/randonnée|randonneurs|marche/.test(s))return 'Randonnée / marche';
   if(/concert/.test(s))return 'Concert';
   if(/festival/.test(s))return 'Festival';
@@ -93,7 +97,7 @@ async function loadMaps(events){for(const e of events){const el=document.getElem
 async function init(){try{const r=await fetch('evenements-web.ics?'+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const txt=await r.text();state.events=parseICS(txt);const cats=[...new Set(state.events.map(category))];
 const sel=document.getElementById('category');
 const groups={
-  'Sport':['VTT / VTTAE','Trail','Randonnée / marche'],
+  'Sport':['VTT / VTTAE','Sports mécaniques','Sports de combat','Sports nautiques','Sports nature','Compétition sportive','Randonnée / marche'],
   'Culture & sorties':['Concert','Festival','Spectacle','Culture','Patrimoine'],
   'Vie locale':['Fête locale','Marché','Brocante'],
   'Famille & nature':['Famille / enfants','Nature'],
