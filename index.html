@@ -68,32 +68,6 @@ function fmtTime(d){return d&&d.getHours()+d.getMinutes()+d.getSeconds()>0?new I
 function esc(s){return String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
 function category(e){const s=(e.summary+' '+e.description).toLowerCase();if(/vtt|vtTAE|enduro|xc|dh/.test(s))return 'VTT / VTTAE';if(/trail/.test(s))return 'Trail';if(/randonnée|randonneurs|marche/.test(s))return 'Randonnée / marche';if(/concert|festival|culture/.test(s))return 'Culture';if(/castagnade|châtaigne|fête/.test(s))return 'Fête locale';if(/famille|enfant|train fantôme/.test(s))return 'Famille';return 'Autres'}
 function detailLine(label,value){return value?'<div><strong>'+label+' :</strong> '+esc(value)+'</div>':''}
-const ALB={lat:44.9248,lon:4.7318};
-const mapsUrl=e=>'https://www.google.com/maps/dir/?api=1&origin='+encodeURIComponent('Alboussière, Ardèche, France')+'&destination='+encodeURIComponent(e.location||e.summary+', France')+'&travelmode=driving';
-async function routeInfo(e){
-  if(!e.location)return null;
-  try{
-    const url='https://router.project-osrm.org/route/v1/driving/'+ALB.lon+','+ALB.lat+';'+(e.lon||ALB.lon)+','+(e.lat||ALB.lat)+'?overview=false';
-    const r=await fetch(url); if(!r.ok)return null; const j=await r.json();
-    if(j.code!=='Ok'||!j.routes?.[0])return null;
-    return {km:j.routes[0].distance/1000,min:j.routes[0].duration/60};
-  }catch{return null}
-}
-async function geocode(e){
-  try{
-    const q=encodeURIComponent((e.location||'')+', France');
-    const r=await fetch('https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=fr&q='+q,{headers:{'Accept-Language':'fr'}});
-    const a=await r.json(); if(a[0]){e.lat=Number(a[0].lat);e.lon=Number(a[0].lon);return true}
-  }catch{} return false
-}
-function makeMap(e,id){
-  if(!e.lat||!e.lon)return;
-  const map=L.map(id,{scrollWheelZoom:false}).setView([ALB.lat,ALB.lon],10);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{attribution:'© OpenStreetMap'}).addTo(map);
-  L.circleMarker([ALB.lat,ALB.lon],{radius:7,color:'#2563eb',fillColor:'#2563eb',fillOpacity:.9}).addTo(map).bindPopup('Alboussière');
-  L.circleMarker([e.lat,e.lon],{radius:8,color:'#dc2626',fillColor:'#dc2626',fillOpacity:.95}).addTo(map).bindPopup(e.summary);
-  const group=L.featureGroup([L.marker([ALB.lat,ALB.lon]),L.marker([e.lat,e.lon])]); map.fitBounds(group.getBounds().pad(.25));
-}
 function googleUrl(e){return 'https://www.google.com/maps/dir/?api=1&origin='+encodeURIComponent('Alboussière, France')+'&destination='+encodeURIComponent(e.location||e.summary+', France')+'&travelmode=driving'} 
 function render(){const q=document.getElementById('search').value.toLowerCase().trim(),cat=document.getElementById('category').value;const filtered=state.events.filter(e=>(!q||(e.summary+' '+e.description+' '+e.location).toLowerCase().includes(q))&&(!cat||category(e)===cat)).sort((a,b)=>a.start-b.start);document.getElementById('count').textContent=filtered.length+' événement'+(filtered.length>1?'s':'');const root=document.getElementById('events');if(!filtered.length){root.innerHTML='<div class="empty">Aucun événement ne correspond à la recherche.</div>';return}let html='',last='';for(const e of filtered){const day=e.start.toISOString().slice(0,10);if(day!==last){html+='<div class="day">'+esc(fmtDate(e.start))+'</div>';last=day}const c=category(e),uncertain=/à confirmer|à vérifier|information horaire/i.test(e.description);const d=e.description.replace(/\\n/g,'<br>');const id='map-'+Math.random().toString(36).slice(2);html+='<article class="event"><div class="eventtop"><div class="datebox"><b>'+e.start.getDate()+'</b><span>'+e.start.toLocaleDateString('fr-FR',{month:'short'}).replace('.','')+'</span></div><div class="eventmain"><h2 class="name">'+esc(e.summary)+'</h2><div class="chips"><span class="chip">'+esc(c)+'</span>'+(uncertain?'<span class="chip uncertain">À vérifier</span>':'')+'</div></div></div><div class="details">'+detailLine('Heure',fmtTime(e.start)+(e.end&&fmtTime(e.end)?' – '+fmtTime(e.end):''))+detailLine('Lieu',e.location)+'<div class="desc">'+d+'</div><a class="maplink" href="'+googleUrl(e)+'" target="_blank" rel="noopener"><div class="mapwrap"><div class="eventmap" id="'+id+'"><div class="maploading">Chargement de la carte…</div></div></div></a><div class="drive" id="'+id+'-drive">🚗 Temps de trajet en voiture : calcul en cours…<small>Depuis Alboussière</small></div>'+(e.url?'<div class="source"><a href="'+esc(e.url)+'" target="_blank" rel="noopener">Voir la source / inscription →</a></div>':'')+'</div></article>';e._mapId=id}root.innerHTML=html;setTimeout(()=>loadMaps(filtered),0)}
 
