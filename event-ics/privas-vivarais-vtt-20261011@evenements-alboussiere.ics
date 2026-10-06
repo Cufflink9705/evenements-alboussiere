@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:privas-vivarais-vtt-20261011@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261011T083000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:Randonnée du Vivarais - VTT
+LOCATION:Boulodrome couvert, Champ de Mars, 07000 Privas
+DESCRIPTION:VTT/VTTAE. Parcours 20, 30, 40 et 50 km. Départ et inscription 8h30-10h30. 10 EUR adulte, 8 EUR 15-18 ans, gratuit moins de 15 ans.
+URL:https://www.coeur-ardeche.fr/fete-manifestation/16eme-randonnee-du-vivarais-8005297/
+END:VEVENT
+END:VCALENDAR
