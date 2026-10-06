@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:castagnades-vesseaux-20261031@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261031T100000
+DTEND;TZID=Europe/Paris:20261101T180000
+SUMMARY:Castagnades de Vesseaux
+LOCATION:Vesseaux, Ardèche
+DESCRIPTION:Fête de la châtaigne les 31 octobre et 1er novembre. Programme détaillé à vérifier avant déplacement.
+URL:https://www.castagnades.fr/castagnades/programme-des-fetes/
+END:VEVENT
+END:VCALENDAR
