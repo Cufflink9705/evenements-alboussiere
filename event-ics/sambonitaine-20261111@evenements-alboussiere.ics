@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:sambonitaine-20261111@evenements-alboussiere
+DTSTAMP:20261006T135900Z
+DTSTART;TZID=Europe/Paris:20261111T073000
+DTEND;TZID=Europe/Paris:20261111T163000
+SUMMARY:La Sambonitaine - randonnée VTT
+LOCATION:Salle polyvalente, rue Jean-Sébastien Bach, 42380 Saint-Bonnet-le-Château
+DESCRIPTION:VTT/VTTAE. 18 km/450 D+, 37/850, 48/1200, 60/1550 et 76/1850. Accueil 7h30-11h, inscription en ligne obligatoire. Tarif non communiqué.
+URL:https://destinationgrandr.com/fete-et-manifestation/la-sambonitaine-31eme-edition-randonnee-vtt/
+END:VEVENT
+END:VCALENDAR
