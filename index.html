@@ -21,7 +21,9 @@ main{padding:16px 14px 50px}.toolbar{display:grid;grid-template-columns:1fr;gap:
 .empty{background:white;border:1px dashed #cbd5e1;border-radius:14px;padding:28px;text-align:center;color:var(--muted)}
 footer{max-width:900px;margin:auto;padding:0 14px 30px;color:var(--muted);font-size:12px;text-align:center}
 @media(min-width:700px){main{padding:22px 18px 60px}.toolbar{grid-template-columns:1fr 220px}.event{padding:18px}}
-.mapwrap{margin-top:12px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#eef2f5;position:relative;z-index:0}.map{height:210px;width:100%;position:relative;z-index:0}.maplink{display:block;padding:9px 12px;background:white;color:var(--accent);font-size:13px;font-weight:800;text-decoration:none;border-top:1px solid var(--line)}.travel{display:flex;align-items:center;gap:8px;margin-top:9px;padding:10px 12px;border-radius:10px;background:#f0fdf4;color:#166534;font-weight:800}.travel small{font-weight:500;color:#4b5563}</style>
+.mapwrap{margin-top:12px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#eef2f5;position:relative;z-index:0}.map{height:210px;width:100%;position:relative;z-index:0}.maplink{display:block;padding:9px 12px;background:white;color:var(--accent);font-size:13px;font-weight:800;text-decoration:none;border-top:1px solid var(--line)}.travel{display:flex;align-items:center;gap:8px;margin-top:9px;padding:10px 12px;border-radius:10px;background:#f0fdf4;color:#166534;font-weight:800}.travel small{font-weight:500;color:#4b5563}
+.special-watch{margin:0 0 16px;background:#dc2626;color:#fff;border-radius:14px;padding:14px 15px;box-shadow:0 3px 12px #0003}.special-watch h2{font-size:17px;margin:0 0 10px}.watch-grid{display:grid;gap:8px}.watch-item{background:#fff;color:#111827;border-radius:10px;padding:10px 12px}.watch-item b{display:block;font-size:15px;margin-bottom:4px}.watch-meta{font-size:13px;line-height:1.45}.watch-price{font-weight:800;color:#b91c1c}.watch-link{display:inline-block;margin-top:6px;color:#b91c1c;font-weight:800;text-decoration:none}
+</style>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 <style>
 .mapwrap{margin-top:12px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#e5e7eb}
@@ -45,6 +47,7 @@ footer{max-width:900px;margin:auto;padding:0 14px 30px;color:var(--muted);font-s
  </div>
 </header>
 <main class="wrap">
+ <section id="special-watch" class="special-watch" hidden></section>
  <div class="toolbar">
   <input class="input" id="search" type="search" placeholder="Rechercher un événement, une commune…">
   <select class="select" id="category"><option value="">Toutes les catégories</option></select>
@@ -105,6 +108,17 @@ function render(){
   });
   loadMaps(filtered);
 }
+
+async function loadSpecialWatch(){
+ try{
+  const r=await fetch('surveillance.json?'+Date.now(),{cache:'no-store'});if(!r.ok)return;
+  const data=await r.json(),results=Array.isArray(data.results)?data.results:[],box=document.getElementById('special-watch');
+  if(!results.length){box.hidden=true;box.innerHTML='';return}
+  box.hidden=false;
+  box.innerHTML='<h2>🚨 Surveillance spéciale</h2><div class="watch-grid">'+results.map(x=>'<div class="watch-item"><b>'+esc(x.title||'Résultat')+'</b><div class="watch-meta">'+(x.date?esc(x.date)+' • ':'')+(x.location?'📍 '+esc(x.location):'')+(x.price?' • <span class="watch-price">💶 '+esc(x.price)+'</span>':'')+'</div>'+(x.url?'<a class="watch-link" href="'+esc(x.url)+'" target="_blank" rel="noopener">Voir l’annonce →</a>':'')+'</div>').join('')+'</div>';
+ }catch(e){}
+}
+loadSpecialWatch();
 document.getElementById('search').addEventListener('input',render);document.getElementById('category').addEventListener('change',render);init();
 </script>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
