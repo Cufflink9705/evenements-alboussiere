@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:randonneurs-boutieres-20261025@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261025T093000
+DTEND;TZID=Europe/Paris:20261025T150000
+SUMMARY:Randonneurs des Boutières - randonnée
+LOCATION:Parking de la Guinguette, 9 place de la Guinguette, 07160 Le Cheylard
+DESCRIPTION:Randonnée pédestre 17 km, 600 m D+. Départ 9h30. Participation: 0.10 EUR/km/personne.
+URL:https://www.ardeche-hautes-vallees.fr/agenda/randonneurs-des-boutieres-boucieu-le-roi-colombier-le-jeune/
+END:VEVENT
+END:VCALENDAR
