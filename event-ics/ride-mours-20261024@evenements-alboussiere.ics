@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:ride-mours-20261024@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261024T173000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:RIDE in Mours - VTT nocturne
+LOCATION:Salle des Fêtes, Place des Bastides, 26540 Mours-Saint-Eusèbe
+DESCRIPTION:VTT/VTTAE nocturne, 22 ou 35 km. Inscription 17h30, départ groupé 19h. 12 EUR avec repas chaud. Éclairage et gilet fluo obligatoires.
+URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/2eme-edition-de-la-randonnee-nocturne-ride-in-mours-8008136/
+END:VEVENT
+END:VCALENDAR
