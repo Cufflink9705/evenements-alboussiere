@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:planete-rouge-randonnee-20261111@evenements-alboussiere
+DTSTAMP:20261006T135900Z
+DTSTART;TZID=Europe/Paris;VALUE=DATE:20261111
+DTEND;TZID=Europe/Paris;VALUE=DATE:20261112
+SUMMARY:Randonnée Planète Rouge
+LOCATION:25 allée de la Mairie, 07320 Mars
+DESCRIPTION:Randonnée tout public. Horaire et lieu précis communiqués sur Facebook ou par téléphone. Information horaire à vérifier.
+URL:https://www.ardeche.com/mars/randonnees-planete-rouge-550791.html
+END:VEVENT
+END:VCALENDAR
