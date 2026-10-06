@@ -22,6 +22,16 @@ main{padding:16px 14px 50px}.toolbar{display:grid;grid-template-columns:1fr;gap:
 footer{max-width:900px;margin:auto;padding:0 14px 30px;color:var(--muted);font-size:12px;text-align:center}
 @media(min-width:700px){main{padding:22px 18px 60px}.toolbar{grid-template-columns:1fr 220px}.event{padding:18px}}
 .mapwrap{margin-top:12px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#eef2f5}.map{height:210px;width:100%}.maplink{display:block;padding:9px 12px;background:white;color:var(--accent);font-size:13px;font-weight:800;text-decoration:none;border-top:1px solid var(--line)}.travel{display:flex;align-items:center;gap:8px;margin-top:9px;padding:10px 12px;border-radius:10px;background:#f0fdf4;color:#166534;font-weight:800}.travel small{font-weight:500;color:#4b5563}</style>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<style>
+.mapwrap{margin-top:12px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#e5e7eb}
+.eventmap{height:220px;width:100%}
+.maplink{display:block;text-decoration:none;color:inherit}
+.drive{margin-top:8px;padding:9px 11px;background:#f0fdf4;border-radius:9px;color:#166534;font-weight:700}
+.drive small{display:block;font-weight:500;color:#4b5563;margin-top:2px}
+.maploading{padding:18px;text-align:center;color:var(--muted);font-size:13px}
+@media(min-width:700px){.eventmap{height:260px}}
+</style>
 </head>
 <body>
 <header>
@@ -56,8 +66,14 @@ function fmtTime(d){return d&&d.getHours()+d.getMinutes()+d.getSeconds()>0?new I
 function esc(s){return String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
 function category(e){const s=(e.summary+' '+e.description).toLowerCase();if(/vtt|vtTAE|enduro|xc|dh/.test(s))return 'VTT / VTTAE';if(/trail/.test(s))return 'Trail';if(/randonnée|randonneurs|marche/.test(s))return 'Randonnée / marche';if(/concert|festival|culture/.test(s))return 'Culture';if(/castagnade|châtaigne|fête/.test(s))return 'Fête locale';if(/famille|enfant|train fantôme/.test(s))return 'Famille';return 'Autres'}
 function detailLine(label,value){return value?'<div><strong>'+label+' :</strong> '+esc(value)+'</div>':''}
+
+const ALB={lat:44.9296,lon:4.7305};const geoCache={};
+async function geocode(q){if(geoCache[q])return geoCache[q];try{const r=await fetch('https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&countrycodes=fr&q='+encodeURIComponent(q));const a=await r.json();if(a[0])return geoCache[q]={lat:+a[0].lat,lon:+a[0].lon}}catch(e){}return null}
+async function routeTime(p){try{const r=await fetch('https://router.project-osrm.org/route/v1/driving/'+ALB.lon+','+ALB.lat+';'+p.lon+','+p.lat+'?overview=false');const j=await r.json();if(j.code==='Ok'&&j.routes[0])return {min:Math.round(j.routes[0].duration/60),km:(j.routes[0].distance/1000).toFixed(1)}}catch(e){}return null}
+async function loadMaps(events){for(const e of events){const el=document.getElementById(e._mapId);if(!el)continue;const p=await geocode((e.location||'')+', France');if(!p){el.innerHTML='<div class="maploading">Position du lieu non trouvée.</div>';continue}const map=L.map(el,{scrollWheelZoom:false}).setView([ALB.lat,ALB.lon],9);L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© OpenStreetMap contributors'}).addTo(map);L.marker([ALB.lat,ALB.lon]).addTo(map).bindPopup('Alboussière — départ');L.circleMarker([p.lat,p.lon],{radius:9,color:'#dc2626',fillColor:'#dc2626',fillOpacity:.95,weight:2}).addTo(map).bindPopup(esc(e.summary));map.fitBounds(L.latLngBounds([[ALB.lat,ALB.lon],[p.lat,p.lon]]),{padding:[25,25]});setTimeout(()=>map.invalidateSize(),100);const rt=await routeTime(p),drive=document.getElementById(e._mapId+'-drive');if(rt&&drive)drive.innerHTML='🚗 Temps de trajet en voiture : <b>environ '+rt.min+' min</b><small>Depuis Alboussière • '+rt.km+' km par la route • estimation indicative</small>';await new Promise(r=>setTimeout(r,500))}}
 async function init(){try{const r=await fetch('evenements.ics?'+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const txt=await r.text();state.events=parseICS(txt);const cats=[...new Set(state.events.map(category))].sort();const sel=document.getElementById('category');cats.forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;sel.appendChild(o)});document.getElementById('subtitle').textContent=state.events.length+' événements • fenêtre de 60 jours';document.getElementById('updated').textContent=state.dtstamp?'Calendrier mis à jour : '+state.dtstamp.slice(0,8).replace(/(\d{4})(\d{2})(\d{2})/,'$3/$2/$1'):'';render()}catch(e){document.getElementById('subtitle').textContent='Impossible de charger le calendrier';document.getElementById('events').innerHTML='<div class="empty">Le calendrier est temporairement indisponible.</div>'}}
 document.getElementById('search').addEventListener('input',render);document.getElementById('category').addEventListener('change',render);init();
 </script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 </body>
 </html>
