@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:marche-halloween-saint-clair-20261031@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261031T080000
+DTEND;TZID=Europe/Paris:20261031T160000
+SUMMARY:Marche d'Halloween - Saint-Clair
+LOCATION:Salle des fêtes, 2 rue du Souvenir, 07430 Saint-Clair
+DESCRIPTION:Marches 3, 9, 13 et 19 km et VTT 22 et 33 km. A partir de 8h. 3 à 12 EUR.
+URL:https://www.ardeche.com/saint-clair/marche-d-halloween-583726.html
+END:VEVENT
+END:VCALENDAR
