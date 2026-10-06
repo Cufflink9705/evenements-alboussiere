@@ -1,10 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+PRODID:-//Cufflink9705//Evenements Alboussiere VTT//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Événements autour d'Alboussière
-X-WR-CALDESC:VTT, randonnées, nature, culture, famille et événements locaux
+X-WR-CALNAME:VTT autour d'Alboussière
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:privas-vivarais-vtt-20261011@evenements-alboussiere
@@ -37,46 +36,6 @@ DESCRIPTION:Événement vélo majeur à distance élargie. VTT le samedi: 26 km/
 URL:https://dromebikefestival.com/db-festival/
 END:VEVENT
 BEGIN:VEVENT
-UID:foulee-sous-bois-20261018@evenements-alboussiere
-DTSTAMP:20261006T125500Z
-DTSTART;TZID=Europe/Paris:20261018T080000
-DTEND;TZID=Europe/Paris:20261018T130000
-SUMMARY:26e Foulée des Sous Bois - randonnée
-LOCATION:Saint-Marcel-lès-Annonay, 07100
-DESCRIPTION:Randonnée. Parcours 7, 12, 18 et 26 km. Ravitaillements et repas à l'arrivée.
-URL:https://www.vivop.fr/ville/roisey-42191/evenement/26eme-foulee-des-sous-bois/apidae-6989229
-END:VEVENT
-BEGIN:VEVENT
-UID:castagnades-privas-randos-20261018@evenements-alboussiere
-DTSTAMP:20261006T125500Z
-DTSTART;TZID=Europe/Paris:20261018T080000
-DTEND;TZID=Europe/Paris:20261018T140000
-SUMMARY:Castagnades de Privas - randonnées pédestres
-LOCATION:Boulodrome, Champ de Mars, 07000 Privas
-DESCRIPTION:4 parcours accompagnés: 20 km/900 D+, 13 km/550 D+, 7.5 km/230 D+, 3.5 km/50 D+. 6 EUR, gratuit moins de 12 ans. Inscription HelloAsso jusqu'au 17 octobre.
-URL:https://www.ardeche-guide.com/fete-manifestation/castagnades-de-privas-randonnees-pedestres-accompagnees-7999005/
-END:VEVENT
-BEGIN:VEVENT
-UID:castagnades-privas-20261018@evenements-alboussiere
-DTSTAMP:20261006T125500Z
-DTSTART;TZID=Europe/Paris:20261018T090000
-DTEND;TZID=Europe/Paris:20261018T180000
-SUMMARY:Castagnades de Privas - fête de la châtaigne
-LOCATION:Centre-ville, 07000 Privas
-DESCRIPTION:Marché de producteurs et artisans, animations, village de la châtaigne, mini-ferme et championnat de la crique ardéchoise. Gratuit.
-URL:https://www.ardeche-guide.com/fete-manifestation/castagnades-de-privas-2026-7996477/
-END:VEVENT
-BEGIN:VEVENT
-UID:train-fantome-20261020@evenements-alboussiere
-DTSTAMP:20261006T125500Z
-DTSTART;TZID=Europe/Paris:20261020T150000
-DTEND;TZID=Europe/Paris:20261020T164500
-SUMMARY:Train Fantôme à Vapeur - famille
-LOCATION:Gare de Tournon Saint-Jean, 07300 Saint-Jean-de-Muzols
-DESCRIPTION:Spectacle Halloween familial. Animations en gare dès 13h30. Départ 15h, trajet 1h45. 28.50 EUR adulte, 15.50 EUR enfant 10-13 ans. Autres dates du 20 au 31 octobre selon programme.
-URL:https://www.drome-cestmanature.com/fiches/le-train-fantome-a-vapeur-train-de-lardeche/
-END:VEVENT
-BEGIN:VEVENT
 UID:ride-mours-20261024@evenements-alboussiere
 DTSTAMP:20261006T125500Z
 DTSTART;TZID=Europe/Paris:20261024T173000
@@ -85,16 +44,6 @@ SUMMARY:RIDE in Mours - VTT nocturne
 LOCATION:Salle des Fêtes, Place des Bastides, 26540 Mours-Saint-Eusèbe
 DESCRIPTION:VTT/VTTAE nocturne, 22 ou 35 km. Inscription 17h30, départ groupé 19h. 12 EUR avec repas chaud. Éclairage et gilet fluo obligatoires.
 URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/2eme-edition-de-la-randonnee-nocturne-ride-in-mours-8008136/
-END:VEVENT
-BEGIN:VEVENT
-UID:automnal-gourmand-20261024@evenements-alboussiere
-DTSTAMP:20261006T125500Z
-DTSTART;TZID=Europe/Paris:20261024T133000
-DTEND;TZID=Europe/Paris:20261024T170000
-SUMMARY:L'Automnal gourmand - randonnée
-LOCATION:Office de Tourisme, 655 rue du Docteur Tourasse, 07320 Saint-Agrève
-DESCRIPTION:Balade d'environ 10 km. Inscription 13h30, départ 14h, durée 2h30, goûter gourmand. 5 EUR.
-URL:https://www.ardeche-hautes-vallees.fr/agenda/randonnee-gourmande-lautomnal-gourmand/
 END:VEVENT
 BEGIN:VEVENT
 UID:fete-marrons-gillonnay-20261024@evenements-alboussiere
@@ -117,16 +66,6 @@ DESCRIPTION:Randonnée VTT ouverte aux VAE. Parcours de 23 à 56 km avec différ
 URL:https://www.jds.fr/valence/sports/balades/rando-vtt-le-bois-de-la-dame-1781823_A
 END:VEVENT
 BEGIN:VEVENT
-UID:randonneurs-boutieres-20261025@evenements-alboussiere
-DTSTAMP:20261006T125500Z
-DTSTART;TZID=Europe/Paris:20261025T093000
-DTEND;TZID=Europe/Paris:20261025T150000
-SUMMARY:Randonneurs des Boutières - randonnée
-LOCATION:Parking de la Guinguette, 9 place de la Guinguette, 07160 Le Cheylard
-DESCRIPTION:Randonnée pédestre 17 km, 600 m D+. Départ 9h30. Participation: 0.10 EUR/km/personne.
-URL:https://www.ardeche-hautes-vallees.fr/agenda/randonneurs-des-boutieres-boucieu-le-roi-colombier-le-jeune/
-END:VEVENT
-BEGIN:VEVENT
 UID:marche-halloween-saint-clair-20261031@evenements-alboussiere
 DTSTAMP:20261006T125500Z
 DTSTART;TZID=Europe/Paris:20261031T080000
@@ -137,46 +76,6 @@ DESCRIPTION:Marches 3, 9, 13 et 19 km et VTT 22 et 33 km. A partir de 8h. 3 à 1
 URL:https://www.ardeche.com/saint-clair/marche-d-halloween-583726.html
 END:VEVENT
 BEGIN:VEVENT
-UID:castagnades-vesseaux-20261031@evenements-alboussiere
-DTSTAMP:20261006T125500Z
-DTSTART;TZID=Europe/Paris:20261031T100000
-DTEND;TZID=Europe/Paris:20261101T180000
-SUMMARY:Castagnades de Vesseaux
-LOCATION:Vesseaux, Ardèche
-DESCRIPTION:Fête de la châtaigne les 31 octobre et 1er novembre. Programme détaillé à vérifier avant déplacement.
-URL:https://www.castagnades.fr/castagnades/programme-des-fetes/
-END:VEVENT
-BEGIN:VEVENT
-UID:rando-saint-agrevoise-20261105@evenements-alboussiere
-DTSTAMP:20261006T125500Z
-DTSTART;TZID=Europe/Paris:20261105T133000
-DTEND;TZID=Europe/Paris:20261105T170000
-SUMMARY:Rando Saint-Agrèvoise - Lac de Devesset
-LOCATION:Place Félisse d'Asseyne, 07320 Saint-Agrève
-DESCRIPTION:Randonnée pédestre 12 km, 159 m D+, environ 3h30. Départ 13h30. Participation occasionnelle 2 EUR, gratuit moins de 12 ans.
-URL:https://www.ardeche.com/saint-agreve/rando-saint-agrevoise-lac-de-devesset-580474.html
-END:VEVENT
-BEGIN:VEVENT
-UID:course-nature-lafarge-20261108@evenements-alboussiere
-DTSTAMP:20261006T135900Z
-DTSTART;TZID=Europe/Paris:20261108T091500
-DTEND;TZID=Europe/Paris:20261108T140000
-SUMMARY:Course Nature Lafarge - randonnée et trail
-LOCATION:Usine Lafarge, Le Teil, Ardèche
-DESCRIPTION:Randonnée La Cytise 11 km/260 D+, départ 9h15. Trails 11 et 22 km. Inscription en ligne; tarifs randonnée 5 EUR, trails 10 à 20 EUR.
-URL:https://running.life/fr/evenement/course-nature-lafarge-le-teil
-END:VEVENT
-BEGIN:VEVENT
-UID:planete-rouge-randonnee-20261111@evenements-alboussiere
-DTSTAMP:20261006T135900Z
-DTSTART;TZID=Europe/Paris;VALUE=DATE:20261111
-DTEND;TZID=Europe/Paris;VALUE=DATE:20261112
-SUMMARY:Randonnée Planète Rouge
-LOCATION:25 allée de la Mairie, 07320 Mars
-DESCRIPTION:Randonnée tout public. Horaire et lieu précis communiqués sur Facebook ou par téléphone. Information horaire à vérifier.
-URL:https://www.ardeche.com/mars/randonnees-planete-rouge-550791.html
-END:VEVENT
-BEGIN:VEVENT
 UID:sambonitaine-20261111@evenements-alboussiere
 DTSTAMP:20261006T135900Z
 DTSTART;TZID=Europe/Paris:20261111T073000
@@ -185,166 +84,5 @@ SUMMARY:La Sambonitaine - randonnée VTT
 LOCATION:Salle polyvalente, rue Jean-Sébastien Bach, 42380 Saint-Bonnet-le-Château
 DESCRIPTION:VTT/VTTAE. 18 km/450 D+, 37/850, 48/1200, 60/1550 et 76/1850. Accueil 7h30-11h, inscription en ligne obligatoire. Tarif non communiqué.
 URL:https://destinationgrandr.com/fete-et-manifestation/la-sambonitaine-31eme-edition-randonnee-vtt/
-END:VEVENT
-BEGIN:VEVENT
-UID:randonneurs-boutieres-suc-eyre-20261115@evenements-alboussiere
-DTSTAMP:20261006T135900Z
-DTSTART;TZID=Europe/Paris:20261115T093000
-DTEND;TZID=Europe/Paris:20261115T140000
-SUMMARY:Randonneurs des Boutières - Suc de l'Eyre
-LOCATION:Parking de la Guinguette, 9 place de la Guinguette, 07160 Le Cheylard
-DESCRIPTION:Randonnée pédestre 12 km, 450 m D+. Départ 9h30. Participation aux frais de déplacement: 0,10 EUR/km/personne.
-URL:https://www.ardeche-hautes-vallees.fr/agenda/randonneurs-des-boutieres-suc-de-leyre/
-END:VEVENT
-BEGIN:VEVENT
-UID:trail-castagne-ailhon-20261122@evenements-alboussiere
-DTSTAMP:20261006T135900Z
-DTSTART;TZID=Europe/Paris:20261122T090000
-DTEND;TZID=Europe/Paris:20261122T150000
-SUMMARY:Trail de la Castagne - Ailhon
-LOCATION:Ailhon, Ardèche
-DESCRIPTION:Trail nature 11 et 22 km, avec randonnée non chronométrée. Horaires et tarifs à confirmer auprès de l'organisateur.
-URL:https://runrun.fr/runs/trail-de-la-castagne-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:bathernight-20261128@evenements-alboussiere
-DTSTAMP:20261006T135900Z
-DTSTART;TZID=Europe/Paris:20261128T133000
-DTEND;TZID=Europe/Paris:20261128T210000
-SUMMARY:Bather'night Trail - semi-nocturne
-LOCATION:Salle des fêtes au stade, 26260 Bathernay
-DESCRIPTION:Marche 8,6 km départs libres 13h30-15h; trail 19 km départ 16h30; trail 8,5 km départ 17h15; parcours enfants 15h30. Tarifs 2 à 14 EUR.
-URL:https://www.drome-cestmanature.com/fiches/bathernight-trail/
-END:VEVENT
-BEGIN:VEVENT
-UID:telethon-ritournelle-20261205@evenements-alboussiere
-DTSTAMP:20261006T135900Z
-DTSTART;TZID=Europe/Paris:20261205T133000
-DTEND;TZID=Europe/Paris:20261205T190000
-SUMMARY:Téléthon de la Ritournelle - randonnée
-LOCATION:Salle municipale Jean Norton Cru, Labatie-d'Andaure
-DESCRIPTION:Randonnée 7 ou 14 km. Inscription à partir de 13h, départ 13h30. Participation minimum 5 EUR. Dîner Téléthon le soir. DATE À CONFIRMER.
-URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/le-telethon-de-la-ritournelle-7605543/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:videgrenier-saintprivat-20261011@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261011T060000
-DTEND;TZID=Europe/Paris:20261011T140000
-SUMMARY:Vide-grenier de Saint-Privat
-LOCATION:Route de l'Echelette, 07200 Saint-Privat
-DESCRIPTION:Vide-grenier intéressant pour chiner. Objets du quotidien, décoration, livres, jouets et autres. Accès gratuit pour les visiteurs. Ouvert 6h-14h. Événement récurrent les dimanches et jours fériés.
-URL:https://www.ardeche.com/saint-privat/vide-grenier-de-saint-privat-497546.html
-END:VEVENT
-BEGIN:VEVENT
-UID:brocante-lamastre-20261017@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261017T090000
-DTEND;TZID=Europe/Paris:20261017T180000
-SUMMARY:Brocante l'Ephémère - Lamastre
-LOCATION:Lamastre, Ardèche
-DESCRIPTION:Brocante intéressante à Lamastre. Présente du 1er septembre au 31 octobre 2026 selon l'agenda Ardèche Guide. Horaires indiqués à partir de 9h.
-URL:https://www.ardeche-guide.com/agenda/marches-ardeche/brocantes-ardeche/
-END:VEVENT
-BEGIN:VEVENT
-UID:kidstroc-saintsernin-20261018@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261018T090000
-DTEND;TZID=Europe/Paris:20261018T140000
-SUMMARY:Kid's Troc - jouets, livres et vêtements enfants
-LOCATION:Espace Michel Poudevigne, 35 Chemin de l'Ardèche, 07200 Saint-Sernin
-DESCRIPTION:Vente de jouets, livres, vêtements et jeux pour bébés et enfants. Entrée libre. Stands: 8 EUR extérieur, 10 EUR intérieur.
-URL:https://www.ardeche-guide.com/fete-manifestation/kids-troc-par-le-sou-des-ecoles-5360426/
-END:VEVENT
-BEGIN:VEVENT
-UID:bourse-jouets-sarras-20261018@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261018T083000
-DTEND;TZID=Europe/Paris:20261018T170000
-SUMMARY:Bourse aux jouets - Sarras
-LOCATION:Sarras, Ardèche
-DESCRIPTION:Bourse aux jouets. Horaire d'ouverture indiqué à partir de 8h30. Événement à vérifier pour les horaires détaillés.
-URL:https://www.ardeche-guide.com/agenda/marches-ardeche/page/17/
-END:VEVENT
-BEGIN:VEVENT
-UID:brocante-tournon-quai-farconnet-20261018@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261018T040000
-DTEND;TZID=Europe/Paris:20261018T140000
-SUMMARY:Brocante / vide-grenier - Quai Farconnet
-LOCATION:Quai Farconnet, Tournon-sur-Rhône
-DESCRIPTION:Brocante / vide-grenier intéressant pour chiner. Ouverture indiquée à partir de 4h.
-URL:https://www.ardeche-guide.com/agenda/marches-ardeche/brocantes-ardeche/
-END:VEVENT
-BEGIN:VEVENT
-UID:brocante-saintmartindaout-20261018@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261018T090000
-DTEND;TZID=Europe/Paris:20261018T170000
-SUMMARY:Brocante - Saint-Martin-d'Août
-LOCATION:Saint-Martin-d'Août, Drôme
-DESCRIPTION:Brocante signalée par l'agenda Ardèche Guide. Horaires détaillés à vérifier auprès de l'organisateur.
-URL:https://www.ardeche-guide.com/agenda/marches-ardeche/brocantes-ardeche/
-END:VEVENT
-BEGIN:VEVENT
-UID:videvestiaire-cruas-20261024@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261024T090000
-DTEND;TZID=Europe/Paris:20261024T180000
-SUMMARY:Vide vestiaire - Cruas
-LOCATION:Cruas, Ardèche
-DESCRIPTION:Vide vestiaire du Secours Populaire. Vêtements, vaisselle, bibelots et livres à petits prix. Intéressant pour chiner à petit budget.
-URL:https://www.ardeche.com/ou-sortir/index.php?page=24
-END:VEVENT
-BEGIN:VEVENT
-UID:bourse-jouets-davezieux-20261024@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261024T090000
-DTEND;TZID=Europe/Paris:20261024T170000
-SUMMARY:Bourse aux jouets - Davézieux
-LOCATION:Davézieux, Ardèche
-DESCRIPTION:Bourse aux jouets organisée par le comité d'animation culturelle et de loisirs de Davézieux. Horaires détaillés à vérifier.
-URL:https://www.ardeche.com/ou-sortir/index.php?page=24
-END:VEVENT
-BEGIN:VEVENT
-UID:bourse-desaignes-20261114@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261114T140000
-DTEND;TZID=Europe/Paris:20261114T170000
-SUMMARY:Bourse aux jouets, vêtements, livres et puériculture - Désaignes
-LOCATION:Espace culturel, Montée des écoles, 07570 Désaignes
-DESCRIPTION:Bourse aux jouets, vêtements, livres et articles de puériculture. Accès libre. Samedi 14h-17h; 5 EUR la table exposant, 8 EUR les deux. Dates signalées comme à confirmer.
-URL:https://www.ardeche-guide.com/fete-manifestation/bourse-aux-jouets-vetements-livres-et-articles-de-puericulture-5954781/
-END:VEVENT
-BEGIN:VEVENT
-UID:bourse-desaignes-20261115@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261115T080000
-DTEND;TZID=Europe/Paris:20261115T150000
-SUMMARY:Bourse aux jouets, vêtements, livres et puériculture - Désaignes
-LOCATION:Espace culturel, Montée des écoles, 07570 Désaignes
-DESCRIPTION:Bourse aux jouets, vêtements, livres et articles de puériculture. Accès libre. Dimanche 8h-15h. Dates signalées comme à confirmer.
-URL:https://www.ardeche-guide.com/fete-manifestation/bourse-aux-jouets-vetements-livres-et-articles-de-puericulture-5954781/
-END:VEVENT
-BEGIN:VEVENT
-UID:bourse-jouets-saintdonat-20261115@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261115T090000
-DTEND;TZID=Europe/Paris:20261115T170000
-SUMMARY:Bourse aux jouets - Saint-Donat-sur-l'Herbasse
-LOCATION:Halle des Sports, 1 Route de Saint Bardoux, 26260 Saint-Donat-sur-l'Herbasse
-DESCRIPTION:Bourse aux jouets organisée par la Maison du Jeu. Dépôt des jouets le 14 novembre, vente le 15 novembre. Entrée gratuite. Horaire détaillé à confirmer.
-URL:https://www.ardeche-guide.com/fete-manifestation/bourse-aux-jouets-saint-donat-8008244/
-END:VEVENT
-BEGIN:VEVENT
-UID:bourse-jouets-vetements-coucouron-20261115@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261115T090000
-DTEND;TZID=Europe/Paris:20261115T170000
-SUMMARY:Bourse aux jouets et aux vêtements - Coucouron
-LOCATION:Halle couverte, 07470 Coucouron
-DESCRIPTION:Bourse permettant de vendre, acheter ou chiner des jouets et vêtements à petits prix. Accès libre. 3 EUR le mètre pour les exposants.
-URL:https://www.ardeche.com/coucouron/bourse-aux-jouets-et-aux-vetements-542919.html
 END:VEVENT
 END:VCALENDAR
