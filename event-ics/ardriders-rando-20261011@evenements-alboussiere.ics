@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:ardriders-rando-20261011@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261011T080000
+DTEND;TZID=Europe/Paris:20261011T140000
+SUMMARY:Randonnée des ArdRiders - VTT
+LOCATION:St Julien Molin Molette, Ardèche
+DESCRIPTION:Rando VTT des ArdRiders dans le Pilat. Parcours 23, 35 et 55 km. Informations détaillées à vérifier auprès de l'organisateur.
+URL:https://ardriders.fr/
+END:VEVENT
+END:VCALENDAR
