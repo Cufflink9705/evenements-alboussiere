@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:fete-marrons-gillonnay-20261024@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261024T120000
+DTEND;TZID=Europe/Paris:20261024T190000
+SUMMARY:VTT des Marrons - Gillonnay
+LOCATION:Espace Montgontier, 1062 route de Montgontier, 38260 Gillonnay
+DESCRIPTION:VTT 20 km familial, 35 km/600 D+, 50 km/1200 D+, et 20 km nocturne à 18h30. Inscriptions 12h-14h. 8 EUR licenciés, 11 EUR non licenciés. Inscription en ligne obligatoire.
+URL:https://terres-de-berlioz.com/fiche-sit/F7681719_fete-des-marrons-gillonnay/
+END:VEVENT
+END:VCALENDAR
