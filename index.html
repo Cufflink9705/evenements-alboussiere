@@ -24,9 +24,9 @@ footer{max-width:900px;margin:auto;padding:0 14px 30px;color:var(--muted);font-s
 .mapwrap{margin-top:12px;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#eef2f5}.map{height:210px;width:100%}.maplink{display:block;padding:9px 12px;background:white;color:var(--accent);font-size:13px;font-weight:800;text-decoration:none;border-top:1px solid var(--line)}.travel{display:flex;align-items:center;gap:8px;margin-top:9px;padding:10px 12px;border-radius:10px;background:#f0fdf4;color:#166534;font-weight:800}.travel small{font-weight:500;color:#4b5563}</style>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 <style>
-.mapwrap{margin-top:12px;border-radius:12px;overflow:hidden;border:1px solid var(--line);background:#e5e7eb;position:relative}
-.eventmap{height:220px;width:100%}
-.maplink{display:block;text-decoration:none;color:inherit}
+.mapwrap{margin-top:12px;border-radius:12px;overflow:hidden;border:1px solid var(--line);background:#e5e7eb;position:static !important;top:auto !important}
+.eventmap{height:220px;width:100%;position:static !important;top:auto !important}
+.maplink{display:block;text-decoration:none;color:inherit;position:static !important;top:auto !important}
 .drive{margin-top:8px;padding:9px 11px;background:#f0fdf4;border-radius:9px;color:#166534;font-weight:700}
 .drive small{display:block;font-weight:500;color:#4b5563;margin-top:2px}
 .maploading{padding:18px;text-align:center;color:var(--muted);font-size:13px}
