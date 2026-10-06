@@ -6,4 +6,154 @@ METHOD:PUBLISH
 X-WR-CALNAME:Événements autour d'Alboussière
 X-WR-CALDESC:VTT, randonnées, nature, culture, famille et événements locaux
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:privas-vivarais-vtt-20261011@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261011T083000
+DTEND;TZID=Europe/Paris:20261011T173000
+SUMMARY:Randonnée du Vivarais - VTT
+LOCATION:Boulodrome couvert, Champ de Mars, 07000 Privas
+DESCRIPTION:VTT/VTTAE. Parcours 20, 30, 40 et 50 km. Départ et inscription 8h30-10h30. 10 EUR adulte, 8 EUR 15-18 ans, gratuit moins de 15 ans.
+URL:https://www.coeur-ardeche.fr/fete-manifestation/16eme-randonnee-du-vivarais-8005297/
+END:VEVENT
+BEGIN:VEVENT
+UID:ardriders-rando-20261011@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261011T080000
+DTEND;TZID=Europe/Paris:20261011T140000
+SUMMARY:Randonnée des ArdRiders - VTT
+LOCATION:St Julien Molin Molette, Ardèche
+DESCRIPTION:Rando VTT des ArdRiders dans le Pilat. Parcours 23, 35 et 55 km. Informations détaillées à vérifier auprès de l'organisateur.
+URL:https://ardriders.fr/
+END:VEVENT
+BEGIN:VEVENT
+UID:drome-bike-festival-vtt-20261017@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261017T080000
+DTEND;TZID=Europe/Paris:20261018T183000
+SUMMARY:Drôme Bike Festival - VTT
+LOCATION:Allan, 26780
+DESCRIPTION:Événement vélo majeur à distance élargie. VTT le samedi: 26 km/620 D+ facile, 45 km/1100 D+ difficile, 60 km/1600 D+ très difficile.
+URL:https://dromebikefestival.com/db-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:foulee-sous-bois-20261018@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261018T080000
+DTEND;TZID=Europe/Paris:20261018T130000
+SUMMARY:26e Foulée des Sous Bois - randonnée
+LOCATION:Saint-Marcel-lès-Annonay, 07100
+DESCRIPTION:Randonnée. Parcours 7, 12, 18 et 26 km. Ravitaillements et repas à l'arrivée.
+URL:https://www.vivop.fr/ville/roisey-42191/evenement/26eme-foulee-des-sous-bois/apidae-6989229
+END:VEVENT
+BEGIN:VEVENT
+UID:castagnades-privas-randos-20261018@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261018T080000
+DTEND;TZID=Europe/Paris:20261018T140000
+SUMMARY:Castagnades de Privas - randonnées pédestres
+LOCATION:Boulodrome, Champ de Mars, 07000 Privas
+DESCRIPTION:4 parcours accompagnés: 20 km/900 D+, 13 km/550 D+, 7.5 km/230 D+, 3.5 km/50 D+. 6 EUR, gratuit moins de 12 ans. Inscription HelloAsso jusqu'au 17 octobre.
+URL:https://www.ardeche-guide.com/fete-manifestation/castagnades-de-privas-randonnees-pedestres-accompagnees-7999005/
+END:VEVENT
+BEGIN:VEVENT
+UID:castagnades-privas-20261018@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261018T090000
+DTEND;TZID=Europe/Paris:20261018T180000
+SUMMARY:Castagnades de Privas - fête de la châtaigne
+LOCATION:Centre-ville, 07000 Privas
+DESCRIPTION:Marché de producteurs et artisans, animations, village de la châtaigne, mini-ferme et championnat de la crique ardéchoise. Gratuit.
+URL:https://www.ardeche-guide.com/fete-manifestation/castagnades-de-privas-2026-7996477/
+END:VEVENT
+BEGIN:VEVENT
+UID:train-fantome-20261020@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261020T150000
+DTEND;TZID=Europe/Paris:20261020T164500
+SUMMARY:Train Fantôme à Vapeur - famille
+LOCATION:Gare de Tournon Saint-Jean, 07300 Saint-Jean-de-Muzols
+DESCRIPTION:Spectacle Halloween familial. Animations en gare dès 13h30. Départ 15h, trajet 1h45. 28.50 EUR adulte, 15.50 EUR enfant 10-13 ans. Autres dates du 20 au 31 octobre selon programme.
+URL:https://www.drome-cestmanature.com/fiches/le-train-fantome-a-vapeur-train-de-lardeche/
+END:VEVENT
+BEGIN:VEVENT
+UID:ride-mours-20261024@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261024T173000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:RIDE in Mours - VTT nocturne
+LOCATION:Salle des Fêtes, Place des Bastides, 26540 Mours-Saint-Eusèbe
+DESCRIPTION:VTT/VTTAE nocturne, 22 ou 35 km. Inscription 17h30, départ groupé 19h. 12 EUR avec repas chaud. Éclairage et gilet fluo obligatoires.
+URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/2eme-edition-de-la-randonnee-nocturne-ride-in-mours-8008136/
+END:VEVENT
+BEGIN:VEVENT
+UID:automnal-gourmand-20261024@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261024T133000
+DTEND;TZID=Europe/Paris:20261024T170000
+SUMMARY:L'Automnal gourmand - randonnée
+LOCATION:Office de Tourisme, 655 rue du Docteur Tourasse, 07320 Saint-Agrève
+DESCRIPTION:Balade d'environ 10 km. Inscription 13h30, départ 14h, durée 2h30, goûter gourmand. 5 EUR.
+URL:https://www.ardeche-hautes-vallees.fr/agenda/randonnee-gourmande-lautomnal-gourmand/
+END:VEVENT
+BEGIN:VEVENT
+UID:fete-marrons-gillonnay-20261024@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261024T120000
+DTEND;TZID=Europe/Paris:20261024T190000
+SUMMARY:VTT des Marrons - Gillonnay
+LOCATION:Espace Montgontier, 1062 route de Montgontier, 38260 Gillonnay
+DESCRIPTION:VTT 20 km familial, 35 km/600 D+, 50 km/1200 D+, et 20 km nocturne à 18h30. Inscriptions 12h-14h. 8 EUR licenciés, 11 EUR non licenciés. Inscription en ligne obligatoire.
+URL:https://terres-de-berlioz.com/fiche-sit/F7681719_fete-des-marrons-gillonnay/
+END:VEVENT
+BEGIN:VEVENT
+UID:rando-bois-dame-grane-20261025@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261025T080000
+DTEND;TZID=Europe/Paris:20261025T100000
+SUMMARY:Rando VTT Le Bois de la Dame
+LOCATION:26400 Grane
+DESCRIPTION:Randonnée VTT ouverte aux VAE. Parcours de 23 à 56 km avec différents dénivelés. Départs 8h-10h.
+URL:https://www.jds.fr/valence/sports/balades/rando-vtt-le-bois-de-la-dame-1781823_A
+END:VEVENT
+BEGIN:VEVENT
+UID:randonneurs-boutieres-20261025@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261025T093000
+DTEND;TZID=Europe/Paris:20261025T150000
+SUMMARY:Randonneurs des Boutières - randonnée
+LOCATION:Parking de la Guinguette, 9 place de la Guinguette, 07160 Le Cheylard
+DESCRIPTION:Randonnée pédestre 17 km, 600 m D+. Départ 9h30. Participation: 0.10 EUR/km/personne.
+URL:https://www.ardeche-hautes-vallees.fr/agenda/randonneurs-des-boutieres-boucieu-le-roi-colombier-le-jeune/
+END:VEVENT
+BEGIN:VEVENT
+UID:marche-halloween-saint-clair-20261031@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261031T080000
+DTEND;TZID=Europe/Paris:20261031T160000
+SUMMARY:Marche d'Halloween - Saint-Clair
+LOCATION:Salle des fêtes, 2 rue du Souvenir, 07430 Saint-Clair
+DESCRIPTION:Marches 3, 9, 13 et 19 km et VTT 22 et 33 km. A partir de 8h. 3 à 12 EUR.
+URL:https://www.ardeche.com/saint-clair/marche-d-halloween-583726.html
+END:VEVENT
+BEGIN:VEVENT
+UID:castagnades-vesseaux-20261031@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261031T100000
+DTEND;TZID=Europe/Paris:20261101T180000
+SUMMARY:Castagnades de Vesseaux
+LOCATION:Vesseaux, Ardèche
+DESCRIPTION:Fête de la châtaigne les 31 octobre et 1er novembre. Programme détaillé à vérifier avant déplacement.
+URL:https://www.castagnades.fr/castagnades/programme-des-fetes/
+END:VEVENT
+BEGIN:VEVENT
+UID:rando-saint-agrevoise-20261105@evenements-alboussiere
+DTSTAMP:20261006T125500Z
+DTSTART;TZID=Europe/Paris:20261105T133000
+DTEND;TZID=Europe/Paris:20261105T170000
+SUMMARY:Rando Saint-Agrèvoise - Lac de Devesset
+LOCATION:Place Félisse d'Asseyne, 07320 Saint-Agrève
+DESCRIPTION:Randonnée pédestre 12 km, 159 m D+, environ 3h30. Départ 13h30. Participation occasionnelle 2 EUR, gratuit moins de 12 ans.
+URL:https://www.ardeche.com/saint-agreve/rando-saint-agrevoise-lac-de-devesset-580474.html
+END:VEVENT
 END:VCALENDAR
