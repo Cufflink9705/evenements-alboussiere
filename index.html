@@ -2,12 +2,63 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#111827">
+<meta name="description" content="Événements autour d'Alboussière — 60 prochains jours">
 <title>Événements autour d'Alboussière</title>
+<style>
+:root{--bg:#f4f6f8;--card:#fff;--text:#17202a;--muted:#667085;--line:#e5e7eb;--accent:#2563eb;--soft:#eff6ff;--green:#15803d}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
+header{background:#111827;color:white;padding:28px 18px 22px;position:sticky;top:0;z-index:5;box-shadow:0 2px 12px #0002}
+.wrap{max-width:900px;margin:auto}.eyebrow{font-size:13px;opacity:.75;margin-bottom:5px}.title{font-size:28px;font-weight:800;letter-spacing:-.5px;margin:0 0 5px}.sub{font-size:14px;opacity:.8}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}.btn{display:inline-flex;align-items:center;justify-content:center;border:0;border-radius:10px;padding:10px 13px;font-weight:700;text-decoration:none;cursor:pointer;font-size:14px}.primary{background:white;color:#111827}.secondary{background:#ffffff18;color:white;border:1px solid #ffffff30}
+main{padding:16px 14px 50px}.toolbar{display:grid;grid-template-columns:1fr;gap:10px;margin-bottom:16px}.input,.select{width:100%;padding:12px 13px;border:1px solid var(--line);border-radius:10px;background:white;font-size:15px;color:var(--text)}
+.meta{display:flex;justify-content:space-between;gap:10px;color:var(--muted);font-size:13px;margin:6px 2px 14px;flex-wrap:wrap}
+.day{margin:22px 0 8px;font-size:16px;font-weight:800;text-transform:capitalize}
+.event{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:15px;margin-bottom:10px;box-shadow:0 1px 2px #00000008}
+.eventtop{display:flex;gap:12px}.datebox{width:52px;min-width:52px;height:58px;border-radius:10px;background:var(--soft);color:var(--accent);text-align:center;padding-top:7px}.datebox b{display:block;font-size:21px;line-height:21px}.datebox span{font-size:11px;font-weight:700;text-transform:uppercase}
+.eventmain{min-width:0;flex:1}.name{font-size:17px;font-weight:800;line-height:1.25;margin:0 0 5px}.chips{display:flex;gap:5px;flex-wrap:wrap}.chip{font-size:11px;font-weight:700;background:#f1f5f9;padding:4px 7px;border-radius:999px;color:#475569}.uncertain{background:#fff7ed;color:#c2410c}.details{margin-top:12px;border-top:1px solid var(--line);padding-top:10px;color:#475467;font-size:13px;line-height:1.5}.details div{margin:3px 0}.details strong{color:#344054}.desc{margin-top:8px}.source{margin-top:10px}.source a{color:var(--accent);font-weight:700;text-decoration:none}
+.empty{background:white;border:1px dashed #cbd5e1;border-radius:14px;padding:28px;text-align:center;color:var(--muted)}
+footer{max-width:900px;margin:auto;padding:0 14px 30px;color:var(--muted);font-size:12px;text-align:center}
+@media(min-width:700px){main{padding:22px 18px 60px}.toolbar{grid-template-columns:1fr 220px}.event{padding:18px}}
+</style>
 </head>
 <body>
-<h1>Événements autour d'Alboussière</h1>
-<p>Calendrier public des événements sélectionnés autour d'Alboussière.</p>
-<p><a href="evenements.ics">S'abonner au calendrier (.ics)</a></p>
+<header>
+ <div class="wrap">
+  <div class="eyebrow">AGENDA LOCAL • ALBOUSSIÈRE</div>
+  <h1 class="title">Événements des 60 prochains jours</h1>
+  <div class="sub" id="subtitle">Chargement du calendrier…</div>
+  <div class="actions">
+   <a class="btn primary" href="evenements.ics">📅 Calendrier iPhone</a>
+   <a class="btn secondary" href="https://github.com/Cufflink9705/evenements-alboussiere" target="_blank" rel="noopener">GitHub</a>
+  </div>
+ </div>
+</header>
+<main class="wrap">
+ <div class="toolbar">
+  <input class="input" id="search" type="search" placeholder="Rechercher un événement, une commune…">
+  <select class="select" id="category"><option value="">Toutes les catégories</option></select>
+ </div>
+ <div class="meta"><span id="count">Chargement…</span><span id="updated"></span></div>
+ <section id="events"></section>
+</main>
+<footer>Source : veille configurée dans <code>config.json</code>. Les informations signalées comme incertaines doivent être vérifiées auprès de l'organisateur.</footer>
+<script>
+const state={events:[],dtstamp:null};
+function unfold(s){return s.replace(/\r?\n[ \t]/g,'').split(/\r?\n/).filter(Boolean)}
+function unesc(v){return v.replace(/\\n/gi,'\n').replace(/\\,/g,',').replace(/\\;/g,';').replace(/\\\\/g,'\\')}
+function prop(line){const i=line.indexOf(':');if(i<0)return null;const left=line.slice(0,i),value=unesc(line.slice(i+1));const parts=left.split(';');return {name:parts[0].toUpperCase(),params:Object.fromEntries(parts.slice(1).map(p=>{const j=p.indexOf('=');return j>0?[p.slice(0,j).toUpperCase(),p.slice(j+1)]:[p,true]})),value}}
+function parseDate(v){if(!v)return null;const m=v.match(/^(\d{4})(\d{2})(\d{2})(?:T(\d{2})(\d{2})(\d{2}))?/);if(!m)return null;return new Date(Number(m[1]),Number(m[2])-1,Number(m[3]),Number(m[4]||0),Number(m[5]||0),Number(m[6]||0))}
+function parseICS(txt){const out=[];let cur=null;for(const line of unfold(txt)){if(line==='BEGIN:VEVENT'){cur={};continue}if(line==='END:VEVENT'){if(cur&&cur.start)out.push(cur);cur=null;continue}if(!cur)continue;const p=prop(line);if(!p)continue;cur[p.name]=p.value;if(p.name==='DTSTART')cur.start=parseDate(p.value);if(p.name==='DTEND')cur.end=parseDate(p.value);if(p.name==='DTSTAMP')state.dtstamp=p.value;if(p.name==='SUMMARY')cur.summary=p.value;if(p.name==='DESCRIPTION')cur.description=p.value;if(p.name==='LOCATION')cur.location=p.value;if(p.name==='URL')cur.url=p.value;if(p.name==='UID')cur.uid=p.value}return out}
+function fmtDate(d){return new Intl.DateTimeFormat('fr-FR',{weekday:'long',day:'numeric',month:'long'}).format(d)}
+function fmtTime(d){return d&&d.getHours()+d.getMinutes()+d.getSeconds()>0?new Intl.DateTimeFormat('fr-FR',{hour:'2-digit',minute:'2-digit'}).format(d):''}
+function esc(s){return String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function category(e){const s=(e.summary+' '+e.description).toLowerCase();if(/vtt|vtTAE|enduro|xc|dh/.test(s))return 'VTT / VTTAE';if(/trail/.test(s))return 'Trail';if(/randonnée|randonneurs|marche/.test(s))return 'Randonnée / marche';if(/concert|festival|culture/.test(s))return 'Culture';if(/castagnade|châtaigne|fête/.test(s))return 'Fête locale';if(/famille|enfant|train fantôme/.test(s))return 'Famille';return 'Autres'}
+function detailLine(label,value){return value?'<div><strong>'+label+' :</strong> '+esc(value)+'</div>':''}
+function render(){const q=document.getElementById('search').value.toLowerCase().trim(),cat=document.getElementById('category').value;const filtered=state.events.filter(e=>(!q||(e.summary+' '+e.description+' '+e.location).toLowerCase().includes(q))&&(!cat||category(e)===cat)).sort((a,b)=>a.start-b.start);document.getElementById('count').textContent=filtered.length+' événement'+(filtered.length>1?'s':'');const root=document.getElementById('events');if(!filtered.length){root.innerHTML='<div class="empty">Aucun événement ne correspond à la recherche.</div>';return}let html='',last='';for(const e of filtered){const day=e.start.toISOString().slice(0,10);if(day!==last){html+='<div class="day">'+esc(fmtDate(e.start))+'</div>';last=day}const c=category(e),uncertain=/à confirmer|à vérifier|information horaire/i.test(e.description);const d=e.description.replace(/\n/g,'<br>');html+='<article class="event"><div class="eventtop"><div class="datebox"><b>'+e.start.getDate()+'</b><span>'+e.start.toLocaleDateString('fr-FR',{month:'short'}).replace('.','')+'</span></div><div class="eventmain"><h2 class="name">'+esc(e.summary)+'</h2><div class="chips"><span class="chip">'+esc(c)+'</span>'+(uncertain?'<span class="chip uncertain">À vérifier</span>':'')+'</div></div></div><div class="details">'+detailLine('Heure',fmtTime(e.start)+(e.end&&fmtTime(e.end)?' – '+fmtTime(e.end):''))+detailLine('Lieu',e.location)+ '<div class="desc">'+d+'</div>'+(e.url?'<div class="source"><a href="'+esc(e.url)+'" target="_blank" rel="noopener">Voir la source / inscription →</a></div>':'')+'</div></article>'}root.innerHTML=html}
+async function init(){try{const r=await fetch('evenements.ics?'+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const txt=await r.text();state.events=parseICS(txt);const cats=[...new Set(state.events.map(category))].sort();const sel=document.getElementById('category');cats.forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;sel.appendChild(o)});document.getElementById('subtitle').textContent=state.events.length+' événements • fenêtre de 60 jours';document.getElementById('updated').textContent=state.dtstamp?'Calendrier mis à jour : '+state.dtstamp.slice(0,8).replace(/(\d{4})(\d{2})(\d{2})/,'$3/$2/$1'):'';render()}catch(e){document.getElementById('subtitle').textContent='Impossible de charger le calendrier';document.getElementById('events').innerHTML='<div class="empty">Le calendrier est temporairement indisponible.</div>'}}
+document.getElementById('search').addEventListener('input',render);document.getElementById('category').addEventListener('change',render);init();
+</script>
 </body>
 </html>
