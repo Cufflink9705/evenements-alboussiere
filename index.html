@@ -63,6 +63,7 @@ main{position:relative;z-index:1}.leaflet-container,.leaflet-pane,.leaflet-contr
  <section id="events"></section>
 </main>
 <footer>Source : veille configurée dans <code>config.json</code>. Les informations signalées comme incertaines doivent être vérifiées auprès de l'organisateur.</footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script>
 // Icône PWA : app-icon.png est le fichier PNG unique utilisé par le navigateur, le manifeste et iOS.
 // Le paramètre ?v=100 force le rechargement après changement d'icône.
@@ -87,6 +88,5 @@ function render(){const q=document.getElementById('search').value.trim().toLower
 async function loadSpecialWatch(){try{const r=await fetch('surveillance.json?'+Date.now(),{cache:'no-store'});if(!r.ok)return;const data=await r.json(),results=Array.isArray(data.results)?data.results:[],box=document.getElementById('special-watch');if(!results.length){box.hidden=true;box.innerHTML='';return}box.hidden=false;box.innerHTML='<h2>🚨 Surveillance spéciale</h2><div class="watch-grid">'+results.map(x=>'<div class="watch-item"><b>'+esc(x.title||'Résultat')+'</b><div class="watch-meta">'+(x.date?esc(x.date)+' • ':'')+(x.location?'📍 '+esc(x.location):'')+(x.price?' • <span class="watch-price">💶 '+esc(x.price)+'</span>':'')+'</div>'+(x.url?'<a class="watch-link" href="'+esc(x.url)+'" target="_blank" rel="noopener">Voir l’annonce →</a>':'')+'</div>').join('')+'</div>'}catch(e){}}
 loadSpecialWatch();document.getElementById('search').addEventListener('input',render);document.getElementById('category').addEventListener('change',render);init();
 </script>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9coqIjJZRGuk2/Z9VM+kNiyX1lvTlZBo=" crossorigin=""></script>
 </body>
 </html>
