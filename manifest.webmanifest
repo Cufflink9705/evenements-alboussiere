@@ -1,16 +1,16 @@
 {
   "name": "Événements Alboussière",
   "short_name": "Événements Alboussière",
-  "id": "./?app=18",
-  "start_url": "./?app=18",
+  "id": "./?app=19",
+  "start_url": "./?app=19",
   "display": "standalone",
   "background_color": "#111827",
   "theme_color": "#111827",
   "icons": [
     {
-      "src": "app-icon.png?v=101",
-      "sizes": "512x512",
-      "type": "image/png",
+      "src": "app-icon.svg?v=200",
+      "sizes": "any",
+      "type": "image/svg+xml",
       "purpose": "any"
     }
   ]
