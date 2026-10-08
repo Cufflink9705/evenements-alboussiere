@@ -347,4 +347,34 @@ LOCATION:Halle couverte, 07470 Coucouron
 DESCRIPTION:Bourse permettant de vendre, acheter ou chiner des jouets et vêtements à petits prix. Accès libre. 3 EUR le mètre pour les exposants.
 URL:https://www.ardeche.com/coucouron/bourse-aux-jouets-et-aux-vetements-542919.html
 END:VEVENT
+BEGIN:VEVENT
+UID:stage-vtt-goupil-5-7-quintenas-20261022@evenements-alboussiere
+DTSTAMP:20261008T041000Z
+DTSTART;TZID=Europe/Paris:20261022T140000
+DTEND;TZID=Europe/Paris:20261022T163000
+SUMMARY:Stage VTT - Goupilaventure - 5/7 ans
+LOCATION:Salle polyvalente, 07290 Quintenas
+DESCRIPTION:Stage VTT 5/7 ans. Tarif 20 EUR. Salle polyvalente, Quintenas.
+URL:https://www.ardeche-guide.com/preparer/activites-visites-famille/activites-jeunes-enfants/
+END:VEVENT
+BEGIN:VEVENT
+UID:stage-vtt-goupil-8-11-quintenas-20261022@evenements-alboussiere
+DTSTAMP:20261008T041000Z
+DTSTART;TZID=Europe/Paris:20261022T140000
+DTEND;TZID=Europe/Paris:20261022T163000
+SUMMARY:Stage VTT - Goupilaventure - 8/11 ans
+LOCATION:Salle polyvalente, 07290 Quintenas
+DESCRIPTION:Stage VTT 8/11 ans. Tarif 20 EUR. Salle polyvalente, Quintenas.
+URL:https://www.ardeche-guide.com/fete-manifestation/stage-vtt-goupilaventure-8-11-ans-7223614/
+END:VEVENT
+BEGIN:VEVENT
+UID:stage-vtt-goupil-8-11-quintenas-20261027@evenements-alboussiere
+DTSTAMP:20261008T041000Z
+DTSTART;TZID=Europe/Paris:20261027T140000
+DTEND;TZID=Europe/Paris:20261027T163000
+SUMMARY:Stage VTT - Goupilaventure - 8/11 ans
+LOCATION:Salle polyvalente, 07290 Quintenas
+DESCRIPTION:Stage VTT 8/11 ans. Tarif 20 EUR. Salle polyvalente, Quintenas.
+URL:https://www.ardeche-guide.com/fete-manifestation/stage-vtt-goupilaventure-8-11-ans-7223614/
+END:VEVENT
 END:VCALENDAR
