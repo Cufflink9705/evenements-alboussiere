@@ -139,16 +139,19 @@
     "canon_francais": {
       "nom": "Buffet du Canon Français",
       "departements": [
+        "04",
+        "05",
         "07",
         "26",
+        "30",
+        "38",
         "42",
         "43",
         "48",
-        "30",
-        "84",
-        "73"
+        "73",
+        "84"
       ],
-      "zone": "Ardèche et départements limitrophes + Savoie",
+      "zone": "Départements limitrophes de l’Ardèche et de la Drôme, avec maintien explicite de la Savoie (73) à la demande de l’utilisateur.",
       "champs_affiches": [
         "date",
         "lieu",
