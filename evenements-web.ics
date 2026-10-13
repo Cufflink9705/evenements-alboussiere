@@ -7,26 +7,6 @@ X-WR-CALNAME:Événements autour d'Alboussière
 X-WR-CALDESC:VTT, randonnées, nature, culture, famille et événements locaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-UID:privas-vivarais-vtt-20261011@evenements-alboussiere
-DTSTAMP:20261006T125500Z
-DTSTART;TZID=Europe/Paris:20261011T083000
-DTEND;TZID=Europe/Paris:20261011T173000
-SUMMARY:Randonnée du Vivarais - VTT
-LOCATION:Boulodrome couvert, Champ de Mars, 07000 Privas
-DESCRIPTION:VTT/VTTAE. Parcours 20, 30, 40 et 50 km. Départ et inscription 8h30-10h30. 10 EUR adulte, 8 EUR 15-18 ans, gratuit moins de 15 ans.
-URL:https://www.coeur-ardeche.fr/fete-manifestation/16eme-randonnee-du-vivarais-8005297/
-END:VEVENT
-BEGIN:VEVENT
-UID:ardriders-rando-20261011@evenements-alboussiere
-DTSTAMP:20261006T125500Z
-DTSTART;TZID=Europe/Paris:20261011T080000
-DTEND;TZID=Europe/Paris:20261011T140000
-SUMMARY:Randonnée des ArdRiders - VTT
-LOCATION:St Julien Molin Molette, Ardèche
-DESCRIPTION:Rando VTT des ArdRiders dans le Pilat. Parcours 23, 35 et 55 km. Informations détaillées à vérifier auprès de l'organisateur.
-URL:https://ardriders.fr/
-END:VEVENT
-BEGIN:VEVENT
 UID:drome-bike-festival-vtt-20261017@evenements-alboussiere
 DTSTAMP:20261006T125500Z
 DTSTART;TZID=Europe/Paris:20261017T080000
@@ -225,17 +205,6 @@ SUMMARY:Téléthon de la Ritournelle - randonnée
 LOCATION:Salle municipale Jean Norton Cru, Labatie-d'Andaure
 DESCRIPTION:Randonnée 7 ou 14 km. Inscription à partir de 13h, départ 13h30. Participation minimum 5 EUR. Dîner Téléthon le soir. DATE À CONFIRMER.
 URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/le-telethon-de-la-ritournelle-7605543/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:videgrenier-saintprivat-20261011@evenements-alboussiere
-DTSTAMP:20261006T150000Z
-DTSTART;TZID=Europe/Paris:20261011T060000
-DTEND;TZID=Europe/Paris:20261011T140000
-SUMMARY:Vide-grenier de Saint-Privat
-LOCATION:Route de l'Echelette, 07200 Saint-Privat
-DESCRIPTION:Vide-grenier intéressant pour chiner. Objets du quotidien, décoration, livres, jouets et autres. Accès gratuit pour les visiteurs. Ouvert 6h-14h. Événement récurrent les dimanches et jours fériés.
-URL:https://www.ardeche.com/saint-privat/vide-grenier-de-saint-privat-497546.html
 END:VEVENT
 BEGIN:VEVENT
 UID:brocante-lamastre-20261017@evenements-alboussiere
