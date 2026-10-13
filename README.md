@@ -22,4 +22,6 @@ Sur la page Agenda, le bouton **Ajouter à mon calendrier** télécharge un fich
 - Recherche : VTT/VTTAE/enduro, randonnées, trails, nature, culture, fêtes, brocantes importantes, patrimoine, famille, mobilité, conférences et activités gratuites/peu coûteuses
 - Exclusions : vélo de route, cyclotourisme, Gravel, événements commerciaux ordinaires, doublons et événements non datés/non publiés
 
-Le contenu du calendrier est alimenté par la veille événementielle et peut être mis à jour chaque semaine.
+Le contenu est prévu pour être actualisé par la veille quotidienne à 06:00 (Europe/Paris). Le calendrier public `evenements-web.ics` contient toutes les catégories retenues ; `evenements.ics` ne contient que les événements VTT/VTTAE/enduro/endurando/XC/DH. Les événements passés doivent être retirés à chaque actualisation.
+
+Les annonces Rammstein en France et les dates du Buffet du Canon Français sont suivies dans la veille Actualité quotidienne, pas dans la veille événementielle locale.
