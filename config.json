@@ -117,48 +117,6 @@
   },
   "fichier_calendrier": "evenements.ics",
   "timezone": "Europe/Paris",
-  "surveillances_speciales": {
-    "rammstein_france": {
-      "nom": "Concerts de Rammstein",
-      "zone": "France entière",
-      "exiger_artiste_officiel": true,
-      "exclure": [
-        "Rammstein Symphonic Experience",
-        "tribute",
-        "hommage",
-        "cover",
-        "orchestre symphonique"
-      ],
-      "champs_affiches": [
-        "date",
-        "lieu",
-        "prix",
-        "source"
-      ]
-    },
-    "canon_francais": {
-      "nom": "Buffet du Canon Français",
-      "departements": [
-        "04",
-        "05",
-        "07",
-        "26",
-        "30",
-        "38",
-        "42",
-        "43",
-        "48",
-        "73",
-        "84"
-      ],
-      "zone": "Départements limitrophes de l’Ardèche et de la Drôme, avec maintien explicite de la Savoie (73) à la demande de l’utilisateur.",
-      "champs_affiches": [
-        "date",
-        "lieu",
-        "prix",
-        "source"
-      ]
-    }
-  },
-  "fichier_surveillance_speciale": "surveillance.json"
+  "derniere_revision": "2026-10-13",
+  "notes_veille": "Les sujets Rammstein France et Buffet du Canon Français sont intégrés à la veille Actualité quotidienne ; ne pas les traiter comme une veille événementielle séparée."
 }
