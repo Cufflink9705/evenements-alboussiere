@@ -8,7 +8,7 @@ X-WR-CALDESC:VTT, randonnées, nature, culture, famille et événements locaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:drome-bike-festival-vtt-20261017@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261017T080000
 DTEND;TZID=Europe/Paris:20261018T183000
 SUMMARY:Drôme Bike Festival - VTT
@@ -18,7 +18,7 @@ URL:https://dromebikefestival.com/db-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:foulee-sous-bois-20261018@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261018T080000
 DTEND;TZID=Europe/Paris:20261018T130000
 SUMMARY:26e Foulée des Sous Bois - randonnée
@@ -28,7 +28,7 @@ URL:https://www.vivop.fr/ville/roisey-42191/evenement/26eme-foulee-des-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:castagnades-privas-randos-20261018@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261018T080000
 DTEND;TZID=Europe/Paris:20261018T140000
 SUMMARY:Castagnades de Privas - randonnées pédestres
@@ -38,7 +38,7 @@ URL:https://www.ardeche-guide.com/fete-manifestation/castagnades-de-privas-rando
 END:VEVENT
 BEGIN:VEVENT
 UID:castagnades-privas-20261018@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261018T090000
 DTEND;TZID=Europe/Paris:20261018T180000
 SUMMARY:Castagnades de Privas - fête de la châtaigne
@@ -48,7 +48,7 @@ URL:https://www.ardeche-guide.com/fete-manifestation/castagnades-de-privas-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:train-fantome-20261020@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261020T150000
 DTEND;TZID=Europe/Paris:20261020T164500
 SUMMARY:Train Fantôme à Vapeur - famille
@@ -58,7 +58,7 @@ URL:https://www.drome-cestmanature.com/fiches/le-train-fantome-a-vapeur-train-de
 END:VEVENT
 BEGIN:VEVENT
 UID:ride-mours-20261024@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261024T173000
 DTEND;TZID=Europe/Paris:20261024T220000
 SUMMARY:RIDE in Mours - VTT nocturne
@@ -68,7 +68,7 @@ URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/2eme-edition-de-
 END:VEVENT
 BEGIN:VEVENT
 UID:automnal-gourmand-20261024@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261024T133000
 DTEND;TZID=Europe/Paris:20261024T170000
 SUMMARY:L'Automnal gourmand - randonnée
@@ -78,7 +78,7 @@ URL:https://www.ardeche-hautes-vallees.fr/agenda/randonnee-gourmande-lautomnal-g
 END:VEVENT
 BEGIN:VEVENT
 UID:fete-marrons-gillonnay-20261024@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261024T120000
 DTEND;TZID=Europe/Paris:20261024T190000
 SUMMARY:VTT des Marrons - Gillonnay
@@ -88,7 +88,7 @@ URL:https://terres-de-berlioz.com/fiche-sit/F7681719_fete-des-marrons-gillonnay/
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-bois-dame-grane-20261025@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261025T080000
 DTEND;TZID=Europe/Paris:20261025T100000
 SUMMARY:Rando VTT Le Bois de la Dame
@@ -98,7 +98,7 @@ URL:https://www.jds.fr/valence/sports/balades/rando-vtt-le-bois-de-la-dame-17818
 END:VEVENT
 BEGIN:VEVENT
 UID:randonneurs-boutieres-20261025@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261025T093000
 DTEND;TZID=Europe/Paris:20261025T150000
 SUMMARY:Randonneurs des Boutières - randonnée
@@ -108,7 +108,7 @@ URL:https://www.ardeche-hautes-vallees.fr/agenda/randonneurs-des-boutieres-bouci
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-halloween-saint-clair-20261031@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261031T080000
 DTEND;TZID=Europe/Paris:20261031T160000
 SUMMARY:Marche d'Halloween - Saint-Clair
@@ -118,7 +118,7 @@ URL:https://www.ardeche.com/saint-clair/marche-d-halloween-583726.html
 END:VEVENT
 BEGIN:VEVENT
 UID:castagnades-vesseaux-20261031@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261031T100000
 DTEND;TZID=Europe/Paris:20261101T180000
 SUMMARY:Castagnades de Vesseaux
@@ -128,7 +128,7 @@ URL:https://www.castagnades.fr/castagnades/programme-des-fetes/
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-saint-agrevoise-20261105@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261105T133000
 DTEND;TZID=Europe/Paris:20261105T170000
 SUMMARY:Rando Saint-Agrèvoise - Lac de Devesset
@@ -138,7 +138,7 @@ URL:https://www.ardeche.com/saint-agreve/rando-saint-agrevoise-lac-de-devesset-5
 END:VEVENT
 BEGIN:VEVENT
 UID:course-nature-lafarge-20261108@evenements-alboussiere
-DTSTAMP:20261006T135900Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261108T091500
 DTEND;TZID=Europe/Paris:20261108T140000
 SUMMARY:Course Nature Lafarge - randonnée et trail
@@ -148,7 +148,7 @@ URL:https://running.life/fr/evenement/course-nature-lafarge-le-teil
 END:VEVENT
 BEGIN:VEVENT
 UID:planete-rouge-randonnee-20261111@evenements-alboussiere
-DTSTAMP:20261006T135900Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris;VALUE=DATE:20261111
 DTEND;TZID=Europe/Paris;VALUE=DATE:20261112
 SUMMARY:Randonnée Planète Rouge
@@ -158,7 +158,7 @@ URL:https://www.ardeche.com/mars/randonnees-planete-rouge-550791.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sambonitaine-20261111@evenements-alboussiere
-DTSTAMP:20261006T135900Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261111T073000
 DTEND;TZID=Europe/Paris:20261111T163000
 SUMMARY:La Sambonitaine - randonnée VTT
@@ -168,7 +168,7 @@ URL:https://destinationgrandr.com/fete-et-manifestation/la-sambonitaine-31eme-ed
 END:VEVENT
 BEGIN:VEVENT
 UID:randonneurs-boutieres-suc-eyre-20261115@evenements-alboussiere
-DTSTAMP:20261006T135900Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261115T093000
 DTEND;TZID=Europe/Paris:20261115T140000
 SUMMARY:Randonneurs des Boutières - Suc de l'Eyre
@@ -178,7 +178,7 @@ URL:https://www.ardeche-hautes-vallees.fr/agenda/randonneurs-des-boutieres-suc-d
 END:VEVENT
 BEGIN:VEVENT
 UID:trail-castagne-ailhon-20261122@evenements-alboussiere
-DTSTAMP:20261006T135900Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261122T090000
 DTEND;TZID=Europe/Paris:20261122T150000
 SUMMARY:Trail de la Castagne - Ailhon
@@ -188,7 +188,7 @@ URL:https://runrun.fr/runs/trail-de-la-castagne-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:bathernight-20261128@evenements-alboussiere
-DTSTAMP:20261006T135900Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261128T133000
 DTEND;TZID=Europe/Paris:20261128T210000
 SUMMARY:Bather'night Trail - semi-nocturne
@@ -198,7 +198,7 @@ URL:https://www.drome-cestmanature.com/fiches/bathernight-trail/
 END:VEVENT
 BEGIN:VEVENT
 UID:telethon-ritournelle-20261205@evenements-alboussiere
-DTSTAMP:20261006T135900Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261205T133000
 DTEND;TZID=Europe/Paris:20261205T190000
 SUMMARY:Téléthon de la Ritournelle - randonnée
@@ -208,7 +208,7 @@ URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/le-telethon-de-
 END:VEVENT
 BEGIN:VEVENT
 UID:brocante-lamastre-20261017@evenements-alboussiere
-DTSTAMP:20261006T150000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261017T090000
 DTEND;TZID=Europe/Paris:20261017T180000
 SUMMARY:Brocante l'Ephémère - Lamastre
@@ -218,7 +218,7 @@ URL:https://www.ardeche-guide.com/agenda/marches-ardeche/brocantes-ardeche/
 END:VEVENT
 BEGIN:VEVENT
 UID:kidstroc-saintsernin-20261018@evenements-alboussiere
-DTSTAMP:20261006T150000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261018T090000
 DTEND;TZID=Europe/Paris:20261018T140000
 SUMMARY:Kid's Troc - jouets, livres et vêtements enfants
@@ -228,7 +228,7 @@ URL:https://www.ardeche-guide.com/fete-manifestation/kids-troc-par-le-sou-des-ec
 END:VEVENT
 BEGIN:VEVENT
 UID:bourse-jouets-sarras-20261018@evenements-alboussiere
-DTSTAMP:20261006T150000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261018T083000
 DTEND;TZID=Europe/Paris:20261018T170000
 SUMMARY:Bourse aux jouets - Sarras
@@ -238,7 +238,7 @@ URL:https://www.ardeche-guide.com/agenda/marches-ardeche/page/17/
 END:VEVENT
 BEGIN:VEVENT
 UID:brocante-tournon-quai-farconnet-20261018@evenements-alboussiere
-DTSTAMP:20261006T150000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261018T040000
 DTEND;TZID=Europe/Paris:20261018T140000
 SUMMARY:Brocante / vide-grenier - Quai Farconnet
@@ -248,7 +248,7 @@ URL:https://www.ardeche-guide.com/agenda/marches-ardeche/brocantes-ardeche/
 END:VEVENT
 BEGIN:VEVENT
 UID:brocante-saintmartindaout-20261018@evenements-alboussiere
-DTSTAMP:20261006T150000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261018T090000
 DTEND;TZID=Europe/Paris:20261018T170000
 SUMMARY:Brocante - Saint-Martin-d'Août
@@ -258,7 +258,7 @@ URL:https://www.ardeche-guide.com/agenda/marches-ardeche/brocantes-ardeche/
 END:VEVENT
 BEGIN:VEVENT
 UID:videvestiaire-cruas-20261024@evenements-alboussiere
-DTSTAMP:20261006T150000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261024T090000
 DTEND;TZID=Europe/Paris:20261024T180000
 SUMMARY:Vide vestiaire - Cruas
@@ -268,7 +268,7 @@ URL:https://www.ardeche.com/ou-sortir/index.php?page=24
 END:VEVENT
 BEGIN:VEVENT
 UID:bourse-jouets-davezieux-20261024@evenements-alboussiere
-DTSTAMP:20261006T150000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261024T090000
 DTEND;TZID=Europe/Paris:20261024T170000
 SUMMARY:Bourse aux jouets - Davézieux
@@ -278,7 +278,7 @@ URL:https://www.ardeche.com/ou-sortir/index.php?page=24
 END:VEVENT
 BEGIN:VEVENT
 UID:bourse-desaignes-20261114@evenements-alboussiere
-DTSTAMP:20261006T150000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261114T140000
 DTEND;TZID=Europe/Paris:20261114T170000
 SUMMARY:Bourse aux jouets, vêtements, livres et puériculture - Désaignes
@@ -288,7 +288,7 @@ URL:https://www.ardeche-guide.com/fete-manifestation/bourse-aux-jouets-vetements
 END:VEVENT
 BEGIN:VEVENT
 UID:bourse-desaignes-20261115@evenements-alboussiere
-DTSTAMP:20261006T150000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261115T080000
 DTEND;TZID=Europe/Paris:20261115T150000
 SUMMARY:Bourse aux jouets, vêtements, livres et puériculture - Désaignes
@@ -298,7 +298,7 @@ URL:https://www.ardeche-guide.com/fete-manifestation/bourse-aux-jouets-vetements
 END:VEVENT
 BEGIN:VEVENT
 UID:bourse-jouets-saintdonat-20261115@evenements-alboussiere
-DTSTAMP:20261006T150000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261115T090000
 DTEND;TZID=Europe/Paris:20261115T170000
 SUMMARY:Bourse aux jouets - Saint-Donat-sur-l'Herbasse
@@ -308,7 +308,7 @@ URL:https://www.ardeche-guide.com/fete-manifestation/bourse-aux-jouets-saint-don
 END:VEVENT
 BEGIN:VEVENT
 UID:bourse-jouets-vetements-coucouron-20261115@evenements-alboussiere
-DTSTAMP:20261006T150000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261115T090000
 DTEND;TZID=Europe/Paris:20261115T170000
 SUMMARY:Bourse aux jouets et aux vêtements - Coucouron
@@ -318,7 +318,7 @@ URL:https://www.ardeche.com/coucouron/bourse-aux-jouets-et-aux-vetements-542919.
 END:VEVENT
 BEGIN:VEVENT
 UID:stage-vtt-goupil-5-7-quintenas-20261022@evenements-alboussiere
-DTSTAMP:20261008T041000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261022T140000
 DTEND;TZID=Europe/Paris:20261022T163000
 SUMMARY:Stage VTT - Goupilaventure - 5/7 ans
@@ -328,7 +328,7 @@ URL:https://www.ardeche-guide.com/preparer/activites-visites-famille/activites-j
 END:VEVENT
 BEGIN:VEVENT
 UID:stage-vtt-goupil-8-11-quintenas-20261022@evenements-alboussiere
-DTSTAMP:20261008T041000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261022T140000
 DTEND;TZID=Europe/Paris:20261022T163000
 SUMMARY:Stage VTT - Goupilaventure - 8/11 ans
@@ -338,7 +338,7 @@ URL:https://www.ardeche-guide.com/fete-manifestation/stage-vtt-goupilaventure-8-
 END:VEVENT
 BEGIN:VEVENT
 UID:stage-vtt-goupil-8-11-quintenas-20261027@evenements-alboussiere
-DTSTAMP:20261008T041000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261027T140000
 DTEND;TZID=Europe/Paris:20261027T163000
 SUMMARY:Stage VTT - Goupilaventure - 8/11 ans
