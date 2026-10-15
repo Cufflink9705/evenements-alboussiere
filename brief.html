@@ -3,7 +3,7 @@ const localCards=[...document.querySelectorAll("#local .c")];
 const now=new Date();
 function isFresh(card){
  const raw=card.dataset.published||"";
- if(/^\\d{4}-\\d{2}-\\d{2}$/.test(raw)){
+ if(/^\d{4}-\d{2}-\d{2}$/.test(raw)){
   const today=now.getFullYear()+"-"+String(now.getMonth()+1).padStart(2,"0")+"-"+String(now.getDate()).padStart(2,"0");
   return raw===today;
  }
@@ -31,7 +31,7 @@ fs.forEach(b=>b.addEventListener("click",()=>{
   c.classList.toggle("hide",!show);
  });
 }));
-document.getElementById("refresh").addEventListener("click",()=>location.replace(location.pathname+"?v=20261015-3&refresh="+Date.now()));
+document.getElementById("refresh").addEventListener("click",()=>location.replace(location.pathname+"?v=20261015-4&refresh="+Date.now()));
 document.querySelectorAll(".c img").forEach((im,i)=>im.addEventListener("error",()=>{
  if(!im.dataset.f){im.dataset.f="1";im.src="https://loremflickr.com/850/500/"+im.closest(".c").dataset.topic+"?lock="+(i+101);}
  else im.remove();
