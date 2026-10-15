@@ -7,7 +7,7 @@ X-WR-CALNAME:VTT autour d'Alboussière
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:drome-bike-festival-vtt-20261017@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261017T080000
 DTEND;TZID=Europe/Paris:20261018T183000
 SUMMARY:Drôme Bike Festival - VTT
@@ -17,7 +17,7 @@ URL:https://dromebikefestival.com/db-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:ride-mours-20261024@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261024T173000
 DTEND;TZID=Europe/Paris:20261024T220000
 SUMMARY:RIDE in Mours - VTT nocturne
@@ -27,7 +27,7 @@ URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/2eme-edition-de-
 END:VEVENT
 BEGIN:VEVENT
 UID:fete-marrons-gillonnay-20261024@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261024T120000
 DTEND;TZID=Europe/Paris:20261024T190000
 SUMMARY:VTT des Marrons - Gillonnay
@@ -37,7 +37,7 @@ URL:https://terres-de-berlioz.com/fiche-sit/F7681719_fete-des-marrons-gillonnay/
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-bois-dame-grane-20261025@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261025T080000
 DTEND;TZID=Europe/Paris:20261025T100000
 SUMMARY:Rando VTT Le Bois de la Dame
@@ -47,7 +47,7 @@ URL:https://www.jds.fr/valence/sports/balades/rando-vtt-le-bois-de-la-dame-17818
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-halloween-saint-clair-20261031@evenements-alboussiere
-DTSTAMP:20261006T125500Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261031T080000
 DTEND;TZID=Europe/Paris:20261031T160000
 SUMMARY:Marche d'Halloween - Saint-Clair (VTT)
@@ -57,7 +57,7 @@ URL:https://www.ardeche.com/saint-clair/marche-d-halloween-583726.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sambonitaine-20261111@evenements-alboussiere
-DTSTAMP:20261006T135900Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261111T073000
 DTEND;TZID=Europe/Paris:20261111T163000
 SUMMARY:La Sambonitaine - randonnée VTT
@@ -67,7 +67,7 @@ URL:https://destinationgrandr.com/fete-et-manifestation/la-sambonitaine-31eme-ed
 END:VEVENT
 BEGIN:VEVENT
 UID:stage-vtt-goupil-5-7-quintenas-20261022@evenements-alboussiere
-DTSTAMP:20261008T041000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261022T140000
 DTEND;TZID=Europe/Paris:20261022T163000
 SUMMARY:Stage VTT - Goupilaventure - 5/7 ans
@@ -77,7 +77,7 @@ URL:https://www.ardeche-guide.com/preparer/activites-visites-famille/activites-j
 END:VEVENT
 BEGIN:VEVENT
 UID:stage-vtt-goupil-8-11-quintenas-20261022@evenements-alboussiere
-DTSTAMP:20261008T041000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261022T140000
 DTEND;TZID=Europe/Paris:20261022T163000
 SUMMARY:Stage VTT - Goupilaventure - 8/11 ans
@@ -87,7 +87,7 @@ URL:https://www.ardeche-guide.com/fete-manifestation/stage-vtt-goupilaventure-8-
 END:VEVENT
 BEGIN:VEVENT
 UID:stage-vtt-goupil-8-11-quintenas-20261027@evenements-alboussiere
-DTSTAMP:20261008T041000Z
+DTSTAMP:20261015T053000Z
 DTSTART;TZID=Europe/Paris:20261027T140000
 DTEND;TZID=Europe/Paris:20261027T163000
 SUMMARY:Stage VTT - Goupilaventure - 8/11 ans
