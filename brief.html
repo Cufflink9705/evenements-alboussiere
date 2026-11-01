@@ -8,7 +8,7 @@ function parisDateKey(date){
 }
 function isFresh(card){
  const raw=(card.dataset.published||"").trim();
- if(/^\\d{4}-\\d{2}-\\d{2}$/.test(raw)) return raw===parisDateKey(now);
+ if(/^\d{4}-\d{2}-\d{2}$/.test(raw)) return raw===parisDateKey(now);
  const published=raw?new Date(raw):null;
  if(!published||Number.isNaN(published.getTime())) return false;
  const age=now.getTime()-published.getTime();
