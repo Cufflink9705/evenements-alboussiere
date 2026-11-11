@@ -1,13 +1,37 @@
 {
-  "publishedAt": "2026-10-17T10:00:00+02:00",
-  "expiresAt": "2026-10-18T10:00:00+02:00",
+  "publishedAt": "2026-11-11T09:00:00+01:00",
+  "expiresAt": "2026-11-12T09:00:00+01:00",
   "items": [
     {
-      "title": "Motocross de la Voulte-sur-Rhône",
-      "date": "Dimanche 25 octobre 2026 · horaires à confirmer",
-      "location": "La Voulte-sur-Rhône, Ardèche",
-      "description": "Championnat Drôme-Ardèche-Isère AuRA : 65cc, 85cc, 125cc et MX1. Vérifier horaires et confirmation sur le calendrier officiel.",
-      "url": "https://www.lmaura.org/evenements/"
+      "title": "Noël à l’Épervière – marché artisanal et animations",
+      "date": "Samedi 14 novembre 2026 · 16 h–21 h 30",
+      "location": "Port de l’Épervière, Valence",
+      "price": "Gratuit",
+      "description": "Marché artisanal, foodtrucks, DJ set et arrivée du Père Noël en jet-ski.",
+      "url": "https://www.drome-tourism.com/fiches/noel-a-leperviere-2/"
+    },
+    {
+      "title": "RAP FACTORY #1",
+      "date": "Samedi 14 novembre 2026 · 19 h",
+      "location": "Saint-Privat, Ardèche",
+      "price": "15 € en prévente · 18 € sur place",
+      "description": "Concert avec 2L, Mélan, T.I.N.A et Alma Z.",
+      "url": "https://www.ardeche-actu.com/agenda/"
+    },
+    {
+      "title": "Rencontres des Cinémas d’Europe – 28e édition",
+      "date": "Du 14 au 22 novembre 2026",
+      "location": "Aubenas, Ardèche",
+      "price": "À partir de 8 € / adulte",
+      "description": "Festival de cinéma européen.",
+      "url": "https://www.ardeche-guide.com/agenda/agenda-top-evenement/"
+    },
+    {
+      "title": "Marché aux vins de Cornas",
+      "date": "Du 4 au 6 décembre 2026",
+      "location": "Cornas, Ardèche",
+      "description": "Rendez-vous viticole annoncé par Ardèche Guide ; horaires à vérifier.",
+      "url": "https://www.ardeche-guide.com/agenda/agenda-top-evenement/"
     }
   ]
 }
