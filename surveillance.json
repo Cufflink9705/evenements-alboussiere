@@ -1,4 +1,20 @@
 {
-  "updated_at": "2026-10-06T19:59:41+02:00",
-  "results": []
+  "updated_at": "2026-11-11T09:00:00+01:00",
+  "results": [
+    {
+      "title": "Banquet Drômois – Le Canon Français",
+      "date": "8 mai 2027",
+      "location": "Drôme · lieu précis non annoncé dans la liste consultée",
+      "price": "Non communiqué",
+      "url": "https://link.me/lecanonfrancais",
+      "source": "Compte public Le Canon Français"
+    },
+    {
+      "title": "Rammstein – aucune date française officielle confirmée",
+      "date": "Vérification du 11 novembre 2026",
+      "location": "France",
+      "description": "Les résultats repérés pour « Rammstein on the Beach » correspondent à un hommage/tribute, et la tournée Till Lindemann est une tournée solo : ils ne sont pas comptés comme concerts du groupe Rammstein.",
+      "url": "https://www.rammstein.de/en/tour/"
+    }
+  ]
 }
