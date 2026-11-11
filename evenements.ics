@@ -1,98 +1,19 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Cufflink9705//Evenements Alboussiere VTT//FR
+PRODID:-//Cufflink9705//Evenements Alboussiere//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:VTT autour d'Alboussière
+X-WR-CALDESC:VTT, randonnées, nature, culture, famille et événements locaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-UID:drome-bike-festival-vtt-20261017@evenements-alboussiere
-DTSTAMP:20261017T080000Z
-DTSTART;TZID=Europe/Paris:20261017T080000
-DTEND;TZID=Europe/Paris:20261018T183000
-SUMMARY:Drôme Bike Festival - VTT
-LOCATION:Allan, 26780
-DESCRIPTION:Événement vélo majeur à distance élargie. VTT le samedi: 26 km/620 D+ facile, 45 km/1100 D+ difficile, 60 km/1600 D+ très difficile.
-URL:https://dromebikefestival.com/db-festival/
-END:VEVENT
-BEGIN:VEVENT
-UID:ride-mours-20261024@evenements-alboussiere
-DTSTAMP:20261017T080000Z
-DTSTART;TZID=Europe/Paris:20261024T173000
-DTEND;TZID=Europe/Paris:20261024T220000
-SUMMARY:RIDE in Mours - VTT nocturne
-LOCATION:Salle des Fêtes, Place des Bastides, 26540 Mours-Saint-Eusèbe
-DESCRIPTION:VTT/VTTAE nocturne, 22 ou 35 km. Inscription 17h30, départ groupé 19h. 12 EUR avec repas chaud. Éclairage et gilet fluo obligatoires.
-URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/2eme-edition-de-la-randonnee-nocturne-ride-in-mours-8008136/
-END:VEVENT
-BEGIN:VEVENT
-UID:fete-marrons-gillonnay-20261024@evenements-alboussiere
-DTSTAMP:20261017T080000Z
-DTSTART;TZID=Europe/Paris:20261024T120000
-DTEND;TZID=Europe/Paris:20261024T190000
-SUMMARY:VTT des Marrons - Gillonnay
-LOCATION:Espace Montgontier, 1062 route de Montgontier, 38260 Gillonnay
-DESCRIPTION:VTT 20 km familial, 35 km/600 D+, 50 km/1200 D+, et 20 km nocturne à 18h30. Inscriptions 12h-14h. 8 EUR licenciés, 11 EUR non licenciés. Inscription en ligne obligatoire.
-URL:https://terres-de-berlioz.com/fiche-sit/F7681719_fete-des-marrons-gillonnay/
-END:VEVENT
-BEGIN:VEVENT
-UID:rando-bois-dame-grane-20261025@evenements-alboussiere
-DTSTAMP:20261017T080000Z
-DTSTART;TZID=Europe/Paris:20261025T080000
-DTEND;TZID=Europe/Paris:20261025T100000
-SUMMARY:Rando VTT Le Bois de la Dame
-LOCATION:26400 Grane
-DESCRIPTION:Randonnée VTT ouverte aux VAE. Parcours de 23 à 56 km avec différents dénivelés. Départs 8h-10h.
-URL:https://www.jds.fr/valence/sports/balades/rando-vtt-le-bois-de-la-dame-1781823_A
-END:VEVENT
-BEGIN:VEVENT
-UID:marche-halloween-saint-clair-20261031@evenements-alboussiere
-DTSTAMP:20261017T080000Z
-DTSTART;TZID=Europe/Paris:20261031T080000
-DTEND;TZID=Europe/Paris:20261031T160000
-SUMMARY:Marche d'Halloween - Saint-Clair (VTT)
-LOCATION:Salle des fêtes, 2 rue du Souvenir, 07430 Saint-Clair
-DESCRIPTION:Épreuve VTT proposée dans le cadre de la Marche d'Halloween : parcours VTT 22 et 33 km. À partir de 8h. 3 à 12 EUR.
-URL:https://www.ardeche.com/saint-clair/marche-d-halloween-583726.html
-END:VEVENT
-BEGIN:VEVENT
-UID:sambonitaine-20261111@evenements-alboussiere
-DTSTAMP:20261017T080000Z
-DTSTART;TZID=Europe/Paris:20261111T073000
-DTEND;TZID=Europe/Paris:20261111T163000
-SUMMARY:La Sambonitaine - randonnée VTT
-LOCATION:Salle polyvalente, rue Jean-Sébastien Bach, 42380 Saint-Bonnet-le-Château
-DESCRIPTION:VTT/VTTAE. 18 km/450 D+, 37/850, 48/1200, 60/1550 et 76/1850. Accueil 7h30-11h, inscription en ligne obligatoire. Tarif non communiqué.
-URL:https://destinationgrandr.com/fete-et-manifestation/la-sambonitaine-31eme-edition-randonnee-vtt/
-END:VEVENT
-BEGIN:VEVENT
-UID:stage-vtt-goupil-5-7-quintenas-20261022@evenements-alboussiere
-DTSTAMP:20261017T080000Z
-DTSTART;TZID=Europe/Paris:20261022T140000
-DTEND;TZID=Europe/Paris:20261022T163000
-SUMMARY:Stage VTT - Goupilaventure - 5/7 ans
-LOCATION:Salle polyvalente, 07290 Quintenas
-DESCRIPTION:Stage VTT 5/7 ans. Tarif 20 EUR. Salle polyvalente, Quintenas.
-URL:https://www.ardeche-guide.com/preparer/activites-visites-famille/activites-jeunes-enfants/
-END:VEVENT
-BEGIN:VEVENT
-UID:stage-vtt-goupil-8-11-quintenas-20261022@evenements-alboussiere
-DTSTAMP:20261017T080000Z
-DTSTART;TZID=Europe/Paris:20261022T140000
-DTEND;TZID=Europe/Paris:20261022T163000
-SUMMARY:Stage VTT - Goupilaventure - 8/11 ans
-LOCATION:Salle polyvalente, 07290 Quintenas
-DESCRIPTION:Stage VTT 8/11 ans. Tarif 20 EUR. Salle polyvalente, Quintenas.
-URL:https://www.ardeche-guide.com/fete-manifestation/stage-vtt-goupilaventure-8-11-ans-7223614/
-END:VEVENT
-BEGIN:VEVENT
-UID:stage-vtt-goupil-8-11-quintenas-20261027@evenements-alboussiere
-DTSTAMP:20261017T080000Z
-DTSTART;TZID=Europe/Paris:20261027T140000
-DTEND;TZID=Europe/Paris:20261027T163000
-SUMMARY:Stage VTT - Goupilaventure - 8/11 ans
-LOCATION:Salle polyvalente, 07290 Quintenas
-DESCRIPTION:Stage VTT 8/11 ans. Tarif 20 EUR. Salle polyvalente, Quintenas.
-URL:https://www.ardeche-guide.com/fete-manifestation/stage-vtt-goupilaventure-8-11-ans-7223614/
+UID:vinsttistes-vtt@evenements-alboussiere
+DTSTAMP:20261111T080000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Vinst’tistes de la Côte Roannaise – randonnée VTT/XC
+LOCATION:Saint-Alban-les-Eaux\, 42370\, Loire
+DESCRIPTION:Randonnée VTT/X-Country annoncée le samedi 21 novembre 2026. Distance depuis Alboussière à vérifier \; événement conservé dans le rayon élargi\, à confirmer avant déplacement. Source : vttrando.fr.
+URL:https://www.vttrando.fr/rando-vtt-regions/randos-vtt-auvergne-rhone-alpes/
 END:VEVENT
 END:VCALENDAR
