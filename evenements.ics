@@ -7,13 +7,13 @@ X-WR-CALNAME:VTT autour d'Alboussière
 X-WR-CALDESC:VTT, randonnées, nature, culture, famille et événements locaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-UID:vinsttistes-vtt@evenements-alboussiere
+UID:sambonitaine-20261111@evenements-alboussiere
 DTSTAMP:20261111T080000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Vinst’tistes de la Côte Roannaise – randonnée VTT/XC
-LOCATION:Saint-Alban-les-Eaux\, 42370\, Loire
-DESCRIPTION:Randonnée VTT/X-Country annoncée le samedi 21 novembre 2026. Distance depuis Alboussière à vérifier \; événement conservé dans le rayon élargi\, à confirmer avant déplacement. Source : vttrando.fr.
-URL:https://www.vttrando.fr/rando-vtt-regions/randos-vtt-auvergne-rhone-alpes/
+DTSTART;TZID=Europe/Paris:20261111T073000
+DTEND;TZID=Europe/Paris:20261111T163000
+SUMMARY:La Sambonitaine - randonnée VTT
+LOCATION:Salle polyvalente, rue Jean-Sébastien Bach, 42380 Saint-Bonnet-le-Château
+DESCRIPTION:VTT/VTTAE. Parcours 18 km/450 D+, 37/850, 48/1200, 60/1550 et 76/1850. Accueil 7h30-11h, inscription en ligne obligatoire. Tarif non communiqué. Environ 85 km à vol d'oiseau depuis Alboussière ; trajet routier à calculer. Source : Destination Grand R. 
+URL:https://destinationgrandr.com/fete-et-manifestation/la-sambonitaine-31eme-edition-randonnee-vtt/
 END:VEVENT
 END:VCALENDAR
