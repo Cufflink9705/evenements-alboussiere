@@ -8,7 +8,7 @@ X-WR-CALDESC:VTT, randonnées, nature, culture, famille et événements locaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:expo-marc-defortescu@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261221
 SUMMARY:Exposition photo – Marc Defortescu
@@ -18,7 +18,7 @@ URL:https://www.ardeche-guide.com/agenda/agenda-semaine/
 END:VEVENT
 BEGIN:VEVENT
 UID:passerelles-afrique@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261205
 SUMMARY:Passerelles avec l’Afrique #6 – photographies de Sebastião Salgado
@@ -28,7 +28,7 @@ URL:https://www.ardeche-guide.com/Agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:expo-eventails-sevigne@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261116
 SUMMARY:Exposition – Les éventails au temps de Madame de Sévigné
@@ -38,7 +38,7 @@ URL:https://www.drome-tourism.com/fiches/exposition-les-eventails-au-temps-de-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:concert-orchestre-drome@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;TZID=Europe/Paris:20261113T200000
 DTEND;TZID=Europe/Paris:20261113T220000
 SUMMARY:Concert – Orchestre de chambre de la Drôme
@@ -48,7 +48,7 @@ URL:https://cartepatrimoine.ladrome.fr/evenement
 END:VEVENT
 BEGIN:VEVENT
 UID:conference-vanaude-magie@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Vendredi de la Vanaude – La Magie
@@ -58,7 +58,7 @@ URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/
 END:VEVENT
 BEGIN:VEVENT
 UID:concert-troubadingues@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261116
 SUMMARY:Concert – Les Troubadingues
@@ -68,7 +68,7 @@ URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/
 END:VEVENT
 BEGIN:VEVENT
 UID:noel-eperviere@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;TZID=Europe/Paris:20261114T160000
 DTEND;TZID=Europe/Paris:20261114T213000
 SUMMARY:Noël à l’Épervière – marché artisanal et animations
@@ -78,7 +78,7 @@ URL:https://www.drome-tourism.com/fiches/noel-a-leperviere-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:rap-factory@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;TZID=Europe/Paris:20261114T190000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:RAP FACTORY #1 – 2L\, Mélan\, T.I.N.A et Alma Z
@@ -88,7 +88,7 @@ URL:https://www.ardeche-actu.com/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:festiconf-rubik@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Festiconf’ – Un Rubik’s cube dans les urnes
@@ -98,7 +98,7 @@ URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/
 END:VEVENT
 BEGIN:VEVENT
 UID:festiconf-coup-poing@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Festiconf’ – Le Coup de poing n’est pas parti
@@ -108,7 +108,7 @@ URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/
 END:VEVENT
 BEGIN:VEVENT
 UID:festiconf-autre-histoire@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Festiconf’ – Une autre histoire
@@ -118,7 +118,7 @@ URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/
 END:VEVENT
 BEGIN:VEVENT
 UID:bourse-desaignes@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;TZID=Europe/Paris:20261114T140000
 DTEND;TZID=Europe/Paris:20261115T180000
 SUMMARY:Bourse aux jouets\, vêtements\, livres et puériculture
@@ -128,7 +128,7 @@ URL:https://www.ardeche-guide.com/Agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:rencontres-cinema-europe@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261123
 SUMMARY:Rencontres des Cinémas d’Europe – 28e édition
@@ -138,7 +138,7 @@ URL:https://www.ardeche-guide.com/agenda/agenda-top-evenement/
 END:VEVENT
 BEGIN:VEVENT
 UID:bourse-saint-donat@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;TZID=Europe/Paris:20261115T090000
 DTEND;TZID=Europe/Paris:20261115T160000
 SUMMARY:Bourse aux jouets
@@ -148,7 +148,7 @@ URL:https://www.valence-romans-tourisme.com/fr/sorganiser/sorties/tous-les-evene
 END:VEVENT
 BEGIN:VEVENT
 UID:bourse-coucouron@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;TZID=Europe/Paris:20261115T090000
 DTEND;TZID=Europe/Paris:20261115T160000
 SUMMARY:Bourse aux jouets et aux vêtements
@@ -158,7 +158,7 @@ URL:https://www.ardeche-guide.com/Agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:randonneurs-boutieres@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;TZID=Europe/Paris:20261115T093000
 DTEND;TZID=Europe/Paris:20261115T150000
 SUMMARY:Randonneurs des Boutières – Suc de l’Eyre
@@ -168,7 +168,7 @@ URL:https://www.ardeche-hautes-vallees.fr/agenda/randonneurs-des-boutieres-bouci
 END:VEVENT
 BEGIN:VEVENT
 UID:salon-picturales@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261123
 SUMMARY:Salon Les Picturales
@@ -178,7 +178,7 @@ URL:https://www.valence-romans-tourisme.com/fr/loffice/actualites/notre-agenda-d
 END:VEVENT
 BEGIN:VEVENT
 UID:festiv-jazz@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261122
 SUMMARY:Festiv’Jazz – 20e anniversaire
@@ -188,7 +188,7 @@ URL:https://www.valence-romans-tourisme.com/fr/loffice/actualites/notre-agenda-d
 END:VEVENT
 BEGIN:VEVENT
 UID:journee-archeologie-drome@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Journée archéologique de la Drôme 2026
@@ -198,7 +198,7 @@ URL:https://cartepatrimoine.ladrome.fr/evenement
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-saint-felicien@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Marché de Noël
@@ -208,7 +208,7 @@ URL:https://www.ardeche-actu.com/agenda/
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-vins-cornas@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261207
 SUMMARY:Marché aux vins de Cornas
@@ -218,7 +218,7 @@ URL:https://www.ardeche-guide.com/agenda/agenda-top-evenement/
 END:VEVENT
 BEGIN:VEVENT
 UID:telethon-labatie@evenements-alboussiere
-DTSTAMP:20261111T080000Z
+DTSTAMP:20261112T061500Z
 DTSTART;TZID=Europe/Paris:20261205T133000
 DTEND;TZID=Europe/Paris:20261205T170000
 SUMMARY:Téléthon de la Ritournelle – randonnée
@@ -227,13 +227,43 @@ DESCRIPTION:Randonnée annoncée le 5 décembre à partir de 13 h 30. Détails d
 URL:https://www.ardeche-guide.com/Agenda/
 END:VEVENT
 BEGIN:VEVENT
-UID:sambonitaine-20261111@evenements-alboussiere
-DTSTAMP:20261111T080000Z
-DTSTART;TZID=Europe/Paris:20261111T073000
-DTEND;TZID=Europe/Paris:20261111T163000
-SUMMARY:La Sambonitaine - randonnée VTT
-LOCATION:Salle polyvalente, rue Jean-Sébastien Bach, 42380 Saint-Bonnet-le-Château
-DESCRIPTION:VTT/VTTAE. Parcours 18 km/450 D+, 37/850, 48/1200, 60/1550 et 76/1850. Accueil 7h30-11h, inscription en ligne obligatoire. Tarif non communiqué. Distance depuis Alboussière calculée par la carte du site. Source : Destination Grand R. 
-URL:https://destinationgrandr.com/fete-et-manifestation/la-sambonitaine-31eme-edition-randonnee-vtt/
+UID:desaignes-bourse-20261114@evenements-alboussiere
+DTSTAMP:20261112T061500Z
+DTSTART;TZID=Europe/Paris:20261114T140000
+DTEND;TZID=Europe/Paris:20261115T150000
+SUMMARY:Bourse aux jouets, vêtements, livres et articles de puériculture
+LOCATION:Espace culturel, Montée des écoles, 07570 Désaignes
+DESCRIPTION:Accès libre. Samedi 14 novembre 14h-17h et dimanche 15 novembre 8h-15h. Tables exposants : 5 € ou 8 € les deux. Source : Office de tourisme du Pays de Lamastre.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/bourse-aux-jouets-vetements-livres-et-articles-de-puericulture-5954781/
+END:VEVENT
+BEGIN:VEVENT
+UID:desaignes-troc-plantes-20261115@evenements-alboussiere
+DTSTAMP:20261112T061500Z
+DTSTART;TZID=Europe/Paris:20261115T090000
+DTEND;TZID=Europe/Paris:20261115T123000
+SUMMARY:Brocante - Troc aux plantes
+LOCATION:Sous le préau près de l'espace culturel, 134 rue des Écoles, 07570 Désaignes
+DESCRIPTION:Troc d'automne de plantes, surplus de jardin et vieux outils ; thé, café et gâteaux. Tarif exposant à confirmer. Source : Office de tourisme du Pays de Lamastre.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/brocante-troc-aux-plantes-7568985/
+END:VEVENT
+BEGIN:VEVENT
+UID:desaignes-film-ardeche-20261118@evenements-alboussiere
+DTSTAMP:20261112T061500Z
+DTSTART;TZID=Europe/Paris:20261118T203000
+DTEND;TZID=Europe/Paris:20261118T223000
+SUMMARY:Diffusion du film documentaire « Ardèche » en présence de l'équipe
+LOCATION:Salle des fêtes, 07570 Désaignes
+DESCRIPTION:Projection-rencontre avec l'équipe du film. Tarif plein : 6 €. Source : Office de tourisme du Pays de Lamastre / Écran Village.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/diffusion-du-film-documentaire-ardeche-8027688/
+END:VEVENT
+BEGIN:VEVENT
+UID:concert-colombie-grozon-20261121@evenements-alboussiere
+DTSTAMP:20261112T061500Z
+DTSTART;TZID=Europe/Paris:20261121T200000
+DTEND;TZID=Europe/Paris:20261121T213000
+SUMMARY:Concert « Colombie » – tango colombien
+LOCATION:Château de Grozon, 70 rue du Château, Saint-Barthélemy-Grozon
+DESCRIPTION:Carmen Hernandez et Rudi Flores. Entrée libre. Source : Office de tourisme du Pays de Lamastre.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/concert-colombie-8056351/
 END:VEVENT
 END:VCALENDAR
