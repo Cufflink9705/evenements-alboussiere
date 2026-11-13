@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T06:23:04+01:00",
-  "publishedAt": "2026-11-13T06:23:04+01:00",
-  "expiresAt": "2026-11-14T06:23:04+01:00",
+  "generatedAt": "2026-11-13T06:52:44+01:00",
+  "publishedAt": "2026-11-13T06:52:44+01:00",
+  "expiresAt": "2026-11-14T06:52:44+01:00",
   "items": [
     {
       "title": "Rando VTT du Téléthon – Frontonas",
@@ -98,6 +98,94 @@
       "category": "Culture et loisir",
       "summary": "Deux expositions contemporaines ; 9 € plein tarif, 6 € réduit, forfait famille 20 €, gratuit moins de 10 ans.",
       "url": "https://www.cevennes-ardeche.com/evenement/expositions-de-la-saison-automne-hiver-du-chateau-daubenas-7508523/"
+    },
+    {
+      "title": "Foire aux jouets du Secours populaire",
+      "date": "2026-11-12/2026-11-15",
+      "location": "Aubenas",
+      "category": "Vie locale",
+      "summary": "Foire solidaire encore ouverte ce week-end : samedi 9h-17h, dimanche 9h-12h ; accès libre.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/foire-aux-jouets-du-comite-du-secours-populaire-7171978/"
+    },
+    {
+      "title": "Saint-Péray, un week-end scintillant",
+      "date": "2026-12-04/2026-12-06",
+      "location": "Saint-Péray",
+      "category": "Vie locale",
+      "summary": "Marché de Noël, animations et feu d’artifice du 4 au 6 décembre ; entrée libre.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/saint-peray-un-week-end-scintillant-399459/"
+    },
+    {
+      "title": "Marché de Noël artisanal",
+      "date": "2026-12-05",
+      "location": "Vernoux-en-Vivarais",
+      "category": "Vie locale",
+      "summary": "65 exposants, cinéma, goûter pour enfants et spectacle de feu ; accès libre.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-artisanal-7822282/"
+    },
+    {
+      "title": "Le Père Noël est à MuséAl",
+      "date": "2026-12-04/2026-12-06",
+      "location": "Alba-la-Romaine",
+      "category": "Famille et nature",
+      "summary": "Rencontre avec le Père Noël et la Mère Noël, photo souvenir et entrée gratuite au musée.",
+      "url": "https://www.sud-ardeche-tourisme.com/se-divertir/animations-et-festivites/8054322_le-pere-noel-est-a-museal/"
+    },
+    {
+      "title": "Marché de Noël de Soyons",
+      "date": "2026-12-12/2026-12-13",
+      "location": "Soyons",
+      "category": "Vie locale",
+      "summary": "Une cinquantaine d’exposants et animations familiales ; samedi 14h-22h, dimanche 10h-18h, accès libre.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-4872521/"
+    },
+    {
+      "title": "Marché de Noël nocturne de Désaignes",
+      "date": "2026-12-18",
+      "location": "Désaignes",
+      "category": "Vie locale",
+      "summary": "Producteurs, créateurs et artisans locaux à partir de 17h ; entrée gratuite.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-desaignes-6267906/"
+    },
+    {
+      "title": "Marché de Noël de Cornas",
+      "date": "2026-12-19/2026-12-20",
+      "location": "Cornas",
+      "category": "Vie locale",
+      "summary": "Deuxième édition, créateurs, artisanat et produits locaux ; entrée libre.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-7379693/"
+    },
+    {
+      "title": "6e Festival Lumières Sauvages",
+      "date": "2026-11-13/2027-03-27",
+      "location": "Safari de Peaugres",
+      "category": "Famille et nature",
+      "summary": "Parcours de lanternes animales et végétales ; séances selon calendrier, notamment mercredis, vendredis et week-ends en novembre-décembre.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/6eme-festival-lumieres-sauvages-au-safari-de-peaugres-5853831/"
+    },
+    {
+      "title": "Exposition « POUET POUET, Images de cirque »",
+      "date": "2026-11-14/2027-01-29",
+      "location": "Bourg-Saint-Andéol",
+      "category": "Culture et loisir",
+      "summary": "Exposition gratuite réunissant 14 artistes autour du cirque, de l’image et de l’édition.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/exposition-pouet-pouet-images-de-cirque-7976966/"
+    },
+    {
+      "title": "Concert du Nouvel An",
+      "date": "2027-01-09/2027-01-10",
+      "location": "Valence",
+      "category": "Culture et loisir",
+      "summary": "Trois représentations au Théâtre de la Ville, du 9 au 10 janvier ; tarifs 14 à 35 €.",
+      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/concert-du-nouvel-an-7918904/"
+    },
+    {
+      "title": "La magie des crèches au Mas Girodier",
+      "date": "2026-12-05/2027-01-10",
+      "location": "Colombier-le-Jeune",
+      "category": "Famille et nature",
+      "summary": "Grande crèche et parcours de crèches dans le village, avec plusieurs dates jusqu’au 10 janvier ; accès libre.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/la-magie-des-creches-au-mas-girodier-colombier-le-jeune-8047543/"
     }
   ]
 }
