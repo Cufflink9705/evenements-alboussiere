@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Europe/Paris
 X-WR-CALDESC:VTT, VTTAE, enduro VTT, endurando, XC et DH uniquement. Exclusion vélo de route, cyclotourisme, Gravel et enduro moto.
 BEGIN:VEVENT
 UID:vtt-frontonas@evenements-alboussiere
-DTSTAMP:20261113T052304Z
+DTSTAMP:20261113T055244Z
 DTSTART:20261205T083000
 DTEND:20261205T133000
 SUMMARY:Rando VTT du Téléthon de Frontonas
@@ -24,7 +24,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:telethon-bastide-vtt@evenements-alboussiere
-DTSTAMP:20261113T052304Z
+DTSTAMP:20261113T055244Z
 DTSTART:20261205T140000
 SUMMARY:Téléthon – randonnée VTT électrique
 LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
