@@ -1,9 +1,37 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Cufflink9705//Evenements Alboussiere//FR
+PRODID:-//Cufflink9705//Agenda VTT Alboussiere//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:VTT autour d'Alboussière
-X-WR-CALDESC:VTT, randonnées, nature, culture, famille et événements locaux
+X-WR-CALNAME:Agenda VTT / VTTAE autour d’Alboussière
 X-WR-TIMEZONE:Europe/Paris
-END:VCALENDAR
+X-WR-CALDESC:VTT, VTTAE, enduro, endurando, XC et DH uniquement. Exclusion vélo de route, cyclotourisme et Gravel.
+
+ BEGIN:VEVENT
+ UID:vtt-frontonas@evenements-alboussiere
+ DTSTAMP:20261113T052304Z
+ DTSTART:20261205T083000
+ DTEND:20261205T133000
+ SUMMARY:Rando VTT du Téléthon de Frontonas
+ LOCATION:Halle des sports\, 38290 FrontonasDESCRIPTION:VTT/VTTAE samedi 5 décembre : départs 8h30–10h\, retour a
+ vant 13h30. Parcours 12\, 25 ou 39 km \; D+ 130\, 430 ou 680 m. 8 € adu
+ lte\, 6 € moins de 16 ans. Environ 85 km à vol d’oiseau \; trajet ro
+ utier potentiellement supérieur à 100 km.URL:https://www.helloasso.com/associations/afm-telethon-frontonas/eveneme
+ nts/rando-vtt-du-telethon
+ CATEGORIES:VTT
+ STATUS:CONFIRMED
+ END:VEVENT
+ BEGIN:VEVENT
+ UID:telethon-bastide@evenements-alboussiere
+ DTSTAMP:20261113T052304Z
+ DTSTART:20261205T090000
+ DTEND:20261205T180000SUMMARY:Téléthon – VTT électrique\, quad\, moto et randonnées péde
+ stres
+ LOCATION:Salle polyvalente\, 48250 La Bastide-PuylaurentDESCRIPTION:Samedi 5 décembre : quad/moto à 9h et 14h (10 €)\, VTT é
+ lectrique à 14h (10 €)\, marche 10 km à 13h30 et 5 km à 14h30 (5 €
+ ). Repas 20 €\, réservation avant le 1er décembre. Environ 75 km à v
+ ol d’oiseau d’Alboussière.
+ URL:https://www.jds.fr/manifestations/telethon-1838483_A
+ CATEGORIES:Sport
+ STATUS:CONFIRMED
+ END:VEVENTEND:VCALENDAR
