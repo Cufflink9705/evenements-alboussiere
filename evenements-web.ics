@@ -1089,17 +1089,14 @@ CATEGORIES:VTT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:telethon-bastide@evenements-alboussiere
+UID:telethon-bastide-moto@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261205T090000
-DTEND:20261205T180000
-SUMMARY:Téléthon – VTT électrique\, quad\, moto et randonnées pédest
- res
+SUMMARY:Téléthon – randonnées quad et moto
 LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
-DESCRIPTION:Samedi 5 décembre : quad/moto à 9h et 14h (10 €)\, VTT éle
- ctrique à 14h (10 €)\, marche 10 km à 13h30 et 5 km à 14h30 (5 €). 
- Repas 20 €\, réservation avant le 1er décembre. Environ 75 km à vol d
- ’oiseau d’Alboussière.
+DESCRIPTION:Samedi 5 décembre\, départs annoncés à 9h et 14h. Randonné
+ es quad et moto \; tarif annoncé : 10 € par personne. Réservation du r
+ epas avant le 1er décembre.
 URL:https://www.jds.fr/manifestations/telethon-1838483_A
 CATEGORIES:Sport
 STATUS:CONFIRMED
@@ -1131,6 +1128,19 @@ CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:telethon-bastide-marche@evenements-alboussiere
+DTSTAMP:20261113T052304Z
+DTSTART:20261205T133000
+SUMMARY:Téléthon – randonnées pédestres 5 et 10 km
+LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
+DESCRIPTION:Samedi 5 décembre : marche 10 km à 13h30 et 5 km à 14h30. Ta
+ rif annoncé : 5 € par personne. Repas du terroir en option\, 20 € sur
+  réservation.
+URL:https://www.jds.fr/manifestations/telethon-1838483_A
+CATEGORIES:Sport
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:rando-sainte-eulalie@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261205T140000
@@ -1141,6 +1151,19 @@ DESCRIPTION:Randonnée solidaire samedi 5 décembre à 14h\, environ 15\,3
 URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
  /2/
 CATEGORIES:Sport
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:telethon-bastide-vtt@evenements-alboussiere
+DTSTAMP:20261113T052304Z
+DTSTART:20261205T140000
+SUMMARY:Téléthon – randonnée VTT électrique
+LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
+DESCRIPTION:Samedi 5 décembre à 14h. Randonnée VTT électrique \; tarif 
+ annoncé : 10 € par personne. Environ 75 km à vol d’oiseau d’Albous
+ sière.
+URL:https://www.jds.fr/manifestations/telethon-1838483_A
+CATEGORIES:VTT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
