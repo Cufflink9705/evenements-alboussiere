@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Agenda VTT / VTTAE autour d’Alboussière
 X-WR-TIMEZONE:Europe/Paris
-X-WR-CALDESC:VTT, VTTAE, enduro, endurando, XC et DH uniquement. Exclusion vélo de route, cyclotourisme et Gravel.
+X-WR-CALDESC:VTT, VTTAE, enduro VTT, endurando, XC et DH uniquement. Exclusion vélo de route, cyclotourisme, Gravel et enduro moto.
 BEGIN:VEVENT
 UID:vtt-frontonas@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -23,19 +23,16 @@ CATEGORIES:VTT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:telethon-bastide@evenements-alboussiere
+UID:telethon-bastide-vtt@evenements-alboussiere
 DTSTAMP:20261113T052304Z
-DTSTART:20261205T090000
-DTEND:20261205T180000
-SUMMARY:Téléthon – VTT électrique\, quad\, moto et randonnées pédest
- res
+DTSTART:20261205T140000
+SUMMARY:Téléthon – randonnée VTT électrique
 LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
-DESCRIPTION:Samedi 5 décembre : quad/moto à 9h et 14h (10 €)\, VTT éle
- ctrique à 14h (10 €)\, marche 10 km à 13h30 et 5 km à 14h30 (5 €). 
- Repas 20 €\, réservation avant le 1er décembre. Environ 75 km à vol d
- ’oiseau d’Alboussière.
+DESCRIPTION:Samedi 5 décembre à 14h. Randonnée VTT électrique \; tarif 
+ annoncé : 10 € par personne. Environ 75 km à vol d’oiseau d’Albous
+ sière.
 URL:https://www.jds.fr/manifestations/telethon-1838483_A
-CATEGORIES:Sport
+CATEGORIES:VTT
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
