@@ -9,142 +9,8 @@ X-WR-CALDESC:Événements publics autour d’Alboussière ; horizon 60 jo
  urs ; rayon principal 75 km, intéressant jusqu’à 100 km, exceptionne
  l jusqu’à 150 km.
 BEGIN:VEVENT
-UID:expo-seibel@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261003
-DTEND:20270101
-SUMMARY:Expositions à la galerie Seibel
-LOCATION:Galerie Seibel\, 6 place de l’Hôtel de Ville\, 07200 Aubenas
-DESCRIPTION:Exposition collective Heide Rose\, Jean-Bernard Millau et Lou
- is Treserras\, annoncée jusqu’au 31/12/2026. Horaires à vérifier av
- ant déplacement.
-URL:https://www.aubenas-vals.com/agenda-ardeche/expositions-a-la-galerie-
- seibel-avec-heide-rose-jean-bernard-millau-louis-treserras/occ/50/
-CATEGORIES:Culture et loisir
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:expo-chateau@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261017
-DTEND:20270104
-SUMMARY:Expositions automne-hiver du Château d’Aubenas
-LOCATION:Le Château\, place de l’Hôtel de Ville\, 07200 Aubenas
-DESCRIPTION:Deux expositions contemporaines. Jusqu’au 18/12 : mercredi 
- 13h–18h\, samedi et dimanche 11h–18h \; du 19/12 au 03/01 : mercredi
-  à dimanche 11h–18h. 9 € plein tarif\, 6 € réduit\, forfait fami
- lle 20 €\, gratuit moins de 10 ans.
-URL:https://www.cevennes-ardeche.com/evenement/expositions-de-la-saison-a
- utomne-hiver-du-chateau-daubenas-7508523/
-CATEGORIES:Culture et loisir
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:expo-biodiv@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261103
-DTEND:20261129
-SUMMARY:Exposition « La biodiversité s’expose »
-LOCATION:Médiathèque\, place de la République\, 07560 Montpezat-sous-B
- auzon
-DESCRIPTION:Exposition environnementale annoncée du 3 au 28 novembre. Ho
- raires variables \; vérifier auprès de la médiathèque.
-URL:https://www.ardeche-guide.com/agenda/
-CATEGORIES:Famille et nature
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:expo-irene@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261109
-DTEND:20261130
-SUMMARY:Exposition Irène Dondey et Julie Gilgenmann
-LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600
- Vals-les-Bains
-DESCRIPTION:Sculptures en grès et peintures. Lun–ven 9h–12h et 13h30
- –17h30 \; sam. 14h–18h \; dim. 10h–12h et 14h30–18h.
-URL:https://www.vivop.fr/ville/vesseaux-07339/evenement/exposition-irene-
- dondey-et-julie-gilgenmann/apidae-7987180
-CATEGORIES:Culture et loisir
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:expo-ardeche-belle@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261110
-DTEND:20261123
-SUMMARY:Expositions « Ardèche\, la belle » et « De la plume au vol »
-LOCATION:Médiathèque Jacques Dupin\, place de l’Hôtel de Ville\, 070
- 00 Privas
-DESCRIPTION:Deux expositions annoncées du 10 au 22 novembre. Horaires d
- étaillés à confirmer auprès de la médiathèque.
-URL:https://www.ardeche-guide.com/agenda/
-CATEGORIES:Culture et loisir
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:expo-marc-defortescu@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261111
-DTEND:20261221
-SUMMARY:Exposition photo – Marc Defortescu
-LOCATION:Saint-Vincent-de-Barrès\, Ardèche
-DESCRIPTION:Exposition photo présentée du 24 septembre au 20 décembre 
- 2026. Horaires et conditions d’accès à vérifier auprès du lieu. So
- urce : Ardèche Guide.
-URL:https://www.ardeche-guide.com/agenda/agenda-semaine/
-STATUS:CONFIRMED
-CATEGORIES:Culture et loisir
-END:VEVENT
-BEGIN:VEVENT
-UID:passerelles-afrique@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261111
-DTEND:20261205
-SUMMARY:Passerelles avec l’Afrique #6 – photographies de Sebastião S
- algado
-LOCATION:Privas\, Ardèche
-DESCRIPTION:Exposition dans le cadre du festival Images et Paroles d’Af
- rique #27\, du 19 octobre au 4 décembre 2026. Horaires détaillés à v
- érifier. Source : Ardèche Guide.
-URL:https://www.ardeche-guide.com/Agenda/
-STATUS:CONFIRMED
-CATEGORIES:Culture et loisir
-END:VEVENT
-BEGIN:VEVENT
-UID:expo-eventails-sevigne@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261111
-DTEND:20261116
-SUMMARY:Exposition – Les éventails au temps de Madame de Sévigné
-LOCATION:Hôtel de Clérieu\, place aux Herbes\, 26100 Romans-sur-Isère
-DESCRIPTION:Exposition du 7 au 15 novembre. Ouverture les mardi\, mercred
- i\, jeudi\, vendredi\, jours fériés et week-ends\, 10 h–19 h. Gratui
- t. Le 11 novembre à partir de 15 h : lectures\, conférence et démonst
- ration de fabrication d’un éventail. Source : La Drôme Tourisme.
-URL:https://www.drome-tourism.com/fiches/exposition-les-eventails-au-temp
- s-de-madame-de-sevigne/
-STATUS:CONFIRMED
-CATEGORIES:Culture et loisir
-END:VEVENT
-BEGIN:VEVENT
-UID:rencontres-automnales@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261112
-DTEND:20261116
-SUMMARY:Rencontres automnales de Chomérac
-LOCATION:Salle du Triolet et lieux partenaires\, 07210 Chomérac
-DESCRIPTION:Rencontres culturelles et expositions du 12 au 15 novembre\, 
- généralement 10h–18h \; table ronde samedi 14/11 à 18h30. Accès gr
- atuit.
-URL:https://www.coeur-ardeche.fr/fete-manifestation/les-rencontres-automn
- ales-8042088/
-CATEGORIES:Culture et loisir
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:conference-vanaude-magie@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261113
 DTEND:20261114
 SUMMARY:Vendredi de la Vanaude – La Magie
@@ -159,7 +25,7 @@ CATEGORIES:Autre
 END:VEVENT
 BEGIN:VEVENT
 UID:concert-troubadingues@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261113
 DTEND:20261116
 SUMMARY:Concert – Les Troubadingues
@@ -173,7 +39,7 @@ CATEGORIES:Culture et loisir
 END:VEVENT
 BEGIN:VEVENT
 UID:expo-pokemon@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261113
 DTEND:20261116
 SUMMARY:Exposition photos et peintures + bourse Pokémon
@@ -188,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:salon-automne@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261113
 DTEND:20261130
 SUMMARY:33e Salon d’automne – exposition
@@ -201,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:concert-orchestre-drome@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261113T200000
 DTEND:20261113T220000
 SUMMARY:Concert – Orchestre de chambre de la Drôme
@@ -215,7 +81,7 @@ CATEGORIES:Culture et loisir
 END:VEVENT
 BEGIN:VEVENT
 UID:par-dela@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261113T203000
 DTEND:20261113T220000
 SUMMARY:Par-delà les nouages – cirque et danse
@@ -229,7 +95,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rock-town@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261113T203000
 DTEND:20261116T010000
 SUMMARY:Rock This Town #9 – festival rock
@@ -242,7 +108,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:festiconf-rubik@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114
 DTEND:20261115
 SUMMARY:Festiconf’ – Un Rubik’s cube dans les urnes
@@ -257,7 +123,7 @@ CATEGORIES:Culture et loisir
 END:VEVENT
 BEGIN:VEVENT
 UID:festiconf-coup-poing@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114
 DTEND:20261115
 SUMMARY:Festiconf’ – Le Coup de poing n’est pas parti
@@ -272,7 +138,7 @@ CATEGORIES:Culture et loisir
 END:VEVENT
 BEGIN:VEVENT
 UID:festiconf-autre-histoire@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114
 DTEND:20261115
 SUMMARY:Festiconf’ – Une autre histoire
@@ -287,7 +153,7 @@ CATEGORIES:Culture et loisir
 END:VEVENT
 BEGIN:VEVENT
 UID:rencontres-cinema-europe@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114
 DTEND:20261123
 SUMMARY:Rencontres des Cinémas d’Europe – 28e édition
@@ -301,7 +167,7 @@ CATEGORIES:Culture et loisir
 END:VEVENT
 BEGIN:VEVENT
 UID:salon-picturales@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114
 DTEND:20261123
 SUMMARY:Salon Les Picturales
@@ -316,7 +182,7 @@ CATEGORIES:Culture et loisir
 END:VEVENT
 BEGIN:VEVENT
 UID:grande-roue@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114
 DTEND:20270111
 SUMMARY:Fééries d’Hiver – Grande roue
@@ -329,7 +195,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:boite-noel@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114
 DTEND:20261216
 SUMMARY:Fééries d’Hiver – Boîte aux lettres du Père Noël
@@ -343,7 +209,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:atelier-poterie@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T093000
 DTEND:20261114T120000
 SUMMARY:Atelier Café-Poterie
@@ -356,7 +222,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noel-chamberliens@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T100000
 DTEND:20261114T180000
 SUMMARY:Marché de Noël des Chamber’Liens
@@ -370,7 +236,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:desaignes-bourse-20261114@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T140000
 DTEND:20261115T150000
 SUMMARY:Bourse aux jouets, vêtements, livres et articles de puéricultur
@@ -386,7 +252,7 @@ CATEGORIES:Vie locale
 END:VEVENT
 BEGIN:VEVENT
 UID:fresque-sante@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T140000
 DTEND:20261114T170000
 SUMMARY:Fresque participative « Une seule santé »
@@ -400,7 +266,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:visite-st-julien@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T143000
 DTEND:20261114T163000
 SUMMARY:Visite-découverte de Saint-Julien-en-Saint-Alban
@@ -413,7 +279,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:visite-parc@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T143000
 SUMMARY:Visite guidée : les petits secrets du parc de la Marquise
 LOCATION:Parc de la Marquise\, 26000 Valence
@@ -426,7 +292,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:visite-chateau@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T143000
 SUMMARY:Visite historique du Château d’Aubenas
 LOCATION:Le Château\, place de l’Hôtel de Ville\, 07200 Aubenas
@@ -440,7 +306,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:tournoi-echecs@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T150000
 DTEND:20261114T183000
 SUMMARY:Tournoi d’échecs au Grand Café
@@ -453,7 +319,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noel-eperviere@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T160000
 DTEND:20261114T213000
 SUMMARY:Noël à l’Épervière – marché artisanal et animations
@@ -468,7 +334,7 @@ CATEGORIES:Famille et nature
 END:VEVENT
 BEGIN:VEVENT
 UID:rap-factory@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T190000
 DTEND:20261114T220000
 SUMMARY:RAP FACTORY #1 – 2L\, Mélan\, T.I.N.A et Alma Z
@@ -481,7 +347,7 @@ CATEGORIES:Culture et loisir
 END:VEVENT
 BEGIN:VEVENT
 UID:soiree-paella@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T190000
 DTEND:20261114T230000
 SUMMARY:Soirée dansante avec Ludovic Clot et paella
@@ -496,7 +362,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:akyllisso@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T200000
 SUMMARY:Concert Akyllisso Trio
 LOCATION:Le Cause Toujours\, 8 rue Gaston-Rey\, 26000 Valence
@@ -508,7 +374,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:impro@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114T203000
 SUMMARY:Spectacle d’improvisation « Petit concept entre amis »
 LOCATION:MJC Châteauvert\, 26000 Valence
@@ -520,7 +386,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bourse-saint-donat@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261115T090000
 DTEND:20261115T160000
 SUMMARY:Bourse aux jouets
@@ -536,7 +402,7 @@ CATEGORIES:Vie locale
 END:VEVENT
 BEGIN:VEVENT
 UID:bourse-coucouron@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261115T090000
 DTEND:20261115T160000
 SUMMARY:Bourse aux jouets et aux vêtements
@@ -550,7 +416,7 @@ CATEGORIES:Vie locale
 END:VEVENT
 BEGIN:VEVENT
 UID:desaignes-troc-plantes-20261115@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261115T090000
 DTEND:20261115T123000
 SUMMARY:Brocante - Troc aux plantes
@@ -566,7 +432,7 @@ CATEGORIES:Vie locale
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-suc-eyre@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261115T093000
 SUMMARY:Randonneurs des Boutières – Suc de l’Eyre
 LOCATION:Le Cheylard\, départ communiqué par le club
@@ -579,7 +445,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:festiv-jazz@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261118
 DTEND:20261122
 SUMMARY:Festiv’Jazz – 20e anniversaire
@@ -594,7 +460,7 @@ CATEGORIES:Culture et loisir
 END:VEVENT
 BEGIN:VEVENT
 UID:parents-nov@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261118T090000
 SUMMARY:Atelier parents-enfants
 LOCATION:Centre socioculturel\, Saint-Agrève
@@ -607,7 +473,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:elles-n-en-font@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261118T183000
 SUMMARY:Elles n’en font qu’à leur tête !
 LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600
@@ -620,7 +486,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:desaignes-film-ardeche-20261118@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261118T203000
 DTEND:20261118T223000
 SUMMARY:Diffusion du film documentaire « Ardèche » en présence de l'
@@ -635,7 +501,7 @@ CATEGORIES:Culture et loisir
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-saint-prix@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261119T093000
 SUMMARY:Randonneurs des Boutières – Saint-Prix
 LOCATION:Saint-Prix\, Ardèche
@@ -648,7 +514,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-dents@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261119T133000
 SUMMARY:Rando Saint-Agrèvoise – Les Dents du Diable
 LOCATION:Saint-Agrève\, Ardèche
@@ -661,7 +527,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:journee-archeologie-drome@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261121
 DTEND:20261122
 SUMMARY:Journée archéologique de la Drôme 2026
@@ -675,7 +541,7 @@ CATEGORIES:Autre
 END:VEVENT
 BEGIN:VEVENT
 UID:foire-boudin@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261121T070000
 DTEND:20261121T190000
 SUMMARY:Foire au boudin
@@ -688,7 +554,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ping-pong@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261121T090000
 SUMMARY:Tournoi amical de tennis de table
 LOCATION:Saint-Agrève\, salle communale indiquée par l’organisateur
@@ -701,7 +567,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:stage-danse@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261121T090000
 DTEND:20261121T120000
 SUMMARY:Stage de danse avec Clémence
@@ -715,7 +581,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:salon-artisanat@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261121T100000
 DTEND:20261122T180000
 SUMMARY:Salon de l’Artisanat de la Drôme
@@ -728,7 +594,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:requiem@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261121T150000
 DTEND:20261121T233000
 SUMMARY:Requiem Rebelle – festival de musique
@@ -742,7 +608,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soiree-magie@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261121T183000
 DTEND:20261121T220000
 SUMMARY:Soirée « Magie de l’optimisme »
@@ -755,7 +621,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:concert-colombie-grozon-20261121@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261121T200000
 DTEND:20261121T213000
 SUMMARY:Concert « Colombie » – tango colombien
@@ -769,7 +635,7 @@ CATEGORIES:Culture et loisir
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-st-barthelemy@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261122T123000
 SUMMARY:Randonnée pédestre Saint-Barthélemy-le-Meil – Les terrasses
 LOCATION:Vernoux-en-Vivarais\, départ communiqué par l’association
@@ -781,7 +647,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a-travers-chant@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261122T150000
 SUMMARY:Concert « À travers chant »
 LOCATION:Centre culturel\, place Victor-Hugo\, 07270 Lamastre
@@ -793,7 +659,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:padgels@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261122T150000
 DTEND:20261122T170000
 SUMMARY:Projection « Padgels 3 – Exode »
@@ -806,7 +672,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-boussoulet@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261126T133000
 SUMMARY:Rando Saint-Agrèvoise – Boussoulet
 LOCATION:Boussoulet\, Ardèche
@@ -819,7 +685,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:joga-bonito@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261126T200000
 SUMMARY:Joga Bonito – spectacle hip-hop et freestyle
 LOCATION:Théâtre de Privas\, place André-Malraux\, 07000 Privas
@@ -831,7 +697,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:illuminations@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261127
 DTEND:20270111
 SUMMARY:Fééries d’Hiver – Illuminations de Noël
@@ -844,7 +710,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vannerie-grozon@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261127T080000
 DTEND:20261128T180000
 SUMMARY:Stage de vannerie
@@ -858,7 +724,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:village-noel@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261127T180000
 DTEND:20261228T000000
 SUMMARY:Fééries d’Hiver – Village de Noël
@@ -872,7 +738,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soft-rock@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261127T183000
 DTEND:20261220T203000
 SUMMARY:Fééries d’Hiver – Concerts Soft Rock
@@ -886,7 +752,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ateliers-creatifs@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261128
 DTEND:20261224
 SUMMARY:Fééries d’Hiver – Ateliers créatifs
@@ -901,7 +767,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-telethon-cheylard@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261128T080000
 SUMMARY:Randonnée au profit du Téléthon – Le Cheylard
 LOCATION:Le Cheylard\, départ communiqué par le club
@@ -915,7 +781,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:foire-skis@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261128T093000
 DTEND:20261128T163000
 SUMMARY:Foire aux skis du Schuss Valentinois
@@ -930,7 +796,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:clown-patto@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261128T143000
 DTEND:20261128T163000
 SUMMARY:Fééries d’Hiver – Spectacle du clown Patto
@@ -943,7 +809,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dj-releve@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261128T183000
 DTEND:20261128T203000
 SUMMARY:Fééries d’Hiver – Concert DJ La Relève
@@ -956,7 +822,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-saint-felicien@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261129
 DTEND:20261130
 SUMMARY:Marché de Noël
@@ -970,7 +836,7 @@ CATEGORIES:Autre
 END:VEVENT
 BEGIN:VEVENT
 UID:oshala@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261129T143000
 DTEND:20261129T163000
 SUMMARY:Fééries d’Hiver – Concert Oshalâ
@@ -982,7 +848,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ferme-pedago@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261202T140000
 DTEND:20261202T173000
 SUMMARY:Fééries d’Hiver – Ferme pédagogique
@@ -995,7 +861,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:enfant-siecle@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261202T203000
 SUMMARY:Enfant du siècle – spectacle
 LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600
@@ -1008,7 +874,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-egyas@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261203T093000
 SUMMARY:Randonneurs des Boutières – Vallée des Eygas
 LOCATION:Vallée des Eygas\, Ardèche
@@ -1021,7 +887,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-st-cierge@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261203T133000
 SUMMARY:Rando Saint-Agrèvoise – Saint-Cierge-sous-le-Cheylard
 LOCATION:Saint-Cierge-sous-le-Cheylard\, Ardèche
@@ -1034,7 +900,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-saint-agreve@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261203T133000
 SUMMARY:Rando Saint-Agrèvoise – circuit de Saint-Agrève
 LOCATION:Saint-Agrève\, Ardèche
@@ -1047,7 +913,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-vins-cornas@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261204
 DTEND:20261207
 SUMMARY:Marché aux vins de Cornas
@@ -1061,7 +927,7 @@ CATEGORIES:Autre
 END:VEVENT
 BEGIN:VEVENT
 UID:laurane@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261204T183000
 DTEND:20261204T203000
 SUMMARY:Fééries d’Hiver – Concert Laurane Jolly
@@ -1074,7 +940,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-maoche@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T080000
 SUMMARY:Téléthon – randonnée maoche à Usclades-et-Rieutord
 LOCATION:Usclades-et-Rieutord\, 07510
@@ -1088,7 +954,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vtt-frontonas@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T083000
 DTEND:20261205T133000
 SUMMARY:Rando VTT du Téléthon de Frontonas
@@ -1104,7 +970,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:telethon-bastide-moto@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T090000
 SUMMARY:Téléthon – randonnées quad et moto
 LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
@@ -1117,7 +983,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:telethon-labatie@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T133000
 DTEND:20261205T170000
 SUMMARY:Téléthon de la Ritournelle – randonnée
@@ -1132,7 +998,7 @@ CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-telethon-st-agreve@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T133000
 SUMMARY:Téléthon – randonnée pédestre à Saint-Agrève
 LOCATION:Saint-Agrève\, lieu communiqué par l’organisateur
@@ -1145,7 +1011,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:telethon-bastide-marche@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T133000
 SUMMARY:Téléthon – randonnées pédestres 5 et 10 km
 LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
@@ -1158,7 +1024,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-sainte-eulalie@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T140000
 SUMMARY:Téléthon – randonnée pédestre à Sainte-Eulalie
 LOCATION:Sainte-Eulalie\, 07510
@@ -1171,7 +1037,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:telethon-bastide-vtt@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T140000
 SUMMARY:Téléthon – randonnée VTT électrique
 LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
@@ -1184,7 +1050,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:parade-noel@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T183000
 SUMMARY:Fééries d’Hiver – Grande parade de Noël et feux d’artifi
  ce
@@ -1198,7 +1064,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-balcons@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261206T093000
 SUMMARY:Randonneurs des Boutières – Les Balcons de l’Eyrieux
 LOCATION:Vallée de l’Eyrieux\, Ardèche
@@ -1211,7 +1077,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:chants-noel@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261206T143000
 DTEND:20261206T153000
 SUMMARY:Fééries d’Hiver – Chants de Noël
@@ -1223,7 +1089,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:country-danse@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261206T163000
 DTEND:20261206T173000
 SUMMARY:Fééries d’Hiver – Country danse
@@ -1235,7 +1101,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:debroussaillage@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261208T090000
 SUMMARY:Chantier de débroussaillage des sentiers
 LOCATION:Sentiers des Boutières\, départ communiqué par le club
@@ -1248,7 +1114,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ateliers-jeux@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261209
 DTEND:20261221
 SUMMARY:Fééries d’Hiver – Ateliers de jeux
@@ -1262,7 +1128,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-villebrion@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261210T093000
 SUMMARY:Randonneurs des Boutières – Autour de Villebrion
 LOCATION:Villebrion\, Ardèche
@@ -1275,7 +1141,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-pailhares@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261210T133000
 SUMMARY:Rando Saint-Agrèvoise – Pailharès
 LOCATION:Pailharès\, Ardèche
@@ -1288,7 +1154,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-montgros@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261210T133000
 SUMMARY:Rando Saint-Agrèvoise – Bois de Montgros
 LOCATION:Bois de Montgros\, Ardèche
@@ -1301,7 +1167,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noel-animaux@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261211
 DTEND:20261214
 SUMMARY:Fééries d’Hiver – Noël des animaux avec le refuge Saint-Ro
@@ -1316,7 +1182,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dj-sub@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261211T183000
 DTEND:20261211T203000
 SUMMARY:Fééries d’Hiver – Concert DJ Sub
@@ -1328,7 +1194,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aja-caez@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261212T183000
 DTEND:20261212T203000
 SUMMARY:Fééries d’Hiver – Concert Aja Caez
@@ -1341,7 +1207,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:chant-lions@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261212T203000
 SUMMARY:Le Chant des Lions – spectacle
 LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600
@@ -1354,7 +1220,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:guinguette@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261213T110000
 DTEND:20261213T140000
 SUMMARY:Fééries d’Hiver – Guinguette de Noël
@@ -1367,7 +1233,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:echassieres@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261213T163000
 DTEND:20261213T183000
 SUMMARY:Fééries d’Hiver – Échassières lumineuses
@@ -1380,7 +1246,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pere-noel@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261216
 DTEND:20261223
 SUMMARY:Fééries d’Hiver – Rencontre avec le Père Noël
@@ -1394,7 +1260,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:caleche@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261216
 DTEND:20261225
 SUMMARY:Fééries d’Hiver – Balades en calèche
@@ -1408,7 +1274,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:parents-dec@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261216T090000
 SUMMARY:Atelier parents-enfants
 LOCATION:Centre socioculturel\, Saint-Agrève
@@ -1421,7 +1287,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sculpture-glace@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261216T140000
 DTEND:20261216T163000
 SUMMARY:Fééries d’Hiver – Atelier sculpture sur glace
@@ -1434,7 +1300,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:buzz-eclair@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261216T143000
 DTEND:20261216T163000
 SUMMARY:Fééries d’Hiver – Rencontre avec Buzz l’Éclair
@@ -1446,7 +1312,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-cheylard@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261217T130000
 SUMMARY:Rando Saint-Agrèvoise – Le Cheylard
 LOCATION:Le Cheylard\, Ardèche
@@ -1459,7 +1325,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rando-ribes@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261217T133000
 SUMMARY:Rando Saint-Agrèvoise – Les Ribes
 LOCATION:Les Ribes\, Ardèche
@@ -1472,7 +1338,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:deambulations@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261219
 DTEND:20261224
 SUMMARY:Fééries d’Hiver – Déambulations musicales
@@ -1486,7 +1352,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noel-chat@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261220
 SUMMARY:Fééries d’Hiver – Noël des animaux avec l’École du Chat
 LOCATION:Valence
@@ -1499,7 +1365,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pas-a-pas-20@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261220T140000
 SUMMARY:Balade « Pas à pas l’hiver » aux Estables
 LOCATION:Les Estables\, 43150
@@ -1511,7 +1377,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:glissades-21@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261221T143000
 SUMMARY:Glissades givrées – activité neige aux Estables
 LOCATION:Les Estables\, 43150
@@ -1523,7 +1389,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:mascottes@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261222
 DTEND:20261227
 SUMMARY:Fééries d’Hiver – Mascottes surprises de Noël
@@ -1537,7 +1403,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pas-a-pas-27@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261227T140000
 SUMMARY:Balade « Pas à pas l’hiver » aux Estables
 LOCATION:Les Estables\, 43150
@@ -1549,7 +1415,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:glissades-28@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261228T143000
 SUMMARY:Glissades givrées – activité neige aux Estables
 LOCATION:Les Estables\, 43150
@@ -1561,7 +1427,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:etoiles-30@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261230T190000
 SUMMARY:Balade « La tête dans les étoiles »
 LOCATION:Les Estables\, 43150
@@ -1573,7 +1439,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aperitif-31@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261231T170000
 SUMMARY:Balade apéro du pré-réveillon
 LOCATION:Les Estables\, 43150
@@ -1584,23 +1450,8 @@ CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:foire-jouets-aubenas@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261112
-DTEND:20261116
-SUMMARY:Foire aux jouets du Secours populaire
-LOCATION:Centre de loisirs\, 28 boulevard de la Corniche\, 07200 Aubenas
-DESCRIPTION:Foire solidaire du 12 au 15 novembre : jeu.-sam. 9h-17h\, dim
- . 9h-12h. Accès libre. Environ 42 km à vol d’oiseau d’Alboussière
- .
-URL:https://www.ardeche-guide.com/fete-manifestation/foire-aux-jouets-du-
- comite-du-secours-populaire-7171978/
-CATEGORIES:Vie locale
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:marche-noel-chapelle-vercors@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261121T090000
 DTEND:20261121T170000
 SUMMARY:Marché de Noël de La Chapelle-en-Vercors
@@ -1615,7 +1466,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-mercurol@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261122T093000
 DTEND:20261122T173000
 SUMMARY:Marché de Noël de Mercurol-Veaunes
@@ -1630,7 +1481,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-chatuzange@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261122T100000
 DTEND:20261122T170000
 SUMMARY:Marché de Noël de Chatuzange-le-Goubet
@@ -1643,7 +1494,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-taulignan@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261128
 DTEND:20261130
 SUMMARY:Marché de Noël médiéval de Taulignan
@@ -1657,7 +1508,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-saint-donat@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261128
 DTEND:20261130
 SUMMARY:Marché de Noël de Saint-Donat-sur-l’Herbasse
@@ -1673,7 +1524,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-loriol@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261128T110000
 DTEND:20261128T170000
 SUMMARY:Marché de Noël gourmand des Oliviers
@@ -1687,7 +1538,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-saint-laurent-royans@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261128T140000
 DTEND:20261128T210000
 SUMMARY:Marché de Noël de Saint-Laurent-en-Royans
@@ -1701,7 +1552,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-saint-peray@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261204
 DTEND:20261207
 SUMMARY:Saint-Péray\, un week-end scintillant
@@ -1717,7 +1568,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-felines@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T143000
 DTEND:20261205T183000
 SUMMARY:Marché de Noël de Félines
@@ -1732,7 +1583,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-vernoux@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T140000
 DTEND:20261205T200000
 SUMMARY:Marché de Noël artisanal de Vernoux-en-Vivarais
@@ -1747,7 +1598,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-mirmande@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205T100000
 DTEND:20261205T210000
 SUMMARY:Marché de Noël de Mirmande
@@ -1760,7 +1611,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-rousset-vignes@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205
 DTEND:20261207
 SUMMARY:Marché de Noël de Rousset-les-Vignes
@@ -1775,7 +1626,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:museal-pere-noel@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261204
 DTEND:20261207
 SUMMARY:Le Père Noël est à MuséAl
@@ -1791,7 +1642,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:maison-pere-noel-boulieu@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205
 DTEND:20261223
 SUMMARY:Maison du Père Noël de Boulieu-lès-Annonay
@@ -1807,7 +1658,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-laviolle@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261206
 DTEND:20261207
 SUMMARY:Marché de Noël de Laviolle
@@ -1821,7 +1672,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-la-source@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261212T100000
 DTEND:20261212T190000
 SUMMARY:Marché de Noël – La Source
@@ -1836,7 +1687,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-saint-michel-savasse@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261212T100000
 DTEND:20261212T210000
 SUMMARY:Marché de Noël de Saint-Michel-sur-Savasse
@@ -1851,7 +1702,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-etoile@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261212
 DTEND:20261214
 SUMMARY:Marché de Noël d’Étoile-sur-Rhône
@@ -1866,7 +1717,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-soyons@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261212
 DTEND:20261214
 SUMMARY:Marché de Noël de Soyons
@@ -1880,7 +1731,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-desaignes@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261218T170000
 DTEND:20261218T230000
 SUMMARY:Marché de Noël nocturne de Désaignes
@@ -1895,7 +1746,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-cornas@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261219
 DTEND:20261221
 SUMMARY:Marché de Noël de Cornas
@@ -1910,7 +1761,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-annonay@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261219
 DTEND:20261221
 SUMMARY:Marché de Noël d’Annonay
@@ -1924,7 +1775,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-saint-agreve@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261219T090000
 DTEND:20261219T180000
 SUMMARY:Marché de Noël de Saint-Agrève
@@ -1940,7 +1791,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noel-aubenas-2026@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261212
 DTEND:20261228
 SUMMARY:Noël à Aubenas 2026 – animations en centre-ville
@@ -1955,7 +1806,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:expo-ligne-claire@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261113
 DTEND:20261207
 SUMMARY:Exposition « De la ligne claire à la couleur »
@@ -1970,25 +1821,8 @@ CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:expo-cinezic-gens-balkans@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261106
-DTEND:20261129
-SUMMARY:Exposition « Gens des Balkans » – Festival Cinézic
-LOCATION:Espace culturel Louis Nodon\, EHPAD Beauregard et Crédit Agrico
- le\, 07240 Vernoux-en-Vivarais
-DESCRIPTION:Photographies d’Annie et Bernard Formenti visibles du 6 au 
- 28 novembre dans trois lieux de Vernoux. Entrée libre. Environ 9 km à 
- vol d’oiseau.
-URL:https://www.coeur-ardeche.fr/fete-manifestation/festival-cinezic-11-e
- xposition-gens-des-balkans-photographies-dannie-et-bernard-formenti-8040
- 979/
-CATEGORIES:Culture et loisir
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:expo-pouet-pouet@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261114
 DTEND:20270130
 SUMMARY:Exposition « POUET POUET\, Images de cirque »
@@ -2004,7 +1838,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:expo-traditions-herbasse@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261128
 DTEND:20270201
 SUMMARY:Exposition « Traditions des fêtes de fin d’année »
@@ -2019,58 +1853,8 @@ CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:expo-grotte-chauvet-science@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261102
-DTEND:20270104
-SUMMARY:Exposition « Grotte Chauvet\, l’Aventure Scientifique »
-LOCATION:Grotte Chauvet 2\, 4941 route de Bourg-Saint-Andéol\, 07150 Val
- lon-Pont-d’Arc
-DESCRIPTION:Exposition sur les recherches scientifiques autour de la grot
- te Chauvet. Du 2 novembre au 18 décembre 10h30-17h15 \; du 19 décembre
-  au 3 janvier 10h30-18h45. Exposition comprise dans le billet d’entré
- e. Environ 83 km à vol d’oiseau.
-URL:https://www.ardeche.com/vallon-pont-d-arc/exposition-grotte-chauvet-l
- -rsquo-aventure-scientifique-576618.html
-CATEGORIES:Culture et loisir
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:expo-nature-assiette@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261014
-DTEND:20270227
-SUMMARY:Exposition « De la nature à l’assiette »
-LOCATION:Musée du Parchemin\, 4 La Combe du Prieuré\, 07100 Annonay
-DESCRIPTION:Histoire des produits naturels et de leur transformation\, à
-  travers œuvres et savoir-faire. Du 14 octobre au 26 février\, lun.-ve
- n. 14h-18h. 6 € adulte\, dès 4 € enfant. Environ 33 km à vol d’o
- iseau.
-URL:https://www.ardechegrandair.com/agenda/8031981_exposition-de-la-natur
- e-a-lassiette/
-CATEGORIES:Famille et nature
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:festival-lumieres-sauvages@evenements-alboussiere
-DTSTAMP:20261113T055244Z
-DTSTART:20261017
-DTEND:20270328
-SUMMARY:6e Festival Lumières Sauvages – Safari de Peaugres
-LOCATION:Safari de Peaugres\, RN 82 Le Montanet\, 07340 Peaugres
-DESCRIPTION:Parcours de lanternes animales et végétales autour des mili
- eux extrêmes\, du 17 octobre au 27 mars. Du 16 novembre au 20 décembre
-  : mer.\, ven.\, sam. et dim. 17h30-20h \; vacances et janvier selon cal
- endrier de l’organisateur. 23\,90 € plein tarif\, 19\,90 € réduit
- . Environ 31 km à vol d’oiseau.
-URL:https://www.ardeche-guide.com/fete-manifestation/6eme-festival-lumier
- es-sauvages-au-safari-de-peaugres-5853831/
-CATEGORIES:Famille et nature
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:concert-nouvel-an-valence@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20270109
 DTEND:20270111
 SUMMARY:Concert du Nouvel An – Valence
@@ -2085,7 +1869,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:magie-creches-colombier-jeune@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261205
 DTEND:20270111
 SUMMARY:La magie des crèches au Mas Girodier – Colombier-le-Jeune
@@ -2102,7 +1886,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rendez-vous-vieux-vehicules-valloire@evenements-alboussiere
-DTSTAMP:20261113T055244Z
+DTSTAMP:20261113T070000Z
 DTSTART:20261115T100000
 DTEND:20261115T120000
 RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261227T120000
