@@ -1962,14 +1962,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:expo-cinezic-gens-balkans@evenements-alboussiere
 DTSTAMP:20261113T055244Z
-DTSTART:20261113
-DTEND:20261207
+DTSTART:20261106
+DTEND:20261129
 SUMMARY:Exposition « Gens des Balkans » – Festival Cinézic
 LOCATION:Espace culturel Louis Nodon\, EHPAD Beauregard et Crédit Agrico
  le\, 07240 Vernoux-en-Vivarais
-DESCRIPTION:Photographies d’Annie et Bernard Formenti visibles jusqu’
- au 6 décembre dans trois lieux de Vernoux. Entrée libre. Environ 9 km 
- à vol d’oiseau.
+DESCRIPTION:Photographies d’Annie et Bernard Formenti visibles du 6 au 28 novembre dans trois lieux de Vernoux. Entrée libre. Environ 9 km à vol d’oiseau.
 URL:https://www.coeur-ardeche.fr/fete-manifestation/festival-cinezic-11-e
  xposition-gens-des-balkans-photographies-dannie-et-bernard-formenti-8040
  979/
@@ -2011,15 +2009,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:expo-grotte-chauvet-science@evenements-alboussiere
 DTSTAMP:20261113T055244Z
-DTSTART:20261113
+DTSTART:20261102
 DTEND:20270104
 SUMMARY:Exposition « Grotte Chauvet\, l’Aventure Scientifique »
 LOCATION:Grotte Chauvet 2\, 4941 route de Bourg-Saint-Andéol\, 07150 Val
  lon-Pont-d’Arc
-DESCRIPTION:Exposition sur les recherches scientifiques autour de la grot
- te Chauvet. Du 2 novembre au 18 décembre 10h30-17h15 \; du 19 décembre
-  au 3 janvier 10h30-18h45. Exposition comprise dans le billet d’entré
- e. Environ 83 km à vol d’oiseau.
+DESCRIPTION:Exposition sur les recherches scientifiques autour de la grotte Chauvet. Du 2 novembre au 18 décembre 10h30-17h15 \; du 19 décembre au 3 janvier 10h30-18h45. Exposition comprise dans le billet d’entrée. Environ 83 km à vol d’oiseau.
 URL:https://www.ardeche.com/vallon-pont-d-arc/exposition-grotte-chauvet-l
  -rsquo-aventure-scientifique-576618.html
 CATEGORIES:Culture et loisir
@@ -2028,14 +2023,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:expo-nature-assiette@evenements-alboussiere
 DTSTAMP:20261113T055244Z
-DTSTART:20261113
+DTSTART:20261014
 DTEND:20270227
 SUMMARY:Exposition « De la nature à l’assiette »
 LOCATION:Musée du Parchemin\, 4 La Combe du Prieuré\, 07100 Annonay
-DESCRIPTION:Histoire des produits naturels et de leur transformation\, à
-  travers œuvres et savoir-faire. Du 14 octobre au 26 février\, lun.-ve
- n. 14h-18h. 6 € adulte\, dès 4 € enfant. Environ 33 km à vol d’o
- iseau.
+DESCRIPTION:Histoire des produits naturels et de leur transformation\, à travers œuvres et savoir-faire. Du 14 octobre au 26 février\, lun.-ven. 14h-18h. 6 € adulte\, dès 4 € enfant. Environ 33 km à vol d’oiseau.
 URL:https://www.ardechegrandair.com/agenda/8031981_exposition-de-la-natur
  e-a-lassiette/
 CATEGORIES:Famille et nature
@@ -2044,15 +2036,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:festival-lumieres-sauvages@evenements-alboussiere
 DTSTAMP:20261113T055244Z
-DTSTART:20261113
+DTSTART:20261017
 DTEND:20270328
 SUMMARY:6e Festival Lumières Sauvages – Safari de Peaugres
 LOCATION:Safari de Peaugres\, RN 82 Le Montanet\, 07340 Peaugres
-DESCRIPTION:Parcours de lanternes animales et végétales autour des mili
- eux extrêmes. Du 16 novembre au 20 décembre : mer.\, ven.\, sam. et di
- m. 17h30-20h \; vacances et janvier selon calendrier de l’organisateur
- . 23\,90 € plein tarif\, 19\,90 € réduit. Environ 31 km à vol d’
- oiseau.
+DESCRIPTION:Parcours de lanternes animales et végétales autour des milieux extrêmes\, du 17 octobre au 27 mars. Du 16 novembre au 20 décembre : mer.\, ven.\, sam. et dim. 17h30-20h \; vacances et janvier selon calendrier de l’organisateur. 23\,90 € plein tarif\, 19\,90 € réduit. Environ 31 km à vol d’oiseau.
 URL:https://www.ardeche-guide.com/fete-manifestation/6eme-festival-lumier
  es-sauvages-au-safari-de-peaugres-5853831/
 CATEGORIES:Famille et nature
