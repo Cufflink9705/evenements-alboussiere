@@ -1,38 +1,103 @@
 {
-  "publishedAt": "2026-11-12T07:15:00+01:00",
-  "expiresAt": "2026-11-13T07:15:00+01:00",
+  "generatedAt": "2026-11-13T06:23:04+01:00",
+  "publishedAt": "2026-11-13T06:23:04+01:00",
+  "expiresAt": "2026-11-14T06:23:04+01:00",
   "items": [
     {
-      "title": "Bourse aux jouets, vêtements, livres et articles de puériculture",
-      "date": "14 novembre 2026 · 14 h–17 h et 15 novembre · 8 h–15 h",
-      "location": "Espace culturel, Désaignes",
-      "price": "Entrée libre ; tables exposants 5 € ou 8 € les deux",
-      "description": "Bourse organisée par l'Amicale laïque de Désaignes.",
-      "url": "https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/bourse-aux-jouets-vetements-livres-et-articles-de-puericulture-5954781/"
+      "title": "Rando VTT du Téléthon – Frontonas",
+      "date": "2026-12-05",
+      "location": "Frontonas (38)",
+      "category": "VTT",
+      "summary": "3 parcours VTT/VTTAE de 12, 25 ou 39 km ; départs 8h30–10h ; 8 € adulte / 6 € moins de 16 ans.",
+      "url": "https://www.helloasso.com/associations/afm-telethon-frontonas/evenements/rando-vtt-du-telethon"
     },
     {
-      "title": "Brocante – Troc aux plantes",
-      "date": "15 novembre 2026 · 9 h–12 h 30",
-      "location": "134 rue des Écoles, Désaignes",
-      "price": "Tarif exposant à confirmer",
-      "description": "Troc de plantes, surplus de jardin et outils organisé par la commission municipale Environnement et Cadre de Vie.",
-      "url": "https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/brocante-troc-aux-plantes-7568985/"
+      "title": "Téléthon – VTT électrique, quad et moto",
+      "date": "2026-12-05",
+      "location": "La Bastide-Puylaurent (48)",
+      "category": "Sport",
+      "summary": "VTT électrique à 14h, randonnées quad/moto à 9h et 14h, marches de 5 et 10 km ; tarifs de 5 à 10 € selon l’activité.",
+      "url": "https://www.jds.fr/manifestations/telethon-1838483_A"
     },
     {
-      "title": "Projection-rencontre du documentaire « Ardèche »",
-      "date": "18 novembre 2026 · 20 h 30",
-      "location": "Salle des fêtes, Désaignes",
-      "price": "6 €",
-      "description": "Projection en présence de l'équipe du film.",
-      "url": "https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/diffusion-du-film-documentaire-ardeche-8027688/"
+      "title": "Salon de l’Artisanat de la Drôme",
+      "date": "2026-11-21/2026-11-22",
+      "location": "Valence",
+      "category": "Culture et loisir",
+      "summary": "Près de 100 artisans, démonstrations et animations familiales ; entrée gratuite, 10h–18h.",
+      "url": "https://www.fest.fr/salon-de-l-artisanat-2705122.html"
     },
     {
-      "title": "Concert « Colombie » – tango colombien",
-      "date": "21 novembre 2026 · 20 h",
-      "location": "Château de Grozon, Saint-Barthélemy-Grozon",
-      "price": "Entrée libre",
-      "description": "Concert de Carmen Hernandez accompagnée du guitariste Rudi Flores.",
-      "url": "https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/concert-colombie-8056351/"
+      "title": "Foire au boudin",
+      "date": "2026-11-21",
+      "location": "Saint-Barthélemy-Grozon",
+      "category": "Vie locale",
+      "summary": "Foire locale annoncée de 7h à 19h.",
+      "url": "https://www.saintbarthelemygrozon.fr/agenda/"
+    },
+    {
+      "title": "Requiem Rebelle",
+      "date": "2026-11-21",
+      "location": "Vernoux-en-Vivarais",
+      "category": "Culture et loisir",
+      "summary": "Festival musical samedi 21 novembre à partir de 15h, participation libre.",
+      "url": "https://www.coeur-ardeche.fr/agenda/"
+    },
+    {
+      "title": "Foire aux skis",
+      "date": "2026-11-28",
+      "location": "Valence",
+      "category": "Vie locale",
+      "summary": "Matériel de ski neuf et d’occasion, 9h30–16h30, entrée gratuite.",
+      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/foire-aux-skis-8024980/"
+    },
+    {
+      "title": "Marché de Noël des Chamber’Liens",
+      "date": "2026-11-14",
+      "location": "Valence",
+      "category": "Vie locale",
+      "summary": "Marché de quartier samedi 14 novembre, 10h–18h.",
+      "url": "https://www.drome-cestmanature.com/agenda/"
+    },
+    {
+      "title": "Par-delà les nouages",
+      "date": "2026-11-13",
+      "location": "Vals-les-Bains",
+      "category": "Culture et loisir",
+      "summary": "Spectacle de cirque et danse, vendredi 13 novembre à 20h30.",
+      "url": "https://lesquinconces.com/"
+    },
+    {
+      "title": "Exposition photos et peintures + bourse Pokémon",
+      "date": "2026-11-13/2026-11-15",
+      "location": "Labégude",
+      "category": "Culture et loisir",
+      "summary": "Exposition gratuite, vernissage vendredi 18h30 ; bourse Pokémon samedi après-midi.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/exposition-photos-peintures-et-bourse-dechange-pokemon-8043671/"
+    },
+    {
+      "title": "Marché de Noël – Fééries d’Hiver",
+      "date": "2026-11-27/2026-12-27",
+      "location": "Valence",
+      "category": "Vie locale",
+      "summary": "Village de Noël en centre-ville du 27 novembre au 27 décembre.",
+      "url": "https://www.drome-cestmanature.com/sit/feeries-dhiver-village-de-noel/"
+    },
+    {
+      "title": "Grande roue des Fééries d’Hiver",
+      "date": "2026-11-14/2027-01-10",
+      "location": "Valence",
+      "category": "Famille et nature",
+      "summary": "Ouverture annoncée à partir de 11h ; 5 €, gratuit moins de 3 ans.",
+      "url": "https://www.drome-cestmanature.com/sit/feeries-dhiver-grande-roue/"
+    },
+    {
+      "title": "Expositions du Château d’Aubenas",
+      "date": "2026-11-14/2027-01-03",
+      "location": "Aubenas",
+      "category": "Culture et loisir",
+      "summary": "Deux expositions contemporaines ; 9 € plein tarif, 6 € réduit, forfait famille 20 €, gratuit moins de 10 ans.",
+      "url": "https://www.cevennes-ardeche.com/evenement/expositions-de-la-saison-automne-hiver-du-chateau-daubenas-7508523/"
     }
   ]
 }
