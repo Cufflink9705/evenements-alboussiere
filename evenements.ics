@@ -12,12 +12,30 @@ DTSTAMP:20261113T052304Z
 DTSTART:20261205T083000
 DTEND:20261205T133000
 SUMMARY:Rando VTT du Téléthon de Frontonas
-LOCATION:Halle des sports\, 38290 FrontonasDESCRIPTION:VTT/VTTAE samedi 5 d
- écembre : départs 8h30–10h\, retour avant 13h30. Parcours 12\, 25 ou 3
- 9 km \; D+ 130\, 430 ou 680 m. 8 € adulte\, 6 € moins de 16 ans. Envir
- on 85 km à vol d’oiseau \; trajet routier potentiellement supérieur à
-  100 km.URL:https://www.helloasso.com/associations/afm-telethon-frontonas/
- evenements/rando-vtt-du-telethon
+LOCATION:Halle des sports\, 38290 Frontonas
+DESCRIPTION:VTT/VTTAE samedi 5 décembre : départs 8h30–10h\, retour ava
+ nt 13h30. Parcours 12\, 25 ou 39 km \; D+ 130\, 430 ou 680 m. 8 € adulte
+ \, 6 € moins de 16 ans. Environ 85 km à vol d’oiseau \; trajet routie
+ r potentiellement supérieur à 100 km.
+URL:https://www.helloasso.com/associations/afm-telethon-frontonas/evenement
+ s/rando-vtt-du-telethon
 CATEGORIES:VTT
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:telethon-bastide@evenements-alboussiere
+DTSTAMP:20261113T052304Z
+DTSTART:20261205T090000
+DTEND:20261205T180000
+SUMMARY:Téléthon – VTT électrique\, quad\, moto et randonnées pédest
+ res
+LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
+DESCRIPTION:Samedi 5 décembre : quad/moto à 9h et 14h (10 €)\, VTT éle
+ ctrique à 14h (10 €)\, marche 10 km à 13h30 et 5 km à 14h30 (5 €). 
+ Repas 20 €\, réservation avant le 1er décembre. Environ 75 km à vol d
+ ’oiseau d’Alboussière.
+URL:https://www.jds.fr/manifestations/telethon-1838483_A
+CATEGORIES:Sport
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
