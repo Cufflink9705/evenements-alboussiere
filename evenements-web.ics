@@ -12,782 +12,911 @@ DTSTAMP:20261113T052304Z
 DTSTART:20261003
 DTEND:20270101
 SUMMARY:Expositions à la galerie Seibel
-LOCATION:Galerie Seibel\, 6 place de l’Hôtel de Ville\, 07200 AubenasDES
- CRIPTION:Exposition collective Heide Rose\, Jean-Bernard Millau et Louis T
- reserras\, annoncée jusqu’au 31/12/2026. Horaires à vérifier avant d
- éplacement.URL:https://www.aubenas-vals.com/agenda-ardeche/expositions-a-
- la-galerie-seibel-avec-heide-rose-jean-bernard-millau-louis-treserras/occ/
- 50/
+LOCATION:Galerie Seibel\, 6 place de l’Hôtel de Ville\, 07200 Aubenas
+DESCRIPTION:Exposition collective Heide Rose\, Jean-Bernard Millau et Louis
+  Treserras\, annoncée jusqu’au 31/12/2026. Horaires à vérifier avant 
+ déplacement.
+URL:https://www.aubenas-vals.com/agenda-ardeche/expositions-a-la-galerie-se
+ ibel-avec-heide-rose-jean-bernard-millau-louis-treserras/occ/50/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:expo-chateau@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261017
 DTEND:20270104
 SUMMARY:Expositions automne-hiver du Château d’Aubenas
-LOCATION:Le Château\, place de l’Hôtel de Ville\, 07200 AubenasDESCRIPT
- ION:Deux expositions contemporaines. Jusqu’au 18/12 : mercredi 13h–18h
- \, samedi et dimanche 11h–18h \; du 19/12 au 03/01 : mercredi à dimanch
- e 11h–18h. 9 € plein tarif\, 6 € réduit\, forfait famille 20 €\, 
- gratuit moins de 10 ans.URL:https://www.cevennes-ardeche.com/evenement/exp
- ositions-de-la-saison-automne-hiver-du-chateau-daubenas-7508523/
+LOCATION:Le Château\, place de l’Hôtel de Ville\, 07200 Aubenas
+DESCRIPTION:Deux expositions contemporaines. Jusqu’au 18/12 : mercredi 13
+ h–18h\, samedi et dimanche 11h–18h \; du 19/12 au 03/01 : mercredi à 
+ dimanche 11h–18h. 9 € plein tarif\, 6 € réduit\, forfait famille 20
+  €\, gratuit moins de 10 ans.
+URL:https://www.cevennes-ardeche.com/evenement/expositions-de-la-saison-aut
+ omne-hiver-du-chateau-daubenas-7508523/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:expo-biodiv@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261103
 DTEND:20261129
-SUMMARY:Exposition « La biodiversité s’expose »LOCATION:Médiathèque\
- , place de la République\, 07560 Montpezat-sous-BauzonDESCRIPTION:Exposit
- ion environnementale annoncée du 3 au 28 novembre. Horaires variables \; 
- vérifier auprès de la médiathèque.
+SUMMARY:Exposition « La biodiversité s’expose »
+LOCATION:Médiathèque\, place de la République\, 07560 Montpezat-sous-Bau
+ zon
+DESCRIPTION:Exposition environnementale annoncée du 3 au 28 novembre. Hora
+ ires variables \; vérifier auprès de la médiathèque.
 URL:https://www.ardeche-guide.com/agenda/
 CATEGORIES:Nature
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:expo-irene@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261109
 DTEND:20261130
-SUMMARY:Exposition Irène Dondey et Julie GilgenmannLOCATION:Centre culture
- l Les Quinconces\, 3 avenue Claude Expilly\, 07600Vals-les-BainsDESCRIPTIO
- N:Sculptures en grès et peintures. Lun–ven 9h–12h et 13h30–17h30 \;
-  sam. 14h–18h \; dim. 10h–12h et 14h30–18h.URL:https://www.vivop.fr/
- ville/vesseaux-07339/evenement/exposition-irene-dondey-et-julie-gilgenmann
- /apidae-7987180
+SUMMARY:Exposition Irène Dondey et Julie Gilgenmann
+LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600Va
+ ls-les-Bains
+DESCRIPTION:Sculptures en grès et peintures. Lun–ven 9h–12h et 13h30
+ –17h30 \; sam. 14h–18h \; dim. 10h–12h et 14h30–18h.
+URL:https://www.vivop.fr/ville/vesseaux-07339/evenement/exposition-irene-do
+ ndey-et-julie-gilgenmann/apidae-7987180
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:expo-ardeche-belle@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261110
 DTEND:20261123
-SUMMARY:Expositions « Ardèche\, la belle » et « De la plume au vol »LO
- CATION:Médiathèque Jacques Dupin\, place de l’Hôtel de Ville\, 07000 
- PrivasDESCRIPTION:Deux expositions annoncées du 10 au 22 novembre. Horair
- es détaillés à confirmer auprès de la médiathèque.
+SUMMARY:Expositions « Ardèche\, la belle » et « De la plume au vol »
+LOCATION:Médiathèque Jacques Dupin\, place de l’Hôtel de Ville\, 07000
+  Privas
+DESCRIPTION:Deux expositions annoncées du 10 au 22 novembre. Horaires dét
+ aillés à confirmer auprès de la médiathèque.
 URL:https://www.ardeche-guide.com/agenda/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:expo-marc-defortescu@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261111
 DTEND:20261221
 SUMMARY:Exposition photo – Marc Defortescu
-LOCATION:Saint-Vincent-de-Barrès\, ArdècheDESCRIPTION:Exposition photo pr
- ésentée du 24 septembre au 20 décembre 2026. Horaires et conditions d
- ’accès à vérifier auprès du lieu. Source : Ardèche Guide.
+LOCATION:Saint-Vincent-de-Barrès\, Ardèche
+DESCRIPTION:Exposition photo présentée du 24 septembre au 20 décembre 20
+ 26. Horaires et conditions d’accès à vérifier auprès du lieu. Source
+  : Ardèche Guide.
 URL:https://www.ardeche-guide.com/agenda/agenda-semaine/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:passerelles-afrique@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261111
-DTEND:20261205SUMMARY:Passerelles avec l’Afrique #6 – photographies de 
- Sebastião Salgado
-LOCATION:Privas\, ArdècheDESCRIPTION:Exposition dans le cadre du festival 
- Images et Paroles d’Afrique #27\, du 19 octobre au 4 décembre 2026. Hor
- aires détaillés à vérifier. Source : Ardèche Guide.
+DTEND:20261205
+SUMMARY:Passerelles avec l’Afrique #6 – photographies de Sebastião Sal
+ gado
+LOCATION:Privas\, Ardèche
+DESCRIPTION:Exposition dans le cadre du festival Images et Paroles d’Afri
+ que #27\, du 19 octobre au 4 décembre 2026. Horaires détaillés à véri
+ fier. Source : Ardèche Guide.
 URL:https://www.ardeche-guide.com/Agenda/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:expo-eventails-sevigne@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261111
 DTEND:20261116
 SUMMARY:Exposition – Les éventails au temps de Madame de Sévigné
-LOCATION:Hôtel de Clérieu\, place aux Herbes\, 26100 Romans-sur-IsèreDES
- CRIPTION:Exposition du 7 au 15 novembre. Ouverture les mardi\, mercredi\, 
- jeudi\, vendredi\, jours fériés et week-ends\, 10 h–19 h. Gratuit. Le 
- 11 novembre à partir de 15 h : lectures\, conférence et démonstration d
- e fabrication d’un éventail. Source : La Drôme Tourisme.URL:https://ww
- w.drome-tourism.com/fiches/exposition-les-eventails-au-temps-de-madame-de-
- sevigne/
+LOCATION:Hôtel de Clérieu\, place aux Herbes\, 26100 Romans-sur-Isère
+DESCRIPTION:Exposition du 7 au 15 novembre. Ouverture les mardi\, mercredi\
+ , jeudi\, vendredi\, jours fériés et week-ends\, 10 h–19 h. Gratuit. L
+ e 11 novembre à partir de 15 h : lectures\, conférence et démonstration
+  de fabrication d’un éventail. Source : La Drôme Tourisme.
+URL:https://www.drome-tourism.com/fiches/exposition-les-eventails-au-temps-
+ de-madame-de-sevigne/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rencontres-automnales@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261112
 DTEND:20261116
 SUMMARY:Rencontres automnales de Chomérac
-LOCATION:Salle du Triolet et lieux partenaires\, 07210 ChoméracDESCRIPTION
- :Rencontres culturelles et expositions du 12 au 15 novembre\, généraleme
- nt 10h–18h \; table ronde samedi 14/11 à 18h30. Accès gratuit.URL:http
- s://www.coeur-ardeche.fr/fete-manifestation/les-rencontres-automnales-8042
- 088/
+LOCATION:Salle du Triolet et lieux partenaires\, 07210 Chomérac
+DESCRIPTION:Rencontres culturelles et expositions du 12 au 15 novembre\, g
+ énéralement 10h–18h \; table ronde samedi 14/11 à 18h30. Accès gratu
+ it.
+URL:https://www.coeur-ardeche.fr/fete-manifestation/les-rencontres-automnal
+ es-8042088/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:conference-vanaude-magie@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261113
 DTEND:20261114
 SUMMARY:Vendredi de la Vanaude – La Magie
-LOCATION:Vanosc\, ArdècheDESCRIPTION:Rendez-vous culturel annoncé le vend
- redi 13 novembre 2026. Horaire et lieu précis à vérifier auprès de l
- ’organisateur. Source :Ardèche Grand Air.URL:https://www.ardechegrandai
- r.com/professionnels-ardeche/agenda-de-la-semaine/
+LOCATION:Vanosc\, Ardèche
+DESCRIPTION:Rendez-vous culturel annoncé le vendredi 13 novembre 2026. Hor
+ aire et lieu précis à vérifier auprès de l’organisateur. Source :Ard
+ èche Grand Air.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
+ aine/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:concert-troubadingues@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261113
 DTEND:20261116
 SUMMARY:Concert – Les Troubadingues
-LOCATION:Roiffieux\, ArdècheDESCRIPTION:Concert annoncé du 13 au 15 novem
- bre 2026. Horaires et tarifà vérifier auprès de l’organisateur. Sourc
- e : Ardèche Grand Air.URL:https://www.ardechegrandair.com/professionnels-
- ardeche/agenda-de-la-semaine/
+LOCATION:Roiffieux\, Ardèche
+DESCRIPTION:Concert annoncé du 13 au 15 novembre 2026. Horaires et tarifà
+  vérifier auprès de l’organisateur. Source : Ardèche Grand Air.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
+ aine/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:expo-pokemon@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261113
 DTEND:20261116
 SUMMARY:Exposition photos et peintures + bourse Pokémon
-LOCATION:Salle des fêtes\, 51 route Nationale\, 07200 LabégudeDESCRIPTION
- :Exposition gratuite. Vernissage vendredi 13/11 à 18h30 \; samedi 14/11 1
- 0h–12h et 14h–18h \; dimanche 15/11 mêmes horaires\, bourse Pokémon 
- l’après-midi.URL:https://www.ardeche-guide.com/fete-manifestation/expos
- ition-photos-peintures-et-bourse-dechange-pokemon-8043671/
+LOCATION:Salle des fêtes\, 51 route Nationale\, 07200 Labégude
+DESCRIPTION:Exposition gratuite. Vernissage vendredi 13/11 à 18h30 \; same
+ di 14/11 10h–12h et 14h–18h \; dimanche 15/11 mêmes horaires\, bourse
+  Pokémon l’après-midi.
+URL:https://www.ardeche-guide.com/fete-manifestation/exposition-photos-pein
+ tures-et-bourse-dechange-pokemon-8043671/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:salon-automne@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261113
 DTEND:20261130
 SUMMARY:33e Salon d’automne – exposition
-LOCATION:Salle de la Chapelle\, 4 rue Saint-Joseph\, 07160 Le CheylardDESCR
- IPTION:Exposition artistique du 13 au 29 novembre. Mardi–vendredi 16h–
- 18h30\, samedi–dimanche 15h–18h30. Entrée libre.
+LOCATION:Salle de la Chapelle\, 4 rue Saint-Joseph\, 07160 Le Cheylard
+DESCRIPTION:Exposition artistique du 13 au 29 novembre. Mardi–vendredi 16
+ h–18h30\, samedi–dimanche 15h–18h30. Entrée libre.
 URL:https://www.ardeche-hautes-vallees.fr/l-agenda/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:concert-orchestre-drome@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261113T200000
 DTEND:20261113T220000
 SUMMARY:Concert – Orchestre de chambre de la Drôme
-LOCATION:Grignan\, DrômeDESCRIPTION:Concert annoncé le 13 novembre 2026. 
- Horaire et lieu précisà confirmer auprès de l’organisateur. Source : 
- carte Patrimoine de la Drôme.
+LOCATION:Grignan\, Drôme
+DESCRIPTION:Concert annoncé le 13 novembre 2026. Horaire et lieu précisà
+  confirmer auprès de l’organisateur. Source : carte Patrimoine de la Dr
+ ôme.
 URL:https://cartepatrimoine.ladrome.fr/evenement
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:par-dela@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261113T203000
 DTEND:20261113T220000
-SUMMARY:Par-delà les nouages – cirque et danseLOCATION:Centre culturel L
- es Quinconces\, 3 avenue Claude Expilly\, 07600Vals-les-BainsDESCRIPTION:S
- pectacle tout public vendredi 13 novembre à 20h30. Tarif àconfirmer aupr
- ès de la billetterie.
+SUMMARY:Par-delà les nouages – cirque et danse
+LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600Va
+ ls-les-Bains
+DESCRIPTION:Spectacle tout public vendredi 13 novembre à 20h30. Tarif àco
+ nfirmer auprès de la billetterie.
 URL:https://lesquinconces.com/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rock-town@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261113T203000
 DTEND:20261116T010000
 SUMMARY:Rock This Town #9 – festival rock
-LOCATION:Mistral Palace\, 12 rue Pasteur\, 26000 ValenceDESCRIPTION:Festiva
- l rock annoncé du 13 au 15 novembre. Horaires et tarifs par soirée à v
- érifier sur la programmation de la salle.
+LOCATION:Mistral Palace\, 12 rue Pasteur\, 26000 Valence
+DESCRIPTION:Festival rock annoncé du 13 au 15 novembre. Horaires et tarifs
+  par soirée à vérifier sur la programmation de la salle.
 URL:https://www.mistralpalace.com/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:festiconf-rubik@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114
 DTEND:20261115
 SUMMARY:Festiconf’ – Un Rubik’s cube dans les urnes
-LOCATION:Annonay\, ArdècheDESCRIPTION:Rendez-vous annoncé le 14 novembre 
- dans le cadre du festivalFesticonf’. Horaire et lieu précis à vérifie
- r. Source : Ardèche Grand Air.URL:https://www.ardechegrandair.com/profess
- ionnels-ardeche/agenda-de-la-semaine/
+LOCATION:Annonay\, Ardèche
+DESCRIPTION:Rendez-vous annoncé le 14 novembre dans le cadre du festivalFe
+ sticonf’. Horaire et lieu précis à vérifier. Source : Ardèche Grand 
+ Air.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
+ aine/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:festiconf-coup-poing@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114
 DTEND:20261115
 SUMMARY:Festiconf’ – Le Coup de poing n’est pas parti
-LOCATION:Annonay\, ArdècheDESCRIPTION:Rendez-vous annoncé le 14 novembre 
- dans le cadre du festivalFesticonf’. Horaire et lieu précis à vérifie
- r. Source : Ardèche Grand Air.URL:https://www.ardechegrandair.com/profess
- ionnels-ardeche/agenda-de-la-semaine/
+LOCATION:Annonay\, Ardèche
+DESCRIPTION:Rendez-vous annoncé le 14 novembre dans le cadre du festivalFe
+ sticonf’. Horaire et lieu précis à vérifier. Source : Ardèche Grand 
+ Air.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
+ aine/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:festiconf-autre-histoire@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114
 DTEND:20261115
 SUMMARY:Festiconf’ – Une autre histoire
-LOCATION:Annonay\, ArdècheDESCRIPTION:Rendez-vous annoncé le 14 novembre 
- dans le cadre du festivalFesticonf’. Horaire et lieu précis à vérifie
- r. Source : Ardèche Grand Air.URL:https://www.ardechegrandair.com/profess
- ionnels-ardeche/agenda-de-la-semaine/
+LOCATION:Annonay\, Ardèche
+DESCRIPTION:Rendez-vous annoncé le 14 novembre dans le cadre du festivalFe
+ sticonf’. Horaire et lieu précis à vérifier. Source : Ardèche Grand 
+ Air.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
+ aine/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rencontres-cinema-europe@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114
 DTEND:20261123
 SUMMARY:Rencontres des Cinémas d’Europe – 28e édition
-LOCATION:Aubenas\, ArdècheDESCRIPTION:Festival du 14 au 22 novembre 2026. 
- Tarifs annoncés à partir de 8 € par adulte. Programme et séances à c
- onsulter auprès de l’organisateur. Source : Ardèche Guide.
+LOCATION:Aubenas\, Ardèche
+DESCRIPTION:Festival du 14 au 22 novembre 2026. Tarifs annoncés à partir 
+ de 8 € par adulte. Programme et séances à consulter auprès de l’org
+ anisateur. Source : Ardèche Guide.
 URL:https://www.ardeche-guide.com/agenda/agenda-top-evenement/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:salon-picturales@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114
 DTEND:20261123
 SUMMARY:Salon Les Picturales
-LOCATION:Romans-sur-Isère\, DrômeDESCRIPTION:Salon annoncé du 14 au 22 n
- ovembre 2026 dans la sélection mensuelle de Valence Romans Tourisme. Hora
- ires et tarif à vérifier auprès de l’organisateur.URL:https://www.val
- ence-romans-tourisme.com/fr/loffice/actualites/notre-agenda-du-mois/
+LOCATION:Romans-sur-Isère\, Drôme
+DESCRIPTION:Salon annoncé du 14 au 22 novembre 2026 dans la sélection men
+ suelle de Valence Romans Tourisme. Horaires et tarif à vérifier auprès 
+ de l’organisateur.
+URL:https://www.valence-romans-tourisme.com/fr/loffice/actualites/notre-age
+ nda-du-mois/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:grande-roue@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114
 DTEND:20270111
 SUMMARY:Fééries d’Hiver – Grande roue
-LOCATION:Champ de Mars\, 26000 ValenceDESCRIPTION:Du 14 novembre au 10 janv
- ier\, ouverture annoncée à partir de 11h. 5 €\, gratuit moins de 3 ans
- .
+LOCATION:Champ de Mars\, 26000 Valence
+DESCRIPTION:Du 14 novembre au 10 janvier\, ouverture annoncée à partir de
+  11h. 5 €\, gratuit moins de 3 ans.
 URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-grande-roue/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:boite-noel@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114
 DTEND:20261216
 SUMMARY:Fééries d’Hiver – Boîte aux lettres du Père Noël
-LOCATION:Centre-ville\, 26000 ValenceDESCRIPTION:Boîte installée du 14 no
- vembre au 15 décembre. Accès libre \; emplacement exact à vérifier.URL
- :https://www.drome-cestmanature.com/sit/feeries-dhiver-boite-aux-lettres-d
- u-pere-noel/
+LOCATION:Centre-ville\, 26000 Valence
+DESCRIPTION:Boîte installée du 14 novembre au 15 décembre. Accès libre 
+ \; emplacement exact à vérifier.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-boite-aux-lettres
+ -du-pere-noel/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:atelier-poterie@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T093000
 DTEND:20261114T120000
 SUMMARY:Atelier Café-Poterie
-LOCATION:Le Potào\, 71 chemin de Bourget\, 07240 Vernoux-en-VivaraisDESCRI
- PTION:Samedi 14 novembre\, 9h30–12h. Tarifs annoncés : 40 € adulte\, 
- 30 € adolescent\, 20 € enfant. Réservation recommandée.
+LOCATION:Le Potào\, 71 chemin de Bourget\, 07240 Vernoux-en-Vivarais
+DESCRIPTION:Samedi 14 novembre\, 9h30–12h. Tarifs annoncés : 40 € adul
+ te\, 30 € adolescent\, 20 € enfant. Réservation recommandée.
 URL:https://www.coeur-ardeche.fr/agenda/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:noel-chamberliens@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T100000
 DTEND:20261114T180000
-SUMMARY:Marché de Noël des Chamber’LiensLOCATION:Maison pour tous de la
-  Chamberlière\, 82 rue Jean-Vilar\, 26000ValenceDESCRIPTION:Marché de qu
- artier samedi 14 novembre\, 10h–18h. Animations et stands \; tarif non c
- ommuniqué.
+SUMMARY:Marché de Noël des Chamber’Liens
+LOCATION:Maison pour tous de la Chamberlière\, 82 rue Jean-Vilar\, 26000Va
+ lence
+DESCRIPTION:Marché de quartier samedi 14 novembre\, 10h–18h. Animations 
+ et stands \; tarif non communiqué.
 URL:https://www.drome-cestmanature.com/agenda/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:bourse-desaignes@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T140000
 DTEND:20261115T180000
 SUMMARY:Bourse aux jouets\, vêtements\, livres et puériculture
-LOCATION:Espace culturel\, montée des Écoles\, 07570 DésaignesDESCRIPTIO
- N:Samedi 14 novembre à partir de 14 h et dimanche 15 novembre à partir d
- e 8 h. Bourse multi-articles et puériculture. Tarif non communiqué. Sour
- ce : agenda déjà référencé dans le dépôt \; horaires à confirmer a
- uprès de l’organisateur.
+LOCATION:Espace culturel\, montée des Écoles\, 07570 Désaignes
+DESCRIPTION:Samedi 14 novembre à partir de 14 h et dimanche 15 novembre à
+  partir de 8 h. Bourse multi-articles et puériculture. Tarif non communiq
+ ué. Source : agenda déjà référencé dans le dépôt \; horaires à co
+ nfirmer auprès de l’organisateur.
 URL:https://www.ardeche-guide.com/Agenda/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:desaignes-bourse-20261114@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T140000
-DTEND:20261115T150000SUMMARY:Bourse aux jouets, vêtements, livres et artic
- les de puériculture
-LOCATION:Espace culturel, Montée des écoles, 07570 DésaignesDESCRIPTION:
- Accès libre. Samedi 14 novembre 14h-17h et dimanche 15 novembre 8h-15h. T
- ables exposants : 5 € ou 8 € les deux. Source : Office de tourisme du 
- Pays de Lamastre.URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/a
- ctivite/bourse-aux-jouets-vetements-livres-et-articles-de-puericulture-595
- 4781/
+DTEND:20261115T150000
+SUMMARY:Bourse aux jouets, vêtements, livres et articles de puériculture
+LOCATION:Espace culturel, Montée des écoles, 07570 Désaignes
+DESCRIPTION:Accès libre. Samedi 14 novembre 14h-17h et dimanche 15 novembr
+ e 8h-15h. Tables exposants : 5 € ou 8 € les deux. Source : Office de t
+ ourisme du Pays de Lamastre.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/bourse-aux
+ -jouets-vetements-livres-et-articles-de-puericulture-5954781/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:fresque-sante@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T140000
 DTEND:20261114T170000
 SUMMARY:Fresque participative « Une seule santé »
-LOCATION:Médiathèque Latour-Maubourg\, 26000 ValenceDESCRIPTION:Atelier p
- articipatif sur les liens entre santé humaine\, animale et environnementa
- le\, samedi 14 novembre de 14h à 17h. Accès et inscription à vérifier.
+LOCATION:Médiathèque Latour-Maubourg\, 26000 Valence
+DESCRIPTION:Atelier participatif sur les liens entre santé humaine\, anima
+ le et environnementale\, samedi 14 novembre de 14h à 17h. Accès et inscr
+ iption à vérifier.
 URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/
 CATEGORIES:Nature
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:visite-st-julien@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T143000
 DTEND:20261114T163000
 SUMMARY:Visite-découverte de Saint-Julien-en-Saint-Alban
-LOCATION:Départ place Fernand-Vinson\, 07000 Saint-Julien-en-Saint-AlbanDE
- SCRIPTION:Visite guidée samedi 14 novembre à 14h30\, environ 2h. Gratuit
- \, réservation obligatoire selon l’organisateur.
+LOCATION:Départ place Fernand-Vinson\, 07000 Saint-Julien-en-Saint-Alban
+DESCRIPTION:Visite guidée samedi 14 novembre à 14h30\, environ 2h. Gratui
+ t\, réservation obligatoire selon l’organisateur.
 URL:https://www.coeur-ardeche.fr/agenda/
 CATEGORIES:Patrimoine
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:visite-parc@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T143000
 SUMMARY:Visite guidée : les petits secrets du parc de la Marquise
-LOCATION:Parc de la Marquise\, 26000 ValenceDESCRIPTION:Visite nature et pa
- trimoine samedi 14 novembre à 14h30. 6 € plein tarif\, 4 € réduit\, 
- gratuit moins de 18 ans \; durée à vérifier.
+LOCATION:Parc de la Marquise\, 26000 Valence
+DESCRIPTION:Visite nature et patrimoine samedi 14 novembre à 14h30. 6 € 
+ plein tarif\, 4 € réduit\, gratuit moins de 18 ans \; durée à vérifi
+ er.
 URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/
 CATEGORIES:Nature
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:visite-chateau@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T143000
 SUMMARY:Visite historique du Château d’Aubenas
-LOCATION:Le Château\, place de l’Hôtel de Ville\, 07200 AubenasDESCRIPT
- ION:Visite historique samedi 14 novembre à 14h30. Billet : 9 €plein tar
- if\, 6 € réduit\, forfait famille 20 €\, gratuit moins de 10 ans.URL:
- https://www.cevennes-ardeche.com/evenement/expositions-de-la-saison-automn
- e-hiver-du-chateau-daubenas-7508523/
+LOCATION:Le Château\, place de l’Hôtel de Ville\, 07200 Aubenas
+DESCRIPTION:Visite historique samedi 14 novembre à 14h30. Billet : 9 €pl
+ ein tarif\, 6 € réduit\, forfait famille 20 €\, gratuit moins de 10 a
+ ns.
+URL:https://www.cevennes-ardeche.com/evenement/expositions-de-la-saison-aut
+ omne-hiver-du-chateau-daubenas-7508523/
 CATEGORIES:Patrimoine
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:tournoi-echecs@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T150000
 DTEND:20261114T183000
 SUMMARY:Tournoi d’échecs au Grand Café
-LOCATION:Le Grand Café\, centre-ville\, 26000 ValenceDESCRIPTION:Tournoi o
- uvert au public samedi 14 novembre\, 15h–18h30. Tarif et inscription à 
- confirmer.
+LOCATION:Le Grand Café\, centre-ville\, 26000 Valence
+DESCRIPTION:Tournoi ouvert au public samedi 14 novembre\, 15h–18h30. Tari
+ f et inscription à confirmer.
 URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:noel-eperviere@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T160000
 DTEND:20261114T213000
-SUMMARY:Noël à l’Épervière – marché artisanal et animationsLOCATIO
- N:Port de l’Épervière\, chemin de l’Épervière\, 26000 ValenceDESCR
- IPTION:Samedi 14 novembre\, 16 h–21 h 30. Marché artisanal (20 à30 sta
- nds)\, foodtrucks\, DJ set et arrivée du Père Noël en jet-ski. Accès g
- ratuit. Source : Valence Romans Tourisme / La Drôme Tourisme.
+SUMMARY:Noël à l’Épervière – marché artisanal et animations
+LOCATION:Port de l’Épervière\, chemin de l’Épervière\, 26000 Valenc
+ e
+DESCRIPTION:Samedi 14 novembre\, 16 h–21 h 30. Marché artisanal (20 à30
+  stands)\, foodtrucks\, DJ set et arrivée du Père Noël en jet-ski. Acc
+ ès gratuit. Source : Valence Romans Tourisme / La Drôme Tourisme.
 URL:https://www.drome-tourism.com/fiches/noel-a-leperviere-2/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rap-factory@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T190000
 DTEND:20261114T220000
 SUMMARY:RAP FACTORY #1 – 2L\, Mélan\, T.I.N.A et Alma Z
-LOCATION:Espace culturel\, Saint-Privat\, ArdècheDESCRIPTION:Samedi 14 nov
- embre à 19 h. Concert rap. 15 € en prévente\, 18 € sur place. Source
-  : Ardèche Actu.
+LOCATION:Espace culturel\, Saint-Privat\, Ardèche
+DESCRIPTION:Samedi 14 novembre à 19 h. Concert rap. 15 € en prévente\, 
+ 18 € sur place. Source : Ardèche Actu.
 URL:https://www.ardeche-actu.com/agenda/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:soiree-paella@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T190000
 DTEND:20261114T230000
-SUMMARY:Soirée dansante avec Ludovic Clot et paellaLOCATION:Salle sous la 
- crèche\, chemin de Riol\, 07240 Châteauneuf-de-VernouxDESCRIPTION:Samedi
-  14 novembre à partir de 19h. Repas paella et soirée dansante. 18 € ad
- ulte\, 10 € enfant \; réservation auprès de l’association.
+SUMMARY:Soirée dansante avec Ludovic Clot et paella
+LOCATION:Salle sous la crèche\, chemin de Riol\, 07240 Châteauneuf-de-Ver
+ noux
+DESCRIPTION:Samedi 14 novembre à partir de 19h. Repas paella et soirée da
+ nsante. 18 € adulte\, 10 € enfant \; réservation auprès de l’assoc
+ iation.
 URL:https://www.coeur-ardeche.fr/agenda/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:akyllisso@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T200000
 SUMMARY:Concert Akyllisso Trio
-LOCATION:Le Cause Toujours\, 8 rue Gaston-Rey\, 26000 ValenceDESCRIPTION:Co
- ncert samedi 14 novembre à 20h. Tarif non confirmé \; vérifier auprès 
- de la salle.
+LOCATION:Le Cause Toujours\, 8 rue Gaston-Rey\, 26000 Valence
+DESCRIPTION:Concert samedi 14 novembre à 20h. Tarif non confirmé \; véri
+ fier auprès de la salle.
 URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:impro@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261114T203000
 SUMMARY:Spectacle d’improvisation « Petit concept entre amis »
-LOCATION:MJC Châteauvert\, 26000 ValenceDESCRIPTION:Spectacle d’impro sa
- medi 14 novembre à 20h30. Tarif et réservation à vérifier auprès de l
- a MJC.
+LOCATION:MJC Châteauvert\, 26000 Valence
+DESCRIPTION:Spectacle d’impro samedi 14 novembre à 20h30. Tarif et rése
+ rvation à vérifier auprès de la MJC.
 URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:bourse-saint-donat@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261115T090000
 DTEND:20261115T160000
-SUMMARY:Bourse aux jouetsLOCATION:Halle des Sports\, 1 route de Saint-Bardo
- ux\, 26260 Saint-Donat-sur-l’HerbasseDESCRIPTION:Dimanche 15 novembre à
-  partir de 9 h. Tarif et horaires de fermeture non communiqués. Source : 
- agenda du dépôt \; à confirmer auprès de l’organisateur.URL:https://
- www.valence-romans-tourisme.com/fr/sorganiser/sorties/tous-les-evenements/
+SUMMARY:Bourse aux jouets
+LOCATION:Halle des Sports\, 1 route de Saint-Bardoux\, 26260 Saint-Donat-su
+ r-l’Herbasse
+DESCRIPTION:Dimanche 15 novembre à partir de 9 h. Tarif et horaires de fer
+ meture non communiqués. Source : agenda du dépôt \; à confirmer auprè
+ s de l’organisateur.
+URL:https://www.valence-romans-tourisme.com/fr/sorganiser/sorties/tous-les-
+ evenements/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:bourse-coucouron@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261115T090000
 DTEND:20261115T160000
 SUMMARY:Bourse aux jouets et aux vêtements
-LOCATION:Halle couverte\, 07470 Coucouron\, ArdècheDESCRIPTION:Dimanche 15
-  novembre à partir de 9 h. Tarif et horaires de fermeture non communiqué
- s. Source : agenda du dépôt \; à confirmer auprès de l’organisateur.
+LOCATION:Halle couverte\, 07470 Coucouron\, Ardèche
+DESCRIPTION:Dimanche 15 novembre à partir de 9 h. Tarif et horaires de fer
+ meture non communiqués. Source : agenda du dépôt \; à confirmer auprè
+ s de l’organisateur.
 URL:https://www.ardeche-guide.com/Agenda/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:desaignes-troc-plantes-20261115@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261115T090000
 DTEND:20261115T123000
-SUMMARY:Brocante - Troc aux plantesLOCATION:Sous le préau près de l'espac
- e culturel, 134 rue des Écoles, 07570 DésaignesDESCRIPTION:Troc d'automn
- e de plantes, surplus de jardin et vieux outils ; thé, café et gâteaux.
-  Tarif exposant à confirmer. Source : Office de tourisme du Pays de Lamas
- tre.URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/broca
- nte-troc-aux-plantes-7568985/
+SUMMARY:Brocante - Troc aux plantes
+LOCATION:Sous le préau près de l'espace culturel, 134 rue des Écoles, 07
+ 570 Désaignes
+DESCRIPTION:Troc d'automne de plantes, surplus de jardin et vieux outils ; 
+ thé, café et gâteaux. Tarif exposant à confirmer. Source : Office de t
+ ourisme du Pays de Lamastre.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/brocante-t
+ roc-aux-plantes-7568985/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-suc-eyre@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261115T093000
 SUMMARY:Randonneurs des Boutières – Suc de l’Eyre
-LOCATION:Le Cheylard\, départ communiqué par le clubDESCRIPTION:Randonné
- e dimanche 15 novembre à 9h30. Point de départ et caractéristiques à c
- onfirmer sur la fiche du club.URL:https://www.ardeche-hautes-vallees.fr/l-
- agenda/sport-rando-loisirs/page/3/
+LOCATION:Le Cheylard\, départ communiqué par le club
+DESCRIPTION:Randonnée dimanche 15 novembre à 9h30. Point de départ et ca
+ ractéristiques à confirmer sur la fiche du club.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:festiv-jazz@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261118
 DTEND:20261122
 SUMMARY:Festiv’Jazz – 20e anniversaire
-LOCATION:Romans-sur-Isère\, DrômeDESCRIPTION:Festival annoncé du 18 au 2
- 1 novembre 2026. Programme et tarifs à vérifier auprès de l’organisat
- eur. Source : Valence Romans Tourisme.URL:https://www.valence-romans-touri
- sme.com/fr/loffice/actualites/notre-agenda-du-mois/
+LOCATION:Romans-sur-Isère\, Drôme
+DESCRIPTION:Festival annoncé du 18 au 21 novembre 2026. Programme et tarif
+ s à vérifier auprès de l’organisateur. Source : Valence Romans Touris
+ me.
+URL:https://www.valence-romans-tourisme.com/fr/loffice/actualites/notre-age
+ nda-du-mois/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:parents-nov@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261118T090000
 SUMMARY:Atelier parents-enfants
-LOCATION:Centre socioculturel\, Saint-AgrèveDESCRIPTION:Atelier mercredi 1
- 8 novembre à 9h. Public familial \; tarif et âge conseillé à confirmer
- .URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pa
- ge/3/
+LOCATION:Centre socioculturel\, Saint-Agrève
+DESCRIPTION:Atelier mercredi 18 novembre à 9h. Public familial \; tarif et
+  âge conseillé à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /3/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:elles-n-en-font@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261118T183000
-SUMMARY:Elles n’en font qu’à leur tête !LOCATION:Centre culturel Les 
- Quinconces\, 3 avenue Claude Expilly\, 07600Vals-les-BainsDESCRIPTION:Rend
- ez-vous musical mercredi 18 novembre à 18h30. Tarif et conditions d’acc
- ès à vérifier.
+SUMMARY:Elles n’en font qu’à leur tête !
+LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600Va
+ ls-les-Bains
+DESCRIPTION:Rendez-vous musical mercredi 18 novembre à 18h30. Tarif et con
+ ditions d’accès à vérifier.
 URL:https://lesquinconces.com/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:desaignes-film-ardeche-20261118@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261118T203000
-DTEND:20261118T223000SUMMARY:Diffusion du film documentaire « Ardèche » 
- en présence de l'équipe
-LOCATION:Salle des fêtes, 07570 DésaignesDESCRIPTION:Projection-rencontre
-  avec l'équipe du film. Tarif plein : 6 €. Source : Office de tourisme 
- du Pays de Lamastre / Écran Village.URL:https://www.pays-lamastre-tourism
- e.com/fr/catalogue/activite/diffusion-du-film-documentaire-ardeche-8027688
- /
+DTEND:20261118T223000
+SUMMARY:Diffusion du film documentaire « Ardèche » en présence de l'éq
+ uipe
+LOCATION:Salle des fêtes, 07570 Désaignes
+DESCRIPTION:Projection-rencontre avec l'équipe du film. Tarif plein : 6 
+ €. Source : Office de tourisme du Pays de Lamastre / Écran Village.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/diffusion-
+ du-film-documentaire-ardeche-8027688/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-saint-prix@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261119T093000
 SUMMARY:Randonneurs des Boutières – Saint-Prix
-LOCATION:Saint-Prix\, ArdècheDESCRIPTION:Randonnée jeudi 19 novembre à 9
- h30. Départ et caractéristiques à confirmer auprès du club.URL:https:/
- /www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page/3/
+LOCATION:Saint-Prix\, Ardèche
+DESCRIPTION:Randonnée jeudi 19 novembre à 9h30. Départ et caractéristiq
+ ues à confirmer auprès du club.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-dents@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261119T133000
 SUMMARY:Rando Saint-Agrèvoise – Les Dents du Diable
-LOCATION:Saint-Agrève\, ArdècheDESCRIPTION:Sortie jeudi 19 novembre à 13
- h30\, environ 10 km. Participation occasionnelle annoncée à 2 € \; dé
- part exact à confirmer.URL:https://www.ardeche-hautes-vallees.fr/l-agenda
- /sport-rando-loisirs/page/3/
+LOCATION:Saint-Agrève\, Ardèche
+DESCRIPTION:Sortie jeudi 19 novembre à 13h30\, environ 10 km. Participatio
+ n occasionnelle annoncée à 2 € \; départ exact à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:journee-archeologie-drome@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261121
 DTEND:20261122
 SUMMARY:Journée archéologique de la Drôme 2026
-LOCATION:Saint-Paul-Trois-Châteaux\, DrômeDESCRIPTION:Journée annoncée 
- le 21 novembre 2026. Programme et horairesà confirmer auprès de l’orga
- nisateur. Source : carte Patrimoine de la Drôme.
+LOCATION:Saint-Paul-Trois-Châteaux\, Drôme
+DESCRIPTION:Journée annoncée le 21 novembre 2026. Programme et horairesà
+  confirmer auprès de l’organisateur. Source : carte Patrimoine de la Dr
+ ôme.
 URL:https://cartepatrimoine.ladrome.fr/evenement
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:foire-boudin@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261121T070000
 DTEND:20261121T190000
 SUMMARY:Foire au boudin
-LOCATION:Centre du village\, 07270 Saint-Barthélemy-GrozonDESCRIPTION:Foir
- e locale samedi 21 novembre\, 7h–19h. Programme complémentaire à véri
- fier auprès de la mairie.
+LOCATION:Centre du village\, 07270 Saint-Barthélemy-Grozon
+DESCRIPTION:Foire locale samedi 21 novembre\, 7h–19h. Programme compléme
+ ntaire à vérifier auprès de la mairie.
 URL:https://www.saintbarthelemygrozon.fr/agenda/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:ping-pong@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261121T090000
 SUMMARY:Tournoi amical de tennis de table
-LOCATION:Saint-Agrève\, salle communale indiquée par l’organisateurDESC
- RIPTION:Tournoi samedi 21 novembre à partir de 9h. Tarif et inscription 
- à vérifier.URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rand
- o-loisirs/page/3/
+LOCATION:Saint-Agrève\, salle communale indiquée par l’organisateur
+DESCRIPTION:Tournoi samedi 21 novembre à partir de 9h. Tarif et inscriptio
+ n à vérifier.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:stage-danse@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261121T090000
 DTEND:20261121T120000
 SUMMARY:Stage de danse avec Clémence
-LOCATION:Saint-Agrève\, salle indiquée par l’organisateurDESCRIPTION:St
- age samedi 21 novembre\, 9h–12h. Tarif annoncé : 15 € adulte / 10 €
-  enfant.URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loi
- sirs/page/3/
+LOCATION:Saint-Agrève\, salle indiquée par l’organisateur
+DESCRIPTION:Stage samedi 21 novembre\, 9h–12h. Tarif annoncé : 15 € ad
+ ulte / 10 € enfant.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /3/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:salon-artisanat@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261121T100000
 DTEND:20261122T180000
 SUMMARY:Salon de l’Artisanat de la Drôme
-LOCATION:Stade Georges-Pompidou\, avenue de Romans\, 26000 ValenceDESCRIPTI
- ON:Samedi 21 et dimanche 22 novembre\, 10h–18h. Près de 100 artisans\, 
- démonstrations et animations familiales. Entrée gratuite.
+LOCATION:Stade Georges-Pompidou\, avenue de Romans\, 26000 Valence
+DESCRIPTION:Samedi 21 et dimanche 22 novembre\, 10h–18h. Près de 100 art
+ isans\, démonstrations et animations familiales. Entrée gratuite.
 URL:https://www.fest.fr/salon-de-l-artisanat-2705122.html
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:requiem@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261121T150000
 DTEND:20261121T233000
-SUMMARY:Requiem Rebelle – festival de musiqueLOCATION:Temple protestant\,
-  église et salle du Lac\, 07240 Vernoux-en-VivaraisDESCRIPTION:Festival m
- usical samedi 21 novembre à partir de 15h. Participation libre annoncée 
- \; plusieurs lieux à Vernoux.
+SUMMARY:Requiem Rebelle – festival de musique
+LOCATION:Temple protestant\, église et salle du Lac\, 07240 Vernoux-en-Viv
+ arais
+DESCRIPTION:Festival musical samedi 21 novembre à partir de 15h. Participa
+ tion libre annoncée \; plusieurs lieux à Vernoux.
 URL:https://www.coeur-ardeche.fr/agenda/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:soiree-magie@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261121T183000
 DTEND:20261121T220000
 SUMMARY:Soirée « Magie de l’optimisme »
-LOCATION:Salle des fêtes\, 07570 DésaignesDESCRIPTION:Accueil 18h30\, spe
- ctacle annoncé à 20h\, repas ensuite. Repas annoncé à 14 € \; réser
- vation demandée avant le 16 novembre.
+LOCATION:Salle des fêtes\, 07570 Désaignes
+DESCRIPTION:Accueil 18h30\, spectacle annoncé à 20h\, repas ensuite. Repa
+ s annoncé à 14 € \; réservation demandée avant le 16 novembre.
 URL:https://www.pays-lamastre-tourisme.com/agenda/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:concert-colombie-grozon-20261121@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261121T200000
 DTEND:20261121T213000
 SUMMARY:Concert « Colombie » – tango colombien
-LOCATION:Château de Grozon, 70 rue du Château, Saint-Barthélemy-GrozonDE
- SCRIPTION:Carmen Hernandez et Rudi Flores. Entrée libre. Source : Office 
- de tourisme du Pays de Lamastre.URL:https://www.pays-lamastre-tourisme.com
- /fr/catalogue/activite/concert-colombie-8056351/
+LOCATION:Château de Grozon, 70 rue du Château, Saint-Barthélemy-Grozon
+DESCRIPTION:Carmen Hernandez et Rudi Flores. Entrée libre. Source : Office
+  de tourisme du Pays de Lamastre.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/concert-co
+ lombie-8056351/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-st-barthelemy@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261122T123000
 SUMMARY:Randonnée pédestre Saint-Barthélemy-le-Meil – Les terrasses
-LOCATION:Vernoux-en-Vivarais\, départ communiqué par l’associationDESCR
- IPTION:Dimanche 22 novembre\, départ 12h30. Parcours d’environ 6 km / 2
- 40 m D+. Première participation annoncée gratuite.
+LOCATION:Vernoux-en-Vivarais\, départ communiqué par l’association
+DESCRIPTION:Dimanche 22 novembre\, départ 12h30. Parcours d’environ 6 km
+  / 240 m D+. Première participation annoncée gratuite.
 URL:https://www.coeur-ardeche.fr/agenda/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:a-travers-chant@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261122T150000
 SUMMARY:Concert « À travers chant »
-LOCATION:Centre culturel\, place Victor-Hugo\, 07270 LamastreDESCRIPTION:Co
- ncert dimanche 22 novembre à 15h. Tarif annoncé : 15 €.Réservation à
-  vérifier.
+LOCATION:Centre culturel\, place Victor-Hugo\, 07270 Lamastre
+DESCRIPTION:Concert dimanche 22 novembre à 15h. Tarif annoncé : 15 €.R
+ éservation à vérifier.
 URL:https://www.pays-lamastre-tourisme.com/agenda/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:padgels@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261122T150000
 DTEND:20261122T170000
 SUMMARY:Projection « Padgels 3 – Exode »
-LOCATION:Salle de Matras\, 07270 Saint-Barthélemy-GrozonDESCRIPTION:Projec
- tion dimanche 22 novembre de 15h à 17h. Tarif annoncé: 6 €.
+LOCATION:Salle de Matras\, 07270 Saint-Barthélemy-Grozon
+DESCRIPTION:Projection dimanche 22 novembre de 15h à 17h. Tarif annoncé: 
+ 6 €.
 URL:https://www.saintbarthelemygrozon.fr/agenda/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-boussoulet@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261126T133000
 SUMMARY:Rando Saint-Agrèvoise – Boussoulet
-LOCATION:Boussoulet\, ArdècheDESCRIPTION:Randonnée jeudi 26 novembre à 1
- 3h30\, environ 11 km / 340 mD+. Participation occasionnelle annoncée à 2
-  €.URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisir
- s/page/3/
+LOCATION:Boussoulet\, Ardèche
+DESCRIPTION:Randonnée jeudi 26 novembre à 13h30\, environ 11 km / 340 mD+
+ . Participation occasionnelle annoncée à 2 €.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:joga-bonito@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261126T200000
 SUMMARY:Joga Bonito – spectacle hip-hop et freestyle
-LOCATION:Théâtre de Privas\, place André-Malraux\, 07000 PrivasDESCRIPTI
- ON:Spectacle jeudi 26 novembre à 20h. Tarifs annoncés environ 13–20 
- € selon catégorie \; vérifier la billetterie.
+LOCATION:Théâtre de Privas\, place André-Malraux\, 07000 Privas
+DESCRIPTION:Spectacle jeudi 26 novembre à 20h. Tarifs annoncés environ 13
+ –20 € selon catégorie \; vérifier la billetterie.
 URL:https://www.theatredeprivas.com/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:illuminations@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261127
 DTEND:20270111
 SUMMARY:Fééries d’Hiver – Illuminations de Noël
-LOCATION:Centre-ville\, 26000 ValenceDESCRIPTION:Du 27 novembre au 10 janvi
- er. Accès libre \; allumage à la tombée de la nuit.
+LOCATION:Centre-ville\, 26000 Valence
+DESCRIPTION:Du 27 novembre au 10 janvier. Accès libre \; allumage à la to
+ mbée de la nuit.
 URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-illuminations/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:vannerie-grozon@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261127T080000
 DTEND:20261128T180000
-SUMMARY:Stage de vannerieLOCATION:Salle des associations\, ancienne école 
- de Grozon\, 07270 Saint-Barthélemy-GrozonDESCRIPTION:Stage les 27 et 28 n
- ovembre\, 8h–18h. Tarif publié : 75 € par journée. Inscription aupr
- ès de l’organisateur.
+SUMMARY:Stage de vannerie
+LOCATION:Salle des associations\, ancienne école de Grozon\, 07270 Saint-B
+ arthélemy-Grozon
+DESCRIPTION:Stage les 27 et 28 novembre\, 8h–18h. Tarif publié : 75 € 
+ par journée. Inscription auprès de l’organisateur.
 URL:https://www.saintbarthelemygrozon.fr/agenda/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:village-noel@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261127T180000
 DTEND:20261228T000000
 SUMMARY:Fééries d’Hiver – Village de Noël
-LOCATION:Boulevards Bancel et Maurice-Clerc\, 26000 ValenceDESCRIPTION:Vill
- age de Noël du 27 novembre au 27 décembre. Marché et animations en cent
- re-ville \; horaires selon les journées.URL:https://www.drome-cestmanatur
- e.com/sit/feeries-dhiver-village-de-noel/
+LOCATION:Boulevards Bancel et Maurice-Clerc\, 26000 Valence
+DESCRIPTION:Village de Noël du 27 novembre au 27 décembre. Marché et ani
+ mations en centre-ville \; horaires selon les journées.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-village-de-noel/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:soft-rock@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261127T183000
 DTEND:20261220T203000
 SUMMARY:Fééries d’Hiver – Concerts Soft Rock
-LOCATION:Village de Noël\, centre-ville\, 26000 ValenceDESCRIPTION:Session
- s annoncées les 27 novembre et 19 décembre\, 18h30–20h30. Accès libre
- .URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-soft-ro
- ck/
+LOCATION:Village de Noël\, centre-ville\, 26000 Valence
+DESCRIPTION:Sessions annoncées les 27 novembre et 19 décembre\, 18h30–2
+ 0h30. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-soft-rock
+ /
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:ateliers-creatifs@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261128
 DTEND:20261224
 SUMMARY:Fééries d’Hiver – Ateliers créatifs
-LOCATION:Village de Noël\, centre-ville\, 26000 ValenceDESCRIPTION:Session
- s annoncées les 28 novembre\, 5\, 13\, 19 et 23 décembre\, principalemen
- t l’après-midi. Vérifier les horaires précis de chaque date.URL:https
- ://www.drome-cestmanature.com/sit/feeries-dhiver-ateliers-creatifs/
+LOCATION:Village de Noël\, centre-ville\, 26000 Valence
+DESCRIPTION:Sessions annoncées les 28 novembre\, 5\, 13\, 19 et 23 décemb
+ re\, principalement l’après-midi. Vérifier les horaires précis de cha
+ que date.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-ateliers-creatifs
+ /
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-telethon-cheylard@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261128T080000
 SUMMARY:Randonnée au profit du Téléthon – Le Cheylard
-LOCATION:Le Cheylard\, départ communiqué par le clubDESCRIPTION:Randonné
- e solidaire samedi 28 novembre à partir de 8h. Plusieurs parcours annonc
- és \; vérifier distances et tarifs auprès de l’organisateur.URL:https
- ://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page/2/
+LOCATION:Le Cheylard\, départ communiqué par le club
+DESCRIPTION:Randonnée solidaire samedi 28 novembre à partir de 8h. Plusie
+ urs parcours annoncés \; vérifier distances et tarifs auprès de l’org
+ anisateur.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:foire-skis@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261128T093000
 DTEND:20261128T163000
-SUMMARY:Foire aux skis du Schuss ValentinoisLOCATION:Palais des Congrès et
-  des Expositions Jacques-Chirac\, 16 avenue Georges-Clemenceau\, 26000 Val
- enceDESCRIPTION:Samedi 28 novembre\, 9h30–16h30. Matériel de ski neuf e
- t d’occasion. Entrée gratuite.URL:https://www.valence-romans-tourisme.c
- om/fr/catalogue/detail/foire-aux-skis-8024980/
+SUMMARY:Foire aux skis du Schuss Valentinois
+LOCATION:Palais des Congrès et des Expositions Jacques-Chirac\, 16 avenue 
+ Georges-Clemenceau\, 26000 Valence
+DESCRIPTION:Samedi 28 novembre\, 9h30–16h30. Matériel de ski neuf et d
+ ’occasion. Entrée gratuite.
+URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/foire-aux-s
+ kis-8024980/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:clown-patto@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -795,10 +924,12 @@ DTSTART:20261128T143000
 DTEND:20261128T163000
 SUMMARY:Fééries d’Hiver – Spectacle du clown Patto
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
-DESCRIPTION:Samedi 28 novembre\, 14h30–16h30. Accès libre.URL:https://ww
- w.drome-cestmanature.com/sit/feeries-dhiver-spectacle-clown-patto/
+DESCRIPTION:Samedi 28 novembre\, 14h30–16h30. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-spectacle-clown-p
+ atto/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:dj-releve@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -806,21 +937,24 @@ DTSTART:20261128T183000
 DTEND:20261128T203000
 SUMMARY:Fééries d’Hiver – Concert DJ La Relève
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
-DESCRIPTION:Samedi 28 novembre\, 18h30–20h30. Accès libre.URL:https://ww
- w.drome-cestmanature.com/sit/feeries-dhiver-concert-dj-la-releve/
+DESCRIPTION:Samedi 28 novembre\, 18h30–20h30. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-dj-la-rel
+ eve/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-saint-felicien@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261129
 DTEND:20261130
 SUMMARY:Marché de Noël
-LOCATION:Gymnase\, Saint-Félicien\, ArdècheDESCRIPTION:Dimanche 29 novemb
- re 2026. Marché organisé par le comité des fêtes. Horaires et tarifs n
- on communiqués. Source : Ardèche Actu.
+LOCATION:Gymnase\, Saint-Félicien\, Ardèche
+DESCRIPTION:Dimanche 29 novembre 2026. Marché organisé par le comité des
+  fêtes. Horaires et tarifs non communiqués. Source : Ardèche Actu.
 URL:https://www.ardeche-actu.com/agenda/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:oshala@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -832,6 +966,7 @@ DESCRIPTION:Dimanche 29 novembre\, 14h30–16h30. Accès libre.
 URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-oshala/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:ferme-pedago@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -839,64 +974,77 @@ DTSTART:20261202T140000
 DTEND:20261202T173000
 SUMMARY:Fééries d’Hiver – Ferme pédagogique
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
-DESCRIPTION:Mercredi 2 décembre\, 14h–17h30. Accès libre.URL:https://ww
- w.drome-cestmanature.com/sit/feeries-dhiver-la-ferme-pedagogique/
+DESCRIPTION:Mercredi 2 décembre\, 14h–17h30. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-la-ferme-pedagogi
+ que/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:enfant-siecle@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261202T203000
-SUMMARY:Enfant du siècle – spectacleLOCATION:Centre culturel Les Quincon
- ces\, 3 avenue Claude Expilly\, 07600Vals-les-BainsDESCRIPTION:Spectacle m
- ercredi 2 décembre à 20h30. Tarif et disponibilité à vérifier auprès
-  de la billetterie.
+SUMMARY:Enfant du siècle – spectacle
+LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600Va
+ ls-les-Bains
+DESCRIPTION:Spectacle mercredi 2 décembre à 20h30. Tarif et disponibilit
+ é à vérifier auprès de la billetterie.
 URL:https://lesquinconces.com/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-egyas@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261203T093000
 SUMMARY:Randonneurs des Boutières – Vallée des Eygas
-LOCATION:Vallée des Eygas\, ArdècheDESCRIPTION:Sortie pédestre jeudi 3 d
- écembre à 9h30. Départ\, distance et dénivelé à confirmer.URL:https:
- //www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page/2/
+LOCATION:Vallée des Eygas\, Ardèche
+DESCRIPTION:Sortie pédestre jeudi 3 décembre à 9h30. Départ\, distance 
+ et dénivelé à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-st-cierge@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261203T133000
 SUMMARY:Rando Saint-Agrèvoise – Saint-Cierge-sous-le-Cheylard
-LOCATION:Saint-Cierge-sous-le-Cheylard\, ArdècheDESCRIPTION:Randonnée jeu
- di 3 décembre à 13h30\, environ 10 km / 500 mD+. Participation occasionn
- elle annoncée à 2 €.URL:https://www.ardeche-hautes-vallees.fr/l-agenda
- /sport-rando-loisirs/page/2/
+LOCATION:Saint-Cierge-sous-le-Cheylard\, Ardèche
+DESCRIPTION:Randonnée jeudi 3 décembre à 13h30\, environ 10 km / 500 mD+
+ . Participation occasionnelle annoncée à 2 €.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-saint-agreve@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261203T133000
 SUMMARY:Rando Saint-Agrèvoise – circuit de Saint-Agrève
-LOCATION:Saint-Agrève\, ArdècheDESCRIPTION:Randonnée jeudi 3 décembre 
- à 13h30\, environ 10 km / 350 mD+. Participation occasionnelle annoncée 
- à 2 €.URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-lo
- isirs/page/2/
+LOCATION:Saint-Agrève\, Ardèche
+DESCRIPTION:Randonnée jeudi 3 décembre à 13h30\, environ 10 km / 350 mD+
+ . Participation occasionnelle annoncée à 2 €.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:marche-vins-cornas@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261204
 DTEND:20261207
 SUMMARY:Marché aux vins de Cornas
-LOCATION:Cornas\, ArdècheDESCRIPTION:Événement annoncé du 4 au 6 décem
- bre 2026. Horaires\, tarifs et programme détaillé à vérifier auprès d
- e l’organisateur. Source : Ardèche Guide.
+LOCATION:Cornas\, Ardèche
+DESCRIPTION:Événement annoncé du 4 au 6 décembre 2026. Horaires\, tarif
+ s et programme détaillé à vérifier auprès de l’organisateur. Source
+  : Ardèche Guide.
 URL:https://www.ardeche-guide.com/agenda/agenda-top-evenement/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:laurane@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -904,104 +1052,123 @@ DTSTART:20261204T183000
 DTEND:20261204T203000
 SUMMARY:Fééries d’Hiver – Concert Laurane Jolly
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
-DESCRIPTION:Vendredi 4 décembre\, 18h30–20h30. Accès libre.URL:https://
- www.drome-cestmanature.com/sit/feeries-dhiver-concert-laurane-jolly/
+DESCRIPTION:Vendredi 4 décembre\, 18h30–20h30. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-laurane-j
+ olly/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-maoche@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261205T080000
 SUMMARY:Téléthon – randonnée maoche à Usclades-et-Rieutord
-LOCATION:Usclades-et-Rieutord\, 07510DESCRIPTION:Randonnée solidaire samed
- i 5 décembre\, départ le matin. Parcours annoncé autour de 14\,15 km / 
- 411 m D+ \; repas et tarif à vérifier.URL:https://www.ardeche-hautes-val
- lees.fr/l-agenda/sport-rando-loisirs/page/2/
+LOCATION:Usclades-et-Rieutord\, 07510
+DESCRIPTION:Randonnée solidaire samedi 5 décembre\, départ le matin. Par
+ cours annoncé autour de 14\,15 km / 411 m D+ \; repas et tarif à vérifi
+ er.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:vtt-frontonas@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261205T083000
 DTEND:20261205T133000
 SUMMARY:Rando VTT du Téléthon de Frontonas
-LOCATION:Halle des sports\, 38290 FrontonasDESCRIPTION:VTT/VTTAE samedi 5 d
- écembre : départs 8h30–10h\, retour avant 13h30. Parcours 12\, 25 ou 3
- 9 km \; D+ 130\, 430 ou 680 m. 8 € adulte\, 6 € moins de 16 ans. Envir
- on 85 km à vol d’oiseau \; trajet routier potentiellement supérieur à
-  100 km.URL:https://www.helloasso.com/associations/afm-telethon-frontonas/
- evenements/rando-vtt-du-telethon
+LOCATION:Halle des sports\, 38290 Frontonas
+DESCRIPTION:VTT/VTTAE samedi 5 décembre : départs 8h30–10h\, retour ava
+ nt 13h30. Parcours 12\, 25 ou 39 km \; D+ 130\, 430 ou 680 m. 8 € adulte
+ \, 6 € moins de 16 ans. Environ 85 km à vol d’oiseau \; trajet routie
+ r potentiellement supérieur à 100 km.
+URL:https://www.helloasso.com/associations/afm-telethon-frontonas/evenement
+ s/rando-vtt-du-telethon
 CATEGORIES:VTT
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:telethon-bastide@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261205T090000
-DTEND:20261205T180000SUMMARY:Téléthon – VTT électrique\, quad\, moto e
- t randonnées pédestres
-LOCATION:Salle polyvalente\, 48250 La Bastide-PuylaurentDESCRIPTION:Samedi 
- 5 décembre : quad/moto à 9h et 14h (10 €)\, VTT électrique à 14h (10
-  €)\, marche 10 km à 13h30 et 5 km à 14h30 (5 €). Repas 20 €\, ré
- servation avant le 1er décembre. Environ 75 km à vol d’oiseau d’Albo
- ussière.
+DTEND:20261205T180000
+SUMMARY:Téléthon – VTT électrique\, quad\, moto et randonnées pédest
+ res
+LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
+DESCRIPTION:Samedi 5 décembre : quad/moto à 9h et 14h (10 €)\, VTT éle
+ ctrique à 14h (10 €)\, marche 10 km à 13h30 et 5 km à 14h30 (5 €). 
+ Repas 20 €\, réservation avant le 1er décembre. Environ 75 km à vol d
+ ’oiseau d’Alboussière.
 URL:https://www.jds.fr/manifestations/telethon-1838483_A
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:telethon-labatie@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261205T133000
 DTEND:20261205T170000
-SUMMARY:Téléthon de la Ritournelle – randonnéeLOCATION:Salle municipal
- e Jean Norton Cru\, Labatie-d’Andaure\, ArdècheDESCRIPTION:Randonnée a
- nnoncée le 5 décembre à partir de 13 h 30. Détails du parcours et part
- icipation à confirmer auprès de l’organisateur. Source : agenda local 
- référencé dans le dépôt.
+SUMMARY:Téléthon de la Ritournelle – randonnée
+LOCATION:Salle municipale Jean Norton Cru\, Labatie-d’Andaure\, Ardèche
+DESCRIPTION:Randonnée annoncée le 5 décembre à partir de 13 h 30. Déta
+ ils du parcours et participation à confirmer auprès de l’organisateur.
+  Source : agenda local référencé dans le dépôt.
 URL:https://www.ardeche-guide.com/Agenda/
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-telethon-st-agreve@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261205T133000
 SUMMARY:Téléthon – randonnée pédestre à Saint-Agrève
-LOCATION:Saint-Agrève\, lieu communiqué par l’organisateurDESCRIPTION:R
- andonnée solidaire samedi 5 décembre à 13h30. Parcours ettarif à confi
- rmer.URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisir
- s/page/2/
+LOCATION:Saint-Agrève\, lieu communiqué par l’organisateur
+DESCRIPTION:Randonnée solidaire samedi 5 décembre à 13h30. Parcours etta
+ rif à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-sainte-eulalie@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261205T140000
 SUMMARY:Téléthon – randonnée pédestre à Sainte-Eulalie
-LOCATION:Sainte-Eulalie\, 07510DESCRIPTION:Randonnée solidaire samedi 5 d
- écembre à 14h\, environ 15\,3 km / 429 m D+. Participation annoncée aut
- our de 8 € hors repas.URL:https://www.ardeche-hautes-vallees.fr/l-agenda
- /sport-rando-loisirs/page/2/
+LOCATION:Sainte-Eulalie\, 07510
+DESCRIPTION:Randonnée solidaire samedi 5 décembre à 14h\, environ 15\,3 
+ km / 429 m D+. Participation annoncée autour de 8 € hors repas.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:parade-noel@evenements-alboussiere
 DTSTAMP:20261113T052304Z
-DTSTART:20261205T183000SUMMARY:Fééries d’Hiver – Grande parade de No
- ël et feux d’artifice
-LOCATION:Centre-ville et Champ de Mars\, 26000 ValenceDESCRIPTION:Samedi 5 
- décembre à partir de 18h30 \; feu d’artifice annoncé dans la soirée.
-  Accès libre.URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-la
- -grande-parade-de-noel-et-feux-dartifices/
+DTSTART:20261205T183000
+SUMMARY:Fééries d’Hiver – Grande parade de Noël et feux d’artifice
+LOCATION:Centre-ville et Champ de Mars\, 26000 Valence
+DESCRIPTION:Samedi 5 décembre à partir de 18h30 \; feu d’artifice annon
+ cé dans la soirée. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-la-grande-parade-
+ de-noel-et-feux-dartifices/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-balcons@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261206T093000
 SUMMARY:Randonneurs des Boutières – Les Balcons de l’Eyrieux
-LOCATION:Vallée de l’Eyrieux\, ArdècheDESCRIPTION:Sortie pédestre dima
- nche 6 décembre à 9h30. Distance et dénivelé à confirmer.URL:https://
- www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page/2/
+LOCATION:Vallée de l’Eyrieux\, Ardèche
+DESCRIPTION:Sortie pédestre dimanche 6 décembre à 9h30. Distance et dén
+ ivelé à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:chants-noel@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -1013,6 +1180,7 @@ DESCRIPTION:Dimanche 6 décembre\, 14h30–15h30. Accès libre.
 URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-chants-de-noel/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:country-danse@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -1024,73 +1192,86 @@ DESCRIPTION:Dimanche 6 décembre\, 16h30–17h30. Accès libre.
 URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-country-danse/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:debroussaillage@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261208T090000
 SUMMARY:Chantier de débroussaillage des sentiers
-LOCATION:Sentiers des Boutières\, départ communiqué par le clubDESCRIPTI
- ON:Chantier bénévole mardi 8 décembre à 9h pour l’entretien des sent
- iers. Équipement adapté requis.URL:https://www.ardeche-hautes-vallees.fr
- /l-agenda/sport-rando-loisirs/page/2/
+LOCATION:Sentiers des Boutières\, départ communiqué par le club
+DESCRIPTION:Chantier bénévole mardi 8 décembre à 9h pour l’entretien 
+ des sentiers. Équipement adapté requis.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Nature
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:ateliers-jeux@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261209
 DTEND:20261221
 SUMMARY:Fééries d’Hiver – Ateliers de jeux
-LOCATION:Village de Noël\, centre-ville\, 26000 ValenceDESCRIPTION:Session
- s annoncées les 9\, 12 et 20 décembre. Horaires variables selon la date\
- , généralement l’après-midi \; accès libre.URL:https://www.drome-ces
- tmanature.com/sit/feeries-dhiver-ateliers-de-jeux/
+LOCATION:Village de Noël\, centre-ville\, 26000 Valence
+DESCRIPTION:Sessions annoncées les 9\, 12 et 20 décembre. Horaires variab
+ les selon la date\, généralement l’après-midi \; accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-ateliers-de-jeux/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-villebrion@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261210T093000
 SUMMARY:Randonneurs des Boutières – Autour de Villebrion
-LOCATION:Villebrion\, ArdècheDESCRIPTION:Sortie pédestre jeudi 10 décemb
- re à 9h30. Distance et dénivelé à confirmer.URL:https://www.ardeche-ha
- utes-vallees.fr/l-agenda/sport-rando-loisirs/page/2/
+LOCATION:Villebrion\, Ardèche
+DESCRIPTION:Sortie pédestre jeudi 10 décembre à 9h30. Distance et déniv
+ elé à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-pailhares@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261210T133000
 SUMMARY:Rando Saint-Agrèvoise – Pailharès
-LOCATION:Pailharès\, ArdècheDESCRIPTION:Randonnée jeudi 10 décembre à 
- 13h30\, environ 10 km / 407 m D+. Participation occasionnelle annoncée à
-  2 €.URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-lois
- irs/page/2/
+LOCATION:Pailharès\, Ardèche
+DESCRIPTION:Randonnée jeudi 10 décembre à 13h30\, environ 10 km / 407 m 
+ D+. Participation occasionnelle annoncée à 2 €.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-montgros@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261210T133000
 SUMMARY:Rando Saint-Agrèvoise – Bois de Montgros
-LOCATION:Bois de Montgros\, ArdècheDESCRIPTION:Randonnée jeudi 10 décemb
- re à 13h30\, environ 10 km / 200 m D+. Participation occasionnelle annonc
- ée à 2 €.URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rand
- o-loisirs/page/2/
+LOCATION:Bois de Montgros\, Ardèche
+DESCRIPTION:Randonnée jeudi 10 décembre à 13h30\, environ 10 km / 200 m 
+ D+. Participation occasionnelle annoncée à 2 €.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:noel-animaux@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261211
-DTEND:20261214SUMMARY:Fééries d’Hiver – Noël des animaux avec le ref
- uge Saint-Roch
-LOCATION:Refuge Saint-Roch\, ValenceDESCRIPTION:Animation annoncée du 11 a
- u 13 décembre. Horaires et modalités à vérifier auprès du refuge.URL:
- https://www.drome-cestmanature.com/sit/feeries-dhiver-noel-des-animaux-ave
- c-le-refuge-saint-roch/
+DTEND:20261214
+SUMMARY:Fééries d’Hiver – Noël des animaux avec le refuge Saint-Roch
+LOCATION:Refuge Saint-Roch\, Valence
+DESCRIPTION:Animation annoncée du 11 au 13 décembre. Horaires et modalit
+ és à vérifier auprès du refuge.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-noel-des-animaux-
+ avec-le-refuge-saint-roch/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:dj-sub@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -1102,6 +1283,7 @@ DESCRIPTION:Vendredi 11 décembre\, 18h30–20h30. Accès libre.
 URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-dj-sub/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:aja-caez@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -1109,21 +1291,24 @@ DTSTART:20261212T183000
 DTEND:20261212T203000
 SUMMARY:Fééries d’Hiver – Concert Aja Caez
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
-DESCRIPTION:Samedi 12 décembre\, 18h30–20h30. Accès libre.URL:https://w
- ww.drome-cestmanature.com/sit/feeries-dhiver-concert-aja-caez/
+DESCRIPTION:Samedi 12 décembre\, 18h30–20h30. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-aja-caez/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:chant-lions@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261212T203000
-SUMMARY:Le Chant des Lions – spectacleLOCATION:Centre culturel Les Quinco
- nces\, 3 avenue Claude Expilly\, 07600Vals-les-BainsDESCRIPTION:Spectacle 
- samedi 12 décembre à 20h30. Tarif et disponibilité à vérifier auprès
-  de la billetterie.
+SUMMARY:Le Chant des Lions – spectacle
+LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600Va
+ ls-les-Bains
+DESCRIPTION:Spectacle samedi 12 décembre à 20h30. Tarif et disponibilité
+  à vérifier auprès de la billetterie.
 URL:https://lesquinconces.com/
 CATEGORIES:Culture
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:guinguette@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -1131,10 +1316,12 @@ DTSTART:20261213T110000
 DTEND:20261213T140000
 SUMMARY:Fééries d’Hiver – Guinguette de Noël
 LOCATION:Centre-ville\, 26000 Valence
-DESCRIPTION:Dimanche 13 décembre\, 11h–14h. Accès libre.URL:https://www
- .drome-cestmanature.com/sit/feeries-dhiver-guinguette-de-noel/
+DESCRIPTION:Dimanche 13 décembre\, 11h–14h. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-guinguette-de-noe
+ l/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:echassieres@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -1142,45 +1329,53 @@ DTSTART:20261213T163000
 DTEND:20261213T183000
 SUMMARY:Fééries d’Hiver – Échassières lumineuses
 LOCATION:Centre-ville\, 26000 Valence
-DESCRIPTION:Dimanche 13 décembre\, 16h30–18h30. Accès libre.URL:https:/
- /www.drome-cestmanature.com/sit/feeries-dhiver-echassieres-lumineuses/
+DESCRIPTION:Dimanche 13 décembre\, 16h30–18h30. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-echassieres-lumin
+ euses/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:pere-noel@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261216
 DTEND:20261223
 SUMMARY:Fééries d’Hiver – Rencontre avec le Père Noël
-LOCATION:Village de Noël\, centre-ville\, 26000 ValenceDESCRIPTION:Rencont
- res annoncées les 16\, 19\, 20 et 22 décembre\, l’après-midi. Horaire
- s précis à vérifier.URL:https://www.drome-cestmanature.com/sit/feeries-
- dhiver-a-la-rencontre-du-pere-noel/
+LOCATION:Village de Noël\, centre-ville\, 26000 Valence
+DESCRIPTION:Rencontres annoncées les 16\, 19\, 20 et 22 décembre\, l’ap
+ rès-midi. Horaires précis à vérifier.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-a-la-rencontre-du
+ -pere-noel/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:caleche@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261216
 DTEND:20261225
 SUMMARY:Fééries d’Hiver – Balades en calèche
-LOCATION:Centre-ville\, 26000 ValenceDESCRIPTION:Balades annoncées les 16\
- , 19\, 20\, 22\, 23 et 24 décembre. Tarif annoncé : 3 €. Horaires vari
- ables selon la journée.URL:https://www.drome-cestmanature.com/sit/feeries
- -dhiver-balades-en-caleche/
+LOCATION:Centre-ville\, 26000 Valence
+DESCRIPTION:Balades annoncées les 16\, 19\, 20\, 22\, 23 et 24 décembre. 
+ Tarif annoncé : 3 €. Horaires variables selon la journée.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-balades-en-calech
+ e/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:parents-dec@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261216T090000
 SUMMARY:Atelier parents-enfants
-LOCATION:Centre socioculturel\, Saint-AgrèveDESCRIPTION:Atelier mercredi 1
- 6 décembre à 9h. Public familial \; tarifet âge conseillé à confirmer
- .URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pa
- ge/3/
+LOCATION:Centre socioculturel\, Saint-Agrève
+DESCRIPTION:Atelier mercredi 16 décembre à 9h. Public familial \; tarifet
+  âge conseillé à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /3/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:sculpture-glace@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -1188,10 +1383,12 @@ DTSTART:20261216T140000
 DTEND:20261216T163000
 SUMMARY:Fééries d’Hiver – Atelier sculpture sur glace
 LOCATION:Centre-ville\, 26000 Valence
-DESCRIPTION:Mercredi 16 décembre\, 14h–16h30. Accès libre.URL:https://w
- ww.drome-cestmanature.com/sit/feeries-dhiver-atelier-sculpture-sur-glace/
+DESCRIPTION:Mercredi 16 décembre\, 14h–16h30. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-atelier-sculpture
+ -sur-glace/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:buzz-eclair@evenements-alboussiere
 DTSTAMP:20261113T052304Z
@@ -1203,119 +1400,144 @@ DESCRIPTION:Mercredi 16 décembre\, 14h30–16h30. Accès libre.
 URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-buzz-leclair/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-cheylard@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261217T130000
 SUMMARY:Rando Saint-Agrèvoise – Le Cheylard
-LOCATION:Le Cheylard\, ArdècheDESCRIPTION:Randonnée jeudi 17 décembre à
-  13h. Départ et caractéristiques à confirmer.URL:https://www.ardeche-ha
- utes-vallees.fr/l-agenda/sport-rando-loisirs/page/3/
+LOCATION:Le Cheylard\, Ardèche
+DESCRIPTION:Randonnée jeudi 17 décembre à 13h. Départ et caractéristiq
+ ues à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:rando-ribes@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261217T133000
 SUMMARY:Rando Saint-Agrèvoise – Les Ribes
-LOCATION:Les Ribes\, ArdècheDESCRIPTION:Randonnée jeudi 17 décembre à 1
- 3h30. Départ et caractéristiques à confirmer.URL:https://www.ardeche-ha
- utes-vallees.fr/l-agenda/sport-rando-loisirs/page/3/
+LOCATION:Les Ribes\, Ardèche
+DESCRIPTION:Randonnée jeudi 17 décembre à 13h30. Départ et caractérist
+ iques à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
+ /3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:deambulations@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261219
 DTEND:20261224
 SUMMARY:Fééries d’Hiver – Déambulations musicales
-LOCATION:Centre-ville\, 26000 ValenceDESCRIPTION:Déambulations annoncées 
- les 19\, 20 et 23 décembre\, l’après-midi. Accès libre.URL:https://ww
- w.drome-cestmanature.com/sit/feeries-dhiver-deambulations-musicales/
+LOCATION:Centre-ville\, 26000 Valence
+DESCRIPTION:Déambulations annoncées les 19\, 20 et 23 décembre\, l’apr
+ ès-midi. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-deambulations-mus
+ icales/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:noel-chat@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261220
 SUMMARY:Fééries d’Hiver – Noël des animaux avec l’École du Chat
-LOCATION:ValenceDESCRIPTION:Animation annoncée dimanche 20 décembre. Hora
- ires à vérifier sur la fiche officielle.URL:https://www.drome-cestmanatu
- re.com/sit/feeries-dhiver-noel-des-animaux-avec-lecole-du-chat/
+LOCATION:Valence
+DESCRIPTION:Animation annoncée dimanche 20 décembre. Horaires à vérifie
+ r sur la fiche officielle.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-noel-des-animaux-
+ avec-lecole-du-chat/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:pas-a-pas-20@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261220T140000
 SUMMARY:Balade « Pas à pas l’hiver » aux Estables
-LOCATION:Les Estables\, 43150DESCRIPTION:Balade hivernale guidée dimanche 
- 20 décembre à 14h. Tarif et équipement à confirmer \; vérifier la mé
- téo.
+LOCATION:Les Estables\, 43150
+DESCRIPTION:Balade hivernale guidée dimanche 20 décembre à 14h. Tarif et
+  équipement à confirmer \; vérifier la météo.
 URL:https://www.lesestables.fr/agenda/
 CATEGORIES:Nature
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:glissades-21@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261221T143000
 SUMMARY:Glissades givrées – activité neige aux Estables
-LOCATION:Les Estables\, 43150DESCRIPTION:Animation lundi 21 décembre à 14
- h30. Enneigement\, tarif etmatériel à confirmer.
+LOCATION:Les Estables\, 43150
+DESCRIPTION:Animation lundi 21 décembre à 14h30. Enneigement\, tarif etma
+ tériel à confirmer.
 URL:https://www.lesestables.fr/agenda/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:mascottes@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261222
 DTEND:20261227
 SUMMARY:Fééries d’Hiver – Mascottes surprises de Noël
-LOCATION:Centre-ville\, 26000 ValenceDESCRIPTION:Rencontres annoncées les 
- 22 et 26 décembre\, l’après-midi. Horaires précis à vérifier.URL:ht
- tps://www.drome-cestmanature.com/sit/feeries-dhiver-mascottes-surprises-de
- -noel/
+LOCATION:Centre-ville\, 26000 Valence
+DESCRIPTION:Rencontres annoncées les 22 et 26 décembre\, l’après-midi.
+  Horaires précis à vérifier.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-mascottes-surpris
+ es-de-noel/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:pas-a-pas-27@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261227T140000
 SUMMARY:Balade « Pas à pas l’hiver » aux Estables
-LOCATION:Les Estables\, 43150DESCRIPTION:Balade hivernale guidée dimanche 
- 27 décembre à 14h. Tarif et équipement à confirmer \; vérifier la mé
- téo.
+LOCATION:Les Estables\, 43150
+DESCRIPTION:Balade hivernale guidée dimanche 27 décembre à 14h. Tarif et
+  équipement à confirmer \; vérifier la météo.
 URL:https://www.lesestables.fr/agenda/
 CATEGORIES:Nature
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:glissades-28@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261228T143000
 SUMMARY:Glissades givrées – activité neige aux Estables
-LOCATION:Les Estables\, 43150DESCRIPTION:Animation lundi 28 décembre à 14
- h30. Enneigement\, tarif etmatériel à confirmer.
+LOCATION:Les Estables\, 43150
+DESCRIPTION:Animation lundi 28 décembre à 14h30. Enneigement\, tarif etma
+ tériel à confirmer.
 URL:https://www.lesestables.fr/agenda/
 CATEGORIES:Famille
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:etoiles-30@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261230T190000
 SUMMARY:Balade « La tête dans les étoiles »
-LOCATION:Les Estables\, 43150DESCRIPTION:Sortie nature mercredi 30 décembr
- e à 19h. Tarif annoncé : 23 €. Réservation et météo à vérifier.
+LOCATION:Les Estables\, 43150
+DESCRIPTION:Sortie nature mercredi 30 décembre à 19h. Tarif annoncé : 23
+  €. Réservation et météo à vérifier.
 URL:https://www.lesestables.fr/agenda/
 CATEGORIES:Nature
 STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:aperitif-31@evenements-alboussiere
 DTSTAMP:20261113T052304Z
 DTSTART:20261231T170000
 SUMMARY:Balade apéro du pré-réveillon
-LOCATION:Les Estables\, 43150DESCRIPTION:Sortie nature jeudi 31 décembre 
- à 17h. Tarif annoncé : 33 €. Réservation et météo à vérifier.
+LOCATION:Les Estables\, 43150
+DESCRIPTION:Sortie nature jeudi 31 décembre à 17h. Tarif annoncé : 33 
+ €. Réservation et météo à vérifier.
 URL:https://www.lesestables.fr/agenda/
 CATEGORIES:Nature
 STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
