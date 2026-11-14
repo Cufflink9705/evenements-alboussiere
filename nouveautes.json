@@ -321,10 +321,10 @@
     {
       "title": "Marché de Noël de Clérieux",
       "date": "22 novembre, 9h–17h",
-      "location": "26260 Clérieux, France",
+      "location": "Clérieux, France",
       "category": "Vie locale",
       "description": "Artisans, produits locaux, gourmandises et Père Noël. Entrée libre. Distance estimée : ≈25 km.",
-      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-10/",
+      "url": "https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-drome/",
       "price": "Gratuit"
     },
     {
@@ -697,20 +697,20 @@
       "price": "Gratuit sur réservation"
     },
     {
-      "title": "Marché de Noël sous la Canopée – Romans-sur-Isère",
-      "date": "5 décembre, 9h–18h",
-      "location": "26100 Romans-sur-Isère, France",
+      "title": "Marché de Noël d’Étoile-sur-Rhône",
+      "date": "12–13 décembre 2026",
+      "location": "Étoile-sur-Rhône, France",
       "category": "Vie locale",
-      "description": "Marché de Noël, exposants et gourmandises. Accès libre. Distance estimée : ≈32 km.",
+      "description": "Plus de 50 exposants, Père Noël, buvette et restauration. Samedi 10h–21h, dimanche 10h–18h. Entrée libre. Distance estimée : ≈25 km.",
       "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-38/",
       "price": "Gratuit"
     },
     {
-      "title": "Marché de Noël sous la Canopée – Romans-sur-Isère",
-      "date": "12 décembre, 9h–18h",
-      "location": "26100 Romans-sur-Isère, France",
+      "title": "Marché de Noël d’Étoile-sur-Rhône",
+      "date": "12–13 décembre 2026",
+      "location": "Étoile-sur-Rhône, France",
       "category": "Vie locale",
-      "description": "Deuxième date du marché de Noël, accès libre. Distance estimée : ≈32 km.",
+      "description": "Plus de 50 exposants, Père Noël, buvette et restauration. Samedi 10h–21h, dimanche 10h–18h. Entrée libre. Distance estimée : ≈25 km.",
       "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-38/",
       "price": "Gratuit"
     },
@@ -756,7 +756,7 @@
       "location": "26600 Larnage, France",
       "category": "Vie locale",
       "description": "Stands de producteurs, artisans et caves locales. Distance estimée : ≈20 km.",
-      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-larnage/",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-larnage/",
       "price": "Tarif non précisé"
     },
     {
@@ -780,19 +780,19 @@
     {
       "title": "Marché de Noël de Tournon-sur-Rhône",
       "date": "13 décembre, journée",
-      "location": "07300 Tournon-sur-Rhône, France",
+      "location": "Tournon-sur-Rhône, France",
       "category": "Vie locale",
       "description": "Marché de Noël en centre-ville ; animations musicales et stands annoncés. Horaires de fin à confirmer. Distance estimée : ≈16 km.",
-      "url": "https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-drome/",
+      "url": "https://www.drome-cestmanature.com/fiches/marches-de-noel-tournon-sur-rhone/",
       "price": "Tarif non précisé"
     },
     {
       "title": "Marché de Noël de Tournon-sur-Rhône",
       "date": "20 décembre, journée",
-      "location": "07300 Tournon-sur-Rhône, France",
+      "location": "Tournon-sur-Rhône, France",
       "category": "Vie locale",
       "description": "Deuxième date annoncée du marché de Noël, animations musicales et stands en centre-ville. Horaires de fin à confirmer. Distance estimée : ≈16 km.",
-      "url": "https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-drome/",
+      "url": "https://www.drome-cestmanature.com/fiches/marches-de-noel-tournon-sur-rhone/",
       "price": "Tarif non précisé"
     },
     {
@@ -839,6 +839,77 @@
       "description": "Balade familiale guidée et contée dans le centre ancien, avec jus de pomme chaud et friandises. Inscription obligatoire, places limitées. Distance estimée : ≈75 km.",
       "url": "https://www.drome-cestmanature.com/fiches/balade-de-noel-a-dieulefit/",
       "price": "Gratuit"
+    },
+    {
+      "title": "Marché artisanal de Noël – Margès",
+      "date": "12–13 décembre 2026",
+      "location": "Margès, France",
+      "category": "Vie locale",
+      "description": "Marché artisanal, animations, dégustations, artisans locaux et feu d’artifice. Samedi 17h–22h, dimanche 10h–17h. Gratuit. ≈35 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-artisanal-de-noel-marges/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël artisanal – Saint-Jean-de-Muzols",
+      "date": "29 novembre 2026",
+      "location": "Saint-Jean-de-Muzols, France",
+      "category": "Vie locale",
+      "description": "Artisans, buvette, vin chaud, crêpes et Père Noël. Dès 10h, fin non publiée. Gratuit. ≈15 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-artisanal-saint-jean-de-muzols/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël – Beaumont-Monteux",
+      "date": "4 décembre 2026",
+      "location": "Beaumont-Monteux, France",
+      "category": "Vie locale",
+      "description": "Marché en musique avec chants de Noël des enfants. 16h30–23h, gratuit. ≈20 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-beaumont-monteux/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël – Chanos-Curson",
+      "date": "8 décembre 2026",
+      "location": "Chanos-Curson, France",
+      "category": "Vie locale",
+      "description": "Salle des fêtes, 16h–21h30, accès libre. ≈25 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-chanos-curson/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël – Étables",
+      "date": "5 décembre 2026",
+      "location": "Étables, France",
+      "category": "Vie locale",
+      "description": "Artisans, buvette, Père Noël et feu d’artifice. 15h–22h, gratuit. ≈20 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-etables/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël – Plats",
+      "date": "11 décembre 2026",
+      "location": "Plats, France",
+      "category": "Vie locale",
+      "description": "Marché de Noël annoncé ; horaires non publiés. ≈15 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-plats/"
+    },
+    {
+      "title": "Marché de Noël à la ferme – Graines de Buisson",
+      "date": "12–13 décembre 2026",
+      "location": "Plats, France",
+      "category": "Vie locale",
+      "description": "Producteurs et artisans locaux, 14h–19h les deux jours. Gratuit. ≈15 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-a-la-ferme-graines-de-buisson/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël au Domaine Pradelle – Chanos-Curson",
+      "date": "28 novembre 2026",
+      "location": "Chanos-Curson, France",
+      "category": "Vie locale",
+      "description": "Artisans, créateurs, dégustation de vins et huîtres. 10h–18h30, accès libre ; 12 huîtres 12 €. ≈25 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-au-domaine-pradelle-chanos-curson/",
+      "price": "Gratuit ; huîtres 12 € les 12"
     }
   ]
 }
