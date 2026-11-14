@@ -910,6 +910,33 @@
       "description": "Artisans, créateurs, dégustation de vins et huîtres. 10h–18h30, accès libre ; 12 huîtres 12 €. ≈25 km.",
       "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-au-domaine-pradelle-chanos-curson/",
       "price": "Gratuit ; huîtres 12 € les 12"
+    },
+    {
+      "title": "Compétition d’escalade – Étape ARDESCA U11/U13/U15",
+      "date": "2026-11-14",
+      "location": "07200 Aubenas, France",
+      "category": "Sport",
+      "description": "Étape du Trophée Drôme-Ardèche U11/U13/U15, combiné difficulté et vitesse. Inscription annoncée à 8 € ; 44 places disponibles lors de la vérification. Accès spectateurs non précisé : confirmer auprès d’Ardesca. Distance estimée : ≈40 km.",
+      "url": "https://www.helloasso.com/associations/ardesca/evenements/etape-ardesca-trophee-drome-ardeche-u11-u13-u15-2",
+      "price": "8 €"
+    },
+    {
+      "title": "BMX – Montélimar Trophée Drôme-Ardèche",
+      "date": "2026-11-15",
+      "location": "26200 Montélimar, France",
+      "category": "Sport",
+      "description": "Manche du Trophée Drôme-Ardèche sur piste BMX. Engagement annoncé à 13 € ; inscription réservée aux membres du club, compétition ouverte aux licenciés. Accès spectateurs non précisé : confirmer auprès du club. Distance estimée : ≈50 km.",
+      "url": "https://www.helloasso.com/associations/bike-club-saint-sorlin-26/evenements/montelimar-trophee-drome-ardeche",
+      "price": "13 €"
+    },
+    {
+      "title": "BMX – 6e Trophée René Vicat, Mours / Romans",
+      "date": "2026-11-28",
+      "location": "26540 Mours-Saint-Eusèbe, France",
+      "category": "Sport",
+      "description": "Compétition BMX organisée par la municipalité de Mours-Saint-Eusèbe et BMX Mours Romans. Inscriptions 20 pouces et cruiser : 13 €. Accès spectateurs non précisé : confirmer auprès de l’organisateur. Distance estimée : ≈40 km.",
+      "url": "https://www.helloasso.com/associations/bc-portois/evenements/trophee-rene-vicat-bmx-mours-romans-1",
+      "price": "13 €"
     }
   ]
 }
