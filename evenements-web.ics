@@ -112,20 +112,6 @@ URL:https://www.drome-cestmanature.com/fiches/exposition-au-fil-du-rhone/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:carrefour-arts-lalouvesc-20261114@evenements-alboussiere
-DTSTAMP:20261114T050445Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20270101
-SUMMARY:Exposition Carrefour des Arts – Olivier Muhlhoff
-LOCATION:Autour de la Basilique\, 07520 Lalouvesc\, France
-CATEGORIES:Culture et loisir
-DESCRIPTION:Photographies « Arborescence » autour du végétal et du pays
- age. Accès libre\, jusqu’au 31 décembre. Distance estimée : ≈28 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:nature-assiette-annonay-20261114@evenements-alboussiere
 DTSTAMP:20261114T050445Z
 DTSTART;VALUE=DATE:20261114
@@ -136,22 +122,6 @@ LOCATION:Musée du Parchemin\, 4 La Combe du Prieuré\, 07100 Annonay\, Fra
 CATEGORIES:Culture et loisir
 DESCRIPTION:Exposition sur l’histoire gourmande des produits naturels. Ou
  vert du lundi au vendredi 14h–18h. Distance estimée : ≈34 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:astronomie-davezieux-20261114@evenements-alboussiere
-DTSTAMP:20261114T050445Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261129
-SUMMARY:Exposition et animations autour de l’astronomie
-LOCATION:Médiathèque\, 15 place des Anciens Combattants\, 07430 Davézieu
- x\, France
-CATEGORIES:Famille et nature
-DESCRIPTION:Exposition accessible selon les horaires de la médiathèque \;
-  animations annoncées jusqu’au 28 novembre. Vérifier le programme dét
- aillé. Distance estimée : ≈35 km.
 URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
  aine/
 STATUS:CONFIRMED
@@ -200,36 +170,6 @@ URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:revelation-eau-anneyron-20261114@evenements-alboussiere
-DTSTAMP:20261114T050445Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261216
-SUMMARY:Exposition photo graphique – Révélation\, l’âme de l’eau
-LOCATION:Médiathèque Jacques et Aimé Bertrand\, 5 bis rue Victor Hugo\, 
- 26140 Anneyron\, France
-CATEGORIES:Culture et loisir
-DESCRIPTION:Photographies de nature\, reflets et illusions. Horaires : mard
- i et vendredi 16h–18h30\, mercredi 10h–12h et 14h–17h\, samedi 10h
- –12h et 14h–16h. Gratuit. Distance estimée : ≈38 km.
-URL:https://www.ardeche-guide.com/fete-manifestation/exposition-photo-graph
- ique-revelation-lame-de-leau-8006687/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sabine-fischer-cheylard-20261114@evenements-alboussiere
-DTSTAMP:20261114T050445Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20270105
-SUMMARY:Exposition photos de Sabine Fischer
-LOCATION:RDB – Radio des Boutières\, 20 rue de la République\, 07160 Le
-  Cheylard\, France
-CATEGORIES:Culture et loisir
-DESCRIPTION:Paysages ardéchois. Ouvert du lundi au vendredi 9h–12h et 13
- h–16h. Entrée libre. Distance estimée : ≈26 km.
-URL:https://www.ardeche-guide.com/agenda/page/162/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:plus-belle-mort-orgnac-20261114@evenements-alboussiere
 DTSTAMP:20261114T050445Z
 DTSTART;VALUE=DATE:20261114
@@ -259,6 +199,66 @@ DESCRIPTION:Œuvres de 14 artistes : gravures\, sérigraphies\, risographie
 URL:https://www.ardeche-guide.com/fete-manifestation/exposition-pouet-pouet
  -images-de-cirque-7976966/
 CATEGORIES:Culture et loisir
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:carrefour-arts-lalouvesc-20261114@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20270101
+SUMMARY:Exposition Carrefour des Arts – Olivier Muhlhoff
+LOCATION:Autour de la Basilique\, 07520 Lalouvesc\, France
+CATEGORIES:Culture et loisir
+DESCRIPTION:Photographies « Arborescence » autour du végétal et du pays
+ age. Accès libre\, jusqu’au 31 décembre. Distance estimée : ≈28 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
+ aine/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:astronomie-davezieux-20261114@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261129
+SUMMARY:Exposition et animations autour de l’astronomie
+LOCATION:Médiathèque\, 15 place des Anciens Combattants\, 07430 Davézieu
+ x\, France
+CATEGORIES:Famille et nature
+DESCRIPTION:Exposition accessible selon les horaires de la médiathèque \;
+  animations annoncées jusqu’au 28 novembre. Vérifier le programme dét
+ aillé. Distance estimée : ≈35 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
+ aine/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:revelation-eau-anneyron-20261114@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261216
+SUMMARY:Exposition photo graphique – Révélation\, l’âme de l’eau
+LOCATION:Médiathèque Jacques et Aimé Bertrand\, 5 bis rue Victor Hugo\, 
+ 26140 Anneyron\, France
+CATEGORIES:Culture et loisir
+DESCRIPTION:Photographies de nature\, reflets et illusions. Horaires : mard
+ i et vendredi 16h–18h30\, mercredi 10h–12h et 14h–17h\, samedi 10h
+ –12h et 14h–16h. Gratuit. Distance estimée : ≈38 km.
+URL:https://www.ardeche-guide.com/fete-manifestation/exposition-photo-graph
+ ique-revelation-lame-de-leau-8006687/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sabine-fischer-cheylard-20261114@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20270105
+SUMMARY:Exposition photos de Sabine Fischer
+LOCATION:RDB – Radio des Boutières\, 20 rue de la République\, 07160 Le
+  Cheylard\, France
+CATEGORIES:Culture et loisir
+DESCRIPTION:Paysages ardéchois. Ouvert du lundi au vendredi 9h–12h et 13
+ h–16h. Entrée libre. Distance estimée : ≈26 km.
+URL:https://www.ardeche-guide.com/agenda/page/162/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -634,19 +634,6 @@ CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:visite-st-julien@evenements-alboussiere
-DTSTAMP:20261114T050445Z
-DTSTART:20261114T143000
-DTEND:20261114T163000
-SUMMARY:Visite-découverte de Saint-Julien-en-Saint-Alban
-LOCATION:Départ place Fernand-Vinson\, 07000 Saint-Julien-en-Saint-Alban
-DESCRIPTION:Visite guidée samedi 14 novembre à 14h30\, environ 2h. Gratui
- t\, réservation obligatoire selon l’organisateur.
-URL:https://www.coeur-ardeche.fr/agenda/
-CATEGORIES:Culture et loisir
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:visite-parc@evenements-alboussiere
 DTSTAMP:20261114T050445Z
 DTSTART:20261114T143000
@@ -670,6 +657,19 @@ DESCRIPTION:Visite historique samedi 14 novembre à 14h30. Billet : 9 €pl
  ns.
 URL:https://www.cevennes-ardeche.com/evenement/expositions-de-la-saison-aut
  omne-hiver-du-chateau-daubenas-7508523/
+CATEGORIES:Culture et loisir
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:visite-st-julien@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261114T143000
+DTEND:20261114T163000
+SUMMARY:Visite-découverte de Saint-Julien-en-Saint-Alban
+LOCATION:Départ place Fernand-Vinson\, 07000 Saint-Julien-en-Saint-Alban
+DESCRIPTION:Visite guidée samedi 14 novembre à 14h30\, environ 2h. Gratui
+ t\, réservation obligatoire selon l’organisateur.
+URL:https://www.coeur-ardeche.fr/agenda/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
@@ -1471,11 +1471,13 @@ DTSTAMP:20261114T050445Z
 DTSTART:20261122T090000
 DTEND:20261122T170000
 SUMMARY:Marché de Noël de Clérieux
-LOCATION:Centre du village\, rue de la Vallée\, 26260 Clérieux\, France
+LOCATION:Centre du village, 26260 Clérieux, France
 CATEGORIES:Vie locale
-DESCRIPTION:Artisans\, produits locaux\, gourmandises et Père Noël. Entr
- ée libre. Distance estimée : ≈25 km.
-URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-10/
+DESCRIPTION:Marché de Noël annoncé le dimanche 22 novembre 2026 de 9h à
+  17h. Lieu exact à confirmer auprès de la mairie. Entrée libre. Distanc
+ e estimée : ≈25 km à vol d’oiseau depuis Alboussière.
+URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-
+ drome/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1725,6 +1727,21 @@ CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:marche-domaine-pradelle-20261128@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261128T100000
+DTEND:20261128T183000
+SUMMARY:Marché de Noël au Domaine Pradelle – Chanos-Curson
+LOCATION:Domaine Pradelle\, 5 rue du Riou\, 26600 Chanos-Curson\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Artisans et créateurs locaux\, dégustation de vins et huître
+ s. Dégustation d’huîtres 10h–13h30 \; 12 huîtres 12 €. Marché 10
+ h–18h30\, accès libre. Distance estimée : ≈25 km.
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-au-domaine-pradel
+ le-chanos-curson/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:marche-noel-loriol@evenements-alboussiere
 DTSTAMP:20261114T050445Z
 DTSTART:20261128T110000
@@ -1791,6 +1808,21 @@ URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-saint-f
  elicien-7971715/
 STATUS:CONFIRMED
 CATEGORIES:Autre
+END:VEVENT
+BEGIN:VEVENT
+UID:marche-saint-jean-muzols-20261129@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261129T100000
+SUMMARY:Marché de Noël artisanal – Saint-Jean-de-Muzols
+LOCATION:Espace Noël Passas\, place des Droits de l’Homme\, 07300 Saint-
+ Jean-de-Muzols\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Marché artisanal\, exposants\, buvette\, vin chaud\, crêpes e
+ t Père Noël. Ouverture à partir de 10h \; heure de fin non publiée. Ac
+ cès libre. Distance estimée : ≈15 km.
+URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-artisanal-sain
+ t-jean-de-muzols/
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:oshala@evenements-alboussiere
@@ -1972,6 +2004,19 @@ URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:marche-beaumont-monteux-20261204@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261204T163000
+DTEND:20261204T230000
+SUMMARY:Marché de Noël – Beaumont-Monteux
+LOCATION:Place de la Mairie\, 26600 Beaumont-Monteux\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Marché en musique avec chants de Noël interprétés par les e
+ nfants des écoles. Accès libre. Distance estimée : ≈20 km.
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-beaumont-monteux/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:creche-vivante-pierrelatte-20261204@evenements-alboussiere
 DTSTAMP:20261114T050445Z
 DTSTART:20261204T173000
@@ -2145,20 +2190,6 @@ CATEGORIES:VTT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:marche-noel-romans-20261205@evenements-alboussiere
-DTSTAMP:20261114T050445Z
-DTSTART:20261205T090000
-DTEND:20261205T180000
-SUMMARY:Marché de Noël sous la Canopée – Romans-sur-Isère
-LOCATION:La Canopée\, place Jean Jaurès\, 26100 Romans-sur-Isère\, Franc
- e
-CATEGORIES:Vie locale
-DESCRIPTION:Marché de Noël\, exposants et gourmandises. Accès libre. Dis
- tance estimée : ≈32 km.
-URL:https://www.drome-cestmanature.com/sit/marche-de-noel-38/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:telethon-bastide-moto@evenements-alboussiere
 DTSTAMP:20261114T050445Z
 DTSTART:20261205T090000
@@ -2198,20 +2229,6 @@ URL:https://www.drome-cestmanature.com/fiches/a-vos-jouets/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:telethon-labatie@evenements-alboussiere
-DTSTAMP:20261114T050445Z
-DTSTART:20261205T133000
-DTEND:20261205T170000
-SUMMARY:Téléthon de la Ritournelle – randonnée
-LOCATION:Salle municipale Jean Norton Cru\, Labatie-d’Andaure\, Ardèche
-DESCRIPTION:Randonnée annoncée le 5 décembre à partir de 13 h 30. Déta
- ils du parcours et participation à confirmer auprès de l’organisateur.
-  Source : agenda local référencé dans le dépôt.
-URL:https://www.ardeche-guide.com/Agenda/
-STATUS:CONFIRMED
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
 UID:rando-telethon-st-agreve@evenements-alboussiere
 DTSTAMP:20261114T050445Z
 DTSTART:20261205T133000
@@ -2236,6 +2253,20 @@ DESCRIPTION:Samedi 5 décembre : marche 10 km à 13h30 et 5 km à 14h30. Ta
 URL:https://www.jds.fr/manifestations/telethon-1838483_A
 CATEGORIES:Sport
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:telethon-labatie@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261205T133000
+DTEND:20261205T170000
+SUMMARY:Téléthon de la Ritournelle – randonnée
+LOCATION:Salle municipale Jean Norton Cru\, Labatie-d’Andaure\, Ardèche
+DESCRIPTION:Randonnée annoncée le 5 décembre à partir de 13 h 30. Déta
+ ils du parcours et participation à confirmer auprès de l’organisateur.
+  Source : agenda local référencé dans le dépôt.
+URL:https://www.ardeche-guide.com/Agenda/
+STATUS:CONFIRMED
+CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-noel-vernoux@evenements-alboussiere
@@ -2291,6 +2322,19 @@ DESCRIPTION:Une trentaine d’exposants. Accès libre. Environ 34 km à vol
 URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-8046776
  /
 CATEGORIES:Vie locale
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marche-etables-20261205@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261205T150000
+DTEND:20261205T220000
+SUMMARY:Marché de Noël – Étables
+LOCATION:Salle Sully\, salle des fêtes\, 07300 Étables\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Artisans de bouche et de décoration\, buvette\, Père Noël et
+  feu d’artifice en soirée. Gratuit. Distance estimée : ≈20 km.
+URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-etables/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2456,6 +2500,20 @@ CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:marche-chanos-curson-20261208@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261208T160000
+DTEND:20261208T213000
+SUMMARY:Marché de Noël – Chanos-Curson
+LOCATION:Salle des fêtes\, rue de la Tuilerie\, 26600 Chanos-Curson\, Fran
+ ce
+CATEGORIES:Vie locale
+DESCRIPTION:Marché de Noël de la commune. Accès libre. Distance estimée
+  : ≈25 km.
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-chanos-curson/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ateliers-jeux@evenements-alboussiere
 DTSTAMP:20261114T050445Z
 DTSTART:20261209
@@ -2536,6 +2594,19 @@ CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:marche-plats-20261211@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Marché de Noël – Plats
+LOCATION:Village\, 07300 Plats\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Marché de Noël annoncé le vendredi 11 décembre \; horaires 
+ non publiés. Distance estimée : ≈15 km.
+URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-plats/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dj-sub@evenements-alboussiere
 DTSTAMP:20261114T050445Z
 DTSTART:20261211T183000
@@ -2592,16 +2663,33 @@ CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:marche-noel-romans-20261212@evenements-alboussiere
+UID:marche-noel-la-source@evenements-alboussiere
 DTSTAMP:20261114T050445Z
-DTSTART:20261212T090000
-DTEND:20261212T180000
-SUMMARY:Marché de Noël sous la Canopée – Romans-sur-Isère
-LOCATION:La Canopée\, place Jean Jaurès\, 26100 Romans-sur-Isère\, Franc
- e
+DTSTART:20261212T100000
+DTEND:20261212T190000
+SUMMARY:Marché de Noël – La Source
+LOCATION:Bar artistique La Source\, 1010 route de Bel-Air\, 07570 Désaigne
+ s
+DESCRIPTION:Marché de Noël de bijoux\, prêt-à-porter et artisanat. Entr
+ ée libre. Environ 18 km à vol d’oiseau.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/marche-de-
+ noel-la-source-8051407/
 CATEGORIES:Vie locale
-DESCRIPTION:Deuxième date du marché de Noël\, accès libre. Distance est
- imée : ≈32 km.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marche-noel-etoile-20261212@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261212T100000
+DTEND:20261213T180000
+SUMMARY:Marché de Noël d’Étoile-sur-Rhône
+LOCATION:Domaine des Clévos, 390 route de Marmans, 26800 Étoile-sur-Rhôn
+ e, France
+CATEGORIES:Vie locale
+DESCRIPTION:Plus de 50 exposants\, venue du Père Noël\, buvette et restau
+ ration. Samedi 12 décembre 10h–21h\, dimanche 13 décembre 10h–18h. E
+ ntrée libre. Distance estimée : ≈25 km à vol d’oiseau depuis Albous
+ sière.
 URL:https://www.drome-cestmanature.com/sit/marche-de-noel-38/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2633,18 +2721,17 @@ CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:marche-noel-la-source@evenements-alboussiere
+UID:marche-graines-buisson-plats-20261212@evenements-alboussiere
 DTSTAMP:20261114T050445Z
-DTSTART:20261212T100000
-DTEND:20261212T190000
-SUMMARY:Marché de Noël – La Source
-LOCATION:Bar artistique La Source\, 1010 route de Bel-Air\, 07570 Désaigne
- s
-DESCRIPTION:Marché de Noël de bijoux\, prêt-à-porter et artisanat. Entr
- ée libre. Environ 18 km à vol d’oiseau.
-URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/marche-de-
- noel-la-source-8051407/
+DTSTART:20261212T140000
+DTEND:20261213T190000
+SUMMARY:Marché de Noël à la ferme – Graines de Buisson
+LOCATION:Graines de Buisson\, 25 chemin de Simondon\, 07300 Plats\, France
 CATEGORIES:Vie locale
+DESCRIPTION:Producteurs et artisans locaux. Samedi 12 et dimanche 13 décem
+ bre\, 14h–19h. Accès libre. Distance estimée : ≈15 km.
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-a-la-ferme-graine
+ s-de-buisson/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2659,6 +2746,20 @@ DESCRIPTION:Environ 50 exposants\, Père Noël\, restauration et animations
   \; ouverture officielle à 16h30. Gratuit. Distance estimée : ≈18 km.
 URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-les-hivernales
  -de-tain/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marche-marges-20261212@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261212T170000
+DTEND:20261213T170000
+SUMMARY:Marché artisanal de Noël – Margès
+LOCATION:Centre du village\, 26260 Margès\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Marché artisanal\, animations\, dégustations\, artisans locau
+ x et feu d’artifice. Samedi 12 décembre 17h–22h\, dimanche 13 décemb
+ re 10h–17h. Accès libre. Distance estimée : ≈35 km.
+URL:https://www.drome-cestmanature.com/sit/marche-artisanal-de-noel-marges/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2705,13 +2806,12 @@ DTSTAMP:20261114T050445Z
 DTSTART:20261213T100000
 DTEND:20261213T190000
 SUMMARY:Marché de Noël de Tournon-sur-Rhône
-LOCATION:Place Carnot et place de la Résistance\, 07300 Tournon-sur-Rhône
- \, France
+LOCATION:Place Carnot, 07300 Tournon-sur-Rhône, France
 CATEGORIES:Vie locale
 DESCRIPTION:Marché de Noël en centre-ville \; animations musicales et sta
  nds annoncés. Horaires de fin à confirmer. Distance estimée : ≈16 km.
-URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-
- drome/
+URL:https://www.drome-cestmanature.com/fiches/marches-de-noel-tournon-sur-r
+ hone/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2764,7 +2864,7 @@ LOCATION:Salle de la Fabrique\, 26600 Larnage\, France
 CATEGORIES:Vie locale
 DESCRIPTION:Stands de producteurs\, artisans et caves locales. Distance est
  imée : ≈20 km.
-URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-larnage/
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-larnage/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2978,14 +3078,13 @@ DTSTAMP:20261114T050445Z
 DTSTART:20261220T100000
 DTEND:20261220T190000
 SUMMARY:Marché de Noël de Tournon-sur-Rhône
-LOCATION:Place Carnot et place de la Résistance\, 07300 Tournon-sur-Rhône
- \, France
+LOCATION:Place Carnot, 07300 Tournon-sur-Rhône, France
 CATEGORIES:Vie locale
 DESCRIPTION:Deuxième date annoncée du marché de Noël\, animations music
  ales et stands en centre-ville. Horaires de fin à confirmer. Distance est
  imée : ≈16 km.
-URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-
- drome/
+URL:https://www.drome-cestmanature.com/fiches/marches-de-noel-tournon-sur-r
+ hone/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
