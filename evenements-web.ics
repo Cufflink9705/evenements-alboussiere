@@ -407,6 +407,22 @@ URL:https://www.ardeche-guide.com/agenda/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ardesca-trophee-20261114@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261114T090000
+DTEND:20261114T163000
+SUMMARY:Compétition d’escalade – Étape ARDESCA U11/U13/U15
+LOCATION:SAE Gymnase Roqua\, chemin de Roqua\, 07200 Aubenas\, France
+CATEGORIES:Sport
+DESCRIPTION:Étape du Trophée Drôme-Ardèche U11/U13/U15\, combiné diffi
+ culté et vitesse. Inscription annoncée à 8 € \; 44 places disponibles
+  lors de la vérification. Accès spectateurs non précisé : confirmer au
+ près d’Ardesca. Distance estimée : ≈40 km.
+URL:https://www.helloasso.com/associations/ardesca/evenements/etape-ardesca
+ -trophee-drome-ardeche-u11-u13-u15-2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:foire-arbres-pailhares-20261114@evenements-alboussiere
 DTSTAMP:20261114T050445Z
 DTSTART:20261114T090000
@@ -836,6 +852,23 @@ CATEGORIES:Vie locale
 DESCRIPTION:Vide-greniers\, accès libre \; paiement du stand à l’entré
  e\, sans réservation. Distance estimée : ≈10 km.
 URL:https://www.ardeche-guide.com/agenda/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:montelimar-trophee-bmx-20261115@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261115T080000
+DTEND:20261115T170000
+SUMMARY:BMX – Montélimar Trophée Drôme-Ardèche
+LOCATION:Piste de BMX de Montélimar\, 90 route de Saint-Gervais\, 26200 Mo
+ ntélimar\, France
+CATEGORIES:Sport
+DESCRIPTION:Manche du Trophée Drôme-Ardèche sur piste BMX. Engagement an
+ noncé à 13 € \; inscription réservée aux membres du club\, compétit
+ ion ouverte aux licenciés. Accès spectateurs non précisé : confirmer a
+ uprès du club. Distance estimée : ≈50 km.
+URL:https://www.helloasso.com/associations/bike-club-saint-sorlin-26/evenem
+ ents/montelimar-trophee-drome-ardeche
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1713,6 +1746,23 @@ CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:trophee-rene-vicat-mours-bmx-20261128@evenements-alboussiere
+DTSTAMP:20261114T050445Z
+DTSTART:20261128T080000
+DTEND:20261128T170000
+SUMMARY:BMX – 6e Trophée René Vicat\, Mours / Romans
+LOCATION:Piste de BMX de Mours\, place de l’Europe\, 26540 Mours-Saint-Eu
+ sèbe\, France
+CATEGORIES:Sport
+DESCRIPTION:Compétition BMX organisée par la municipalité de Mours-Saint
+ -Eusèbe et BMX Mours Romans. Inscriptions 20 pouces et cruiser : 13 €. 
+ Accès spectateurs non précisé : confirmer auprès de l’organisateur. 
+ Distance estimée : ≈40 km.
+URL:https://www.helloasso.com/associations/bc-portois/evenements/trophee-re
+ ne-vicat-bmx-mours-romans-1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:rando-telethon-cheylard@evenements-alboussiere
 DTSTAMP:20261114T050445Z
 DTSTART:20261128T080000
@@ -2180,10 +2230,11 @@ DTSTART:20261205T083000
 DTEND:20261205T133000
 SUMMARY:Rando VTT du Téléthon de Frontonas
 LOCATION:Halle des sports\, 38290 Frontonas
-DESCRIPTION:VTT/VTTAE samedi 5 décembre : départs 8h30–10h\, retour ava
- nt 13h30. Parcours 12\, 25 ou 39 km \; D+ 130\, 430 ou 680 m. 8 € adulte
- \, 6 € moins de 16 ans. Environ 85 km à vol d’oiseau \; trajet routie
- r potentiellement supérieur à 100 km.
+DESCRIPTION:Randonnée VTT solidaire au profit de l’AFM-Téléthon. Trois
+  parcours : 12 km (D+130 m)\, 25 km (D+430 m) et 39 km (D+680 m). Départs
+  libres entre 8h30 et 10h\, clôture à 13h30. VTTAE autorisés. Inscripti
+ on : 8 € dès 16 ans\, 6 € moins de 16 ans. Distance estimée depuis A
+ lboussière : ≈80 km.
 URL:https://www.helloasso.com/associations/afm-telethon-frontonas/evenement
  s/rando-vtt-du-telethon
 CATEGORIES:VTT
