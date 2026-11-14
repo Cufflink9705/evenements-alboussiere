@@ -1,191 +1,844 @@
 {
-  "generatedAt": "2026-11-13T06:52:44+01:00",
-  "publishedAt": "2026-11-13T06:52:44+01:00",
-  "expiresAt": "2026-11-14T06:52:44+01:00",
+  "generatedAt": "2026-11-14T06:04:45+01:00",
+  "publishedAt": "2026-11-14T06:04:45+01:00",
+  "expiresAt": "2026-11-15T06:04:45+01:00",
   "items": [
     {
-      "title": "Rando VTT du Téléthon – Frontonas",
-      "date": "2026-12-05",
-      "location": "Frontonas (38)",
-      "category": "VTT",
-      "summary": "3 parcours VTT/VTTAE de 12, 25 ou 39 km ; départs 8h30–10h ; 8 € adulte / 6 € moins de 16 ans.",
-      "url": "https://www.helloasso.com/associations/afm-telethon-frontonas/evenements/rando-vtt-du-telethon"
-    },
-    {
-      "title": "Téléthon – VTT électrique, quad et moto",
-      "date": "2026-12-05",
-      "location": "La Bastide-Puylaurent (48)",
-      "category": "Sport",
-      "summary": "VTT électrique à 14h, randonnées quad/moto à 9h et 14h, marches de 5 et 10 km ; tarifs de 5 à 10 € selon l’activité.",
-      "url": "https://www.jds.fr/manifestations/telethon-1838483_A"
-    },
-    {
-      "title": "Salon de l’Artisanat de la Drôme",
-      "date": "2026-11-21/2026-11-22",
-      "location": "Valence",
-      "category": "Culture et loisir",
-      "summary": "Près de 100 artisans, démonstrations et animations familiales ; entrée gratuite, 10h–18h.",
-      "url": "https://www.fest.fr/salon-de-l-artisanat-2705122.html"
-    },
-    {
-      "title": "Foire au boudin",
-      "date": "2026-11-21",
-      "location": "Saint-Barthélemy-Grozon",
+      "title": "Foire aux Arbres de Nectardéchois – Pailharès",
+      "date": "14 novembre, 9h–17h",
+      "location": "07410 Pailharès, France",
       "category": "Vie locale",
-      "summary": "Foire locale annoncée de 7h à 19h.",
-      "url": "https://www.saintbarthelemygrozon.fr/agenda/"
+      "description": "Pépiniéristes, arbres, produits locaux et visite de l’atelier de jus. Entrée libre. Distance estimée : ≈15 km à vol d’oiseau depuis Alboussière.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "Gratuit"
     },
     {
-      "title": "Requiem Rebelle",
-      "date": "2026-11-21",
-      "location": "Vernoux-en-Vivarais",
-      "category": "Culture et loisir",
-      "summary": "Festival musical samedi 21 novembre à partir de 15h, participation libre.",
-      "url": "https://www.coeur-ardeche.fr/agenda/"
-    },
-    {
-      "title": "Foire aux skis",
-      "date": "2026-11-28",
-      "location": "Valence",
+      "title": "Vide-grenier et bourse aux jouets",
+      "date": "14 novembre, 9h–17h",
+      "location": "07140 Les Vans, France",
       "category": "Vie locale",
-      "summary": "Matériel de ski neuf et d’occasion, 9h30–16h30, entrée gratuite.",
-      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/foire-aux-skis-8024980/"
-    },
-    {
-      "title": "Marché de Noël des Chamber’Liens",
-      "date": "2026-11-14",
-      "location": "Valence",
-      "category": "Vie locale",
-      "summary": "Marché de quartier samedi 14 novembre, 10h–18h.",
-      "url": "https://www.drome-cestmanature.com/agenda/"
-    },
-    {
-      "title": "Par-delà les nouages",
-      "date": "2026-11-13",
-      "location": "Vals-les-Bains",
-      "category": "Culture et loisir",
-      "summary": "Spectacle de cirque et danse, vendredi 13 novembre à 20h30.",
-      "url": "https://lesquinconces.com/"
-    },
-    {
-      "title": "Exposition photos et peintures + bourse Pokémon",
-      "date": "2026-11-13/2026-11-15",
-      "location": "Labégude",
-      "category": "Culture et loisir",
-      "summary": "Exposition gratuite, vernissage vendredi 18h30 ; bourse Pokémon samedi après-midi.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/exposition-photos-peintures-et-bourse-dechange-pokemon-8043671/"
-    },
-    {
-      "title": "Marché de Noël – Fééries d’Hiver",
-      "date": "2026-11-27/2026-12-27",
-      "location": "Valence",
-      "category": "Vie locale",
-      "summary": "Village de Noël en centre-ville du 27 novembre au 27 décembre.",
-      "url": "https://www.drome-cestmanature.com/sit/feeries-dhiver-village-de-noel/"
-    },
-    {
-      "title": "Grande roue des Fééries d’Hiver",
-      "date": "2026-11-14/2027-01-10",
-      "location": "Valence",
-      "category": "Famille et nature",
-      "summary": "Ouverture annoncée à partir de 11h ; 5 €, gratuit moins de 3 ans.",
-      "url": "https://www.drome-cestmanature.com/sit/feeries-dhiver-grande-roue/"
-    },
-    {
-      "title": "Expositions du Château d’Aubenas",
-      "date": "2026-11-14/2027-01-03",
-      "location": "Aubenas",
-      "category": "Culture et loisir",
-      "summary": "Deux expositions contemporaines ; 9 € plein tarif, 6 € réduit, forfait famille 20 €, gratuit moins de 10 ans.",
-      "url": "https://www.cevennes-ardeche.com/evenement/expositions-de-la-saison-automne-hiver-du-chateau-daubenas-7508523/"
+      "description": "Vide-grenier en salle, castagnade dès 11h, buvette et petite restauration. Accès libre ; 4 €/mètre pour les exposants. Distance estimée : ≈70 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "Gratuit visiteurs"
     },
     {
       "title": "Foire aux jouets du Secours populaire",
-      "date": "2026-11-12/2026-11-15",
-      "location": "Aubenas",
+      "date": "14–15 novembre",
+      "location": "07200 Aubenas, France",
       "category": "Vie locale",
-      "summary": "Foire solidaire encore ouverte ce week-end : samedi 9h-17h, dimanche 9h-12h ; accès libre.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/foire-aux-jouets-du-comite-du-secours-populaire-7171978/"
+      "description": "Foire solidaire : samedi 14 novembre 9h–17h, dimanche 15 novembre 9h–12h. Accès libre. Distance estimée : ≈40 km.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/foire-aux-jouets-du-comite-du-secours-populaire-7171978/",
+      "price": "Gratuit"
     },
     {
-      "title": "Saint-Péray, un week-end scintillant",
-      "date": "2026-12-04/2026-12-06",
-      "location": "Saint-Péray",
-      "category": "Vie locale",
-      "summary": "Marché de Noël, animations et feu d’artifice du 4 au 6 décembre ; entrée libre.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/saint-peray-un-week-end-scintillant-399459/"
-    },
-    {
-      "title": "Marché de Noël artisanal",
-      "date": "2026-12-05",
-      "location": "Vernoux-en-Vivarais",
-      "category": "Vie locale",
-      "summary": "65 exposants, cinéma, goûter pour enfants et spectacle de feu ; accès libre.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-artisanal-7822282/"
-    },
-    {
-      "title": "Le Père Noël est à MuséAl",
-      "date": "2026-12-04/2026-12-06",
-      "location": "Alba-la-Romaine",
-      "category": "Famille et nature",
-      "summary": "Rencontre avec le Père Noël et la Mère Noël, photo souvenir et entrée gratuite au musée.",
-      "url": "https://www.sud-ardeche-tourisme.com/se-divertir/animations-et-festivites/8054322_le-pere-noel-est-a-museal/"
-    },
-    {
-      "title": "Marché de Noël de Soyons",
-      "date": "2026-12-12/2026-12-13",
-      "location": "Soyons",
-      "category": "Vie locale",
-      "summary": "Une cinquantaine d’exposants et animations familiales ; samedi 14h-22h, dimanche 10h-18h, accès libre.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-4872521/"
-    },
-    {
-      "title": "Marché de Noël nocturne de Désaignes",
-      "date": "2026-12-18",
-      "location": "Désaignes",
-      "category": "Vie locale",
-      "summary": "Producteurs, créateurs et artisans locaux à partir de 17h ; entrée gratuite.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-desaignes-6267906/"
-    },
-    {
-      "title": "Marché de Noël de Cornas",
-      "date": "2026-12-19/2026-12-20",
-      "location": "Cornas",
-      "category": "Vie locale",
-      "summary": "Deuxième édition, créateurs, artisanat et produits locaux ; entrée libre.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-7379693/"
-    },
-    {
-      "title": "6e Festival Lumières Sauvages",
-      "date": "2026-10-17/2027-03-27",
-      "location": "Safari de Peaugres",
-      "category": "Famille et nature",
-      "summary": "Parcours de lanternes animales et végétales ; séances selon calendrier, notamment mercredis, vendredis et week-ends en novembre-décembre.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/6eme-festival-lumieres-sauvages-au-safari-de-peaugres-5853831/"
-    },
-    {
-      "title": "Exposition « POUET POUET, Images de cirque »",
-      "date": "2026-11-14/2027-01-29",
-      "location": "Bourg-Saint-Andéol",
+      "title": "Expositions « Ardèche, la belle » et « De la plume au vol »",
+      "date": "14–22 novembre",
+      "location": "07000 Privas, France",
       "category": "Culture et loisir",
-      "summary": "Exposition gratuite réunissant 14 artistes autour du cirque, de l’image et de l’édition.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/exposition-pouet-pouet-images-de-cirque-7976966/"
+      "description": "Photographies des paysages ardéchois et des oiseaux. Horaires publiés selon calendrier de la mairie. Entrée libre. Distance estimée : ≈23 km.",
+      "url": "https://www.ardeche-guide.com/Agenda/page/68/",
+      "price": "Gratuit"
     },
     {
-      "title": "Concert du Nouvel An",
-      "date": "2027-01-09/2027-01-10",
-      "location": "Valence",
+      "title": "Week-end découverte du Clown",
+      "date": "14–15 novembre",
+      "location": "07130 Saint-Romain-de-Lerps, France",
       "category": "Culture et loisir",
-      "summary": "Trois représentations au Théâtre de la Ville, du 9 au 10 janvier ; tarifs 14 à 35 €.",
-      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/concert-du-nouvel-an-7918904/"
+      "description": "Atelier d’expression et d’improvisation, samedi et dimanche 9h30–18h. Sur inscription, places limitées à 8. Distance estimée : ≈9 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "140 € plein tarif, 110 € réduit"
     },
     {
-      "title": "La magie des crèches au Mas Girodier",
-      "date": "2026-12-05/2027-01-10",
-      "location": "Colombier-le-Jeune",
+      "title": "Matinée yoga pour tous – apaiser le mental",
+      "date": "14 novembre, 9h30–12h",
+      "location": "07110 Uzer, France",
+      "category": "Sport",
+      "description": "Séance guidée : souffle, pratiques et relaxation, 9h30–12h. Distance estimée : ≈58 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "À partir de 40 €"
+    },
+    {
+      "title": "Atelier découverte de la mosaïque",
+      "date": "14 novembre, 10h–18h",
+      "location": "07320 Devesset, France",
+      "category": "Culture et loisir",
+      "description": "Atelier avec matériel fourni, 10h–18h. Repas tiré du sac ; réservation auprès de l’organisateur. Distance estimée : ≈35 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "À partir de 65 €"
+    },
+    {
+      "title": "Festival Terre des Mômes",
+      "date": "14 novembre",
+      "location": "07700 Saint-Marcel-d’Ardèche, France",
       "category": "Famille et nature",
-      "summary": "Grande crèche et parcours de crèches dans le village, avec plusieurs dates jusqu’au 10 janvier ; accès libre.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/la-magie-des-creches-au-mas-girodier-colombier-le-jeune-8047543/"
+      "description": "Journée familles : jeux en bois, ferme pédagogique, cirque, escape game, kart à pédales, activités sportives et ateliers. Distance estimée : ≈75 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "1 €"
+    },
+    {
+      "title": "Ateliers Forge – « La pierre à l’édifice »",
+      "date": "14 novembre",
+      "location": "07700 Saint-Marcel-d’Ardèche, France",
+      "category": "Culture et loisir",
+      "description": "Initiation aux techniques de métallurgie dans le cadre du Festival Terre des Mômes. Sessions 9h30–13h et 14h–17h30. Distance estimée : ≈75 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "Entrée festival : 1 €"
+    },
+    {
+      "title": "50 ans de la Société Géologique de l’Ardèche",
+      "date": "14 novembre, dès 10h",
+      "location": "07380 Jaujac, France",
+      "category": "Famille et nature",
+      "description": "Visites de la lithothèque et de l’exposition « Changer d’Ère », puis conférence à 15h30 au château de Castrevieille. Accès libre. Distance estimée : ≈60 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Jouons à la médiathèque – Privas",
+      "date": "14 novembre, 10h–12h",
+      "location": "07000 Privas, France",
+      "category": "Famille et nature",
+      "description": "Espace de jeux animé par la ludothèque Ardé’jeux, ouvert à tous les âges. Gratuit. Distance estimée : ≈23 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Bourse aux jouets, vêtements, livres et puériculture",
+      "date": "14–15 novembre",
+      "location": "07570 Désaignes, France",
+      "category": "Vie locale",
+      "description": "Samedi 14h–17h et dimanche 8h–15h. Accès libre ; tables exposants payantes. Distance estimée : ≈25 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "Gratuit visiteurs"
+    },
+    {
+      "title": "Brocante et vide-grenier du quai Farconnet",
+      "date": "15 novembre, 4h30–17h",
+      "location": "07300 Tournon-sur-Rhône, France",
+      "category": "Vie locale",
+      "description": "Brocante mensuelle du 3e dimanche. Accès libre. Distance estimée : ≈16 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "Gratuit visiteurs"
+    },
+    {
+      "title": "Vide-greniers de Saint-Péray",
+      "date": "15 novembre, 5h–13h",
+      "location": "07130 Saint-Péray, France",
+      "category": "Vie locale",
+      "description": "Vide-greniers, accès libre ; paiement du stand à l’entrée, sans réservation. Distance estimée : ≈10 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "Gratuit visiteurs"
+    },
+    {
+      "title": "Vide-grenier de Félines",
+      "date": "15 novembre, 8h–13h",
+      "location": "07340 Félines, France",
+      "category": "Vie locale",
+      "description": "Organisé par l’Amicale laïque ; jeux gonflables, buvette et gâteaux au profit de l’école. Accès libre. Distance estimée : ≈35 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Dégustation de châtaignes",
+      "date": "15 novembre, 8h–12h",
+      "location": "07340 Serrières, France",
+      "category": "Vie locale",
+      "description": "Rendez-vous gourmand autour des châtaignes grillées d’Ardèche. Distance estimée : ≈35 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Tarif non précisé"
+    },
+    {
+      "title": "Marché de Noël de Satillieu",
+      "date": "15 novembre, 10h–17h",
+      "location": "07290 Satillieu, France",
+      "category": "Vie locale",
+      "description": "Exposants locaux, Père Noël, stand photo et animations pour enfants. Entrée libre. Distance estimée : ≈25 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Lalouvesc",
+      "date": "15 novembre, 10h–17h",
+      "location": "07520 Lalouvesc, France",
+      "category": "Vie locale",
+      "description": "Marché animé par les Shabada’s, crêpes et buvette ; animation au profit des résidents. Distance estimée : ≈28 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Tarif non précisé"
+    },
+    {
+      "title": "Atelier aquarelle à Peaugres",
+      "date": "15 novembre, 14h–17h",
+      "location": "07340 Peaugres, France",
+      "category": "Culture et loisir",
+      "description": "Atelier adulte autour des couleurs de l’automne. Réservation sur le site de l’atelier. Distance estimée : ≈36 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "45 €"
+    },
+    {
+      "title": "Village secret des lutins – marché de Noël de Chamaret",
+      "date": "15 novembre, 10h–17h",
+      "location": "26230 Chamaret, France",
+      "category": "Famille et nature",
+      "description": "Ouverture exceptionnelle du village secret des lutins, marché artisanal, créateurs et animations familiales. Gratuit. Distance estimée : ≈70 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-78/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Concert – Musique des Sapeurs-Pompiers de Paris",
+      "date": "14 novembre, 20h30",
+      "location": "07430 Davézieux, France",
+      "category": "Culture et loisir",
+      "description": "Concert de la Musique des Sapeurs-Pompiers de Paris, au profit de l’Union départementale des sapeurs-pompiers de l’Ardèche. Distance estimée : ≈35 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "20 € adulte, 15 € enfant de moins de 12 ans"
+    },
+    {
+      "title": "Concert – Musique des Sapeurs-Pompiers de Paris",
+      "date": "15 novembre, 14h",
+      "location": "07430 Davézieux, France",
+      "category": "Culture et loisir",
+      "description": "Deuxième représentation de la Musique des Sapeurs-Pompiers de Paris. Distance estimée : ≈35 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "20 € adulte, 15 € enfant de moins de 12 ans"
+    },
+    {
+      "title": "Mona Guba + Rendcoeur – Les Femmes s’en Mêlent",
+      "date": "14 novembre, 20h30",
+      "location": "07100 Annonay, France",
+      "category": "Culture et loisir",
+      "description": "Concert dans le cadre du festival Les Femmes s’en Mêlent. Distance estimée : ≈34 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/7796679_mona-guba-rendcoeur-les-femmes-sen-melent/",
+      "price": "15 € plein tarif, 12 € réduit"
+    },
+    {
+      "title": "Soirée cabaret – La Comédia, Com’Back",
+      "date": "14 novembre, 20h30",
+      "location": "07340 Peaugres, France",
+      "category": "Culture et loisir",
+      "description": "Spectacle musical et humoristique à travers les décennies 1960–2020. Distance estimée : ≈36 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "10 € adulte, gratuit moins de 12 ans"
+    },
+    {
+      "title": "Théâtre – Chiche, t’es pas cap !",
+      "date": "14 novembre, 20h30",
+      "location": "07790 Saint-Alban-d’Ay, France",
+      "category": "Culture et loisir",
+      "description": "Comédie de Jean-Claude Martineau. Tarifs non communiqués. Distance estimée : ≈23 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "Tarifs non communiqués"
+    },
+    {
+      "title": "Théâtre – Chiche, t’es pas cap !",
+      "date": "15 novembre, 14h30",
+      "location": "07790 Saint-Alban-d’Ay, France",
+      "category": "Culture et loisir",
+      "description": "Deuxième représentation de la comédie de Jean-Claude Martineau. Distance estimée : ≈23 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "Tarifs non communiqués"
+    },
+    {
+      "title": "Théâtre – Les filles ne sont pas des poupées de chiffon",
+      "date": "15–16 novembre",
+      "location": "07100 Annonay, France",
+      "category": "Culture et loisir",
+      "description": "Conte théâtral à partir de 8 ans. Représentations : dimanche 15 novembre à 16h30, lundi 16 novembre à 10h et 14h30. Distance estimée : ≈34 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "10 €"
+    },
+    {
+      "title": "Atelier – Formes mobiles, Hop Hop Hop !",
+      "date": "14 novembre, 10h30 et 14h30",
+      "location": "26000 Valence, France",
+      "category": "Famille et nature",
+      "description": "Atelier familial de papiers découpés mobiles, deux séances à 10h30 et 14h30. Réservation obligatoire. Distance estimée : ≈14 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/atelier-formes-mobiles-hop-hop-hop/",
+      "price": "2 € ; gratuit moins de 2 ans"
+    },
+    {
+      "title": "Spectacle – Petits bouts de sons, Hop Hop Hop !",
+      "date": "14 novembre, 10h15, 11h30 et 16h",
+      "location": "26000 Valence, France",
+      "category": "Famille et nature",
+      "description": "Spectacle sonore pour les très jeunes enfants, séances à 10h15, 11h30 et 16h. Réservation obligatoire. Distance estimée : ≈14 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/spectacle-petits-bouts-de-sons-hop-hop-hop/",
+      "price": "2 € ; gratuit moins de 2 ans"
+    },
+    {
+      "title": "Visite ludique – Écoutez-voir : Voyage dans le temps",
+      "date": "15 novembre, 11h et 15h30",
+      "location": "26000 Valence, France",
+      "category": "Famille et nature",
+      "description": "Visite familiale à partir de 6 ans, séances à 11h et 15h30. Réservation obligatoire. Distance estimée : ≈14 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/visite-ecoutez-voir-voyage-dans-le-temps-hop-hop-hop/",
+      "price": "2 € ; gratuit moins de 2 ans"
+    },
+    {
+      "title": "Visite ludique – Je t’encadre, tu m’encadres",
+      "date": "18 novembre, 15h",
+      "location": "26000 Valence, France",
+      "category": "Famille et nature",
+      "description": "Jeu collaboratif de création de portraits, à partir de 6 ans. Réservation obligatoire. Distance estimée : ≈14 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/visite-ludique-je-tencadre-tu-mencadres-hop-hop-hop/",
+      "price": "2 € ; gratuit moins de 2 ans"
+    },
+    {
+      "title": "Bébé au musée – Nature peinture",
+      "date": "25 novembre, 10h30",
+      "location": "26000 Valence, France",
+      "category": "Famille et nature",
+      "description": "Atelier sensoriel autour de la nature pour les tout-petits, 10h30. Réservation obligatoire. Distance estimée : ≈14 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/animation-bebe-au-musee-nature-peinture-hop-hop-hop/",
+      "price": "2 € ; gratuit moins de 2 ans"
+    },
+    {
+      "title": "Marché de Noël de Cheminas",
+      "date": "21 novembre",
+      "location": "07300 Cheminas, France",
+      "category": "Vie locale",
+      "description": "Premier marché de Noël organisé par le restaurant l’Ardelys, avec tombola. Entrée libre. Distance estimée : ≈18 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-de-cheminas/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël des Blâches",
+      "date": "21–22 novembre, 9h–19h",
+      "location": "26700 Pierrelatte, France",
+      "category": "Vie locale",
+      "description": "Une cinquantaine d’exposants, créations artisanales et produits gourmands. Entrée libre. Distance estimée : ≈70 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-des-blaches/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël à la ferme Juli’Anesse",
+      "date": "21–22 novembre",
+      "location": "26300 Rochefort-Samson, France",
+      "category": "Vie locale",
+      "description": "Marché de Noël avec artisans, producteurs, Père Noël et maquillage. Samedi 14h–18h, dimanche 10h–18h. Distance estimée : ≈40 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-a-la-ferme-julianesse/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Clérieux",
+      "date": "22 novembre, 9h–17h",
+      "location": "26260 Clérieux, France",
+      "category": "Vie locale",
+      "description": "Artisans, produits locaux, gourmandises et Père Noël. Entrée libre. Distance estimée : ≈25 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-10/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Musique – Dafné Kritharas",
+      "date": "20 novembre, 20h30",
+      "location": "07430 Davézieux, France",
+      "category": "Culture et loisir",
+      "description": "Concert de chants méditerranéens, exil et voyage. Distance estimée : ≈35 km.",
+      "url": "https://www.ardechegrandair.com/agenda/7978696_musique-dafne-kritharas/",
+      "price": "26 €"
+    },
+    {
+      "title": "Théâtre – Chérie, je peux tout t’expliquer",
+      "date": "20 novembre, 20h30",
+      "location": "07340 Peaugres, France",
+      "category": "Culture et loisir",
+      "description": "Comédie de la troupe Antibiotic, représentation au profit du CCAS de Peaugres. Distance estimée : ≈36 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "9 €, gratuit moins de 8 ans"
+    },
+    {
+      "title": "Théâtre – Chérie, je peux tout t’expliquer",
+      "date": "21 novembre, 20h30",
+      "location": "07340 Peaugres, France",
+      "category": "Culture et loisir",
+      "description": "Deuxième représentation de la comédie de la troupe Antibiotic, au profit du CCAS de Peaugres. Distance estimée : ≈36 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "9 €, gratuit moins de 8 ans"
+    },
+    {
+      "title": "Théâtre – Peu importe",
+      "date": "24 novembre, 20h30",
+      "location": "07100 Annonay, France",
+      "category": "Culture et loisir",
+      "description": "Comédie dramatique de Marius von Mayenburg, à partir de 14 ans. Distance estimée : ≈34 km.",
+      "url": "https://www.ardechegrandair.com/agenda/7978726_theatre-peu-importe/",
+      "price": "31 €"
+    },
+    {
+      "title": "Atelier – Habiter le vivant",
+      "date": "18 novembre, 15h–17h",
+      "location": "07100 Annonay, France",
+      "category": "Famille et nature",
+      "description": "Atelier autour du vivant et de l’habitat. Distance estimée : ≈34 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Tarif non précisé"
+    },
+    {
+      "title": "Les Marches du Jeudi – Le Montmiandon",
+      "date": "19 novembre, départ 13h30",
+      "location": "07100 Saint-Marcel-lès-Annonay, France",
+      "category": "Sport",
+      "description": "Randonnée pédestre annoncée : environ 8 km et 305 m de dénivelé positif. Distance estimée : ≈30 km.",
+      "url": "https://www.ardechegrandair.com/agenda/sport-rando-loisirs/",
+      "price": "Participation non précisée"
+    },
+    {
+      "title": "Projection documentaire – Bâtiment B",
+      "date": "19 novembre, 18h30",
+      "location": "07100 Annonay, France",
+      "category": "Culture et loisir",
+      "description": "Projection-débat annoncée dans l’agenda culturel local. Horaire de fin estimé ; vérifier auprès de l’organisateur. Distance estimée : ≈34 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Participation non précisée"
+    },
+    {
+      "title": "Soirée Jam Session",
+      "date": "20 novembre, 20h–23h",
+      "location": "07690 Vanosc, France",
+      "category": "Culture et loisir",
+      "description": "Scène ouverte musicale annoncée par l’agenda Ardèche Grand Air. Distance estimée : ≈32 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Tarif non précisé"
+    },
+    {
+      "title": "Théâtre forum – Tu fais quoi sur ton tel ?",
+      "date": "20 novembre, 19h",
+      "location": "07100 Annonay, France",
+      "category": "Culture et loisir",
+      "description": "Théâtre forum autour des usages du téléphone. Distance estimée : ≈34 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Tarif non précisé"
+    },
+    {
+      "title": "Festival F.R.I.G.O",
+      "date": "20–22 novembre",
+      "location": "Annonay – lieux de programmation à confirmer, France",
+      "category": "Culture et loisir",
+      "description": "Festival annoncé du 20 au 22 novembre dans l’agenda Ardèche Grand Air ; horaires et salles détaillés à vérifier auprès de l’organisateur. Distance estimée : ≈34 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Tarif non précisé"
+    },
+    {
+      "title": "Concert – Les Muguets de Quintenas",
+      "date": "21 novembre, 18h30",
+      "location": "07290 Quintenas, France",
+      "category": "Culture et loisir",
+      "description": "Concert vocal annoncé dans l’agenda Ardèche Grand Air. Distance estimée : ≈25 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Participation non précisée"
+    },
+    {
+      "title": "Le réveil des mares ! – rencontre scientifique et culturelle",
+      "date": "21 novembre, 14h–20h",
+      "location": "26150 Die, France",
+      "category": "Famille et nature",
+      "description": "Conférences, balades commentées, exposition et spectacle autour des zones humides et du sonneur à ventre jaune. Inscription obligatoire, places limitées. Distance estimée : ≈85 km.",
+      "url": "https://www.drome-cestmanature.com/sit/le-reveil-des-mares-les-zones-humides-et-le-sonneur-a-ventre-jaune-rencontre-scientifique-et-culturelle-du-parc/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Les Marches du Jeudi – Limony et Charnas",
+      "date": "3 décembre, départ 13h30",
+      "location": "07100 Saint-Marcel-lès-Annonay, France",
+      "category": "Sport",
+      "description": "Randonnée pédestre annoncée dans l’agenda sportif local ; détails du parcours à confirmer. Distance estimée : ≈30 km.",
+      "url": "https://www.ardechegrandair.com/agenda/sport-rando-loisirs/",
+      "price": "Participation non précisée"
+    },
+    {
+      "title": "Les Marches du Jeudi – Saint-Jacques-d’Atticieux",
+      "date": "10 décembre, départ 13h30",
+      "location": "07100 Saint-Marcel-lès-Annonay, France",
+      "category": "Sport",
+      "description": "Randonnée pédestre annoncée dans l’agenda sportif local ; détails du parcours à confirmer. Distance estimée : ≈30 km.",
+      "url": "https://www.ardechegrandair.com/agenda/sport-rando-loisirs/",
+      "price": "Participation non précisée"
+    },
+    {
+      "title": "Les Marches du Jeudi – Saint-Marcel-lès-Annonay",
+      "date": "17 décembre, départ 13h30",
+      "location": "07100 Saint-Marcel-lès-Annonay, France",
+      "category": "Sport",
+      "description": "Randonnée pédestre annoncée dans l’agenda sportif local ; détails du parcours à confirmer. Distance estimée : ≈30 km.",
+      "url": "https://www.ardechegrandair.com/agenda/sport-rando-loisirs/",
+      "price": "Participation non précisée"
+    },
+    {
+      "title": "Randonnée nocturne de Vinzieux",
+      "date": "4 décembre, 18h",
+      "location": "07340 Vinzieux, France",
+      "category": "Sport",
+      "description": "Marche nocturne d’environ 9 km. Prévoir lampe et équipement adapté ; participation minimale annoncée de 5 €. Distance estimée : ≈38 km.",
+      "url": "https://www.ardechegrandair.com/agenda/sport-rando-loisirs/",
+      "price": "Participation à partir de 5 €"
+    },
+    {
+      "title": "Cirque – Yongoyély",
+      "date": "4 décembre, 20h30",
+      "location": "07100 Annonay, France",
+      "category": "Culture et loisir",
+      "description": "Spectacle du cirque guinéen Circus Baobab, à partir de 7 ans. Distance estimée : ≈34 km.",
+      "url": "https://www.ardechegrandair.com/agenda/7978738_cirque-yongoyely/",
+      "price": "31 €"
+    },
+    {
+      "title": "Conte – Rosa Lune",
+      "date": "6 décembre, 11h et 16h",
+      "location": "07430 Davézieux, France",
+      "category": "Famille et nature",
+      "description": "Conte musical à partir de 4 ans ; deux représentations à 11h et 16h. Distance estimée : ≈35 km.",
+      "url": "https://www.ardechegrandair.com/agenda/7978760_conte-rosa-lune/",
+      "price": "10 €"
+    },
+    {
+      "title": "Cabaret – L’Heure exquise",
+      "date": "9 janvier, 20h30",
+      "location": "07100 Annonay, France",
+      "category": "Culture et loisir",
+      "description": "Rocky-lyrique-créature show, à partir de 14 ans. Distance estimée : ≈34 km.",
+      "url": "https://www.ardechegrandair.com/agenda/7978780_cabaret-lheure-exquise/",
+      "price": "36 €"
+    },
+    {
+      "title": "Théâtre – La Chambre claire",
+      "date": "10 janvier, 16h",
+      "location": "07430 Davézieux, France",
+      "category": "Famille et nature",
+      "description": "Spectacle autour de la photographie et de la lumière, à partir de 6 ans. Distance estimée : ≈35 km.",
+      "url": "https://www.ardechegrandair.com/agenda/7978795_theatre-la-chambre-claire/",
+      "price": "10 €"
+    },
+    {
+      "title": "6e Festival Lumières Sauvages – Safari de Peaugres",
+      "date": "En cours jusqu’au 27 mars 2027",
+      "location": "07340 Peaugres, France",
+      "category": "Famille et nature",
+      "description": "Parcours nocturne de lanternes. Séances selon calendrier ; vérifier les jours exacts avant déplacement. Distance estimée : ≈36 km.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/6eme-festival-lumieres-sauvages-au-safari-de-peaugres-5853831/",
+      "price": "Tarif selon billet Safari"
+    },
+    {
+      "title": "Exposition Carrefour des Arts – Olivier Muhlhoff",
+      "date": "En cours jusqu’au 31 décembre",
+      "location": "07520 Lalouvesc, France",
+      "category": "Culture et loisir",
+      "description": "Photographies « Arborescence » autour du végétal et du paysage. Accès libre, jusqu’au 31 décembre. Distance estimée : ≈28 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Exposition – Les Johannot, des papetiers de talent",
+      "date": "En cours jusqu’au 20 décembre",
+      "location": "07430 Davézieux, France",
+      "category": "Culture et loisir",
+      "description": "Histoire du papier et de la famille Johannot. Ouvert mercredi et dimanche 14h30–18h. Distance estimée : ≈35 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "6,50 € adulte, 5 € enfant 6–16 ans, gratuit moins de 6 ans"
+    },
+    {
+      "title": "Exposition – De la nature à l’assiette",
+      "date": "En cours jusqu’au 26 février 2027",
+      "location": "07100 Annonay, France",
+      "category": "Culture et loisir",
+      "description": "Exposition sur l’histoire gourmande des produits naturels. Ouvert du lundi au vendredi 14h–18h. Distance estimée : ≈34 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "À partir de 6 € adulte, 4 € enfant 6–12 ans"
+    },
+    {
+      "title": "Exposition et animations autour de l’astronomie",
+      "date": "En cours jusqu’au 28 novembre",
+      "location": "07430 Davézieux, France",
+      "category": "Famille et nature",
+      "description": "Exposition accessible selon les horaires de la médiathèque ; animations annoncées jusqu’au 28 novembre. Vérifier le programme détaillé. Distance estimée : ≈35 km.",
+      "url": "https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-semaine/",
+      "price": "Gratuit, horaires à confirmer"
+    },
+    {
+      "title": "Exposition – La biodiversité s’expose",
+      "date": "En cours jusqu’au 28 novembre",
+      "location": "07560 Montpezat-sous-Bauzon, France",
+      "category": "Famille et nature",
+      "description": "Photographies de la faune ardéchoise. Horaires de la médiathèque ; accès libre. Distance estimée : ≈55 km.",
+      "url": "https://www.ardeche-guide.com/agenda/page/78/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Exposition – Irène Dondey et Julie Gilgenmann",
+      "date": "En cours jusqu’au 29 novembre",
+      "location": "07600 Vals-les-Bains, France",
+      "category": "Culture et loisir",
+      "description": "Sculpture céramique et peinture. Horaires publiés : semaine 9h–12h et 13h30–17h30 ; week-end selon les artistes. Entrée libre. Distance estimée : ≈50 km.",
+      "url": "https://www.ardeche-guide.com/agenda/page/78/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Exposition photos de Sabine Fischer",
+      "date": "En cours jusqu’au 4 janvier 2027",
+      "location": "07160 Le Cheylard, France",
+      "category": "Culture et loisir",
+      "description": "Paysages ardéchois. Ouvert du lundi au vendredi 9h–12h et 13h–16h. Entrée libre. Distance estimée : ≈26 km.",
+      "url": "https://www.ardeche-guide.com/agenda/page/162/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Visite libre de l’Abbatiale de Cruas",
+      "date": "En cours jusqu’au 23 décembre",
+      "location": "07350 Cruas, France",
+      "category": "Culture et loisir",
+      "description": "Découverte de l’architecture romane, de la crypte, de la tribune monastique et de la mosaïque. Ouvert du mardi au vendredi 9h30–12h et 14h–17h, sauf jours fériés et vacances de Noël. Distance estimée : ≈35 km.",
+      "url": "https://www.ardeche-guide.com/agenda/",
+      "price": "3,50 € plein tarif ; gratuit pour plusieurs publics"
+    },
+    {
+      "title": "Exposition photo graphique – Révélation, l’âme de l’eau",
+      "date": "En cours jusqu’au 15 décembre",
+      "location": "26140 Anneyron, France",
+      "category": "Culture et loisir",
+      "description": "Photographies de nature, reflets et illusions. Horaires : mardi et vendredi 16h–18h30, mercredi 10h–12h et 14h–17h, samedi 10h–12h et 14h–16h. Gratuit. Distance estimée : ≈38 km.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/exposition-photo-graphique-revelation-lame-de-leau-8006687/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Exposition – Au fil du Rhône",
+      "date": "En cours jusqu’au 12 décembre",
+      "location": "26200 Montélimar, France",
+      "category": "Culture et loisir",
+      "description": "Patrimoine, géologie, préhistoire et histoire du bassin Rhône-Drôme-Ardèche. Ouvert mercredi et samedi 14h–18h. Gratuit. Distance estimée : ≈55 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/exposition-au-fil-du-rhone/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Exposition – Plus belle la mort : rites funéraires de la Préhistoire",
+      "date": "En cours jusqu’au 15 novembre 2028",
+      "location": "07150 Orgnac-l’Aven, France",
+      "category": "Culture et loisir",
+      "description": "Exposition archéologique en cours du 8 mai 2026 au 15 novembre 2028. Horaires et tarif selon le site de l’Aven d’Orgnac. Distance estimée : ≈85 km.",
+      "url": "https://www.ardeche-guide.com/agenda/page/377/",
+      "price": "Selon billet du site"
+    },
+    {
+      "title": "Noël à Pierrelatte",
+      "date": "4–6 décembre",
+      "location": "26700 Pierrelatte, France",
+      "category": "Famille et nature",
+      "description": "Trois jours de festivités de Noël en centre-ville, du vendredi 4 au dimanche 6 décembre. Accès libre. Distance estimée : ≈70 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/noel-a-pierrelatte/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Crèche vivante à l’église Saint-Jean-Baptiste",
+      "date": "4–6 décembre",
+      "location": "26700 Pierrelatte, France",
+      "category": "Famille et nature",
+      "description": "Vendredi 4 et samedi 5 décembre 17h30–19h30 ; dimanche 6 décembre 15h–18h. Gratuit. Distance estimée : ≈70 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/creche-vivante-a-leglise/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Les facteurs de Noël",
+      "date": "4 décembre, 17h30 et 19h",
+      "location": "26700 Pierrelatte, France",
+      "category": "Famille et nature",
+      "description": "Balade circassienne et musicale, deux déambulations à 17h30 et 19h. Gratuit. Distance estimée : ≈70 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/les-facteurs-de-noel/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Visite commentée – Pierrelatte au crépuscule",
+      "date": "4 décembre, 18h–19h30",
+      "location": "26700 Pierrelatte, France",
+      "category": "Culture et loisir",
+      "description": "Visite guidée du centre-ville, 18h–19h30. Réservation recommandée. Distance estimée : ≈70 km.",
+      "url": "https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-drome/",
+      "price": "5 €, gratuit moins de 18 ans"
+    },
+    {
+      "title": "Visite du musée Yvon Guéret",
+      "date": "4–6 décembre, 10h–18h30",
+      "location": "26700 Pierrelatte, France",
+      "category": "Culture et loisir",
+      "description": "Visite proposée du 4 au 6 décembre, 10h–18h30. Tarif et modalités à vérifier auprès du musée. Distance estimée : ≈70 km.",
+      "url": "https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-drome/",
+      "price": "Tarif à vérifier"
+    },
+    {
+      "title": "Visite du village provençal Aimé et Simone Brun",
+      "date": "4–6 décembre, 10h–18h30",
+      "location": "26700 Pierrelatte, France",
+      "category": "Culture et loisir",
+      "description": "Visite proposée du 4 au 6 décembre, 10h–18h30. Tarif et modalités à vérifier auprès de l’organisateur. Distance estimée : ≈70 km.",
+      "url": "https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-drome/",
+      "price": "Tarif à vérifier"
+    },
+    {
+      "title": "Spectacle déambulatoire – À vos jouets",
+      "date": "5 décembre, 11h30, 15h et 18h",
+      "location": "26700 Pierrelatte, France",
+      "category": "Famille et nature",
+      "description": "Les casse-noisettes de la compagnie RATAFIA Théâtre déambulent à 11h30, 15h et 18h. Gratuit. Distance estimée : ≈70 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/a-vos-jouets/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Aurore des rennes",
+      "date": "5 décembre, 15h30, 17h30 et 19h30",
+      "location": "26700 Pierrelatte, France",
+      "category": "Famille et nature",
+      "description": "Déambulation lumineuse de trois rennes géants, séances à 15h30, 17h30 et 19h30. Gratuit. Distance estimée : ≈70 km.",
+      "url": "https://www.drome-cestmanature.com/sit/aurore-des-rennes/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "L’atelier du Père Noël",
+      "date": "6 décembre, 10h et 16h",
+      "location": "26700 Pierrelatte, France",
+      "category": "Famille et nature",
+      "description": "Spectacle familial, séances à 10h et 16h. Réservation nécessaire, nombre de places limité. Distance estimée : ≈70 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/latelier-du-pere-noel/",
+      "price": "Gratuit sur réservation"
+    },
+    {
+      "title": "Marché de Noël sous la Canopée – Romans-sur-Isère",
+      "date": "5 décembre, 9h–18h",
+      "location": "26100 Romans-sur-Isère, France",
+      "category": "Vie locale",
+      "description": "Marché de Noël, exposants et gourmandises. Accès libre. Distance estimée : ≈32 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-38/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël sous la Canopée – Romans-sur-Isère",
+      "date": "12 décembre, 9h–18h",
+      "location": "26100 Romans-sur-Isère, France",
+      "category": "Vie locale",
+      "description": "Deuxième date du marché de Noël, accès libre. Distance estimée : ≈32 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-38/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Chantemerle-les-Blés",
+      "date": "6 décembre, 9h–17h",
+      "location": "26600 Chantemerle-les-Blés, France",
+      "category": "Vie locale",
+      "description": "Environ 50 exposants, buvette, restauration et animations. Entrée libre. Distance estimée : ≈32 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-chantemerle-les-bles/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Montchenu",
+      "date": "5 décembre, 17h30–22h",
+      "location": "26350 Montchenu, France",
+      "category": "Vie locale",
+      "description": "Marché, concert à 18h et feu d’artifice pour clôturer la soirée. Entrée libre. Distance estimée : ≈38 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-montchenu/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Saint-Barthélemy-le-Plain",
+      "date": "4 décembre, dès 18h",
+      "location": "07300 Saint-Barthélemy-le-Plain, France",
+      "category": "Vie locale",
+      "description": "Marché de Noël, chants des enfants à 19h30 et feu d’artifice à 20h. Accès libre. Distance estimée : ≈20 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-saint-barthelemy-le-plain/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de La Roche-de-Glun",
+      "date": "19 décembre, dès 11h",
+      "location": "26600 La Roche-de-Glun, France",
+      "category": "Vie locale",
+      "description": "Marché de Noël et animations au cœur du village. Heure de fin non précisée par la source. Distance estimée : ≈15 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-la-roche-de-glun/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Larnage",
+      "date": "15 décembre, 16h–19h",
+      "location": "26600 Larnage, France",
+      "category": "Vie locale",
+      "description": "Stands de producteurs, artisans et caves locales. Distance estimée : ≈20 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-larnage/",
+      "price": "Tarif non précisé"
+    },
+    {
+      "title": "Marché de Noël – Les Hivernales de Tain",
+      "date": "12 décembre, 16h30–22h",
+      "location": "26600 Tain-l’Hermitage, France",
+      "category": "Vie locale",
+      "description": "Environ 50 exposants, Père Noël, restauration et animations ; ouverture officielle à 16h30. Gratuit. Distance estimée : ≈18 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-les-hivernales-de-tain/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Lemps",
+      "date": "13 décembre, 10h–17h",
+      "location": "07610 Lemps, France",
+      "category": "Vie locale",
+      "description": "Producteurs, artisans, animations enfants, tombola et venue du Père Noël. Gratuit. Distance estimée : ≈16 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-lemps/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Tournon-sur-Rhône",
+      "date": "13 décembre, journée",
+      "location": "07300 Tournon-sur-Rhône, France",
+      "category": "Vie locale",
+      "description": "Marché de Noël en centre-ville ; animations musicales et stands annoncés. Horaires de fin à confirmer. Distance estimée : ≈16 km.",
+      "url": "https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-drome/",
+      "price": "Tarif non précisé"
+    },
+    {
+      "title": "Marché de Noël de Tournon-sur-Rhône",
+      "date": "20 décembre, journée",
+      "location": "07300 Tournon-sur-Rhône, France",
+      "category": "Vie locale",
+      "description": "Deuxième date annoncée du marché de Noël, animations musicales et stands en centre-ville. Horaires de fin à confirmer. Distance estimée : ≈16 km.",
+      "url": "https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-drome/",
+      "price": "Tarif non précisé"
+    },
+    {
+      "title": "Concert – DJ Vélo de Bryan Funky au marché de Noël",
+      "date": "13 décembre, 14h–19h",
+      "location": "07300 Tournon-sur-Rhône, France",
+      "category": "Culture et loisir",
+      "description": "Animation musicale du marché de Noël, gratuite. Distance estimée : ≈16 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/dj-velo-de-bryan-funky-au-marche-de-noel-tournon/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Concert – DJ Vélo de Bryan Funky au marché de Noël",
+      "date": "20 décembre, 14h–19h",
+      "location": "07300 Tournon-sur-Rhône, France",
+      "category": "Culture et loisir",
+      "description": "Deuxième animation musicale du marché de Noël, gratuite. Distance estimée : ≈16 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/dj-velo-de-bryan-funky-au-marche-de-noel-tournon/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Bourdeaux",
+      "date": "12 décembre, 10h–18h",
+      "location": "26460 Bourdeaux, France",
+      "category": "Vie locale",
+      "description": "Marché animé par les associations et commerçants du village, animations familiales et gourmandises. Distance estimée : ≈55 km.",
+      "url": "https://www.drome-cestmanature.com/sit/marche-de-noel-30/",
+      "price": "Tarif non précisé"
+    },
+    {
+      "title": "Marché de Noël de Serves-sur-Rhône",
+      "date": "6 décembre, dès 10h",
+      "location": "26600 Serves-sur-Rhône, France",
+      "category": "Vie locale",
+      "description": "Artisans, petite restauration, buvette et tombola. Heure de fin non publiée. Distance estimée : ≈22 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/marche-de-noel-serves-sur-rhone/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Balade de Noël à Dieulefit",
+      "date": "23 décembre, 17h30",
+      "location": "26220 Dieulefit, France",
+      "category": "Famille et nature",
+      "description": "Balade familiale guidée et contée dans le centre ancien, avec jus de pomme chaud et friandises. Inscription obligatoire, places limitées. Distance estimée : ≈75 km.",
+      "url": "https://www.drome-cestmanature.com/fiches/balade-de-noel-a-dieulefit/",
+      "price": "Gratuit"
     }
   ]
 }
