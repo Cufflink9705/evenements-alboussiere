@@ -8,7 +8,7 @@
       "date": "22 novembre 2026, 10h–20h",
       "location": "Centre du village, 07700 Saint-Just-d’Ardèche, France",
       "category": "Vie locale",
-      "description": "Plus de 40 exposants, Père Noël, balade à poney, mascotte, santons, château gonflable, montée au clocher, restauration et buvette. Accès libre.",
+      "description": "Plus de 40 exposants, Père Noël, balade à poney, mascotte, santons, château gonflable, montée au clocher, restauration et buvette. Accès libre ; lieu précis dans le centre du village.",
       "url": "https://brocantes-et-marches.fr/villes/saint-just-dardeche/marche-de-noel-de-saint-just-dardeche",
       "price": "Gratuit"
     },
@@ -35,7 +35,7 @@
       "date": "21 novembre 2026, 8h–17h",
       "location": "Place Antoine du Roure, 07200 Lachapelle-sous-Aubenas, France",
       "category": "Vie locale",
-      "description": "Marché de créateurs locaux, chants, conteurs, sapin participatif et visite du Père Noël. Accès libre. La fermeture à 17h est confirmée par l’office de tourisme.",
+      "description": "Marché de créateurs locaux, chants, conteurs, sapin participatif et visite du Père Noël. Accès libre.",
       "url": "https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-7600522/",
       "price": "Gratuit"
     },
@@ -62,7 +62,7 @@
       "date": "18 novembre 2026, 18h",
       "location": "Place Ollier, 07140 Les Vans, France (repli annoncé : terrasse du Serre de Bar)",
       "category": "Vie locale",
-      "description": "Reprise des rendez-vous hebdomadaires gratuits de l’association Résocommun autour d’une soupe. Fin de séance non publiée ; seule la première date annoncée est intégrée à l’agenda.",
+      "description": "Rendez-vous collectif gratuit de Résocommun autour d’une soupe. Fin de séance non publiée ; seule la première date annoncée est intégrée à l’agenda.",
       "url": "https://www.ledauphine.com/culture-loisirs/2026/11/14/la-bonne-soupe-le-rendez-vous-de-resocommun-de-retour",
       "price": "Gratuit"
     },
@@ -72,7 +72,7 @@
       "location": "Salle de Saint-Romain-le-Désert, 07320 Mars, France",
       "category": "Vie locale",
       "description": "Marché de Noël de l’association Bien vivre à Mars, restauration et buvette sur place. Accès libre.",
-      "url": "https://brocantes-et-marches.fr/villes/mars/marche-de-noel-de-mars",
+      "url": "https://brocantes-et-marches.fr/villes/mars",
       "price": "Gratuit"
     },
     {
@@ -83,6 +83,132 @@
       "description": "Marché de créateurs et d’artisans, buvette et restauration sur place. Entrée libre.",
       "url": "https://brocantes-et-marches.fr/villes/annonay/marche-de-noel-de-lart-des-choix-a-annonay",
       "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Saint-Jeures",
+      "date": "21 novembre 2026, 10h–18h ; 22 novembre, 9h–18h",
+      "location": "Salle du Bru, 38 chemin du Bru, 43200 Saint-Jeures, France",
+      "category": "Vie locale",
+      "description": "Artisans et producteurs locaux, buvette et petite restauration. Entrée gratuite.",
+      "url": "https://villagedenoel.fr/evenement/saint-jeures-marche-noel-2026",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Saint-Julien-Molhesabate",
+      "date": "22 novembre 2026, à partir de 9h",
+      "location": "Maison du Suc, 43220 Saint-Julien-Molhesabate, France",
+      "category": "Vie locale",
+      "description": "Artisans, producteurs locaux, créations et produits gourmands. Entrée gratuite ; heure de fin non publiée.",
+      "url": "https://brocantes-et-marches.fr/villes/saint-julien-molhesabate/marche-de-noel-de-saint-julien-molhesabate",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël des Amis de Deyras à Saint-Victor",
+      "date": "22 novembre 2026, à partir de 9h",
+      "location": "Salle Pouyol, 07410 Saint-Victor, France",
+      "category": "Vie locale",
+      "description": "Créations, gourmandises, buvette et petite restauration. Fin annoncée à 17h par l’agenda ; un autre relais indique 18h, fermeture à confirmer.",
+      "url": "https://brocantes-et-marches.fr/villes/saint-victor-07/marche-de-noel-des-amis-de-deyras-a-saint-victor",
+      "price": "Non précisé"
+    },
+    {
+      "title": "Marché de Noël de Grospierres",
+      "date": "28 novembre 2026, 16h–22h",
+      "location": "Parc du château de Bournet, 110 route du Château de Bournet, 07120 Grospierres, France",
+      "category": "Vie locale",
+      "description": "Environ 40 exposants annoncés, artisans, producteurs locaux et gourmandises. Accès libre.",
+      "url": "https://brocantes-et-marches.fr/villes/grospierres/marche-de-noel-de-grospierres",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël des Amis de l’Hôpital",
+      "date": "28 novembre 2026, 14h30–17h",
+      "location": "Cloître de l’hôpital intercommunal, entrées quai Fabry et avenue Notre-Dame, 07700 Bourg-Saint-Andéol, France",
+      "category": "Vie locale",
+      "description": "Nombreux exposants, crêpes, gâteaux et boissons chaudes. Entrée libre.",
+      "url": "https://www.berg-coiron-tourisme.com/gastronomie/marches-hebdomadaires/marche-de-noel-des-amis-de-lhopital-91-8029576/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Viviers",
+      "date": "28 novembre 2026, 10h30–20h ; 29 novembre, 10h30–18h",
+      "location": "Hostellerie Charles de Foucauld, 1 place Riquet, 07220 Viviers, France",
+      "category": "Vie locale",
+      "description": "Artisans locaux, chants et contes, maquillage, jeux, Père et Mère Noël, restauration et buvette. Accès libre.",
+      "url": "https://allezonsort.fr/evenement/marche-de-noel-viviers/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Guilherand-Granges",
+      "date": "28 novembre 2026, 15h–20h ; 29 novembre, 10h–18h",
+      "location": "Abords de la mairie, place des 5 Continents, 07500 Guilherand-Granges, France",
+      "category": "Vie locale",
+      "description": "Stands, artisanat, produits du terroir et animations. Samedi : déambulation lumineuse à 17h15 puis feu d’artifice à 18h. Accès libre.",
+      "url": "https://www.guilherand-granges.fr/je-souhaite/consulter-l-agenda",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël et vin nouveau d’Issarlès",
+      "date": "28 novembre 2026, 9h–17h",
+      "location": "Salle polyvalente Vispron, 07470 Issarlès, France",
+      "category": "Vie locale",
+      "description": "Exposants du plateau ardéchois, artisanat et gastronomie. En soirée : fête du vin nouveau et concert de Mathieu Pirro ; horaire du concert non publié.",
+      "url": "https://www.ardeche.com/issarles/marche-de-noel-et-vin-nouveau-431406.html",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël du Béage",
+      "date": "29 novembre 2026, 10h–18h",
+      "location": "Salle du Montfol, 07630 Le Béage, France",
+      "category": "Vie locale",
+      "description": "Artisans, producteurs locaux, cosmétiques, décoration, buvette, crêpes et gâteaux. À partir de 13h30 : maquillage, sculpture de ballons et Père Noël. Accès libre.",
+      "url": "https://brocantes-et-marches.fr/villes/le-beage/marche-de-noel-du-beage",
+      "price": "Gratuit"
+    },
+    {
+      "title": "22e marché de Noël de Lentillères",
+      "date": "29 novembre 2026, 9h–18h",
+      "location": "Place du village, 07200 Lentillères, France",
+      "category": "Vie locale",
+      "description": "Artisans, créateurs, producteurs locaux, Père Noël, tombola, buvette et petite restauration. Gratuit.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/22eme-edition-du-marche-de-noel-lentilleres-574876/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Lachamp-Raphaël",
+      "date": "29 novembre 2026, 10h–18h",
+      "location": "Espace Raphaël, 07530 Lachamp-Raphaël, France",
+      "category": "Vie locale",
+      "description": "Exposants en extérieur, artisans et créateurs en salle, produits locaux ; randonnée canine avec un musher annoncée toute la journée. Accès libre.",
+      "url": "https://brocantes-et-marches.fr/villes/lachamp-raphael/marche-de-noel-de-lachamp-raphael",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël d’Ozon",
+      "date": "29 novembre 2026, 10h–18h",
+      "location": "Salle des fêtes René Rochegue, 415 route des Sables, 07370 Ozon, France",
+      "category": "Vie locale",
+      "description": "Stands de produits locaux et artisanaux, buvette, buffet sucré et Père Noël. Accès libre.",
+      "url": "https://brocantes-et-marches.fr/villes/ozon/marche-de-noel-dozon",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Marché de Noël de Vagnas",
+      "date": "29 novembre 2026, 10h–18h",
+      "location": "Centre du village, 07150 Vagnas, France",
+      "category": "Vie locale",
+      "description": "80 exposants annoncés, artisanat local, déambulations, chorales, maquillage, jeux en bois, petit manège et tombola. Accès libre.",
+      "url": "https://brocantes-et-marches.fr/villes/vagnas/marche-de-noel-de-vagnas",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Atelier loisirs créatifs à Grozon",
+      "date": "25 novembre 2026, 14h–16h30",
+      "location": "Salle des associations, ancienne école, Grozon, 07270 Saint-Barthélemy-Grozon, France",
+      "category": "Culture et loisir",
+      "description": "Atelier animé par Claire Bogard et organisé par l’association Amusaté é Boujaté. Fournitures prévues ; tarif et inscription à confirmer auprès de l’association.",
+      "url": "https://www.saintbarthelemygrozon.fr/agenda/do/organizers/comite-des-fetes/",
+      "price": "Non précisé"
     }
   ]
 }
