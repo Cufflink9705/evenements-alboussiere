@@ -17,8 +17,8 @@ DTSTART:20261113
 DTEND:20261130
 SUMMARY:33e Salon d’automne – exposition
 LOCATION:Salle de la Chapelle\, 4 rue Saint-Joseph\, 07160 Le Cheylard
-DESCRIPTION:Exposition artistique du 13 au 29 novembre. Mardi–vendredi 16
- h–18h30\, samedi–dimanche 15h–18h30. Entrée libre.
+DESCRIPTION:Exposition artistique du 13 au 29 novembre. Mardi–vendredi 1
+ 6h–18h30\, samedi–dimanche 15h–18h30. Entrée libre.
 URL:https://www.ardeche-hautes-vallees.fr/l-agenda/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
@@ -30,10 +30,10 @@ DTSTART:20261113
 DTEND:20261116
 SUMMARY:Concert – Les Troubadingues
 LOCATION:Roiffieux\, Ardèche
-DESCRIPTION:Concert annoncé du 13 au 15 novembre 2026. Horaires et tarifà
-  vérifier auprès de l’organisateur. Source : Ardèche Grand Air.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Concert annoncé du 13 au 15 novembre 2026. Horaires et tarif
+ à vérifier auprès de l’organisateur. Source : Ardèche Grand Air.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 CATEGORIES:Culture et loisir
 END:VEVENT
@@ -43,13 +43,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261113
 DTEND:20261207
 SUMMARY:Exposition « De la ligne claire à la couleur »
-LOCATION:Atelier de Michel Smekens\, 10A place Saléon-Terras\, 07160 Le Ch
- eylard
-DESCRIPTION:Une trentaine d’œuvres originales de Michel Smekens \; ateli
- ers et performances. Du 13 novembre au 6 décembre\, lun.-mer. et ven.-dim
- . 10h-13h et 14h-19h. Gratuit. Environ 25 km à vol d’oiseau.
-URL:https://www.ardeche-hautes-vallees.fr/agenda/exposition-de-la-ligne-cla
- ire-a-la-couleur/occ/6/
+LOCATION:Atelier de Michel Smekens\, 10A place Saléon-Terras\, 07160 Le C
+ heylard
+DESCRIPTION:Une trentaine d’œuvres originales de Michel Smekens \; atel
+ iers et performances. Du 13 novembre au 6 décembre\, lun.-mer. et ven.-d
+ im. 10h-13h et 14h-19h. Gratuit. Environ 25 km à vol d’oiseau.
+URL:https://www.ardeche-hautes-vallees.fr/agenda/exposition-de-la-ligne-cl
+ aire-a-la-couleur/occ/6/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
@@ -60,11 +60,11 @@ DTSTART:20261113
 DTEND:20261116
 SUMMARY:Exposition photos et peintures + bourse Pokémon
 LOCATION:Salle des fêtes\, 51 route Nationale\, 07200 Labégude
-DESCRIPTION:Exposition gratuite. Vernissage vendredi 13/11 à 18h30 \; same
- di 14/11 10h–12h et 14h–18h \; dimanche 15/11 mêmes horaires\, bourse
-  Pokémon l’après-midi.
-URL:https://www.ardeche-guide.com/fete-manifestation/exposition-photos-pein
- tures-et-bourse-dechange-pokemon-8043671/
+DESCRIPTION:Exposition gratuite. Vernissage vendredi 13/11 à 18h30 \; sam
+ edi 14/11 10h–12h et 14h–18h \; dimanche 15/11 mêmes horaires\, bour
+ se Pokémon l’après-midi.
+URL:https://www.ardeche-guide.com/fete-manifestation/exposition-photos-pei
+ ntures-et-bourse-dechange-pokemon-8043671/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
@@ -75,8 +75,8 @@ DTSTART:20261113T203000
 DTEND:20261116T010000
 SUMMARY:Rock This Town #9 – festival rock
 LOCATION:Mistral Palace\, 12 rue Pasteur\, 26000 Valence
-DESCRIPTION:Festival rock annoncé du 13 au 15 novembre. Horaires et tarifs
-  par soirée à vérifier sur la programmation de la salle.
+DESCRIPTION:Festival rock annoncé du 13 au 15 novembre. Horaires et tarif
+ s par soirée à vérifier sur la programmation de la salle.
 URL:https://www.mistralpalace.com/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
@@ -90,10 +90,10 @@ SUMMARY:6e Festival Lumières Sauvages – Safari de Peaugres
 LOCATION:Safari de Peaugres\, D821\, 07340 Peaugres\, France
 CATEGORIES:Famille et nature
 DESCRIPTION:Parcours nocturne de lanternes. Séances selon calendrier \; v
- érifier les jours exacts avant déplacement. Distance estimée : ≈36 km
- .
-URL:https://www.ardeche-guide.com/fete-manifestation/6eme-festival-lumieres
- -sauvages-au-safari-de-peaugres-5853831/
+ érifier les jours exacts avant déplacement. Distance estimée : ≈36 k
+ m.
+URL:https://www.ardeche-guide.com/fete-manifestation/6eme-festival-lumiere
+ s-sauvages-au-safari-de-peaugres-5853831/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -102,12 +102,12 @@ DTSTAMP:20261116T052309Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261213
 SUMMARY:Exposition – Au fil du Rhône
-LOCATION:Centre culturel des Carmes\, rue Monnaie Vieille\, 18 RN7\, 26200 
- Montélimar\, France
+LOCATION:Centre culturel des Carmes\, rue Monnaie Vieille\, 18 RN7\, 26200
+  Montélimar\, France
 CATEGORIES:Culture et loisir
 DESCRIPTION:Patrimoine\, géologie\, préhistoire et histoire du bassin Rh
- ône-Drôme-Ardèche. Ouvert mercredi et samedi 14h–18h. Gratuit. Distan
- ce estimée : ≈55 km.
+ ône-Drôme-Ardèche. Ouvert mercredi et samedi 14h–18h. Gratuit. Dista
+ nce estimée : ≈55 km.
 URL:https://www.drome-cestmanature.com/fiches/exposition-au-fil-du-rhone/
 STATUS:CONFIRMED
 END:VEVENT
@@ -117,13 +117,13 @@ DTSTAMP:20261116T052309Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20270227
 SUMMARY:Exposition – De la nature à l’assiette
-LOCATION:Musée du Parchemin\, 4 La Combe du Prieuré\, 07100 Annonay\, Fra
- nce
+LOCATION:Musée du Parchemin\, 4 La Combe du Prieuré\, 07100 Annonay\, Fr
+ ance
 CATEGORIES:Culture et loisir
-DESCRIPTION:Exposition sur l’histoire gourmande des produits naturels. Ou
- vert du lundi au vendredi 14h–18h. Distance estimée : ≈34 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Exposition sur l’histoire gourmande des produits naturels. O
+ uvert du lundi au vendredi 14h–18h. Distance estimée : ≈34 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -132,12 +132,12 @@ DTSTAMP:20261116T052309Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261130
 SUMMARY:Exposition – Irène Dondey et Julie Gilgenmann
-LOCATION:Salle Volane\, 3 avenue Claude Expilly\, 07600 Vals-les-Bains\, Fr
- ance
+LOCATION:Salle Volane\, 3 avenue Claude Expilly\, 07600 Vals-les-Bains\, F
+ rance
 CATEGORIES:Culture et loisir
-DESCRIPTION:Sculpture céramique et peinture. Horaires publiés : semaine 9
- h–12h et 13h30–17h30 \; week-end selon les artistes. Entrée libre. Di
- stance estimée : ≈50 km.
+DESCRIPTION:Sculpture céramique et peinture. Horaires publiés : semaine 
+ 9h–12h et 13h30–17h30 \; week-end selon les artistes. Entrée libre. 
+ Distance estimée : ≈50 km.
 URL:https://www.ardeche-guide.com/agenda/page/78/
 STATUS:CONFIRMED
 END:VEVENT
@@ -147,8 +147,8 @@ DTSTAMP:20261116T052309Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261129
 SUMMARY:Exposition – La biodiversité s’expose
-LOCATION:Médiathèque\, place de la République\, 07560 Montpezat-sous-Bau
- zon\, France
+LOCATION:Médiathèque\, place de la République\, 07560 Montpezat-sous-Ba
+ uzon\, France
 CATEGORIES:Famille et nature
 DESCRIPTION:Photographies de la faune ardéchoise. Horaires de la médiath
  èque \; accès libre. Distance estimée : ≈55 km.
@@ -163,10 +163,10 @@ DTEND;VALUE=DATE:20261221
 SUMMARY:Exposition – Les Johannot\, des papetiers de talent
 LOCATION:700 rue de Vidalon\, 07430 Davézieux\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Histoire du papier et de la famille Johannot. Ouvert mercredi e
- t dimanche 14h30–18h. Distance estimée : ≈35 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Histoire du papier et de la famille Johannot. Ouvert mercredi 
+ et dimanche 14h30–18h. Distance estimée : ≈35 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -174,14 +174,14 @@ UID:plus-belle-mort-orgnac-20261114@evenements-alboussiere
 DTSTAMP:20261116T052309Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20281116
-SUMMARY:Exposition – Plus belle la mort : rites funéraires de la Préhis
- toire
-LOCATION:Grand Site de France de l’Aven d’Orgnac\, 07150 Orgnac-l’Ave
- n\, France
+SUMMARY:Exposition – Plus belle la mort : rites funéraires de la Préhi
+ stoire
+LOCATION:Grand Site de France de l’Aven d’Orgnac\, 07150 Orgnac-l’Av
+ en\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Exposition archéologique en cours du 8 mai 2026 au 15 novembre
-  2028. Horaires et tarif selon le site de l’Aven d’Orgnac. Distance es
- timée : ≈85 km.
+DESCRIPTION:Exposition archéologique en cours du 8 mai 2026 au 15 novembr
+ e 2028. Horaires et tarif selon le site de l’Aven d’Orgnac. Distance 
+ estimée : ≈85 km.
 URL:https://www.ardeche-guide.com/agenda/page/377/
 STATUS:CONFIRMED
 END:VEVENT
@@ -191,13 +191,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261114
 DTEND:20270130
 SUMMARY:Exposition « POUET POUET\, Images de cirque »
-LOCATION:La Cascade\, Pôle National Cirque\, 9 avenue Marc-Pradelle\, 0770
- 0 Bourg-Saint-Andéol
-DESCRIPTION:Œuvres de 14 artistes : gravures\, sérigraphies\, risographie
- s\, textiles et micro-édition. Du 14 novembre au 29 janvier. Accès libre
- . Environ 65 km à vol d’oiseau.
-URL:https://www.ardeche-guide.com/fete-manifestation/exposition-pouet-pouet
- -images-de-cirque-7976966/
+LOCATION:La Cascade\, Pôle National Cirque\, 9 avenue Marc-Pradelle\, 077
+ 00 Bourg-Saint-Andéol
+DESCRIPTION:Œuvres de 14 artistes : gravures\, sérigraphies\, risographi
+ es\, textiles et micro-édition. Du 14 novembre au 29 janvier. Accès lib
+ re. Environ 65 km à vol d’oiseau.
+URL:https://www.ardeche-guide.com/fete-manifestation/exposition-pouet-poue
+ t-images-de-cirque-7976966/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
@@ -209,10 +209,11 @@ DTEND;VALUE=DATE:20270101
 SUMMARY:Exposition Carrefour des Arts – Olivier Muhlhoff
 LOCATION:Autour de la Basilique\, 07520 Lalouvesc\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Photographies « Arborescence » autour du végétal et du pays
- age. Accès libre\, jusqu’au 31 décembre. Distance estimée : ≈28 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Photographies « Arborescence » autour du végétal et du pay
+ sage. Accès libre\, jusqu’au 31 décembre. Distance estimée : ≈28 k
+ m.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -221,14 +222,14 @@ DTSTAMP:20261116T052309Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261129
 SUMMARY:Exposition et animations autour de l’astronomie
-LOCATION:Médiathèque\, 15 place des Anciens Combattants\, 07430 Davézieu
- x\, France
+LOCATION:Médiathèque\, 15 place des Anciens Combattants\, 07430 Davézie
+ ux\, France
 CATEGORIES:Famille et nature
-DESCRIPTION:Exposition accessible selon les horaires de la médiathèque \;
-  animations annoncées jusqu’au 28 novembre. Vérifier le programme dét
- aillé. Distance estimée : ≈35 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Exposition accessible selon les horaires de la médiathèque \
+ ; animations annoncées jusqu’au 28 novembre. Vérifier le programme d
+ étaillé. Distance estimée : ≈35 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -237,14 +238,14 @@ DTSTAMP:20261116T052309Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261216
 SUMMARY:Exposition photo graphique – Révélation\, l’âme de l’eau
-LOCATION:Médiathèque Jacques et Aimé Bertrand\, 5 bis rue Victor Hugo\, 
- 26140 Anneyron\, France
+LOCATION:Médiathèque Jacques et Aimé Bertrand\, 5 bis rue Victor Hugo\,
+  26140 Anneyron\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Photographies de nature\, reflets et illusions. Horaires : mard
- i et vendredi 16h–18h30\, mercredi 10h–12h et 14h–17h\, samedi 10h
+DESCRIPTION:Photographies de nature\, reflets et illusions. Horaires : mar
+ di et vendredi 16h–18h30\, mercredi 10h–12h et 14h–17h\, samedi 10h
  –12h et 14h–16h. Gratuit. Distance estimée : ≈38 km.
-URL:https://www.ardeche-guide.com/fete-manifestation/exposition-photo-graph
- ique-revelation-lame-de-leau-8006687/
+URL:https://www.ardeche-guide.com/fete-manifestation/exposition-photo-grap
+ hique-revelation-lame-de-leau-8006687/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -253,11 +254,11 @@ DTSTAMP:20261116T052309Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20270105
 SUMMARY:Exposition photos de Sabine Fischer
-LOCATION:RDB – Radio des Boutières\, 20 rue de la République\, 07160 Le
-  Cheylard\, France
+LOCATION:RDB – Radio des Boutières\, 20 rue de la République\, 07160 L
+ e Cheylard\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Paysages ardéchois. Ouvert du lundi au vendredi 9h–12h et 13
- h–16h. Entrée libre. Distance estimée : ≈26 km.
+DESCRIPTION:Paysages ardéchois. Ouvert du lundi au vendredi 9h–12h et 1
+ 3h–16h. Entrée libre. Distance estimée : ≈26 km.
 URL:https://www.ardeche-guide.com/agenda/page/162/
 STATUS:CONFIRMED
 END:VEVENT
@@ -269,9 +270,9 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:Expositions « Ardèche\, la belle » et « De la plume au vol »
 LOCATION:Maison de Privas\, 1 rue du Couvent\, 07000 Privas\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Photographies des paysages ardéchois et des oiseaux. Horaires 
- publiés selon calendrier de la mairie. Entrée libre. Distance estimée :
-  ≈23 km.
+DESCRIPTION:Photographies des paysages ardéchois et des oiseaux. Horaires
+  publiés selon calendrier de la mairie. Entrée libre. Distance estimée
+  : ≈23 km.
 URL:https://www.ardeche-guide.com/Agenda/page/68/
 STATUS:CONFIRMED
 END:VEVENT
@@ -282,10 +283,10 @@ DTSTART:20261114
 DTEND:20261216
 SUMMARY:Fééries d’Hiver – Boîte aux lettres du Père Noël
 LOCATION:Centre-ville\, 26000 Valence
-DESCRIPTION:Boîte installée du 14 novembre au 15 décembre. Accès libre 
- \; emplacement exact à vérifier.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-boite-aux-lettres
- -du-pere-noel/
+DESCRIPTION:Boîte installée du 14 novembre au 15 décembre. Accès libre
+  \; emplacement exact à vérifier.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-boite-aux-lettre
+ s-du-pere-noel/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -296,8 +297,8 @@ DTSTART:20261114
 DTEND:20270111
 SUMMARY:Fééries d’Hiver – Grande roue
 LOCATION:Champ de Mars\, 26000 Valence
-DESCRIPTION:Du 14 novembre au 10 janvier\, ouverture annoncée à partir de
-  11h. 5 €\, gratuit moins de 3 ans.
+DESCRIPTION:Du 14 novembre au 10 janvier\, ouverture annoncée à partir d
+ e 11h. 5 €\, gratuit moins de 3 ans.
 URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-grande-roue/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
@@ -309,9 +310,9 @@ DTSTART:20261114
 DTEND:20261123
 SUMMARY:Rencontres des Cinémas d’Europe – 28e édition
 LOCATION:Aubenas\, Ardèche
-DESCRIPTION:Festival du 14 au 22 novembre 2026. Tarifs annoncés à partir 
- de 8 € par adulte. Programme et séances à consulter auprès de l’org
- anisateur. Source : Ardèche Guide.
+DESCRIPTION:Festival du 14 au 22 novembre 2026. Tarifs annoncés à partir
+  de 8 € par adulte. Programme et séances à consulter auprès de l’o
+ rganisateur. Source : Ardèche Guide.
 URL:https://www.ardeche-guide.com/agenda/agenda-top-evenement/
 STATUS:CONFIRMED
 CATEGORIES:Culture et loisir
@@ -323,11 +324,11 @@ DTSTART:20261114
 DTEND:20261123
 SUMMARY:Salon Les Picturales
 LOCATION:Romans-sur-Isère\, Drôme
-DESCRIPTION:Salon annoncé du 14 au 22 novembre 2026 dans la sélection men
- suelle de Valence Romans Tourisme. Horaires et tarif à vérifier auprès 
- de l’organisateur.
-URL:https://www.valence-romans-tourisme.com/fr/loffice/actualites/notre-age
- nda-du-mois/
+DESCRIPTION:Salon annoncé du 14 au 22 novembre 2026 dans la sélection me
+ nsuelle de Valence Romans Tourisme. Horaires et tarif à vérifier auprè
+ s de l’organisateur.
+URL:https://www.valence-romans-tourisme.com/fr/loffice/actualites/notre-ag
+ enda-du-mois/
 STATUS:CONFIRMED
 CATEGORIES:Culture et loisir
 END:VEVENT
@@ -339,10 +340,10 @@ DTEND;VALUE=DATE:20261224
 SUMMARY:Visite libre de l’Abbatiale de Cruas
 LOCATION:1 place de la Liberté\, 07350 Cruas\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Découverte de l’architecture romane\, de la crypte\, de la t
- ribune monastique et de la mosaïque. Ouvert du mardi au vendredi 9h30–1
- 2h et 14h–17h\, sauf jours fériés et vacances de Noël. Distance estim
- ée : ≈35 km.
+DESCRIPTION:Découverte de l’architecture romane\, de la crypte\, de la 
+ tribune monastique et de la mosaïque. Ouvert du mardi au vendredi 9h30
+ –12h et 14h–17h\, sauf jours fériés et vacances de Noël. Distance 
+ estimée : ≈35 km.
 URL:https://www.ardeche-guide.com/agenda/
 STATUS:CONFIRMED
 END:VEVENT
@@ -352,14 +353,14 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261115T163000
 DTEND:20261116T143000
 SUMMARY:Théâtre – Les filles ne sont pas des poupées de chiffon
-LOCATION:Théâtre des Cordeliers\, place des Cordeliers\, 07100 Annonay\, 
- France
+LOCATION:Théâtre des Cordeliers\, place des Cordeliers\, 07100 Annonay\,
+  France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Conte théâtral à partir de 8 ans. Représentations : dimanch
- e 15 novembre à 16h30\, lundi 16 novembre à 10h et 14h30. Distance estim
- ée : ≈34 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Conte théâtral à partir de 8 ans. Représentations : dimanc
+ he 15 novembre à 16h30\, lundi 16 novembre à 10h et 14h30. Distance est
+ imée : ≈34 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -369,11 +370,11 @@ DTSTART:20261118
 DTEND:20261122
 SUMMARY:Festiv’Jazz – 20e anniversaire
 LOCATION:Romans-sur-Isère\, Drôme
-DESCRIPTION:Festival annoncé du 18 au 21 novembre 2026. Programme et tarif
- s à vérifier auprès de l’organisateur. Source : Valence Romans Touris
- me.
-URL:https://www.valence-romans-tourisme.com/fr/loffice/actualites/notre-age
- nda-du-mois/
+DESCRIPTION:Festival annoncé du 18 au 21 novembre 2026. Programme et tari
+ fs à vérifier auprès de l’organisateur. Source : Valence Romans Tour
+ isme.
+URL:https://www.valence-romans-tourisme.com/fr/loffice/actualites/notre-ag
+ enda-du-mois/
 STATUS:CONFIRMED
 CATEGORIES:Culture et loisir
 END:VEVENT
@@ -383,10 +384,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261118T090000
 SUMMARY:Atelier parents-enfants
 LOCATION:Centre socioculturel\, Saint-Agrève
-DESCRIPTION:Atelier mercredi 18 novembre à 9h. Public familial \; tarif et
-  âge conseillé à confirmer.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /3/
+DESCRIPTION:Atelier mercredi 18 novembre à 9h. Public familial \; tarif e
+ t âge conseillé à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/3/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -396,13 +397,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261118T150000
 DTEND:20261118T170000
 SUMMARY:Atelier – Habiter le vivant
-LOCATION:MJC Château de Déomas\, 10 rue Mathieu Duret\, 07100 Annonay\, F
- rance
+LOCATION:MJC Château de Déomas\, 10 rue Mathieu Duret\, 07100 Annonay\, 
+ France
 CATEGORIES:Famille et nature
-DESCRIPTION:Atelier autour du vivant et de l’habitat. Distance estimée :
-  ≈34 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Atelier autour du vivant et de l’habitat. Distance estimée 
+ : ≈34 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -413,10 +414,10 @@ DTEND:20261118T160000
 SUMMARY:Visite ludique – Je t’encadre\, tu m’encadres
 LOCATION:Musée de Valence\, 4 place des Ormeaux\, 26000 Valence\, France
 CATEGORIES:Famille et nature
-DESCRIPTION:Jeu collaboratif de création de portraits\, à partir de 6 ans
- . Réservation obligatoire. Distance estimée : ≈14 km.
-URL:https://www.drome-cestmanature.com/fiches/visite-ludique-je-tencadre-tu
- -mencadres-hop-hop-hop/
+DESCRIPTION:Jeu collaboratif de création de portraits\, à partir de 6 an
+ s. Réservation obligatoire. Distance estimée : ≈14 km.
+URL:https://www.drome-cestmanature.com/fiches/visite-ludique-je-tencadre-t
+ u-mencadres-hop-hop-hop/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -424,10 +425,10 @@ UID:elles-n-en-font@evenements-alboussiere
 DTSTAMP:20261116T052309Z
 DTSTART:20261118T183000
 SUMMARY:Elles n’en font qu’à leur tête !
-LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600Va
- ls-les-Bains
-DESCRIPTION:Rendez-vous musical mercredi 18 novembre à 18h30. Tarif et con
- ditions d’accès à vérifier.
+LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600V
+ als-les-Bains
+DESCRIPTION:Rendez-vous musical mercredi 18 novembre à 18h30. Tarif et co
+ nditions d’accès à vérifier.
 URL:https://lesquinconces.com/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
@@ -437,13 +438,13 @@ UID:desaignes-film-ardeche-20261118@evenements-alboussiere
 DTSTAMP:20261116T052309Z
 DTSTART:20261118T203000
 DTEND:20261118T223000
-SUMMARY:Diffusion du film documentaire « Ardèche » en présence de l'éq
- uipe
+SUMMARY:Diffusion du film documentaire « Ardèche » en présence de l'é
+ quipe
 LOCATION:Salle des fêtes, 07570 Désaignes
 DESCRIPTION:Projection-rencontre avec l'équipe du film. Tarif plein : 6 
  €. Source : Office de tourisme du Pays de Lamastre / Écran Village.
-URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/diffusion-
- du-film-documentaire-ardeche-8027688/
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/diffusion
+ -du-film-documentaire-ardeche-8027688/
 STATUS:CONFIRMED
 CATEGORIES:Culture et loisir
 END:VEVENT
@@ -453,10 +454,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261119T093000
 SUMMARY:Randonneurs des Boutières – Saint-Prix
 LOCATION:Saint-Prix\, Ardèche
-DESCRIPTION:Randonnée jeudi 19 novembre à 9h30. Départ et caractéristiq
- ues à confirmer auprès du club.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /3/
+DESCRIPTION:Randonnée jeudi 19 novembre à 9h30. Départ et caractéristi
+ ques à confirmer auprès du club.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -466,11 +467,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261119T133000
 DTEND:20261119T163000
 SUMMARY:Les Marches du Jeudi – Le Montmiandon
-LOCATION:Parking du Moulin du Roy\, 07100 Saint-Marcel-lès-Annonay\, Franc
- e
+LOCATION:Parking du Moulin du Roy\, 07100 Saint-Marcel-lès-Annonay\, Fran
+ ce
 CATEGORIES:Sport
-DESCRIPTION:Randonnée pédestre annoncée : environ 8 km et 305 m de déni
- velé positif. Distance estimée : ≈30 km.
+DESCRIPTION:Randonnée pédestre annoncée : environ 8 km et 305 m de dén
+ ivelé positif. Distance estimée : ≈30 km.
 URL:https://www.ardechegrandair.com/agenda/sport-rando-loisirs/
 STATUS:CONFIRMED
 END:VEVENT
@@ -480,10 +481,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261119T133000
 SUMMARY:Rando Saint-Agrèvoise – Les Dents du Diable
 LOCATION:Saint-Agrève\, Ardèche
-DESCRIPTION:Sortie jeudi 19 novembre à 13h30\, environ 10 km. Participatio
- n occasionnelle annoncée à 2 € \; départ exact à confirmer.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /3/
+DESCRIPTION:Sortie jeudi 19 novembre à 13h30\, environ 10 km. Participati
+ on occasionnelle annoncée à 2 € \; départ exact à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -495,11 +496,11 @@ DTEND:20261119T210000
 SUMMARY:Projection documentaire – Bâtiment B
 LOCATION:18 rue Joséphine Baker\, 07100 Annonay\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Projection-débat annoncée dans l’agenda culturel local. Hor
- aire de fin estimé \; vérifier auprès de l’organisateur. Distance est
- imée : ≈34 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Projection-débat annoncée dans l’agenda culturel local. Ho
+ raire de fin estimé \; vérifier auprès de l’organisateur. Distance e
+ stimée : ≈34 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -510,11 +511,11 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:Festival F.R.I.G.O
 LOCATION:Annonay – lieux de programmation à confirmer\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Festival annoncé du 20 au 22 novembre dans l’agenda Ardèche
-  Grand Air \; horaires et salles détaillés à vérifier auprès de l’o
- rganisateur. Distance estimée : ≈34 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Festival annoncé du 20 au 22 novembre dans l’agenda Ardèch
+ e Grand Air \; horaires et salles détaillés à vérifier auprès de l
+ ’organisateur. Distance estimée : ≈34 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -523,13 +524,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261120T190000
 DTEND:20261120T203000
 SUMMARY:Théâtre forum – Tu fais quoi sur ton tel ?
-LOCATION:Lycée Boissy d’Anglas\, 50 avenue Jean Jaurès\, 07100 Annonay\
- , France
+LOCATION:Lycée Boissy d’Anglas\, 50 avenue Jean Jaurès\, 07100 Annonay
+ \, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Théâtre forum autour des usages du téléphone. Distance esti
- mée : ≈34 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Théâtre forum autour des usages du téléphone. Distance est
+ imée : ≈34 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -540,10 +541,10 @@ DTEND:20261120T230000
 SUMMARY:Soirée Jam Session
 LOCATION:Monteillet Café\, Le Monteillet\, 07690 Vanosc\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Scène ouverte musicale annoncée par l’agenda Ardèche Grand
-  Air. Distance estimée : ≈32 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Scène ouverte musicale annoncée par l’agenda Ardèche Gran
+ d Air. Distance estimée : ≈32 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -552,12 +553,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261120T203000
 DTEND:20261120T223000
 SUMMARY:Musique – Dafné Kritharas
-LOCATION:Espace Montgolfier\, 327 rue des Pâtureaux\, 07430 Davézieux\, F
- rance
+LOCATION:Espace Montgolfier\, 327 rue des Pâtureaux\, 07430 Davézieux\, 
+ France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Concert de chants méditerranéens\, exil et voyage. Distance e
- stimée : ≈35 km.
-URL:https://www.ardechegrandair.com/agenda/7978696_musique-dafne-kritharas/
+DESCRIPTION:Concert de chants méditerranéens\, exil et voyage. Distance 
+ estimée : ≈35 km.
+URL:https://www.ardechegrandair.com/agenda/7978696_musique-dafne-kritharas
+ /
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -568,10 +570,10 @@ DTEND:20261120T223000
 SUMMARY:Théâtre – Chérie\, je peux tout t’expliquer
 LOCATION:Salle Saint-Jacques\, rue du Couvent\, 07340 Peaugres\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Comédie de la troupe Antibiotic\, représentation au profit du
-  CCAS de Peaugres. Distance estimée : ≈36 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Comédie de la troupe Antibiotic\, représentation au profit d
+ u CCAS de Peaugres. Distance estimée : ≈36 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -581,9 +583,9 @@ DTSTART:20261121
 DTEND:20261122
 SUMMARY:Journée archéologique de la Drôme 2026
 LOCATION:Saint-Paul-Trois-Châteaux\, Drôme
-DESCRIPTION:Journée annoncée le 21 novembre 2026. Programme et horairesà
-  confirmer auprès de l’organisateur. Source : carte Patrimoine de la Dr
- ôme.
+DESCRIPTION:Journée annoncée le 21 novembre 2026. Programme et horaires
+ à confirmer auprès de l’organisateur. Source : carte Patrimoine de la
+  Drôme.
 URL:https://cartepatrimoine.ladrome.fr/evenement
 STATUS:CONFIRMED
 CATEGORIES:Autre
@@ -596,8 +598,8 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:Marché de Noël de Cheminas
 LOCATION:10 Le Village\, 07300 Cheminas\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Premier marché de Noël organisé par le restaurant l’Ardely
- s\, avec tombola. Entrée libre. Distance estimée : ≈18 km.
+DESCRIPTION:Premier marché de Noël organisé par le restaurant l’Ardel
+ ys\, avec tombola. Entrée libre. Distance estimée : ≈18 km.
 URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-de-cheminas/
 STATUS:CONFIRMED
 END:VEVENT
@@ -608,8 +610,8 @@ DTSTART:20261121T070000
 DTEND:20261121T190000
 SUMMARY:Foire au boudin
 LOCATION:Centre du village\, 07270 Saint-Barthélemy-Grozon
-DESCRIPTION:Foire locale samedi 21 novembre\, 7h–19h. Programme compléme
- ntaire à vérifier auprès de la mairie.
+DESCRIPTION:Foire locale samedi 21 novembre\, 7h–19h. Programme complém
+ entaire à vérifier auprès de la mairie.
 URL:https://www.saintbarthelemygrozon.fr/agenda/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -620,10 +622,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261121T090000
 DTEND:20261121T170000
 SUMMARY:Marché de Noël de La Chapelle-en-Vercors
-LOCATION:Places Albert-Pietri\, du Marché et du Champ-de-Mars\, 26420 La C
- hapelle-en-Vercors
-DESCRIPTION:Plus de 50 exposants\, balade à âne\, chanteuse locale et arr
- ivée du Père Noël vers 15h30. Gratuit. Environ 55 km à vol d’oiseau.
+LOCATION:Places Albert-Pietri\, du Marché et du Champ-de-Mars\, 26420 La 
+ Chapelle-en-Vercors
+DESCRIPTION:Plus de 50 exposants\, balade à âne\, chanteuse locale et ar
+ rivée du Père Noël vers 15h30. Gratuit. Environ 55 km à vol d’oisea
+ u.
 URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-9/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -636,8 +639,8 @@ DTEND:20261122T190000
 SUMMARY:Marché de Noël des Blâches
 LOCATION:Salle et parking des Blâches\, 26700 Pierrelatte\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Une cinquantaine d’exposants\, créations artisanales et prod
- uits gourmands. Entrée libre. Distance estimée : ≈70 km.
+DESCRIPTION:Une cinquantaine d’exposants\, créations artisanales et pro
+ duits gourmands. Entrée libre. Distance estimée : ≈70 km.
 URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-des-blaches/
 STATUS:CONFIRMED
 END:VEVENT
@@ -648,10 +651,10 @@ DTSTART:20261121T090000
 DTEND:20261121T120000
 SUMMARY:Stage de danse avec Clémence
 LOCATION:Saint-Agrève\, salle indiquée par l’organisateur
-DESCRIPTION:Stage samedi 21 novembre\, 9h–12h. Tarif annoncé : 15 € ad
- ulte / 10 € enfant.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /3/
+DESCRIPTION:Stage samedi 21 novembre\, 9h–12h. Tarif annoncé : 15 € a
+ dulte / 10 € enfant.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/3/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
@@ -661,10 +664,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261121T090000
 SUMMARY:Tournoi amical de tennis de table
 LOCATION:Saint-Agrève\, salle communale indiquée par l’organisateur
-DESCRIPTION:Tournoi samedi 21 novembre à partir de 9h. Tarif et inscriptio
- n à vérifier.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /3/
+DESCRIPTION:Tournoi samedi 21 novembre à partir de 9h. Tarif et inscripti
+ on à vérifier.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -676,12 +679,12 @@ DTEND:20261121T200000
 SUMMARY:Le réveil des mares ! – rencontre scientifique et culturelle
 LOCATION:Salle polyvalente\, 35 boulevard du Ballon\, 26150 Die\, France
 CATEGORIES:Famille et nature
-DESCRIPTION:Conférences\, balades commentées\, exposition et spectacle au
- tour des zones humides et du sonneur à ventre jaune. Inscription obligato
- ire\, places limitées. Distance estimée : ≈85 km.
-URL:https://www.drome-cestmanature.com/sit/le-reveil-des-mares-les-zones-hu
- mides-et-le-sonneur-a-ventre-jaune-rencontre-scientifique-et-culturelle-du
- -parc/
+DESCRIPTION:Conférences\, balades commentées\, exposition et spectacle a
+ utour des zones humides et du sonneur à ventre jaune. Inscription obliga
+ toire\, places limitées. Distance estimée : ≈85 km.
+URL:https://www.drome-cestmanature.com/sit/le-reveil-des-mares-les-zones-h
+ umides-et-le-sonneur-a-ventre-jaune-rencontre-scientifique-et-culturelle-
+ du-parc/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -690,14 +693,14 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261121T140000
 DTEND:20261122T180000
 SUMMARY:Marché de Noël à la ferme Juli’Anesse
-LOCATION:Juli’Anesse\, 1235 chemin des Ravets\, 26300 Rochefort-Samson\, 
- France
+LOCATION:Juli’Anesse\, 1235 chemin des Ravets\, 26300 Rochefort-Samson\,
+  France
 CATEGORIES:Vie locale
-DESCRIPTION:Marché de Noël avec artisans\, producteurs\, Père Noël et m
- aquillage. Samedi 14h–18h\, dimanche 10h–18h. Distance estimée : ≈4
- 0 km.
-URL:https://www.drome-cestmanature.com/sit/marche-de-noel-a-la-ferme-julian
- esse/
+DESCRIPTION:Marché de Noël avec artisans\, producteurs\, Père Noël et 
+ maquillage. Samedi 14h–18h\, dimanche 10h–18h. Distance estimée : 
+ ≈40 km.
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-a-la-ferme-julia
+ nesse/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -706,10 +709,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261121T150000
 DTEND:20261121T233000
 SUMMARY:Requiem Rebelle – festival de musique
-LOCATION:Temple protestant\, église et salle du Lac\, 07240 Vernoux-en-Viv
- arais
-DESCRIPTION:Festival musical samedi 21 novembre à partir de 15h. Participa
- tion libre annoncée \; plusieurs lieux à Vernoux.
+LOCATION:Temple protestant\, église et salle du Lac\, 07240 Vernoux-en-Vi
+ varais
+DESCRIPTION:Festival musical samedi 21 novembre à partir de 15h. Particip
+ ation libre annoncée \; plusieurs lieux à Vernoux.
 URL:https://www.coeur-ardeche.fr/agenda/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
@@ -722,10 +725,10 @@ DTEND:20261121T203000
 SUMMARY:Concert – Les Muguets de Quintenas
 LOCATION:Église\, 07290 Quintenas\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Concert vocal annoncé dans l’agenda Ardèche Grand Air. Dist
- ance estimée : ≈25 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Concert vocal annoncé dans l’agenda Ardèche Grand Air. Dis
+ tance estimée : ≈25 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -735,8 +738,8 @@ DTSTART:20261121T183000
 DTEND:20261121T220000
 SUMMARY:Soirée « Magie de l’optimisme »
 LOCATION:Salle des fêtes\, 07570 Désaignes
-DESCRIPTION:Accueil 18h30\, spectacle annoncé à 20h\, repas ensuite. Repa
- s annoncé à 14 € \; réservation demandée avant le 16 novembre.
+DESCRIPTION:Accueil 18h30\, spectacle annoncé à 20h\, repas ensuite. Rep
+ as annoncé à 14 € \; réservation demandée avant le 16 novembre.
 URL:https://www.pays-lamastre-tourisme.com/agenda/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
@@ -748,10 +751,10 @@ DTSTART:20261121T200000
 DTEND:20261121T213000
 SUMMARY:Concert « Colombie » – tango colombien
 LOCATION:Château de Grozon, 70 rue du Château, Saint-Barthélemy-Grozon
-DESCRIPTION:Carmen Hernandez et Rudi Flores. Entrée libre. Source : Office
-  de tourisme du Pays de Lamastre.
-URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/concert-co
- lombie-8056351/
+DESCRIPTION:Carmen Hernandez et Rudi Flores. Entrée libre. Source : Offic
+ e de tourisme du Pays de Lamastre.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/concert-c
+ olombie-8056351/
 STATUS:CONFIRMED
 CATEGORIES:Culture et loisir
 END:VEVENT
@@ -763,10 +766,10 @@ DTEND:20261121T223000
 SUMMARY:Théâtre – Chérie\, je peux tout t’expliquer
 LOCATION:Salle Saint-Jacques\, rue du Couvent\, 07340 Peaugres\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Deuxième représentation de la comédie de la troupe Antibioti
- c\, au profit du CCAS de Peaugres. Distance estimée : ≈36 km.
-URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-sem
- aine/
+DESCRIPTION:Deuxième représentation de la comédie de la troupe Antibiot
+ ic\, au profit du CCAS de Peaugres. Distance estimée : ≈36 km.
+URL:https://www.ardechegrandair.com/professionnels-ardeche/agenda-de-la-se
+ maine/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -777,11 +780,11 @@ DTEND:20261122T170000
 SUMMARY:Marché de Noël de Clérieux
 LOCATION:Centre du village, 26260 Clérieux, France
 CATEGORIES:Vie locale
-DESCRIPTION:Marché de Noël annoncé le dimanche 22 novembre 2026 de 9h à
-  17h. Lieu exact à confirmer auprès de la mairie. Entrée libre. Distanc
- e estimée : ≈25 km à vol d’oiseau depuis Alboussière.
-URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-
- drome/
+DESCRIPTION:Marché de Noël annoncé le dimanche 22 novembre 2026 de 9h 
+ à 17h. Lieu exact à confirmer auprès de la mairie. Entrée libre. Dist
+ ance estimée : ≈25 km à vol d’oiseau depuis Alboussière.
+URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la
+ -drome/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -791,10 +794,11 @@ DTSTART:20261122T093000
 DTEND:20261122T173000
 SUMMARY:Marché de Noël de Mercurol-Veaunes
 LOCATION:Espace Eden\, 940 route des Alpes\, 26600 Mercurol-Veaunes
-DESCRIPTION:Plus de 50 exposants\, photo avec le Père Noël\, petit train\
- , manège et restauration. Accès libre. Environ 17 km à vol d’oiseau.
-URL:https://www.drome-cestmanature.com/sit/marche-de-noel-de-mercurol-veaun
- es/
+DESCRIPTION:Plus de 50 exposants\, photo avec le Père Noël\, petit train
+ \, manège et restauration. Accès libre. Environ 17 km à vol d’oiseau
+ .
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-de-mercurol-veau
+ nes/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
@@ -805,8 +809,8 @@ DTSTART:20261122T100000
 DTEND:20261122T170000
 SUMMARY:Marché de Noël de Chatuzange-le-Goubet
 LOCATION:Papelissier\, 26300 Chatuzange-le-Goubet
-DESCRIPTION:Artisans\, gourmandises\, animations\, buvette et restauration.
-  Accès libre. Environ 30 km à vol d’oiseau.
+DESCRIPTION:Artisans\, gourmandises\, animations\, buvette et restauration
+ . Accès libre. Environ 30 km à vol d’oiseau.
 URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-22/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -817,8 +821,8 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261122T123000
 SUMMARY:Randonnée pédestre Saint-Barthélemy-le-Meil – Les terrasses
 LOCATION:Vernoux-en-Vivarais\, départ communiqué par l’association
-DESCRIPTION:Dimanche 22 novembre\, départ 12h30. Parcours d’environ 6 km
-  / 240 m D+. Première participation annoncée gratuite.
+DESCRIPTION:Dimanche 22 novembre\, départ 12h30. Parcours d’environ 6 k
+ m / 240 m D+. Première participation annoncée gratuite.
 URL:https://www.coeur-ardeche.fr/agenda/
 CATEGORIES:Sport
 STATUS:CONFIRMED
@@ -842,8 +846,8 @@ DTSTART:20261122T150000
 DTEND:20261122T170000
 SUMMARY:Projection « Padgels 3 – Exode »
 LOCATION:Salle de Matras\, 07270 Saint-Barthélemy-Grozon
-DESCRIPTION:Projection dimanche 22 novembre de 15h à 17h. Tarif annoncé: 
- 6 €.
+DESCRIPTION:Projection dimanche 22 novembre de 15h à 17h. Tarif annoncé:
+  6 €.
 URL:https://www.saintbarthelemygrozon.fr/agenda/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
@@ -854,11 +858,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261124T203000
 DTEND:20261124T223000
 SUMMARY:Théâtre – Peu importe
-LOCATION:Théâtre des Cordeliers\, place des Cordeliers\, 07100 Annonay\, 
- France
+LOCATION:Théâtre des Cordeliers\, place des Cordeliers\, 07100 Annonay\,
+  France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Comédie dramatique de Marius von Mayenburg\, à partir de 14 a
- ns. Distance estimée : ≈34 km.
+DESCRIPTION:Comédie dramatique de Marius von Mayenburg\, à partir de 14 
+ ans. Distance estimée : ≈34 km.
 URL:https://www.ardechegrandair.com/agenda/7978726_theatre-peu-importe/
 STATUS:CONFIRMED
 END:VEVENT
@@ -870,10 +874,10 @@ DTEND:20261125T113000
 SUMMARY:Bébé au musée – Nature peinture
 LOCATION:Musée de Valence\, 4 place des Ormeaux\, 26000 Valence\, France
 CATEGORIES:Famille et nature
-DESCRIPTION:Atelier sensoriel autour de la nature pour les tout-petits\, 10
- h30. Réservation obligatoire. Distance estimée : ≈14 km.
-URL:https://www.drome-cestmanature.com/fiches/animation-bebe-au-musee-natur
- e-peinture-hop-hop-hop/
+DESCRIPTION:Atelier sensoriel autour de la nature pour les tout-petits\, 1
+ 0h30. Réservation obligatoire. Distance estimée : ≈14 km.
+URL:https://www.drome-cestmanature.com/fiches/animation-bebe-au-musee-natu
+ re-peinture-hop-hop-hop/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -882,10 +886,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261126T133000
 SUMMARY:Rando Saint-Agrèvoise – Boussoulet
 LOCATION:Boussoulet\, Ardèche
-DESCRIPTION:Randonnée jeudi 26 novembre à 13h30\, environ 11 km / 340 mD+
- . Participation occasionnelle annoncée à 2 €.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /3/
+DESCRIPTION:Randonnée jeudi 26 novembre à 13h30\, environ 11 km / 340 mD
+ +. Participation occasionnelle annoncée à 2 €.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -895,8 +899,8 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261126T200000
 SUMMARY:Joga Bonito – spectacle hip-hop et freestyle
 LOCATION:Théâtre de Privas\, place André-Malraux\, 07000 Privas
-DESCRIPTION:Spectacle jeudi 26 novembre à 20h. Tarifs annoncés environ 13
- –20 € selon catégorie \; vérifier la billetterie.
+DESCRIPTION:Spectacle jeudi 26 novembre à 20h. Tarifs annoncés environ 1
+ 3–20 € selon catégorie \; vérifier la billetterie.
 URL:https://www.theatredeprivas.com/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
@@ -908,8 +912,8 @@ DTSTART:20261127
 DTEND:20270111
 SUMMARY:Fééries d’Hiver – Illuminations de Noël
 LOCATION:Centre-ville\, 26000 Valence
-DESCRIPTION:Du 27 novembre au 10 janvier. Accès libre \; allumage à la to
- mbée de la nuit.
+DESCRIPTION:Du 27 novembre au 10 janvier. Accès libre \; allumage à la t
+ ombée de la nuit.
 URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-illuminations/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
@@ -920,10 +924,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261127T080000
 DTEND:20261128T180000
 SUMMARY:Stage de vannerie
-LOCATION:Salle des associations\, ancienne école de Grozon\, 07270 Saint-B
- arthélemy-Grozon
-DESCRIPTION:Stage les 27 et 28 novembre\, 8h–18h. Tarif publié : 75 € 
- par journée. Inscription auprès de l’organisateur.
+LOCATION:Salle des associations\, ancienne école de Grozon\, 07270 Saint-
+ Barthélemy-Grozon
+DESCRIPTION:Stage les 27 et 28 novembre\, 8h–18h. Tarif publié : 75 €
+  par journée. Inscription auprès de l’organisateur.
 URL:https://www.saintbarthelemygrozon.fr/agenda/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
@@ -935,8 +939,8 @@ DTSTART:20261127T180000
 DTEND:20261228T000000
 SUMMARY:Fééries d’Hiver – Village de Noël
 LOCATION:Boulevards Bancel et Maurice-Clerc\, 26000 Valence
-DESCRIPTION:Village de Noël du 27 novembre au 27 décembre. Marché et ani
- mations en centre-ville \; horaires selon les journées.
+DESCRIPTION:Village de Noël du 27 novembre au 27 décembre. Marché et an
+ imations en centre-ville \; horaires selon les journées.
 URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-village-de-noel/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -948,10 +952,10 @@ DTSTART:20261127T183000
 DTEND:20261220T203000
 SUMMARY:Fééries d’Hiver – Concerts Soft Rock
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
-DESCRIPTION:Sessions annoncées les 27 novembre et 19 décembre\, 18h30–2
- 0h30. Accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-soft-rock
- /
+DESCRIPTION:Sessions annoncées les 27 novembre et 19 décembre\, 18h30–
+ 20h30. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-soft-roc
+ k/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
@@ -961,13 +965,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261128
 DTEND:20270201
 SUMMARY:Exposition « Traditions des fêtes de fin d’année »
-LOCATION:Patrimoine du Pays de l’Herbasse\, 27 rue Pasteur\, 26260 Saint-
- Donat-sur-l’Herbasse
-DESCRIPTION:Exposition sur les coutumes familiales de Noël et du Nouvel An
- . Du 28 novembre au 31 janvier\, week-ends 10h-12h. Gratuit. Environ 22 km
-  à vol d’oiseau.
-URL:https://www.drome-cestmanature.com/fiches/exposition-traditions-des-fet
- es-de-fin-dannee-patrimoine-herbasse/
+LOCATION:Patrimoine du Pays de l’Herbasse\, 27 rue Pasteur\, 26260 Saint
+ -Donat-sur-l’Herbasse
+DESCRIPTION:Exposition sur les coutumes familiales de Noël et du Nouvel A
+ n. Du 28 novembre au 31 janvier\, week-ends 10h-12h. Gratuit. Environ 22 
+ km à vol d’oiseau.
+URL:https://www.drome-cestmanature.com/fiches/exposition-traditions-des-fe
+ tes-de-fin-dannee-patrimoine-herbasse/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
@@ -978,11 +982,11 @@ DTSTART:20261128
 DTEND:20261224
 SUMMARY:Fééries d’Hiver – Ateliers créatifs
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
-DESCRIPTION:Sessions annoncées les 28 novembre\, 5\, 13\, 19 et 23 décemb
- re\, principalement l’après-midi. Vérifier les horaires précis de cha
- que date.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-ateliers-creatifs
- /
+DESCRIPTION:Sessions annoncées les 28 novembre\, 5\, 13\, 19 et 23 décem
+ bre\, principalement l’après-midi. Vérifier les horaires précis de c
+ haque date.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-ateliers-creatif
+ s/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -992,13 +996,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261128
 DTEND:20261130
 SUMMARY:Marché de Noël de Saint-Donat-sur-l’Herbasse
-LOCATION:Avenues Danthony et Georges-Bert\, collégiale\, 26260 Saint-Donat
- -sur-l’Herbasse
-DESCRIPTION:Artisans\, créateurs\, producteurs\, calèche\, Père et Mère
-  Noël et spectacles. Sam. 9h30-19h\, dim. 10h-17h. Gratuit. Environ 22 km
-  à vol d’oiseau.
-URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-saint-donat-su
- r-lherbasse-2/
+LOCATION:Avenues Danthony et Georges-Bert\, collégiale\, 26260 Saint-Dona
+ t-sur-l’Herbasse
+DESCRIPTION:Artisans\, créateurs\, producteurs\, calèche\, Père et Mèr
+ e Noël et spectacles. Sam. 9h30-19h\, dim. 10h-17h. Gratuit. Environ 22 
+ km à vol d’oiseau.
+URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-saint-donat-s
+ ur-lherbasse-2/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
@@ -1009,9 +1013,9 @@ DTSTART:20261128
 DTEND:20261130
 SUMMARY:Marché de Noël médiéval de Taulignan
 LOCATION:Centre historique\, 26770 Taulignan
-DESCRIPTION:Marché médiéval avec environ 120 artisans\, animations gratu
- ites\, spectacle de feu et feu d’artifice. Horaires annoncés autour de 
- 10h-21h. Environ 57 km à vol d’oiseau.
+DESCRIPTION:Marché médiéval avec environ 120 artisans\, animations grat
+ uites\, spectacle de feu et feu d’artifice. Horaires annoncés autour d
+ e 10h-21h. Environ 57 km à vol d’oiseau.
 URL:https://www.drome-cestmanature.com/sit/marche-de-noel-medieval/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -1022,15 +1026,15 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261128T080000
 DTEND:20261128T170000
 SUMMARY:BMX – 6e Trophée René Vicat\, Mours / Romans
-LOCATION:Piste de BMX de Mours\, place de l’Europe\, 26540 Mours-Saint-Eu
- sèbe\, France
+LOCATION:Piste de BMX de Mours\, place de l’Europe\, 26540 Mours-Saint-E
+ usèbe\, France
 CATEGORIES:Sport
-DESCRIPTION:Compétition BMX organisée par la municipalité de Mours-Saint
- -Eusèbe et BMX Mours Romans. Inscriptions 20 pouces et cruiser : 13 €. 
- Accès spectateurs non précisé : confirmer auprès de l’organisateur. 
- Distance estimée : ≈40 km.
-URL:https://www.helloasso.com/associations/bc-portois/evenements/trophee-re
- ne-vicat-bmx-mours-romans-1
+DESCRIPTION:Compétition BMX organisée par la municipalité de Mours-Sain
+ t-Eusèbe et BMX Mours Romans. Inscriptions 20 pouces et cruiser : 13 €
+ . Accès spectateurs non précisé : confirmer auprès de l’organisateu
+ r. Distance estimée : ≈40 km.
+URL:https://www.helloasso.com/associations/bc-portois/evenements/trophee-r
+ ene-vicat-bmx-mours-romans-1
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1039,11 +1043,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261128T080000
 SUMMARY:Randonnée au profit du Téléthon – Le Cheylard
 LOCATION:Le Cheylard\, départ communiqué par le club
-DESCRIPTION:Randonnée solidaire samedi 28 novembre à partir de 8h. Plusie
- urs parcours annoncés \; vérifier distances et tarifs auprès de l’org
- anisateur.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Randonnée solidaire samedi 28 novembre à partir de 8h. Plusi
+ eurs parcours annoncés \; vérifier distances et tarifs auprès de l’o
+ rganisateur.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -1055,11 +1059,11 @@ DTEND:20261128T183000
 SUMMARY:Marché de Noël au Domaine Pradelle – Chanos-Curson
 LOCATION:Domaine Pradelle\, 5 rue du Riou\, 26600 Chanos-Curson\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Artisans et créateurs locaux\, dégustation de vins et huître
- s. Dégustation d’huîtres 10h–13h30 \; 12 huîtres 12 €. Marché 10
- h–18h30\, accès libre. Distance estimée : ≈25 km.
-URL:https://www.drome-cestmanature.com/sit/marche-de-noel-au-domaine-pradel
- le-chanos-curson/
+DESCRIPTION:Artisans et créateurs locaux\, dégustation de vins et huîtr
+ es. Dégustation d’huîtres 10h–13h30 \; 12 huîtres 12 €. Marché 
+ 10h–18h30\, accès libre. Distance estimée : ≈25 km.
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-au-domaine-prade
+ lle-chanos-curson/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1068,10 +1072,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261128T110000
 DTEND:20261128T170000
 SUMMARY:Marché de Noël gourmand des Oliviers
-LOCATION:Les Oliviers Hôtel Spa\, rue Louis-d’Arbalestier\, 26270 Loriol
- -sur-Drôme
-DESCRIPTION:Marché gourmand et familial\, ateliers\, dégustations et anim
- ations. Accès gratuit. Environ 25 km à vol d’oiseau.
+LOCATION:Les Oliviers Hôtel Spa\, rue Louis-d’Arbalestier\, 26270 Lorio
+ l-sur-Drôme
+DESCRIPTION:Marché gourmand et familial\, ateliers\, dégustations et ani
+ mations. Accès gratuit. Environ 25 km à vol d’oiseau.
 URL:https://www.drome-cestmanature.com/sit/le-marche-de-noel/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -1083,9 +1087,9 @@ DTSTART:20261128T140000
 DTEND:20261128T210000
 SUMMARY:Marché de Noël de Saint-Laurent-en-Royans
 LOCATION:26190 Saint-Laurent-en-Royans
-DESCRIPTION:Artisans locaux\, animations\, arrivée du Père Noël vers 16h
- \, buvette et restauration. Entrée libre. Environ 48 km à vol d’oiseau
- .
+DESCRIPTION:Artisans locaux\, animations\, arrivée du Père Noël vers 16
+ h\, buvette et restauration. Entrée libre. Environ 48 km à vol d’oise
+ au.
 URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-14/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -1098,8 +1102,8 @@ DTEND:20261128T163000
 SUMMARY:Fééries d’Hiver – Spectacle du clown Patto
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
 DESCRIPTION:Samedi 28 novembre\, 14h30–16h30. Accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-spectacle-clown-p
- atto/
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-spectacle-clown-
+ patto/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -1111,8 +1115,8 @@ DTEND:20261128T203000
 SUMMARY:Fééries d’Hiver – Concert DJ La Relève
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
 DESCRIPTION:Samedi 28 novembre\, 18h30–20h30. Accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-dj-la-rel
- eve/
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-dj-la-re
+ leve/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
@@ -1123,10 +1127,10 @@ DTSTART:20261129
 DTEND:20261130
 SUMMARY:Marché de Noël
 LOCATION:Gymnase\, Saint-Félicien\, Ardèche
-DESCRIPTION:Dimanche 29 novembre 2026. Marché organisé par le comité des
-  fêtes. Horaires et tarifs non communiqués. Source : Ardèche Actu.
-URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-saint-f
- elicien-7971715/
+DESCRIPTION:Dimanche 29 novembre 2026. Marché organisé par le comité de
+ s fêtes. Horaires et tarifs non communiqués. Source : Ardèche Actu.
+URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-saint-
+ felicien-7971715/
 STATUS:CONFIRMED
 CATEGORIES:Autre
 END:VEVENT
@@ -1135,14 +1139,14 @@ UID:marche-saint-jean-muzols-20261129@evenements-alboussiere
 DTSTAMP:20261116T052309Z
 DTSTART:20261129T100000
 SUMMARY:Marché de Noël artisanal – Saint-Jean-de-Muzols
-LOCATION:Espace Noël Passas\, place des Droits de l’Homme\, 07300 Saint-
- Jean-de-Muzols\, France
+LOCATION:Espace Noël Passas\, place des Droits de l’Homme\, 07300 Saint
+ -Jean-de-Muzols\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Marché artisanal\, exposants\, buvette\, vin chaud\, crêpes e
- t Père Noël. Ouverture à partir de 10h \; heure de fin non publiée. Ac
- cès libre. Distance estimée : ≈15 km.
-URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-artisanal-sain
- t-jean-de-muzols/
+DESCRIPTION:Marché artisanal\, exposants\, buvette\, vin chaud\, crêpes 
+ et Père Noël. Ouverture à partir de 10h \; heure de fin non publiée. 
+ Accès libre. Distance estimée : ≈15 km.
+URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-artisanal-sai
+ nt-jean-de-muzols/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1165,8 +1169,8 @@ DTEND:20261202T173000
 SUMMARY:Fééries d’Hiver – Ferme pédagogique
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
 DESCRIPTION:Mercredi 2 décembre\, 14h–17h30. Accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-la-ferme-pedagogi
- que/
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-la-ferme-pedagog
+ ique/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -1175,8 +1179,8 @@ UID:enfant-siecle@evenements-alboussiere
 DTSTAMP:20261116T052309Z
 DTSTART:20261202T203000
 SUMMARY:Enfant du siècle – spectacle
-LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600Va
- ls-les-Bains
+LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600V
+ als-les-Bains
 DESCRIPTION:Spectacle mercredi 2 décembre à 20h30. Tarif et disponibilit
  é à vérifier auprès de la billetterie.
 URL:https://lesquinconces.com/
@@ -1189,10 +1193,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261203T093000
 SUMMARY:Randonneurs des Boutières – Vallée des Eygas
 LOCATION:Vallée des Eygas\, Ardèche
-DESCRIPTION:Sortie pédestre jeudi 3 décembre à 9h30. Départ\, distance 
- et dénivelé à confirmer.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Sortie pédestre jeudi 3 décembre à 9h30. Départ\, distance
+  et dénivelé à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -1202,11 +1206,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261203T133000
 DTEND:20261203T163000
 SUMMARY:Les Marches du Jeudi – Limony et Charnas
-LOCATION:Parking du Moulin du Roy\, 07100 Saint-Marcel-lès-Annonay\, Franc
- e
+LOCATION:Parking du Moulin du Roy\, 07100 Saint-Marcel-lès-Annonay\, Fran
+ ce
 CATEGORIES:Sport
-DESCRIPTION:Randonnée pédestre annoncée dans l’agenda sportif local \;
-  détails du parcours à confirmer. Distance estimée : ≈30 km.
+DESCRIPTION:Randonnée pédestre annoncée dans l’agenda sportif local \
+ ; détails du parcours à confirmer. Distance estimée : ≈30 km.
 URL:https://www.ardechegrandair.com/agenda/sport-rando-loisirs/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1216,10 +1220,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261203T133000
 SUMMARY:Rando Saint-Agrèvoise – circuit de Saint-Agrève
 LOCATION:Saint-Agrève\, Ardèche
-DESCRIPTION:Randonnée jeudi 3 décembre à 13h30\, environ 10 km / 350 mD+
- . Participation occasionnelle annoncée à 2 €.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Randonnée jeudi 3 décembre à 13h30\, environ 10 km / 350 mD
+ +. Participation occasionnelle annoncée à 2 €.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -1229,10 +1233,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261203T133000
 SUMMARY:Rando Saint-Agrèvoise – Saint-Cierge-sous-le-Cheylard
 LOCATION:Saint-Cierge-sous-le-Cheylard\, Ardèche
-DESCRIPTION:Randonnée jeudi 3 décembre à 13h30\, environ 10 km / 500 mD+
- . Participation occasionnelle annoncée à 2 €.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Randonnée jeudi 3 décembre à 13h30\, environ 10 km / 500 mD
+ +. Participation occasionnelle annoncée à 2 €.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -1243,12 +1247,12 @@ DTSTART:20261204
 DTEND:20261207
 SUMMARY:Le Père Noël est à MuséAl
 LOCATION:MuséAl\, 99 route de Viviers\, 07400 Alba-la-Romaine
-DESCRIPTION:Rencontre avec le Père Noël et la Mère Noël\, photo souveni
- r et entrée gratuite au musée du 4 au 6 décembre\, 10h-12h30 et 13h30-1
- 6h30. Visite guidée gratuite le 6 décembre à 15h. Environ 45 km à vol 
- d’oiseau.
-URL:https://www.sud-ardeche-tourisme.com/se-divertir/animations-et-festivit
- es/8054322_le-pere-noel-est-a-museal/
+DESCRIPTION:Rencontre avec le Père Noël et la Mère Noël\, photo souven
+ ir et entrée gratuite au musée du 4 au 6 décembre\, 10h-12h30 et 13h30
+ -16h30. Visite guidée gratuite le 6 décembre à 15h. Environ 45 km à v
+ ol d’oiseau.
+URL:https://www.sud-ardeche-tourisme.com/se-divertir/animations-et-festivi
+ tes/8054322_le-pere-noel-est-a-museal/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -1259,9 +1263,9 @@ DTSTART:20261204
 DTEND:20261207
 SUMMARY:Marché aux vins de Cornas
 LOCATION:Cornas\, Ardèche
-DESCRIPTION:Événement annoncé du 4 au 6 décembre 2026. Horaires\, tarif
- s et programme détaillé à vérifier auprès de l’organisateur. Source
-  : Ardèche Guide.
+DESCRIPTION:Événement annoncé du 4 au 6 décembre 2026. Horaires\, tari
+ fs et programme détaillé à vérifier auprès de l’organisateur. Sour
+ ce : Ardèche Guide.
 URL:https://www.ardeche-guide.com/agenda/agenda-top-evenement/
 STATUS:CONFIRMED
 CATEGORIES:Autre
@@ -1274,8 +1278,9 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Noël à Pierrelatte
 LOCATION:Divers lieux du centre-ville\, 26700 Pierrelatte\, France
 CATEGORIES:Famille et nature
-DESCRIPTION:Trois jours de festivités de Noël en centre-ville\, du vendre
- di 4 au dimanche 6 décembre. Accès libre. Distance estimée : ≈70 km.
+DESCRIPTION:Trois jours de festivités de Noël en centre-ville\, du vendr
+ edi 4 au dimanche 6 décembre. Accès libre. Distance estimée : ≈70 km
+ .
 URL:https://www.drome-cestmanature.com/fiches/noel-a-pierrelatte/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1285,12 +1290,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261204
 DTEND:20261207
 SUMMARY:Saint-Péray\, un week-end scintillant
-LOCATION:CEP du Prieuré\, place Louis-Alexandre-Faure\, 07130 Saint-Péray
-DESCRIPTION:Marché de Noël et animations : ven. 17h-21h\, sam. 10h30-18h3
- 0\, dim. 10h-17h30 \; spectacle et feu d’artifice. Accès libre. Environ
-  8 km à vol d’oiseau.
-URL:https://www.ardeche-guide.com/fete-manifestation/saint-peray-un-week-en
- d-scintillant-399459/
+LOCATION:CEP du Prieuré\, place Louis-Alexandre-Faure\, 07130 Saint-Péra
+ y
+DESCRIPTION:Marché de Noël et animations : ven. 17h-21h\, sam. 10h30-18h
+ 30\, dim. 10h-17h30 \; spectacle et feu d’artifice. Accès libre. Envir
+ on 8 km à vol d’oiseau.
+URL:https://www.ardeche-guide.com/fete-manifestation/saint-peray-un-week-e
+ nd-scintillant-399459/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
@@ -1302,10 +1308,10 @@ DTEND:20261206T183000
 SUMMARY:Visite du musée Yvon Guéret
 LOCATION:Musée Yvon Guéret\, 26700 Pierrelatte\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Visite proposée du 4 au 6 décembre\, 10h–18h30. Tarif et mo
- dalités à vérifier auprès du musée. Distance estimée : ≈70 km.
-URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-
- drome/
+DESCRIPTION:Visite proposée du 4 au 6 décembre\, 10h–18h30. Tarif et m
+ odalités à vérifier auprès du musée. Distance estimée : ≈70 km.
+URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la
+ -drome/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1314,14 +1320,14 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261204T100000
 DTEND:20261206T183000
 SUMMARY:Visite du village provençal Aimé et Simone Brun
-LOCATION:Village provençal Aimé et Simone Brun\, 26700 Pierrelatte\, Fran
- ce
+LOCATION:Village provençal Aimé et Simone Brun\, 26700 Pierrelatte\, Fra
+ nce
 CATEGORIES:Culture et loisir
-DESCRIPTION:Visite proposée du 4 au 6 décembre\, 10h–18h30. Tarif et mo
- dalités à vérifier auprès de l’organisateur. Distance estimée : ≈
- 70 km.
-URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-
- drome/
+DESCRIPTION:Visite proposée du 4 au 6 décembre\, 10h–18h30. Tarif et m
+ odalités à vérifier auprès de l’organisateur. Distance estimée : 
+ ≈70 km.
+URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la
+ -drome/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1332,9 +1338,10 @@ DTEND:20261204T230000
 SUMMARY:Marché de Noël – Beaumont-Monteux
 LOCATION:Place de la Mairie\, 26600 Beaumont-Monteux\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Marché en musique avec chants de Noël interprétés par les e
- nfants des écoles. Accès libre. Distance estimée : ≈20 km.
-URL:https://www.drome-cestmanature.com/sit/marche-de-noel-beaumont-monteux/
+DESCRIPTION:Marché en musique avec chants de Noël interprétés par les 
+ enfants des écoles. Accès libre. Distance estimée : ≈20 km.
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-beaumont-monteux
+ /
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1343,8 +1350,8 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261204T173000
 DTEND:20261206T180000
 SUMMARY:Crèche vivante à l’église Saint-Jean-Baptiste
-LOCATION:Église Saint-Jean-Baptiste\, place de l’Église\, 26700 Pierrel
- atte\, France
+LOCATION:Église Saint-Jean-Baptiste\, place de l’Église\, 26700 Pierre
+ latte\, France
 CATEGORIES:Famille et nature
 DESCRIPTION:Vendredi 4 et samedi 5 décembre 17h30–19h30 \; dimanche 6 d
  écembre 15h–18h. Gratuit. Distance estimée : ≈70 km.
@@ -1359,8 +1366,8 @@ DTEND:20261204T193000
 SUMMARY:Les facteurs de Noël
 LOCATION:Centre-ville\, 26700 Pierrelatte\, France
 CATEGORIES:Famille et nature
-DESCRIPTION:Balade circassienne et musicale\, deux déambulations à 17h30 
- et 19h. Gratuit. Distance estimée : ≈70 km.
+DESCRIPTION:Balade circassienne et musicale\, deux déambulations à 17h30
+  et 19h. Gratuit. Distance estimée : ≈70 km.
 URL:https://www.drome-cestmanature.com/fiches/les-facteurs-de-noel/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1372,10 +1379,10 @@ DTEND:20261204T210000
 SUMMARY:Marché de Noël de Saint-Barthélemy-le-Plain
 LOCATION:Centre du village\, 07300 Saint-Barthélemy-le-Plain\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Marché de Noël\, chants des enfants à 19h30 et feu d’artif
- ice à 20h. Accès libre. Distance estimée : ≈20 km.
-URL:https://www.drome-cestmanature.com/sit/marche-de-noel-saint-barthelemy-
- le-plain/
+DESCRIPTION:Marché de Noël\, chants des enfants à 19h30 et feu d’arti
+ fice à 20h. Accès libre. Distance estimée : ≈20 km.
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-saint-barthelemy
+ -le-plain/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1386,9 +1393,9 @@ DTEND:20261204T200000
 SUMMARY:Randonnée nocturne de Vinzieux
 LOCATION:Nouvelle mairie\, 07340 Vinzieux\, France
 CATEGORIES:Sport
-DESCRIPTION:Marche nocturne d’environ 9 km. Prévoir lampe et équipement
-  adapté \; participation minimale annoncée de 5 €. Distance estimée :
-  ≈38 km.
+DESCRIPTION:Marche nocturne d’environ 9 km. Prévoir lampe et équipemen
+ t adapté \; participation minimale annoncée de 5 €. Distance estimée
+  : ≈38 km.
 URL:https://www.ardechegrandair.com/agenda/sport-rando-loisirs/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1400,10 +1407,10 @@ DTEND:20261204T193000
 SUMMARY:Visite commentée – Pierrelatte au crépuscule
 LOCATION:Centre-ville\, 26700 Pierrelatte\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Visite guidée du centre-ville\, 18h–19h30. Réservation reco
- mmandée. Distance estimée : ≈70 km.
-URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la-
- drome/
+DESCRIPTION:Visite guidée du centre-ville\, 18h–19h30. Réservation rec
+ ommandée. Distance estimée : ≈70 km.
+URL:https://www.drome-cestmanature.com/tous-les-evenements-de-noel-dans-la
+ -drome/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1414,8 +1421,8 @@ DTEND:20261204T203000
 SUMMARY:Fééries d’Hiver – Concert Laurane Jolly
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
 DESCRIPTION:Vendredi 4 décembre\, 18h30–20h30. Accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-laurane-j
- olly/
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-laurane-
+ jolly/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
@@ -1425,11 +1432,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261204T203000
 DTEND:20261204T223000
 SUMMARY:Cirque – Yongoyély
-LOCATION:Théâtre des Cordeliers\, place des Cordeliers\, 07100 Annonay\, 
- France
+LOCATION:Théâtre des Cordeliers\, place des Cordeliers\, 07100 Annonay\,
+  France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Spectacle du cirque guinéen Circus Baobab\, à partir de 7 ans
- . Distance estimée : ≈34 km.
+DESCRIPTION:Spectacle du cirque guinéen Circus Baobab\, à partir de 7 an
+ s. Distance estimée : ≈34 km.
 URL:https://www.ardechegrandair.com/agenda/7978738_cirque-yongoyely/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1439,13 +1446,14 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261205
 DTEND:20270111
 SUMMARY:La magie des crèches au Mas Girodier – Colombier-le-Jeune
-LOCATION:Le Mas Girodier\, 910 route de Lamastre\, 07270 Colombier-le-Jeune
-DESCRIPTION:Grande crèche et parcours de crèches dans le village jusqu’
- à l’église. Dates : 5-6\, 12-13\, 19-20 décembre \; 21-24 décembre 1
- 4h-17h \; 26 décembre-3 janvier 14h-17h \; 9-10 janvier 14h-17h. Accès l
- ibre. Environ 7 km à vol d’oiseau.
-URL:https://www.ardeche-guide.com/fete-manifestation/la-magie-des-creches-a
- u-mas-girodier-colombier-le-jeune-8047543/
+LOCATION:Le Mas Girodier\, 910 route de Lamastre\, 07270 Colombier-le-Jeun
+ e
+DESCRIPTION:Grande crèche et parcours de crèches dans le village jusqu
+ ’à l’église. Dates : 5-6\, 12-13\, 19-20 décembre \; 21-24 décemb
+ re 14h-17h \; 26 décembre-3 janvier 14h-17h \; 9-10 janvier 14h-17h. Acc
+ ès libre. Environ 7 km à vol d’oiseau.
+URL:https://www.ardeche-guide.com/fete-manifestation/la-magie-des-creches-
+ au-mas-girodier-colombier-le-jeune-8047543/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -1456,12 +1464,12 @@ DTSTART:20261205
 DTEND:20261223
 SUMMARY:Maison du Père Noël de Boulieu-lès-Annonay
 LOCATION:Rue du Gris\, 07100 Boulieu-lès-Annonay
-DESCRIPTION:Rencontre gratuite avec le Père Noël : 5-6 déc. 15h-18h \; 9
-  déc. 15h-18h \; 12 déc. 14h-20h30 avec feu d’artifice à 19h30 \; 13 
- déc. 10h-12h et 15h-18h \; 16 déc. 15h-18h \; 19-22 déc. 15h-18h. Envir
- on 34 km à vol d’oiseau.
-URL:https://www.ardeche-guide.com/fete-manifestation/maison-du-pere-noel-80
- 45880/
+DESCRIPTION:Rencontre gratuite avec le Père Noël : 5-6 déc. 15h-18h \; 
+ 9 déc. 15h-18h \; 12 déc. 14h-20h30 avec feu d’artifice à 19h30 \; 1
+ 3 déc. 10h-12h et 15h-18h \; 16 déc. 15h-18h \; 19-22 déc. 15h-18h. En
+ viron 34 km à vol d’oiseau.
+URL:https://www.ardeche-guide.com/fete-manifestation/maison-du-pere-noel-8
+ 045880/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -1472,11 +1480,11 @@ DTSTART:20261205
 DTEND:20261207
 SUMMARY:Marché de Noël de Rousset-les-Vignes
 LOCATION:Centre du village\, 26770 Rousset-les-Vignes
-DESCRIPTION:Sam. 14h-20h30 et dim. 10h-18h30 \; artisans\, créateurs\, pro
- ducteurs et Père Noël à 16h les deux jours. Environ 63 km à vol d’oi
- seau.
-URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-de-rousset-les
- -vignes/
+DESCRIPTION:Sam. 14h-20h30 et dim. 10h-18h30 \; artisans\, créateurs\, pr
+ oducteurs et Père Noël à 16h les deux jours. Environ 63 km à vol d’
+ oiseau.
+URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-de-rousset-le
+ s-vignes/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
@@ -1486,11 +1494,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261205T080000
 SUMMARY:Téléthon – randonnée maoche à Usclades-et-Rieutord
 LOCATION:Usclades-et-Rieutord\, 07510
-DESCRIPTION:Randonnée solidaire samedi 5 décembre\, départ le matin. Par
- cours annoncé autour de 14\,15 km / 411 m D+ \; repas et tarif à vérifi
- er.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Randonnée solidaire samedi 5 décembre\, départ le matin. Pa
+ rcours annoncé autour de 14\,15 km / 411 m D+ \; repas et tarif à véri
+ fier.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -1501,13 +1509,13 @@ DTSTART:20261205T083000
 DTEND:20261205T133000
 SUMMARY:Rando VTT du Téléthon de Frontonas
 LOCATION:Halle des sports\, 38290 Frontonas
-DESCRIPTION:Randonnée VTT solidaire au profit de l’AFM-Téléthon. Trois
-  parcours : 12 km (D+130 m)\, 25 km (D+430 m) et 39 km (D+680 m). Départs
-  libres entre 8h30 et 10h\, clôture à 13h30. VTTAE autorisés. Inscripti
- on : 8 € dès 16 ans\, 6 € moins de 16 ans. Distance estimée depuis A
- lboussière : ≈80 km.
-URL:https://www.helloasso.com/associations/afm-telethon-frontonas/evenement
- s/rando-vtt-du-telethon
+DESCRIPTION:Randonnée VTT solidaire au profit de l’AFM-Téléthon. Troi
+ s parcours : 12 km (D+130 m)\, 25 km (D+430 m) et 39 km (D+680 m). Dépar
+ ts libres entre 8h30 et 10h\, clôture à 13h30. VTTAE autorisés. Inscri
+ ption : 8 € dès 16 ans\, 6 € moins de 16 ans. Distance estimée depu
+ is Alboussière : ≈80 km.
+URL:https://www.helloasso.com/associations/afm-telethon-frontonas/evenemen
+ ts/rando-vtt-du-telethon
 CATEGORIES:VTT
 STATUS:CONFIRMED
 END:VEVENT
@@ -1517,9 +1525,9 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261205T090000
 SUMMARY:Téléthon – randonnées quad et moto
 LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
-DESCRIPTION:Samedi 5 décembre\, départs annoncés à 9h et 14h. Randonné
- es quad et moto \; tarif annoncé : 10 € par personne. Réservation du r
- epas avant le 1er décembre.
+DESCRIPTION:Samedi 5 décembre\, départs annoncés à 9h et 14h. Randonn
+ ées quad et moto \; tarif annoncé : 10 € par personne. Réservation d
+ u repas avant le 1er décembre.
 URL:https://www.jds.fr/manifestations/telethon-1838483_A
 CATEGORIES:Sport
 STATUS:CONFIRMED
@@ -1531,8 +1539,8 @@ DTSTART:20261205T100000
 DTEND:20261205T210000
 SUMMARY:Marché de Noël de Mirmande
 LOCATION:Place du Champ-de-Mars\, 26270 Mirmande
-DESCRIPTION:Marché 10h-18h\, montée aux flambeaux à partir de 18h et feu
-  d’artifice à 20h30. Gratuit. Environ 30 km à vol d’oiseau.
+DESCRIPTION:Marché 10h-18h\, montée aux flambeaux à partir de 18h et fe
+ u d’artifice à 20h30. Gratuit. Environ 30 km à vol d’oiseau.
 URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-de-mirmande/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -1545,8 +1553,8 @@ DTEND:20261205T180000
 SUMMARY:Spectacle déambulatoire – À vos jouets
 LOCATION:Centre-ville\, 26700 Pierrelatte\, France
 CATEGORIES:Famille et nature
-DESCRIPTION:Les casse-noisettes de la compagnie RATAFIA Théâtre déambule
- nt à 11h30\, 15h et 18h. Gratuit. Distance estimée : ≈70 km.
+DESCRIPTION:Les casse-noisettes de la compagnie RATAFIA Théâtre déambul
+ ent à 11h30\, 15h et 18h. Gratuit. Distance estimée : ≈70 km.
 URL:https://www.drome-cestmanature.com/fiches/a-vos-jouets/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1556,10 +1564,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261205T133000
 SUMMARY:Téléthon – randonnée pédestre à Saint-Agrève
 LOCATION:Saint-Agrève\, lieu communiqué par l’organisateur
-DESCRIPTION:Randonnée solidaire samedi 5 décembre à 13h30. Parcours etta
- rif à confirmer.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Randonnée solidaire samedi 5 décembre à 13h30. Parcours ett
+ arif à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -1569,9 +1577,9 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261205T133000
 SUMMARY:Téléthon – randonnées pédestres 5 et 10 km
 LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
-DESCRIPTION:Samedi 5 décembre : marche 10 km à 13h30 et 5 km à 14h30. Ta
- rif annoncé : 5 € par personne. Repas du terroir en option\, 20 € sur
-  réservation.
+DESCRIPTION:Samedi 5 décembre : marche 10 km à 13h30 et 5 km à 14h30. T
+ arif annoncé : 5 € par personne. Repas du terroir en option\, 20 € s
+ ur réservation.
 URL:https://www.jds.fr/manifestations/telethon-1838483_A
 CATEGORIES:Sport
 STATUS:CONFIRMED
@@ -1583,9 +1591,9 @@ DTSTART:20261205T133000
 DTEND:20261205T170000
 SUMMARY:Téléthon de la Ritournelle – randonnée
 LOCATION:Salle municipale Jean Norton Cru\, Labatie-d’Andaure\, Ardèche
-DESCRIPTION:Randonnée annoncée le 5 décembre à partir de 13 h 30. Déta
- ils du parcours et participation à confirmer auprès de l’organisateur.
-  Source : agenda local référencé dans le dépôt.
+DESCRIPTION:Randonnée annoncée le 5 décembre à partir de 13 h 30. Dét
+ ails du parcours et participation à confirmer auprès de l’organisateu
+ r. Source : agenda local référencé dans le dépôt.
 URL:https://www.ardeche-guide.com/Agenda/
 STATUS:CONFIRMED
 CATEGORIES:Sport
@@ -1597,11 +1605,11 @@ DTSTART:20261205T140000
 DTEND:20261205T200000
 SUMMARY:Marché de Noël artisanal de Vernoux-en-Vivarais
 LOCATION:Place Pasteur\, 07240 Vernoux-en-Vivarais
-DESCRIPTION:65 exposants\, photo avec la Mère Noël\, cinéma à 14h30\, g
- oûter offert aux enfants à 16h et spectacle de feu à 18h. Accès libre 
- \; cinéma payant. Environ 9 km à vol d’oiseau.
-URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-artisan
- al-7822282/
+DESCRIPTION:65 exposants\, photo avec la Mère Noël\, cinéma à 14h30\, 
+ goûter offert aux enfants à 16h et spectacle de feu à 18h. Accès libr
+ e \; cinéma payant. Environ 9 km à vol d’oiseau.
+URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-artisa
+ nal-7822282/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
@@ -1611,10 +1619,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261205T140000
 SUMMARY:Téléthon – randonnée pédestre à Sainte-Eulalie
 LOCATION:Sainte-Eulalie\, 07510
-DESCRIPTION:Randonnée solidaire samedi 5 décembre à 14h\, environ 15\,3 
- km / 429 m D+. Participation annoncée autour de 8 € hors repas.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Randonnée solidaire samedi 5 décembre à 14h\, environ 15\,3
+  km / 429 m D+. Participation annoncée autour de 8 € hors repas.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -1624,9 +1632,9 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261205T140000
 SUMMARY:Téléthon – randonnée VTT électrique
 LOCATION:Salle polyvalente\, 48250 La Bastide-Puylaurent
-DESCRIPTION:Samedi 5 décembre à 14h. Randonnée VTT électrique \; tarif 
- annoncé : 10 € par personne. Environ 75 km à vol d’oiseau d’Albous
- sière.
+DESCRIPTION:Samedi 5 décembre à 14h. Randonnée VTT électrique \; tarif
+  annoncé : 10 € par personne. Environ 75 km à vol d’oiseau d’Albo
+ ussière.
 URL:https://www.jds.fr/manifestations/telethon-1838483_A
 CATEGORIES:VTT
 STATUS:CONFIRMED
@@ -1637,12 +1645,12 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261205T143000
 DTEND:20261205T183000
 SUMMARY:Marché de Noël de Félines
-LOCATION:Salle des fêtes\, 92 rue du Sordeau\, ZA La Boissonnette\, 07340 
- Félines
-DESCRIPTION:Une trentaine d’exposants. Accès libre. Environ 34 km à vol
-  d’oiseau.
-URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-8046776
- /
+LOCATION:Salle des fêtes\, 92 rue du Sordeau\, ZA La Boissonnette\, 07340
+  Félines
+DESCRIPTION:Une trentaine d’exposants. Accès libre. Environ 34 km à vo
+ l d’oiseau.
+URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-804677
+ 6/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
@@ -1654,8 +1662,8 @@ DTEND:20261205T220000
 SUMMARY:Marché de Noël – Étables
 LOCATION:Salle Sully\, salle des fêtes\, 07300 Étables\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Artisans de bouche et de décoration\, buvette\, Père Noël et
-  feu d’artifice en soirée. Gratuit. Distance estimée : ≈20 km.
+DESCRIPTION:Artisans de bouche et de décoration\, buvette\, Père Noël e
+ t feu d’artifice en soirée. Gratuit. Distance estimée : ≈20 km.
 URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-etables/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1667,8 +1675,8 @@ DTEND:20261205T193000
 SUMMARY:Aurore des rennes
 LOCATION:Centre-ville\, 26700 Pierrelatte\, France
 CATEGORIES:Famille et nature
-DESCRIPTION:Déambulation lumineuse de trois rennes géants\, séances à 1
- 5h30\, 17h30 et 19h30. Gratuit. Distance estimée : ≈70 km.
+DESCRIPTION:Déambulation lumineuse de trois rennes géants\, séances à 
+ 15h30\, 17h30 et 19h30. Gratuit. Distance estimée : ≈70 km.
 URL:https://www.drome-cestmanature.com/sit/aurore-des-rennes/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1678,11 +1686,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261205T173000
 DTEND:20261205T220000
 SUMMARY:Marché de Noël de Montchenu
-LOCATION:Devant l’école communale\, rue Louis Aragon\, 26350 Montchenu\,
-  France
+LOCATION:Devant l’école communale\, rue Louis Aragon\, 26350 Montchenu\
+ , France
 CATEGORIES:Vie locale
-DESCRIPTION:Marché\, concert à 18h et feu d’artifice pour clôturer la 
- soirée. Entrée libre. Distance estimée : ≈38 km.
+DESCRIPTION:Marché\, concert à 18h et feu d’artifice pour clôturer la
+  soirée. Entrée libre. Distance estimée : ≈38 km.
 URL:https://www.drome-cestmanature.com/sit/marche-de-noel-montchenu/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1690,12 +1698,13 @@ BEGIN:VEVENT
 UID:parade-noel@evenements-alboussiere
 DTSTAMP:20261116T052309Z
 DTSTART:20261205T183000
-SUMMARY:Fééries d’Hiver – Grande parade de Noël et feux d’artifice
+SUMMARY:Fééries d’Hiver – Grande parade de Noël et feux d’artific
+ e
 LOCATION:Centre-ville et Champ de Mars\, 26000 Valence
-DESCRIPTION:Samedi 5 décembre à partir de 18h30 \; feu d’artifice annon
- cé dans la soirée. Accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-la-grande-parade-
- de-noel-et-feux-dartifices/
+DESCRIPTION:Samedi 5 décembre à partir de 18h30 \; feu d’artifice anno
+ ncé dans la soirée. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-la-grande-parade
+ -de-noel-et-feux-dartifices/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -1706,9 +1715,9 @@ DTSTART:20261206
 DTEND:20261207
 SUMMARY:Marché de Noël de Laviolle
 LOCATION:Le village\, 07530 Laviolle
-DESCRIPTION:Marché d’artisans et créateurs locaux. Entrée libre \; hor
- aires non publiés. Environ 43 km à vol d’oiseau. Horaire à confirmer 
- auprès de l’organisateur.
+DESCRIPTION:Marché d’artisans et créateurs locaux. Entrée libre \; ho
+ raires non publiés. Environ 43 km à vol d’oiseau. Horaire à confirme
+ r auprès de l’organisateur.
 URL:https://villagedenoel.fr/evenement/marche-de-noel-laviolle
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -1719,13 +1728,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261206T090000
 DTEND:20261206T170000
 SUMMARY:Marché de Noël de Chantemerle-les-Blés
-LOCATION:Complexe sportif Michel Martin\, 26600 Chantemerle-les-Blés\, Fra
- nce
+LOCATION:Complexe sportif Michel Martin\, 26600 Chantemerle-les-Blés\, Fr
+ ance
 CATEGORIES:Vie locale
-DESCRIPTION:Environ 50 exposants\, buvette\, restauration et animations. En
- trée libre. Distance estimée : ≈32 km.
-URL:https://www.drome-cestmanature.com/sit/marche-de-noel-chantemerle-les-b
- les/
+DESCRIPTION:Environ 50 exposants\, buvette\, restauration et animations. E
+ ntrée libre. Distance estimée : ≈32 km.
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-chantemerle-les-
+ bles/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1734,10 +1743,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261206T093000
 SUMMARY:Randonneurs des Boutières – Les Balcons de l’Eyrieux
 LOCATION:Vallée de l’Eyrieux\, Ardèche
-DESCRIPTION:Sortie pédestre dimanche 6 décembre à 9h30. Distance et dén
- ivelé à confirmer.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Sortie pédestre dimanche 6 décembre à 9h30. Distance et dé
+ nivelé à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -1747,11 +1756,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261206T100000
 DTEND:20261206T160000
 SUMMARY:L’atelier du Père Noël
-LOCATION:Chapelle des Pénitents\, rue des Pénitents\, 26700 Pierrelatte\,
-  France
+LOCATION:Chapelle des Pénitents\, rue des Pénitents\, 26700 Pierrelatte\
+ , France
 CATEGORIES:Famille et nature
-DESCRIPTION:Spectacle familial\, séances à 10h et 16h. Réservation néce
- ssaire\, nombre de places limité. Distance estimée : ≈70 km.
+DESCRIPTION:Spectacle familial\, séances à 10h et 16h. Réservation néc
+ essaire\, nombre de places limité. Distance estimée : ≈70 km.
 URL:https://www.drome-cestmanature.com/fiches/latelier-du-pere-noel/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1761,13 +1770,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261206T100000
 DTEND:20261206T180000
 SUMMARY:Marché de Noël de Serves-sur-Rhône
-LOCATION:Salle La Route Bleue\, rue Impériale\, 26600 Serves-sur-Rhône\, 
- France
+LOCATION:Salle La Route Bleue\, rue Impériale\, 26600 Serves-sur-Rhône\,
+  France
 CATEGORIES:Vie locale
-DESCRIPTION:Artisans\, petite restauration\, buvette et tombola. Heure de f
- in non publiée. Distance estimée : ≈22 km.
-URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-serves-sur-rho
- ne/
+DESCRIPTION:Artisans\, petite restauration\, buvette et tombola. Heure de 
+ fin non publiée. Distance estimée : ≈22 km.
+URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-serves-sur-rh
+ one/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1776,11 +1785,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261206T110000
 DTEND:20261206T160000
 SUMMARY:Conte – Rosa Lune
-LOCATION:Espace Montgolfier\, 327 rue des Pâtureaux\, 07430 Davézieux\, F
- rance
+LOCATION:Espace Montgolfier\, 327 rue des Pâtureaux\, 07430 Davézieux\, 
+ France
 CATEGORIES:Famille et nature
-DESCRIPTION:Conte musical à partir de 4 ans \; deux représentations à 11
- h et 16h. Distance estimée : ≈35 km.
+DESCRIPTION:Conte musical à partir de 4 ans \; deux représentations à 1
+ 1h et 16h. Distance estimée : ≈35 km.
 URL:https://www.ardechegrandair.com/agenda/7978760_conte-rosa-lune/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1814,10 +1823,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261208T090000
 SUMMARY:Chantier de débroussaillage des sentiers
 LOCATION:Sentiers des Boutières\, départ communiqué par le club
-DESCRIPTION:Chantier bénévole mardi 8 décembre à 9h pour l’entretien 
- des sentiers. Équipement adapté requis.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Chantier bénévole mardi 8 décembre à 9h pour l’entretien
+  des sentiers. Équipement adapté requis.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -1827,11 +1836,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261208T160000
 DTEND:20261208T213000
 SUMMARY:Marché de Noël – Chanos-Curson
-LOCATION:Salle des fêtes\, rue de la Tuilerie\, 26600 Chanos-Curson\, Fran
- ce
+LOCATION:Salle des fêtes\, rue de la Tuilerie\, 26600 Chanos-Curson\, Fra
+ nce
 CATEGORIES:Vie locale
-DESCRIPTION:Marché de Noël de la commune. Accès libre. Distance estimée
-  : ≈25 km.
+DESCRIPTION:Marché de Noël de la commune. Accès libre. Distance estimé
+ e : ≈25 km.
 URL:https://www.drome-cestmanature.com/sit/marche-de-noel-chanos-curson/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1842,9 +1851,10 @@ DTSTART:20261209
 DTEND:20261221
 SUMMARY:Fééries d’Hiver – Ateliers de jeux
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
-DESCRIPTION:Sessions annoncées les 9\, 12 et 20 décembre. Horaires variab
- les selon la date\, généralement l’après-midi \; accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-ateliers-de-jeux/
+DESCRIPTION:Sessions annoncées les 9\, 12 et 20 décembre. Horaires varia
+ bles selon la date\, généralement l’après-midi \; accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-ateliers-de-jeux
+ /
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -1854,10 +1864,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261210T093000
 SUMMARY:Randonneurs des Boutières – Autour de Villebrion
 LOCATION:Villebrion\, Ardèche
-DESCRIPTION:Sortie pédestre jeudi 10 décembre à 9h30. Distance et déniv
- elé à confirmer.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Sortie pédestre jeudi 10 décembre à 9h30. Distance et déni
+ velé à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -1867,11 +1877,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261210T133000
 DTEND:20261210T163000
 SUMMARY:Les Marches du Jeudi – Saint-Jacques-d’Atticieux
-LOCATION:Parking du Moulin du Roy\, 07100 Saint-Marcel-lès-Annonay\, Franc
- e
+LOCATION:Parking du Moulin du Roy\, 07100 Saint-Marcel-lès-Annonay\, Fran
+ ce
 CATEGORIES:Sport
-DESCRIPTION:Randonnée pédestre annoncée dans l’agenda sportif local \;
-  détails du parcours à confirmer. Distance estimée : ≈30 km.
+DESCRIPTION:Randonnée pédestre annoncée dans l’agenda sportif local \
+ ; détails du parcours à confirmer. Distance estimée : ≈30 km.
 URL:https://www.ardechegrandair.com/agenda/sport-rando-loisirs/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1881,10 +1891,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261210T133000
 SUMMARY:Rando Saint-Agrèvoise – Bois de Montgros
 LOCATION:Bois de Montgros\, Ardèche
-DESCRIPTION:Randonnée jeudi 10 décembre à 13h30\, environ 10 km / 200 m 
- D+. Participation occasionnelle annoncée à 2 €.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Randonnée jeudi 10 décembre à 13h30\, environ 10 km / 200 m
+  D+. Participation occasionnelle annoncée à 2 €.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -1894,10 +1904,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261210T133000
 SUMMARY:Rando Saint-Agrèvoise – Pailharès
 LOCATION:Pailharès\, Ardèche
-DESCRIPTION:Randonnée jeudi 10 décembre à 13h30\, environ 10 km / 407 m 
- D+. Participation occasionnelle annoncée à 2 €.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /2/
+DESCRIPTION:Randonnée jeudi 10 décembre à 13h30\, environ 10 km / 407 m
+  D+. Participation occasionnelle annoncée à 2 €.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/2/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -1906,12 +1916,13 @@ UID:noel-animaux@evenements-alboussiere
 DTSTAMP:20261116T052309Z
 DTSTART:20261211
 DTEND:20261214
-SUMMARY:Fééries d’Hiver – Noël des animaux avec le refuge Saint-Roch
+SUMMARY:Fééries d’Hiver – Noël des animaux avec le refuge Saint-Roc
+ h
 LOCATION:Refuge Saint-Roch\, Valence
 DESCRIPTION:Animation annoncée du 11 au 13 décembre. Horaires et modalit
  és à vérifier auprès du refuge.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-noel-des-animaux-
- avec-le-refuge-saint-roch/
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-noel-des-animaux
+ -avec-le-refuge-saint-roch/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -1923,8 +1934,8 @@ DTEND;VALUE=DATE:20261212
 SUMMARY:Marché de Noël – Plats
 LOCATION:Village\, 07300 Plats\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Marché de Noël annoncé le vendredi 11 décembre \; horaires 
- non publiés. Distance estimée : ≈15 km.
+DESCRIPTION:Marché de Noël annoncé le vendredi 11 décembre \; horaires
+  non publiés. Distance estimée : ≈15 km.
 URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-plats/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1948,9 +1959,9 @@ DTEND:20261214
 SUMMARY:Marché de Noël d’Étoile-sur-Rhône
 LOCATION:Domaine des Clévos\, 390 route de Marmans\, 26800 Étoile-sur-Rh
  ône
-DESCRIPTION:Plus de 50 exposants\, Père Noël\, buvette et restauration. S
- am. 10h-21h\, dim. 10h-18h. Entrée libre. Environ 15 km à vol d’oiseau
- .
+DESCRIPTION:Plus de 50 exposants\, Père Noël\, buvette et restauration. 
+ Sam. 10h-21h\, dim. 10h-18h. Entrée libre. Environ 15 km à vol d’oise
+ au.
 URL:https://www.drome-cestmanature.com/sit/marche-de-noel-38/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -1962,10 +1973,10 @@ DTSTART:20261212
 DTEND:20261214
 SUMMARY:Marché de Noël de Soyons
 LOCATION:Place de la mairie\, 75 rue Vincent-d’Indy\, 07130 Soyons
-DESCRIPTION:Une cinquantaine d’exposants et animations familiales. Sam. 1
- 4h-22h\, dim. 10h-18h. Accès libre. Environ 18 km à vol d’oiseau.
-URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-4872521
- /
+DESCRIPTION:Une cinquantaine d’exposants et animations familiales. Sam. 
+ 14h-22h\, dim. 10h-18h. Accès libre. Environ 18 km à vol d’oiseau.
+URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-487252
+ 1/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
@@ -1976,11 +1987,11 @@ DTSTART:20261212
 DTEND:20261228
 SUMMARY:Noël à Aubenas 2026 – animations en centre-ville
 LOCATION:Centre-ville\, 07200 Aubenas
-DESCRIPTION:Programme municipal de Noël du 12 au 27 décembre\, animations
-  et surprises pour petits et grands \; horaires variables selon les animat
- ions. Environ 42 km à vol d’oiseau.
-URL:https://www.ville-aubenas.fr/actualites-et-sorties/agenda/noel-aubenas-
- 2026
+DESCRIPTION:Programme municipal de Noël du 12 au 27 décembre\, animation
+ s et surprises pour petits et grands \; horaires variables selon les anim
+ ations. Environ 42 km à vol d’oiseau.
+URL:https://www.ville-aubenas.fr/actualites-et-sorties/agenda/noel-aubenas
+ -2026
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -1990,12 +2001,12 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261212T100000
 DTEND:20261212T190000
 SUMMARY:Marché de Noël – La Source
-LOCATION:Bar artistique La Source\, 1010 route de Bel-Air\, 07570 Désaigne
- s
-DESCRIPTION:Marché de Noël de bijoux\, prêt-à-porter et artisanat. Entr
- ée libre. Environ 18 km à vol d’oiseau.
-URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/marche-de-
- noel-la-source-8051407/
+LOCATION:Bar artistique La Source\, 1010 route de Bel-Air\, 07570 Désaign
+ es
+DESCRIPTION:Marché de Noël de bijoux\, prêt-à-porter et artisanat. Ent
+ rée libre. Environ 18 km à vol d’oiseau.
+URL:https://www.pays-lamastre-tourisme.com/fr/catalogue/activite/marche-de
+ -noel-la-source-8051407/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
@@ -2005,13 +2016,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261212T100000
 DTEND:20261213T180000
 SUMMARY:Marché de Noël d’Étoile-sur-Rhône
-LOCATION:Domaine des Clévos, 390 route de Marmans, 26800 Étoile-sur-Rhôn
- e, France
+LOCATION:Domaine des Clévos, 390 route de Marmans, 26800 Étoile-sur-Rhô
+ ne, France
 CATEGORIES:Vie locale
-DESCRIPTION:Plus de 50 exposants\, venue du Père Noël\, buvette et restau
- ration. Samedi 12 décembre 10h–21h\, dimanche 13 décembre 10h–18h. E
- ntrée libre. Distance estimée : ≈25 km à vol d’oiseau depuis Albous
- sière.
+DESCRIPTION:Plus de 50 exposants\, venue du Père Noël\, buvette et resta
+ uration. Samedi 12 décembre 10h–21h\, dimanche 13 décembre 10h–18h.
+  Entrée libre. Distance estimée : ≈25 km à vol d’oiseau depuis Alb
+ oussière.
 URL:https://www.drome-cestmanature.com/sit/marche-de-noel-38/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2023,8 +2034,8 @@ DTEND:20261212T180000
 SUMMARY:Marché de Noël de Bourdeaux
 LOCATION:Place de l’Église\, 26460 Bourdeaux\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Marché animé par les associations et commerçants du village\
- , animations familiales et gourmandises. Distance estimée : ≈55 km.
+DESCRIPTION:Marché animé par les associations et commerçants du village
+ \, animations familiales et gourmandises. Distance estimée : ≈55 km.
 URL:https://www.drome-cestmanature.com/sit/marche-de-noel-30/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2034,10 +2045,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261212T100000
 DTEND:20261212T210000
 SUMMARY:Marché de Noël de Saint-Michel-sur-Savasse
-LOCATION:Espace du Bagnol\, route du Bagnol\, 26750 Saint-Michel-sur-Savass
- e
-DESCRIPTION:Plus de 50 exposants\, Père Noël\, buvette et restauration \;
-  feu d’artifice à 20h. Entrée libre. Environ 30 km à vol d’oiseau.
+LOCATION:Espace du Bagnol\, route du Bagnol\, 26750 Saint-Michel-sur-Savas
+ se
+DESCRIPTION:Plus de 50 exposants\, Père Noël\, buvette et restauration \
+ ; feu d’artifice à 20h. Entrée libre. Environ 30 km à vol d’oiseau
+ .
 URL:https://www.drome-cestmanature.com/fiches/marche-de-noel/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -2050,10 +2062,10 @@ DTEND:20261213T190000
 SUMMARY:Marché de Noël à la ferme – Graines de Buisson
 LOCATION:Graines de Buisson\, 25 chemin de Simondon\, 07300 Plats\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Producteurs et artisans locaux. Samedi 12 et dimanche 13 décem
- bre\, 14h–19h. Accès libre. Distance estimée : ≈15 km.
-URL:https://www.drome-cestmanature.com/sit/marche-de-noel-a-la-ferme-graine
- s-de-buisson/
+DESCRIPTION:Producteurs et artisans locaux. Samedi 12 et dimanche 13 déce
+ mbre\, 14h–19h. Accès libre. Distance estimée : ≈15 km.
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-a-la-ferme-grain
+ es-de-buisson/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2064,10 +2076,11 @@ DTEND:20261212T220000
 SUMMARY:Marché de Noël – Les Hivernales de Tain
 LOCATION:Place du Taurobole\, 26600 Tain-l’Hermitage\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Environ 50 exposants\, Père Noël\, restauration et animations
-  \; ouverture officielle à 16h30. Gratuit. Distance estimée : ≈18 km.
-URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-les-hivernales
- -de-tain/
+DESCRIPTION:Environ 50 exposants\, Père Noël\, restauration et animation
+ s \; ouverture officielle à 16h30. Gratuit. Distance estimée : ≈18 km
+ .
+URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-les-hivernale
+ s-de-tain/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2078,10 +2091,11 @@ DTEND:20261213T170000
 SUMMARY:Marché artisanal de Noël – Margès
 LOCATION:Centre du village\, 26260 Margès\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Marché artisanal\, animations\, dégustations\, artisans locau
- x et feu d’artifice. Samedi 12 décembre 17h–22h\, dimanche 13 décemb
- re 10h–17h. Accès libre. Distance estimée : ≈35 km.
-URL:https://www.drome-cestmanature.com/sit/marche-artisanal-de-noel-marges/
+DESCRIPTION:Marché artisanal\, animations\, dégustations\, artisans loca
+ ux et feu d’artifice. Samedi 12 décembre 17h–22h\, dimanche 13 déce
+ mbre 10h–17h. Accès libre. Distance estimée : ≈35 km.
+URL:https://www.drome-cestmanature.com/sit/marche-artisanal-de-noel-marges
+ /
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2092,7 +2106,8 @@ DTEND:20261212T203000
 SUMMARY:Fééries d’Hiver – Concert Aja Caez
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
 DESCRIPTION:Samedi 12 décembre\, 18h30–20h30. Accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-aja-caez/
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-concert-aja-caez
+ /
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
@@ -2101,10 +2116,10 @@ UID:chant-lions@evenements-alboussiere
 DTSTAMP:20261116T052309Z
 DTSTART:20261212T203000
 SUMMARY:Le Chant des Lions – spectacle
-LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600Va
- ls-les-Bains
-DESCRIPTION:Spectacle samedi 12 décembre à 20h30. Tarif et disponibilité
-  à vérifier auprès de la billetterie.
+LOCATION:Centre culturel Les Quinconces\, 3 avenue Claude Expilly\, 07600V
+ als-les-Bains
+DESCRIPTION:Spectacle samedi 12 décembre à 20h30. Tarif et disponibilit
+ é à vérifier auprès de la billetterie.
 URL:https://lesquinconces.com/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
@@ -2117,8 +2132,8 @@ DTEND:20261213T170000
 SUMMARY:Marché de Noël de Lemps
 LOCATION:Salle des fêtes\, route de la Tuillière\, 07610 Lemps\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Producteurs\, artisans\, animations enfants\, tombola et venue 
- du Père Noël. Gratuit. Distance estimée : ≈16 km.
+DESCRIPTION:Producteurs\, artisans\, animations enfants\, tombola et venue
+  du Père Noël. Gratuit. Distance estimée : ≈16 km.
 URL:https://www.drome-cestmanature.com/fiches/marche-de-noel-lemps/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2130,10 +2145,11 @@ DTEND:20261213T190000
 SUMMARY:Marché de Noël de Tournon-sur-Rhône
 LOCATION:Place Carnot, 07300 Tournon-sur-Rhône, France
 CATEGORIES:Vie locale
-DESCRIPTION:Marché de Noël en centre-ville \; animations musicales et sta
- nds annoncés. Horaires de fin à confirmer. Distance estimée : ≈16 km.
-URL:https://www.drome-cestmanature.com/fiches/marches-de-noel-tournon-sur-r
- hone/
+DESCRIPTION:Marché de Noël en centre-ville \; animations musicales et st
+ ands annoncés. Horaires de fin à confirmer. Distance estimée : ≈16 k
+ m.
+URL:https://www.drome-cestmanature.com/fiches/marches-de-noel-tournon-sur-
+ rhone/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2144,8 +2160,8 @@ DTEND:20261213T140000
 SUMMARY:Fééries d’Hiver – Guinguette de Noël
 LOCATION:Centre-ville\, 26000 Valence
 DESCRIPTION:Dimanche 13 décembre\, 11h–14h. Accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-guinguette-de-noe
- l/
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-guinguette-de-no
+ el/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -2157,10 +2173,10 @@ DTEND:20261213T190000
 SUMMARY:Concert – DJ Vélo de Bryan Funky au marché de Noël
 LOCATION:Place de la Résistance\, 07300 Tournon-sur-Rhône\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Animation musicale du marché de Noël\, gratuite. Distance est
- imée : ≈16 km.
-URL:https://www.drome-cestmanature.com/fiches/dj-velo-de-bryan-funky-au-mar
- che-de-noel-tournon/
+DESCRIPTION:Animation musicale du marché de Noël\, gratuite. Distance es
+ timée : ≈16 km.
+URL:https://www.drome-cestmanature.com/fiches/dj-velo-de-bryan-funky-au-ma
+ rche-de-noel-tournon/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2171,8 +2187,8 @@ DTEND:20261213T183000
 SUMMARY:Fééries d’Hiver – Échassières lumineuses
 LOCATION:Centre-ville\, 26000 Valence
 DESCRIPTION:Dimanche 13 décembre\, 16h30–18h30. Accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-echassieres-lumin
- euses/
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-echassieres-lumi
+ neuses/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -2184,8 +2200,8 @@ DTEND:20261215T190000
 SUMMARY:Marché de Noël de Larnage
 LOCATION:Salle de la Fabrique\, 26600 Larnage\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Stands de producteurs\, artisans et caves locales. Distance est
- imée : ≈20 km.
+DESCRIPTION:Stands de producteurs\, artisans et caves locales. Distance es
+ timée : ≈20 km.
 URL:https://www.drome-cestmanature.com/sit/marche-de-noel-larnage/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2196,10 +2212,10 @@ DTSTART:20261216
 DTEND:20261225
 SUMMARY:Fééries d’Hiver – Balades en calèche
 LOCATION:Centre-ville\, 26000 Valence
-DESCRIPTION:Balades annoncées les 16\, 19\, 20\, 22\, 23 et 24 décembre. 
- Tarif annoncé : 3 €. Horaires variables selon la journée.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-balades-en-calech
- e/
+DESCRIPTION:Balades annoncées les 16\, 19\, 20\, 22\, 23 et 24 décembre.
+  Tarif annoncé : 3 €. Horaires variables selon la journée.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-balades-en-calec
+ he/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -2210,10 +2226,10 @@ DTSTART:20261216
 DTEND:20261223
 SUMMARY:Fééries d’Hiver – Rencontre avec le Père Noël
 LOCATION:Village de Noël\, centre-ville\, 26000 Valence
-DESCRIPTION:Rencontres annoncées les 16\, 19\, 20 et 22 décembre\, l’ap
- rès-midi. Horaires précis à vérifier.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-a-la-rencontre-du
- -pere-noel/
+DESCRIPTION:Rencontres annoncées les 16\, 19\, 20 et 22 décembre\, l’a
+ près-midi. Horaires précis à vérifier.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-a-la-rencontre-d
+ u-pere-noel/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -2223,10 +2239,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261216T090000
 SUMMARY:Atelier parents-enfants
 LOCATION:Centre socioculturel\, Saint-Agrève
-DESCRIPTION:Atelier mercredi 16 décembre à 9h. Public familial \; tarifet
-  âge conseillé à confirmer.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /3/
+DESCRIPTION:Atelier mercredi 16 décembre à 9h. Public familial \; tarife
+ t âge conseillé à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/3/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -2238,8 +2254,8 @@ DTEND:20261216T163000
 SUMMARY:Fééries d’Hiver – Atelier sculpture sur glace
 LOCATION:Centre-ville\, 26000 Valence
 DESCRIPTION:Mercredi 16 décembre\, 14h–16h30. Accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-atelier-sculpture
- -sur-glace/
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-atelier-sculptur
+ e-sur-glace/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -2261,10 +2277,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261217T130000
 SUMMARY:Rando Saint-Agrèvoise – Le Cheylard
 LOCATION:Le Cheylard\, Ardèche
-DESCRIPTION:Randonnée jeudi 17 décembre à 13h. Départ et caractéristiq
- ues à confirmer.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /3/
+DESCRIPTION:Randonnée jeudi 17 décembre à 13h. Départ et caractéristi
+ ques à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -2274,11 +2290,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261217T133000
 DTEND:20261217T163000
 SUMMARY:Les Marches du Jeudi – Saint-Marcel-lès-Annonay
-LOCATION:Parking du Moulin du Roy\, 07100 Saint-Marcel-lès-Annonay\, Franc
- e
+LOCATION:Parking du Moulin du Roy\, 07100 Saint-Marcel-lès-Annonay\, Fran
+ ce
 CATEGORIES:Sport
-DESCRIPTION:Randonnée pédestre annoncée dans l’agenda sportif local \;
-  détails du parcours à confirmer. Distance estimée : ≈30 km.
+DESCRIPTION:Randonnée pédestre annoncée dans l’agenda sportif local \
+ ; détails du parcours à confirmer. Distance estimée : ≈30 km.
 URL:https://www.ardechegrandair.com/agenda/sport-rando-loisirs/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2288,10 +2304,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261217T133000
 SUMMARY:Rando Saint-Agrèvoise – Les Ribes
 LOCATION:Les Ribes\, Ardèche
-DESCRIPTION:Randonnée jeudi 17 décembre à 13h30. Départ et caractérist
- iques à confirmer.
-URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/page
- /3/
+DESCRIPTION:Randonnée jeudi 17 décembre à 13h30. Départ et caractéris
+ tiques à confirmer.
+URL:https://www.ardeche-hautes-vallees.fr/l-agenda/sport-rando-loisirs/pag
+ e/3/
 CATEGORIES:Sport
 STATUS:CONFIRMED
 END:VEVENT
@@ -2302,11 +2318,11 @@ DTSTART:20261218T170000
 DTEND:20261218T230000
 SUMMARY:Marché de Noël nocturne de Désaignes
 LOCATION:Espace culturel\, montée des Écoles\, 07570 Désaignes
-DESCRIPTION:Dernier marché nocturne de l’année : producteurs\, créateu
- rs et artisans locaux avec l’Amicale laïque. Gratuit. Environ 18 km à 
- vol d’oiseau \; heure de fin indicative.
-URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-desaign
- es-6267906/
+DESCRIPTION:Dernier marché nocturne de l’année : producteurs\, créate
+ urs et artisans locaux avec l’Amicale laïque. Gratuit. Environ 18 km 
+ à vol d’oiseau \; heure de fin indicative.
+URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-desaig
+ nes-6267906/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
@@ -2317,10 +2333,10 @@ DTSTART:20261219
 DTEND:20261224
 SUMMARY:Fééries d’Hiver – Déambulations musicales
 LOCATION:Centre-ville\, 26000 Valence
-DESCRIPTION:Déambulations annoncées les 19\, 20 et 23 décembre\, l’apr
- ès-midi. Accès libre.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-deambulations-mus
- icales/
+DESCRIPTION:Déambulations annoncées les 19\, 20 et 23 décembre\, l’ap
+ rès-midi. Accès libre.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-deambulations-mu
+ sicales/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -2331,8 +2347,8 @@ DTSTART:20261219
 DTEND:20261221
 SUMMARY:Marché de Noël d’Annonay
 LOCATION:Salle des fêtes\, 5 rue Joséphine-Baker\, 07100 Annonay
-DESCRIPTION:Marché en salle. Sam. 10h-19h\, dim. 10h-18h. Entrée gratuite
-  \; programme détaillé à confirmer. Environ 33 km à vol d’oiseau.
+DESCRIPTION:Marché en salle. Sam. 10h-19h\, dim. 10h-18h. Entrée gratuit
+ e \; programme détaillé à confirmer. Environ 33 km à vol d’oiseau.
 URL:https://villagedenoel.fr/evenement/marche-de-noel-annonay
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
@@ -2344,11 +2360,11 @@ DTSTART:20261219
 DTEND:20261221
 SUMMARY:Marché de Noël de Cornas
 LOCATION:Salle des fêtes\, place de la Salle des Fêtes\, 07130 Cornas
-DESCRIPTION:Deuxième édition du marché de Noël\, créateurs\, artisanat
-  et produits locaux. Entrée libre \; horaires détaillés non publiés. E
- nviron 10 km à vol d’oiseau.
-URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-7379693
- /
+DESCRIPTION:Deuxième édition du marché de Noël\, créateurs\, artisana
+ t et produits locaux. Entrée libre \; horaires détaillés non publiés.
+  Environ 10 km à vol d’oiseau.
+URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-737969
+ 3/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
@@ -2358,13 +2374,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261219T090000
 DTEND:20261219T180000
 SUMMARY:Marché de Noël de Saint-Agrève
-LOCATION:Centre-ville\, salle polyvalente et salle Fernand-Roux\, 07320 Sai
- nt-Agrève
-DESCRIPTION:Producteurs\, artisans et animations sur le thème d’Alice au
-  pays des merveilles \; parade lumineuse à 18h. Accès libre. Environ 36 
- km à vol d’oiseau.
-URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-6338587
- /
+LOCATION:Centre-ville\, salle polyvalente et salle Fernand-Roux\, 07320 Sa
+ int-Agrève
+DESCRIPTION:Producteurs\, artisans et animations sur le thème d’Alice a
+ u pays des merveilles \; parade lumineuse à 18h. Accès libre. Environ 3
+ 6 km à vol d’oiseau.
+URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-633858
+ 7/
 CATEGORIES:Vie locale
 STATUS:CONFIRMED
 END:VEVENT
@@ -2376,9 +2392,10 @@ DTEND:20261219T180000
 SUMMARY:Marché de Noël de La Roche-de-Glun
 LOCATION:Place de la Mairie\, 26600 La Roche-de-Glun\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Marché de Noël et animations au cœur du village. Heure de fi
- n non précisée par la source. Distance estimée : ≈15 km.
-URL:https://www.drome-cestmanature.com/sit/marche-de-noel-la-roche-de-glun/
+DESCRIPTION:Marché de Noël et animations au cœur du village. Heure de f
+ in non précisée par la source. Distance estimée : ≈15 km.
+URL:https://www.drome-cestmanature.com/sit/marche-de-noel-la-roche-de-glun
+ /
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2387,10 +2404,10 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261220
 SUMMARY:Fééries d’Hiver – Noël des animaux avec l’École du Chat
 LOCATION:Valence
-DESCRIPTION:Animation annoncée dimanche 20 décembre. Horaires à vérifie
- r sur la fiche officielle.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-noel-des-animaux-
- avec-lecole-du-chat/
+DESCRIPTION:Animation annoncée dimanche 20 décembre. Horaires à vérifi
+ er sur la fiche officielle.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-noel-des-animaux
+ -avec-lecole-du-chat/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -2402,11 +2419,11 @@ DTEND:20261220T190000
 SUMMARY:Marché de Noël de Tournon-sur-Rhône
 LOCATION:Place Carnot, 07300 Tournon-sur-Rhône, France
 CATEGORIES:Vie locale
-DESCRIPTION:Deuxième date annoncée du marché de Noël\, animations music
- ales et stands en centre-ville. Horaires de fin à confirmer. Distance est
- imée : ≈16 km.
-URL:https://www.drome-cestmanature.com/fiches/marches-de-noel-tournon-sur-r
- hone/
+DESCRIPTION:Deuxième date annoncée du marché de Noël\, animations musi
+ cales et stands en centre-ville. Horaires de fin à confirmer. Distance e
+ stimée : ≈16 km.
+URL:https://www.drome-cestmanature.com/fiches/marches-de-noel-tournon-sur-
+ rhone/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2415,8 +2432,8 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261220T140000
 SUMMARY:Balade « Pas à pas l’hiver » aux Estables
 LOCATION:Les Estables\, 43150
-DESCRIPTION:Balade hivernale guidée dimanche 20 décembre à 14h. Tarif et
-  équipement à confirmer \; vérifier la météo.
+DESCRIPTION:Balade hivernale guidée dimanche 20 décembre à 14h. Tarif e
+ t équipement à confirmer \; vérifier la météo.
 URL:https://www.lesestables.fr/agenda/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
@@ -2429,10 +2446,10 @@ DTEND:20261220T190000
 SUMMARY:Concert – DJ Vélo de Bryan Funky au marché de Noël
 LOCATION:Place de la Résistance\, 07300 Tournon-sur-Rhône\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Deuxième animation musicale du marché de Noël\, gratuite. Di
- stance estimée : ≈16 km.
-URL:https://www.drome-cestmanature.com/fiches/dj-velo-de-bryan-funky-au-mar
- che-de-noel-tournon/
+DESCRIPTION:Deuxième animation musicale du marché de Noël\, gratuite. D
+ istance estimée : ≈16 km.
+URL:https://www.drome-cestmanature.com/fiches/dj-velo-de-bryan-funky-au-ma
+ rche-de-noel-tournon/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2441,8 +2458,8 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261221T143000
 SUMMARY:Glissades givrées – activité neige aux Estables
 LOCATION:Les Estables\, 43150
-DESCRIPTION:Animation lundi 21 décembre à 14h30. Enneigement\, tarif etma
- tériel à confirmer.
+DESCRIPTION:Animation lundi 21 décembre à 14h30. Enneigement\, tarif etm
+ atériel à confirmer.
 URL:https://www.lesestables.fr/agenda/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
@@ -2454,10 +2471,10 @@ DTSTART:20261222
 DTEND:20261227
 SUMMARY:Fééries d’Hiver – Mascottes surprises de Noël
 LOCATION:Centre-ville\, 26000 Valence
-DESCRIPTION:Rencontres annoncées les 22 et 26 décembre\, l’après-midi.
-  Horaires précis à vérifier.
-URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-mascottes-surpris
- es-de-noel/
+DESCRIPTION:Rencontres annoncées les 22 et 26 décembre\, l’après-midi
+ . Horaires précis à vérifier.
+URL:https://www.drome-cestmanature.com/sit/feeries-dhiver-mascottes-surpri
+ ses-de-noel/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
 END:VEVENT
@@ -2467,12 +2484,12 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261223T173000
 DTEND:20261223T190000
 SUMMARY:Balade de Noël à Dieulefit
-LOCATION:Office de Tourisme\, 1 place Abbé Magnet\, 26220 Dieulefit\, Fran
- ce
+LOCATION:Office de Tourisme\, 1 place Abbé Magnet\, 26220 Dieulefit\, Fra
+ nce
 CATEGORIES:Famille et nature
-DESCRIPTION:Balade familiale guidée et contée dans le centre ancien\, ave
- c jus de pomme chaud et friandises. Inscription obligatoire\, places limit
- ées. Distance estimée : ≈75 km.
+DESCRIPTION:Balade familiale guidée et contée dans le centre ancien\, av
+ ec jus de pomme chaud et friandises. Inscription obligatoire\, places lim
+ itées. Distance estimée : ≈75 km.
 URL:https://www.drome-cestmanature.com/fiches/balade-de-noel-a-dieulefit/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2482,8 +2499,8 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261227T140000
 SUMMARY:Balade « Pas à pas l’hiver » aux Estables
 LOCATION:Les Estables\, 43150
-DESCRIPTION:Balade hivernale guidée dimanche 27 décembre à 14h. Tarif et
-  équipement à confirmer \; vérifier la météo.
+DESCRIPTION:Balade hivernale guidée dimanche 27 décembre à 14h. Tarif e
+ t équipement à confirmer \; vérifier la météo.
 URL:https://www.lesestables.fr/agenda/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
@@ -2494,8 +2511,8 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261228T143000
 SUMMARY:Glissades givrées – activité neige aux Estables
 LOCATION:Les Estables\, 43150
-DESCRIPTION:Animation lundi 28 décembre à 14h30. Enneigement\, tarif etma
- tériel à confirmer.
+DESCRIPTION:Animation lundi 28 décembre à 14h30. Enneigement\, tarif etm
+ atériel à confirmer.
 URL:https://www.lesestables.fr/agenda/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
@@ -2506,8 +2523,8 @@ DTSTAMP:20261116T052309Z
 DTSTART:20261230T190000
 SUMMARY:Balade « La tête dans les étoiles »
 LOCATION:Les Estables\, 43150
-DESCRIPTION:Sortie nature mercredi 30 décembre à 19h. Tarif annoncé : 23
-  €. Réservation et météo à vérifier.
+DESCRIPTION:Sortie nature mercredi 30 décembre à 19h. Tarif annoncé : 2
+ 3 €. Réservation et météo à vérifier.
 URL:https://www.lesestables.fr/agenda/
 CATEGORIES:Famille et nature
 STATUS:CONFIRMED
@@ -2531,11 +2548,11 @@ DTSTART:20270109
 DTEND:20270111
 SUMMARY:Concert du Nouvel An – Valence
 LOCATION:Théâtre de la Ville\, place de la Liberté\, 26000 Valence
-DESCRIPTION:Samedi 9 janvier : 15h-16h30 et 20h30-22h \; dimanche 10 janvie
- r : 17h-18h30. Tarifs 14-35 €\, réduit 11-28 €. Réservation conseill
- ée. Environ 13 km à vol d’oiseau.
-URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/concert-du-
- nouvel-an-7918904/
+DESCRIPTION:Samedi 9 janvier : 15h-16h30 et 20h30-22h \; dimanche 10 janvi
+ er : 17h-18h30. Tarifs 14-35 €\, réduit 11-28 €. Réservation consei
+ llée. Environ 13 km à vol d’oiseau.
+URL:https://www.valence-romans-tourisme.com/fr/catalogue/detail/concert-du
+ -nouvel-an-7918904/
 CATEGORIES:Culture et loisir
 STATUS:CONFIRMED
 END:VEVENT
@@ -2545,11 +2562,11 @@ DTSTAMP:20261116T052309Z
 DTSTART:20270109T203000
 DTEND:20270109T223000
 SUMMARY:Cabaret – L’Heure exquise
-LOCATION:Théâtre des Cordeliers\, place des Cordeliers\, 07100 Annonay\, 
- France
+LOCATION:Théâtre des Cordeliers\, place des Cordeliers\, 07100 Annonay\,
+  France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Rocky-lyrique-créature show\, à partir de 14 ans. Distance es
- timée : ≈34 km.
+DESCRIPTION:Rocky-lyrique-créature show\, à partir de 14 ans. Distance e
+ stimée : ≈34 km.
 URL:https://www.ardechegrandair.com/agenda/7978780_cabaret-lheure-exquise/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2559,13 +2576,13 @@ DTSTAMP:20261116T052309Z
 DTSTART:20270110T160000
 DTEND:20270110T173000
 SUMMARY:Théâtre – La Chambre claire
-LOCATION:Espace Montgolfier\, 327 rue des Pâtureaux\, 07430 Davézieux\, F
- rance
+LOCATION:Espace Montgolfier\, 327 rue des Pâtureaux\, 07430 Davézieux\, 
+ France
 CATEGORIES:Famille et nature
-DESCRIPTION:Spectacle autour de la photographie et de la lumière\, à part
- ir de 6 ans. Distance estimée : ≈35 km.
-URL:https://www.ardechegrandair.com/agenda/7978795_theatre-la-chambre-clair
- e/
+DESCRIPTION:Spectacle autour de la photographie et de la lumière\, à par
+ tir de 6 ans. Distance estimée : ≈35 km.
+URL:https://www.ardechegrandair.com/agenda/7978795_theatre-la-chambre-clai
+ re/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2576,12 +2593,12 @@ DTEND;TZID=Europe/Paris:20261122T200000
 SUMMARY:Marché de Noël de Saint-Just-d’Ardèche
 LOCATION:Centre du village\, 07700 Saint-Just-d’Ardèche\, France
 CATEGORIES:Vie locale
-DESCRIPTION:Dimanche 22 novembre\, 10h–20h. Plus de 40 exposants annonc
- és\, Père Noël\, balade à poney\, mascotte\, santons\, château gonfl
- able\, montée au clocher et restauration. Prix d’entrée non précisé
-  \; lieu précis dans le centre du village à confirmer. Source : mairie 
- de Saint-Just-d’Ardèche.
-URL:https://www.saintjustdarche.fr/
+DESCRIPTION:Dimanche 22 novembre\, 10h–20h. Plus de 40 exposants\, Père
+  Noël\, balade à poney\, mascotte\, santons\, château gonflable\, mont
+ ée au clocher\, restauration et buvette. Accès libre. Source : agenda r
+ elayant Ardèche Guide \; lieu précis dans le centre du village.
+URL:https://brocantes-et-marches.fr/villes/saint-just-dardeche/marche-de-n
+ oel-de-saint-just-dardeche
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2596,7 +2613,8 @@ DESCRIPTION:Dimanche 22 novembre\, 9h30–18h. Marché de Noël local à l
  a salle L’Entre 2. Accès gratuit annoncé \; programme détaillé à c
  onfirmer auprès de l’organisateur. Source : office de tourisme Ardèch
  e Grand Air.
-URL:https://www.ardechegrandair.com/
+URL:https://brocantes-et-marches.fr/villes/peaugres/marche-de-noel-de-peau
+ gres
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2611,7 +2629,8 @@ CATEGORIES:Vie locale
 DESCRIPTION:Dimanche 22 novembre\, 9h–16h. Entrée visiteurs annoncée g
  ratuite \; emplacement exposant 5 €. Source : Ardèche Guide. Vérifier
   les modalités exposants auprès de l’organisateur.
-URL:https://www.ardeche-guide.com/
+URL:https://www.ardeche-guide.com/fete-manifestation/bourse-aux-jouets-804
+ 6433/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2626,7 +2645,8 @@ DESCRIPTION:Samedi 21 novembre\, 8h–17h. Marché de Noël annoncé avec
  créateurs\, chants\, conteurs\, arbre participatif et présence du Père
   Noël. Accès gratuit annoncé. Source : office de tourisme du Pays d’
  Aubenas-Vals.
-URL:https://www.aubenas-vals.com/
+URL:https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-760052
+ 2/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2641,7 +2661,8 @@ DESCRIPTION:Samedi 21 novembre\, 14h–21h \; dimanche 22 novembre\, 10h
  –18h. Marché de Noël\, produits locaux et petite restauration. Accès
   gratuit annoncé. Source : agenda local relayant Ardèche Guide \; horai
  res à reconfirmer auprès de l’association organisatrice.
-URL:https://www.brocantes-et-marches.com/
+URL:https://brocantes-et-marches.fr/villes/berrias-et-casteljau/marche-de-
+ noel-de-berrias-et-casteljau
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2650,16 +2671,15 @@ DTSTAMP:20261116T052309Z
 DTSTART;TZID=Europe/Paris:20261121T100000
 DTEND;TZID=Europe/Paris:20261122T170000
 SUMMARY:Japan and Geek Show — 3e édition
-LOCATION:Salle Aimé-Jacquier et gymnase\, 115 chemin de Bièvre\, 38260 S
- aint-Hilaire-de-la-Côte\, France
+LOCATION:Gymnase\, 38260 Saint-Hilaire-de-la-Côte\, France
 CATEGORIES:Culture et loisir
-DESCRIPTION:Samedi 21 novembre\, 10h–19h \; dimanche 22 novembre\, 10h
- –17h. Cosplay\, jeux vidéo\, exposants et démonstrations d’arts mar
- tiaux. Tarifs annoncés : 5 € la journée\, 8 € le week-end\, gratuit
-  pour les moins de 12 ans. Billetterie HelloAsso \; vérifier les modalit
- és d’accès aux démonstrations.
-URL:https://www.helloasso.com/associations/association-japan-and-geek/even
- ements/japan-and-geek-show-3
+DESCRIPTION:Samedi 21 novembre\, 10h–19h30 \; dimanche 22 novembre\, 10h
+ –17h. Cosplay\, jeux vidéo\, artisans\, expositions et démonstrations
+  d’arts martiaux. Tarifs : 5 € la journée\, 8 € le week-end\, grat
+ uit moins de 12 ans. Billetterie HelloAsso.
+URL:https://www.helloasso.com/associations/team-saint-hilaire-esports/even
+ ements/japan-and-geek-show-3-jeux-video-cosplay-artisans-associations-exp
+ os-food-truck
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2674,8 +2694,8 @@ DESCRIPTION:Mercredi 18 novembre à 18h. Rendez-vous collectif de Résocom
  mun\, annoncé comme hebdomadaire \; seule la prochaine date est intégr
  ée\, les suivantes ne sont pas publiées avec une fin de programmation v
  érifiable. Fin et tarif non précisés. Source : Le Dauphiné Libéré.
-URL:https://www.ledauphine.com/edition-aubenas-privas-vallee-du-rhone/arde
- che-meridionale
+URL:https://www.ledauphine.com/culture-loisirs/2026/11/14/la-bonne-soupe-l
+ e-rendez-vous-de-resocommun-de-retour
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2690,7 +2710,7 @@ DESCRIPTION:Dimanche 22 novembre\, 9h–18h. Marché de Noël annoncé par
   l’association Bien vivre à Mars. Accès et programme détaillé à co
  nfirmer auprès de l’organisateur. Source : agenda local relayant Ardè
  che Guide.
-URL:https://www.brocantes-et-marches.com/
+URL:https://brocantes-et-marches.fr/villes/mars
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2705,7 +2725,227 @@ DESCRIPTION:Vendredi 27 novembre\, 15h30–20h. Marché de Noël de créat
  eurs et artisans\, petite restauration annoncée. Accès gratuit annoncé
  . Source : agenda local relayant Ardèche Guide \; confirmer les horaires
   auprès de l’organisateur.
-URL:https://www.brocantes-et-marches.com/
+URL:https://brocantes-et-marches.fr/villes/annonay/marche-de-noel-de-lart-
+ des-choix-a-annonay
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261121-marche-noel-saint-jeures@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261121T100000
+DTEND;TZID=Europe/Paris:20261122T180000
+SUMMARY:Marché de Noël de Saint-Jeures
+LOCATION:Salle du Bru\, 38 chemin du Bru\, 43200 Saint-Jeures\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Samedi 21 novembre\, 10h–18h \; dimanche 22 novembre\, 9h–
+ 18h. Artisans et producteurs locaux\, buvette et petite restauration. Ent
+ rée gratuite. Source : Haute-Loire Attractivité / My Haute-Loire.
+URL:https://villagedenoel.fr/evenement/saint-jeures-marche-noel-2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261122-marche-noel-saint-julien-molhesabate@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261122T090000
+SUMMARY:Marché de Noël de Saint-Julien-Molhesabate
+LOCATION:Maison du Suc\, 43220 Saint-Julien-Molhesabate\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Dimanche 22 novembre à partir de 9h. Artisans\, producteurs l
+ ocaux\, créations et produits gourmands. Entrée gratuite \; heure de fi
+ n non publiée. Source : Haut Pays du Velay Tourisme / DATAtourisme.
+URL:https://brocantes-et-marches.fr/villes/saint-julien-molhesabate/marche
+ -de-noel-de-saint-julien-molhesabate
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261122-marche-noel-deyras-saint-victor@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261122T090000
+DTEND;TZID=Europe/Paris:20261122T170000
+SUMMARY:Marché de Noël des Amis de Deyras à Saint-Victor
+LOCATION:Salle Pouyol\, Saint-Victor\, 07410 Saint-Victor\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Dimanche 22 novembre à partir de 9h. Créations\, gourmandise
+ s\, buvette et petite restauration. Fin annoncée à 17h par l’agenda \
+ ; un autre relais indique 18h\, horaire de fermeture à confirmer. Source
+  : agenda local relayant Ardèche Guide.
+URL:https://brocantes-et-marches.fr/villes/saint-victor-07/marche-de-noel-
+ des-amis-de-deyras-a-saint-victor
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-marche-noel-grospierres@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:Marché de Noël de Grospierres
+LOCATION:Parc du château de Bournet\, 110 route du Château de Bournet\, 
+ 07120 Grospierres\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Samedi 28 novembre\, 16h–22h. Environ 40 exposants annoncés
+ \, artisans\, producteurs locaux et gourmandises. Accès libre. Source : 
+ office de tourisme Gorges de l’Ardèche / fiche événement vérifiée.
+URL:https://brocantes-et-marches.fr/villes/grospierres/marche-de-noel-de-g
+ rospierres
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-marche-noel-amis-hopital-bourg-saint-andeol@evenements-albous
+ siere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261128T143000
+DTEND;TZID=Europe/Paris:20261128T170000
+SUMMARY:Marché de Noël des Amis de l’Hôpital
+LOCATION:Cloître de l’hôpital intercommunal\, entrées quai Fabry et a
+ venue Notre-Dame\, 07700 Bourg-Saint-Andéol\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Samedi 28 novembre\, 14h30–17h. Nombreux exposants\, crêpes
+ \, gâteaux et boissons chaudes. Entrée libre. Source : Gorges de l’Ar
+ dèche – Pont d’Arc / Ardèche Guide.
+URL:https://www.berg-coiron-tourisme.com/gastronomie/marches-hebdomadaires
+ /marche-de-noel-des-amis-de-lhopital-91-8029576/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-marche-noel-viviers@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261128T103000
+DTEND;TZID=Europe/Paris:20261129T180000
+SUMMARY:Marché de Noël de Viviers
+LOCATION:Hostellerie Charles de Foucauld\, 1 place Riquet\, 07220 Viviers\
+ , France
+CATEGORIES:Vie locale
+DESCRIPTION:Samedi 28 novembre\, 10h30–20h \; dimanche 29 novembre\, 10h
+ 30–18h. Artisans locaux\, chants et contes\, maquillage\, jeux\, Père 
+ et Mère Noël\, restauration et buvette. Accès libre. Source : Ardèche
+  Guide / agenda institutionnel.
+URL:https://allezonsort.fr/evenement/marche-de-noel-viviers/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-marche-noel-guilherand-granges@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261128T150000
+DTEND;TZID=Europe/Paris:20261129T180000
+SUMMARY:Marché de Noël de Guilherand-Granges
+LOCATION:Abords de la mairie\, place des 5 Continents\, 07500 Guilherand-G
+ ranges\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Samedi 28 novembre\, 15h–20h \; dimanche 29 novembre\, 10h
+ –18h. Stands\, artisanat\, produits du terroir et animations. Samedi : 
+ déambulation lumineuse à 17h15 puis feu d’artifice à 18h. Accès lib
+ re. Source : mairie de Guilherand-Granges.
+URL:https://www.guilherand-granges.fr/je-souhaite/consulter-l-agenda
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-marche-noel-issarles@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261128T090000
+DTEND;TZID=Europe/Paris:20261128T170000
+SUMMARY:Marché de Noël et vin nouveau d’Issarlès
+LOCATION:Salle polyvalente Vispron\, 07470 Issarlès\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Samedi 28 novembre\, 9h–17h. Exposants du plateau ardéchois
+ \, artisanat et gastronomie. En soirée : fête du vin nouveau et concert
+  de Mathieu Pirro \; horaire du concert non publié. Accès libre. Source
+  : office de tourisme Montagne d’Ardèche.
+URL:https://www.ardeche.com/issarles/marche-de-noel-et-vin-nouveau-431406.
+ html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129-marche-noel-le-beage@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261129T100000
+DTEND;TZID=Europe/Paris:20261129T180000
+SUMMARY:Marché de Noël du Béage
+LOCATION:Salle du Montfol\, 07630 Le Béage\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Dimanche 29 novembre\, 10h–18h. Artisans\, producteurs locau
+ x\, cosmétiques\, décoration\, buvette\, crêpes et gâteaux. À partir
+  de 13h30 : maquillage\, sculpture de ballons et Père Noël. Accès libr
+ e. Source : office de tourisme / fiche événement vérifiée.
+URL:https://brocantes-et-marches.fr/villes/le-beage/marche-de-noel-du-beag
+ e
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129-marche-noel-lentilleres@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261129T090000
+DTEND;TZID=Europe/Paris:20261129T180000
+SUMMARY:22e marché de Noël de Lentillères
+LOCATION:Place du village\, 07200 Lentillères\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Dimanche 29 novembre\, 9h–18h. Artisans\, créateurs\, produ
+ cteurs locaux\, Père Noël\, tombola\, buvette et petite restauration. G
+ ratuit. Source : Ardèche Guide / office de tourisme du Pays d’Aubenas-
+ Vals.
+URL:https://www.ardeche-guide.com/fete-manifestation/22eme-edition-du-marc
+ he-de-noel-lentilleres-574876/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129-marche-noel-lachamp-raphael@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261129T100000
+DTEND;TZID=Europe/Paris:20261129T180000
+SUMMARY:Marché de Noël de Lachamp-Raphaël
+LOCATION:Espace Raphaël\, 07530 Lachamp-Raphaël\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Dimanche 29 novembre\, 10h–18h. Exposants en extérieur\, ar
+ tisans et créateurs en salle\, produits locaux \; randonnée canine avec
+  un musher annoncée toute la journée. Accès libre. Source : Ardèche G
+ uide.
+URL:https://brocantes-et-marches.fr/villes/lachamp-raphael/marche-de-noel-
+ de-lachamp-raphael
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129-marche-noel-ozon@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261129T100000
+DTEND;TZID=Europe/Paris:20261129T180000
+SUMMARY:Marché de Noël d’Ozon
+LOCATION:Salle des fêtes René Rochegue\, 415 route des Sables\, 07370 Oz
+ on\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Dimanche 29 novembre\, 10h–18h. Stands de produits locaux et
+  artisanaux\, buvette\, buffet sucré et Père Noël. Accès libre. Sourc
+ e : Ardèche Guide / fiche événement vérifiée.
+URL:https://brocantes-et-marches.fr/villes/ozon/marche-de-noel-dozon
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129-marche-noel-vagnas@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261129T100000
+DTEND;TZID=Europe/Paris:20261129T180000
+SUMMARY:Marché de Noël de Vagnas
+LOCATION:Centre du village\, 07150 Vagnas\, France
+CATEGORIES:Vie locale
+DESCRIPTION:Dimanche 29 novembre\, 10h–18h. 80 exposants annoncés\, art
+ isanat local\, déambulations\, chorales\, maquillage\, jeux en bois\, pe
+ tit manège et tombola. Accès libre. Source : Ardèche Guide.
+URL:https://brocantes-et-marches.fr/villes/vagnas/marche-de-noel-de-vagnas
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261125-atelier-loisirs-creatifs-grozon@evenements-alboussiere
+DTSTAMP:20261116T052309Z
+DTSTART;TZID=Europe/Paris:20261125T140000
+DTEND;TZID=Europe/Paris:20261125T163000
+SUMMARY:Atelier loisirs créatifs à Grozon
+LOCATION:Salle des associations\, ancienne école\, Grozon\, 07270 Saint-B
+ arthélemy-Grozon\, France
+CATEGORIES:Culture et loisir
+DESCRIPTION:Mercredi 25 novembre\, 14h–16h30. Atelier de loisirs créati
+ fs animé par Claire Bogard\, organisé par l’association Amusaté é B
+ oujaté. Fournitures prévues \; tarif et inscription à confirmer auprè
+ s de l’association. Source : mairie de Saint-Barthélemy-Grozon.
+URL:https://www.saintbarthelemygrozon.fr/agenda/do/organizers/comite-des-f
+ etes/
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
