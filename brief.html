@@ -8,6 +8,14 @@
 <style>
 *{box-sizing:border-box}body{margin:0;background:#f2f4f7;color:#17202a;font:15px system-ui,-apple-system,sans-serif}header{background:#111827;color:white;padding:24px 16px}.w{max-width:1100px;margin:auto}h1{margin:5px 0;font-size:28px}.sub{font-size:14px;line-height:1.5;color:#d1d5db}.actions,.filters{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}.btn,.f{padding:9px 12px;border-radius:10px;border:1px solid #cbd5e1;font-weight:700;text-decoration:none;cursor:pointer}.btn{background:#ffffff18;color:white;border-color:#ffffff50}.btn.primary{background:white;color:#111827}main{padding:18px 14px}.sh{margin:20px 0 12px}.sh h2{margin:0;font-size:21px}.sh p{margin:4px 0;color:#667085;font-size:13px}.grid{display:grid;grid-template-columns:1fr;gap:14px}.card{background:white;border:1px solid #e5e7eb;border-radius:14px;padding:16px;min-width:0;overflow:hidden}.tag{display:inline-block;background:#eef2ff;color:#334155;border-radius:999px;padding:4px 8px;font-size:11px;font-weight:800}.card h3{font-size:17px;line-height:1.32;margin:10px 0 7px}.card p{font-size:14px;line-height:1.5;color:#475467;margin:0 0 10px}.source{font-size:11px;color:#667085;margin:10px 0}.card a{font-size:13px;font-weight:800;color:#2563eb;text-decoration:none}.f{border-radius:999px;background:white;color:#344054}.f.active{background:#172554;color:white}.hide{display:none!important}.empty{background:#fff;border:1px dashed #cbd5e1;border-radius:12px;padding:18px;color:#475467;line-height:1.5}.note{font-size:12px;color:#667085;line-height:1.5;margin-top:22px;border-top:1px solid #e5e7eb;padding-top:12px}.article-image{display:block;width:calc(100% + 32px);height:190px;object-fit:cover;margin:-16px -16px 10px;border-radius:14px 14px 0 0;background:#e5e7eb}.image-credit{font-size:10px;color:#667085;margin:0 0 10px;line-height:1.3}.f:focus,.btn:focus,.card a:focus{outline:3px solid #93c5fd;outline-offset:2px}@media(min-width:650px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.article-image{height:175px}}@media(min-width:980px){.grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 </style>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<style>
+.news-map{height:190px;width:calc(100% + 32px);margin:-16px -16px 10px;position:relative;background:#e5e7eb;overflow:hidden}
+.news-map .leaflet-container{height:100%;width:100%;z-index:0}
+.news-map-label{position:absolute;z-index:500;left:8px;right:8px;bottom:8px;padding:6px 9px;border-radius:8px;background:#fffffff0;color:#17202a;font-size:11px;font-weight:800;box-shadow:0 1px 5px #0002;pointer-events:none}
+.news-map .maploading{height:100%;display:grid;place-content:center;color:#667085;font-size:13px}
+@media(min-width:650px){.news-map{height:175px}}
+</style>
 </head>
 <body>
 <header>
@@ -30,54 +38,48 @@
    <h2>Drôme-Ardèche</h2>
    <p>Trois sujets de la Drôme et trois de l’Ardèche, classés par utilité locale.</p>
   </div>
-  <div class="grid"><article class="card" data-published="2026-11-15T14:43:00+01:00" data-updated="2026-11-15T14:50:00+01:00" data-cat="local drome">
-<img class="article-image" src="https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Caisses de denrées alimentaires préparées pour une collecte solidaire — illustration" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+  <div class="grid"><article class="card" data-published="2026-11-15T14:43:00+01:00" data-updated="2026-11-15T14:50:00+01:00" data-cat="local drome" data-map-lat="45.0463" data-map-lon="5.0531" data-map-zoom="12" data-map-place="Romans-sur-Isère · Drôme" data-map-note="Centre de la commune ; lieu précis de la collecte non indiqué">
+<div class="news-map" data-lat="45.0463" data-lon="5.0531" data-zoom="12" data-place="Romans-sur-Isère · Drôme" data-note="Centre de la commune ; lieu précis de la collecte non indiqué"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Romans-sur-Isère · Drôme. Centre de la commune ; lieu précis de la collecte non indiqué.</div>
 <span class="tag">Solidarité · Drôme</span>
 <h3>La Banque alimentaire collecte 17 462 kg sur le bassin de Romans</h3>
 <p>La collecte organisée du 6 au 8 novembre a permis de réunir 17 462 kg de denrées sur le bassin romanais, davantage qu’en 2025. Le bilan souligne aussi la pression économique qui pèse sur les ménages et le rôle des bénévoles.</p>
 <div class="source">Le Dauphiné Libéré · 15 nov. 14:43 · mis à jour 14:50</div>
 <a href="https://www.ledauphine.com/social/2026/11/15/banque-alimentaire-17-462-kilos-ont-ete-collectes-plus-qu-en-2025" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-15T15:08:00+01:00" data-updated="2026-11-15T15:10:00+01:00" data-cat="local drome">
-<img class="article-image" src="https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Cours d’eau et aménagement de berge — illustration du projet de halte fluviale" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-15T15:08:00+01:00" data-updated="2026-11-15T15:10:00+01:00" data-cat="local drome" data-map-lat="44.9334" data-map-lon="4.8924" data-map-zoom="12" data-map-place="Valence · Drôme" data-map-note="Secteur de la halte fluviale ; repère indicatif">
+<div class="news-map" data-lat="44.9334" data-lon="4.8924" data-zoom="12" data-place="Valence · Drôme" data-note="Secteur de la halte fluviale ; repère indicatif"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Valence · Drôme. Secteur de la halte fluviale ; repère indicatif.</div>
 <span class="tag">Aménagement · Drôme</span>
 <h3>La halte fluviale de Valence entre en travaux jusqu’en mars 2027</h3>
 <p>Les travaux démarrent le 16 novembre près du parc Jouvet. Le projet doit masquer une partie de l’A7, sécuriser le passage inférieur pour les piétons et cyclistes et abriter l’attente des bateaux, alors que le site accueille environ 15 000 croisiéristes par an.</p>
 <div class="source">Le Dauphiné Libéré · 15 nov. 15:08 · mis à jour 15:10</div>
 <a href="https://www.ledauphine.com/economie/2026/11/15/auvent-en-acier-martele-ecrans-brise-vue-la-requalification-de-la-halte-fluviale-de-valence-commence" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-15T18:27:00+01:00" data-cat="local drome">
-<img class="article-image" src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Groupe de personnes réunies lors d’une activité associative — illustration" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-15T18:27:00+01:00" data-cat="local drome" data-map-lat="44.548" data-map-lon="4.806" data-map-zoom="12" data-map-place="Montboucher-sur-Jabron · Drôme" data-map-note="Centre de la commune ; lieu précis non indiqué">
+<div class="news-map" data-lat="44.548" data-lon="4.806" data-zoom="12" data-place="Montboucher-sur-Jabron · Drôme" data-note="Centre de la commune ; lieu précis non indiqué"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Montboucher-sur-Jabron · Drôme. Centre de la commune ; lieu précis non indiqué.</div>
 <span class="tag">Vie associative · Drôme</span>
 <h3>Montboucher-sur-Jabron : la MJC retrouve un résultat positif</h3>
 <p>À l’issue de l’assemblée générale du 13 novembre, Bruno Briscese devient président de la MJC. Les comptes repassent dans le positif et plusieurs projets associatifs ont été présentés aux adhérents.</p>
 <div class="source">Le Dauphiné Libéré · 15 nov. 18:27</div>
 <a href="https://www.ledauphine.com/societe/2026/11/15/un-nouveau-president-pour-la-mjc-et-un-resultat-positif-retrouve" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-15T20:11:00+01:00" data-updated="2026-11-15T21:43:00+01:00" data-cat="local ardeche">
-<img class="article-image" src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Bouquet de fleurs déposé en hommage — image d’illustration" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-15T20:11:00+01:00" data-updated="2026-11-15T21:43:00+01:00" data-cat="local ardeche" data-map-lat="44.542" data-map-lon="4.293" data-map-zoom="12" data-map-place="Largentière · Ardèche" data-map-note="Centre de la commune ; lieu précis non indiqué">
+<div class="news-map" data-lat="44.542" data-lon="4.293" data-zoom="12" data-place="Largentière · Ardèche" data-note="Centre de la commune ; lieu précis non indiqué"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Largentière · Ardèche. Centre de la commune ; lieu précis non indiqué.</div>
 <span class="tag">Justice · Ardèche</span>
 <h3>Largentière : le suspect du meurtre du pâtissier mis en examen et écroué</h3>
 <p>Après la mort du pâtissier Christophe Boulle, poignardé le 13 novembre alors qu’il poursuivait un voleur de téléphone, le principal suspect, âgé de 22 ans, a été mis en examen pour meurtre et placé en détention provisoire. Mise à jour judiciaire publiée dimanche soir.</p>
 <div class="source">Le Dauphiné Libéré · 15 nov. 20:11 · mis à jour 21:43</div>
 <a href="https://www.ledauphine.com/faits-divers-justice/2026/11/15/meurtre-du-patissier-de-largentiere-ce-que-l-on-sait-du-qui-principal-suspect-age-de-22-ans" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-15T18:52:00+01:00" data-cat="local ardeche">
-<img class="article-image" src="https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Salle de classe lumineuse — illustration de la rénovation de l’école" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-15T18:52:00+01:00" data-cat="local ardeche" data-map-lat="44.451" data-map-lon="4.136" data-map-zoom="12" data-map-place="Payzac · Ardèche" data-map-note="Centre de la commune ; lieu précis non indiqué">
+<div class="news-map" data-lat="44.451" data-lon="4.136" data-zoom="12" data-place="Payzac · Ardèche" data-note="Centre de la commune ; lieu précis non indiqué"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Payzac · Ardèche. Centre de la commune ; lieu précis non indiqué.</div>
 <span class="tag">Éducation · Ardèche</span>
 <h3>Payzac : l’école du village inaugurée après dix ans de chantier</h3>
 <p>La rénovation offre à une cinquantaine d’élèves un établissement sur deux niveaux, avec des classes plus spacieuses, des puits de lumière, des caissons acoustiques et un vaste préau couvert.</p>
 <div class="source">Le Dauphiné Libéré · 15 nov. 18:52</div>
 <a href="https://www.ledauphine.com/education/2026/11/15/apres-dix-ans-de-chantier-et-de-pugnacite-l-ecole-enfin-renovee" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-15T17:52:00+01:00" data-updated="2026-11-15T21:40:00+01:00" data-cat="local ardeche">
-<img class="article-image" src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Champ cultivé et paysage agricole — illustration de l’agroécologie" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-15T17:52:00+01:00" data-updated="2026-11-15T21:40:00+01:00" data-cat="local ardeche" data-map-lat="44.735" data-map-lon="4.599" data-map-zoom="12" data-map-place="Privas · Ardèche" data-map-note="Centre de la commune ; lieu précis non indiqué">
+<div class="news-map" data-lat="44.735" data-lon="4.599" data-zoom="12" data-place="Privas · Ardèche" data-note="Centre de la commune ; lieu précis non indiqué"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Privas · Ardèche. Centre de la commune ; lieu précis non indiqué.</div>
 <span class="tag">Environnement · Ardèche</span>
 <h3>À Privas, le festival Images et Paroles d’Afrique met l’agroécologie à l’honneur</h3>
 <p>Pour sa 27e édition, le festival aborde pour la première fois l’agroécologie. Une table ronde prévue mercredi 18 novembre à Privas mettra en regard les enjeux climatiques du Burkina Faso et de l’Ardèche et les solutions développées dans les deux territoires.</p>
@@ -96,52 +98,47 @@
    <button class="f" data-filter="france" type="button">France</button>
    <button class="f" data-filter="international" type="button">International</button>
   </div>
-  <div class="grid"><article class="card" data-published="2026-11-16T06:03:18+01:00" data-cat="international">
-<img class="article-image" src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Passeport et documents de voyage — illustration des politiques migratoires" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+  <div class="grid"><article class="card" data-published="2026-11-16T06:03:18+01:00" data-cat="international" data-map-lat="-1.9441" data-map-lon="29.8739" data-map-zoom="7" data-map-place="Rwanda" data-map-note="Repère national indicatif ; ville du centre de retour non précisée">
+<div class="news-map" data-lat="-1.9441" data-lon="29.8739" data-zoom="7" data-place="Rwanda" data-note="Repère national indicatif ; ville du centre de retour non précisée"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Rwanda. Repère national indicatif ; ville du centre de retour non précisée.</div>
 <span class="tag">Europe · Migrations</span>
 <h3>Cinq pays de l’UE préparent un centre de retour des demandeurs d’asile au Rwanda</h3>
 <p>L’Allemagne, l’Autriche, la Grèce, le Danemark et les Pays-Bas doivent annoncer un dispositif visant les personnes dont tous les recours ont été épuisés. Les défenseurs des droits humains contestent le choix du Rwanda et les garanties de recours.</p>
 <div class="source">Reuters · 16 nov. 06:03 CET</div>
 <a href="https://www.reuters.com/world/five-eu-countries-announce-rwanda-deportation-hub-scheme-2026-11-16/" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-16T06:04:34+01:00" data-cat="international">
-<img class="article-image" src="https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Réunion diplomatique autour d’une table — illustration" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-16T06:04:34+01:00" data-cat="international" data-map-lat="39.9042" data-map-lon="116.4074" data-map-zoom="6" data-map-place="Chine · déplacement diplomatique" data-map-note="Repère indicatif ; lieu précis de la rencontre non confirmé dans la fiche">
+<div class="news-map" data-lat="39.9042" data-lon="116.4074" data-zoom="6" data-place="Chine · déplacement diplomatique" data-note="Repère indicatif ; lieu précis de la rencontre non confirmé dans la fiche"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Chine · déplacement diplomatique. Repère indicatif ; lieu précis de la rencontre non confirmé dans la fiche.</div>
 <span class="tag">États-Unis / Asie · Diplomatie</span>
 <h3>Le voyage asiatique de Trump s’ouvre sous pression avant sa rencontre avec Xi</h3>
 <p>Le président américain part en Asie après un revers aux élections de mi-mandat et dans un contexte de soupçons d’espionnage chinois. Les échanges commerciaux et technologiques avec Pékin devraient peser sur cette visite.</p>
 <div class="source">Reuters · 16 nov. 06:04 CET</div>
 <a href="https://www.reuters.com/world/china/spy-scandal-midterm-defeat-heat-up-trumps-asia-visit-2026-11-16/" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-16T06:06:47+01:00" data-cat="international">
-<img class="article-image" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Équipements de télécommunications et réseau numérique — illustration" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-16T06:06:47+01:00" data-cat="international" data-map-lat="25.2854" data-map-lon="51.531" data-map-zoom="12" data-map-place="Doha · Qatar" data-map-note="Lieu de la conférence de l’Union internationale des télécommunications">
+<div class="news-map" data-lat="25.2854" data-lon="51.531" data-zoom="12" data-place="Doha · Qatar" data-note="Lieu de la conférence de l’Union internationale des télécommunications"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Doha · Qatar. Lieu de la conférence de l’Union internationale des télécommunications.</div>
 <span class="tag">ONU · Télécommunications</span>
 <h3>La Russie cherche à regagner de l’influence à l’agence télécoms de l’ONU</h3>
 <p>Moscou vise des sièges au conseil de l’Union internationale des télécommunications, dont la conférence se tient à Doha. Une victoire offrirait à la Russie une visibilité institutionnelle malgré son isolement diplomatique.</p>
 <div class="source">Reuters · 16 nov. 06:06 CET</div>
 <a href="https://www.reuters.com/world/russia-hopes-reduce-its-isolation-by-getting-posts-un-telecoms-agency-2026-11-16/" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-16T01:03:45+01:00" data-cat="international">
-<img class="article-image" src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Circuit électronique et composants technologiques — illustration" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-16T01:03:45+01:00" data-cat="international" data-map-lat="46.2044" data-map-lon="6.1432" data-map-zoom="12" data-map-place="Genève · Suisse" data-map-note="Lieu des discussions internationales">
+<div class="news-map" data-lat="46.2044" data-lon="6.1432" data-zoom="12" data-place="Genève · Suisse" data-note="Lieu des discussions internationales"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Genève · Suisse. Lieu des discussions internationales.</div>
 <span class="tag">Technologie · Armement</span>
 <h3>États-Unis et Russie s’opposent à l’ouverture de négociations sur les armes autonomes</h3>
 <p>Lors des discussions internationales à Genève, Washington et Moscou rejettent l’idée d’engager des négociations sur un instrument juridiquement contraignant encadrant les armes létales autonomes. Plusieurs autres États poussent à des règles communes.</p>
 <div class="source">Reuters · 16 nov. 01:03 CET</div>
 <a href="https://www.reuters.com/world/us-russia-oppose-talks-limiting-autonomous-weapons-2026-11-16/" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-16T06:08:45+01:00" data-cat="international">
-<img class="article-image" src="https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Paysage aride d’Afrique de l’Est — illustration géographique" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-16T06:08:45+01:00" data-cat="international" data-map-lat="12.9" data-map-lon="36.15" data-map-zoom="7" data-map-place="Frontière Éthiopie–Soudan" data-map-note="Zone frontalière approximative ; aucun lieu précis confirmé">
+<div class="news-map" data-lat="12.9" data-lon="36.15" data-zoom="7" data-place="Frontière Éthiopie–Soudan" data-note="Zone frontalière approximative ; aucun lieu précis confirmé"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Frontière Éthiopie–Soudan. Zone frontalière approximative ; aucun lieu précis confirmé.</div>
 <span class="tag">Afrique · Géopolitique</span>
 <h3>L’Éthiopie et le Soudan s’accusent mutuellement de soutenir des groupes armés</h3>
 <p>Les deux pays affirment que leur voisin aide des forces combattant sur leur territoire. L’Associated Press précise ne pas avoir pu vérifier indépendamment ces accusations ; les tensions font craindre une guerre par procuration et de nouveaux déplacements de population.</p>
 <div class="source">Associated Press · 16 nov. 06:08 CET</div>
 <a href="https://apnews.com/article/649640494d674bfffcdc4418205b7485" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-15T15:04:20+01:00" data-cat="international">
+<article class="card" data-published="2026-11-15T15:04:20+01:00" data-cat="international" data-map-lat="48.3794" data-map-lon="31.1656" data-map-zoom="5" data-map-place="Ukraine" data-map-note="Repère national indicatif ; infrastructure précise non mentionnée">
 <img class="article-image" src="https://dims.apnews.com/dims4/default/d917f22/2147483647/strip/true/crop/8192x5464%2B0%2B0/resize/599x400%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fb2%2Fe801ba931c2f7524fe7b5c569b5b%2F01f80c54101640db99be5cf6fabf5642" alt="Volodymyr Zelenskyy s’adresse aux médias à l’aéroport de Dublin, le 12 novembre 2026" loading="lazy">
 <div class="image-credit">Crédit : AP Photo / Peter Morrison</div>
 <span class="tag">Ukraine · Défense</span>
@@ -150,7 +147,7 @@
 <div class="source">Associated Press · 15 nov. 15:04 CET</div>
 <a href="https://apnews.com/article/russia-ukraine-war-starshield-spacex-energy-winter-b139307f0d3ed0f7d0b222c08c30a4a1" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-15T17:14:58+01:00" data-cat="international">
+<article class="card" data-published="2026-11-15T17:14:58+01:00" data-cat="international" data-map-lat="-2.5" data-map-lon="23.6" data-map-zoom="5" data-map-place="République démocratique du Congo" data-map-note="Repère national approximatif ; foyer précis non indiqué">
 <img class="article-image" src="https://www.gavi.org/sites/default/files/vaccineswork/2026/header/UNI997637_h1.jpg" alt="Séance de sensibilisation sanitaire en République démocratique du Congo — illustration" loading="lazy">
 <div class="image-credit">Crédit : UNICEF · photo relayée par Gavi</div>
 <span class="tag">Santé · Afrique</span>
@@ -159,7 +156,7 @@
 <div class="source">Reuters · 15 nov. 17:14 CET</div>
 <a href="https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-still-out-control-six-months-since-it-was-2026-11-15/" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-16T06:00:00+01:00" data-updated="2026-11-16T06:02:00+01:00" data-cat="international">
+<article class="card" data-published="2026-11-16T06:00:00+01:00" data-updated="2026-11-16T06:02:00+01:00" data-cat="international" data-map-lat="36.8969" data-map-lon="30.7133" data-map-zoom="10" data-map-place="Antalya · Turquie" data-map-note="Ville hôte de la COP31 ; lieu précis de la prise de parole non indiqué">
 <img class="article-image" src="https://i.guim.co.uk/img/media/85065f909ca8f9f077e8dac67330d9bf563f171a/314_0_3141_2513/master/3141.jpg?crop=none&amp;dpr=1&amp;s=none&amp;width=465" alt="Mia Mottley, Première ministre de la Barbade, lors de la COP31" loading="lazy">
 <div class="image-credit">Crédit : Khalil Hamra / AP</div>
 <span class="tag">Climat · COP31</span>
@@ -168,7 +165,7 @@
 <div class="source">The Guardian · 16 nov. 06:00 CET · mis à jour 06:02</div>
 <a href="https://www.theguardian.com/environment/2026/nov/16/barbados-pm-urges-global-citizens-to-demand-methane-cuts-at-cop31-summit" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-16T01:01:00+01:00" data-updated="2026-11-16T03:30:00+01:00" data-cat="international">
+<article class="card" data-published="2026-11-16T01:01:00+01:00" data-updated="2026-11-16T03:30:00+01:00" data-cat="international" data-map-lat="0" data-map-lon="0" data-map-zoom="2" data-map-place="Sujet mondial" data-map-note="Sujet sans lieu géographique unique">
 <img class="article-image" src="https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?crop=none&amp;dpr=1&amp;s=none&amp;width=465" alt="Chercheuse de Childlight présentant des travaux sur les violences sexuelles en ligne" loading="lazy">
 <div class="image-credit">Crédit : Childlight / PA</div>
 <span class="tag">Protection de l’enfance · IA</span>
@@ -177,34 +174,31 @@
 <div class="source">The Guardian · 16 nov. 01:01 CET · mis à jour 03:30</div>
 <a href="https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-15T13:48:54+01:00" data-cat="international">
-<img class="article-image" src="https://images.unsplash.com/photo-1494412519320-aa613dfb7738?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Navire de commerce en mer — illustration" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-15T13:48:54+01:00" data-cat="international" data-map-lat="45.15" data-map-lon="29.65" data-map-zoom="11" data-map-place="Canal de Sulina · Roumanie" data-map-note="Secteur du canal ; position exacte des navires non précisée">
+<div class="news-map" data-lat="45.15" data-lon="29.65" data-zoom="11" data-place="Canal de Sulina · Roumanie" data-note="Secteur du canal ; position exacte des navires non précisée"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Canal de Sulina · Roumanie. Secteur du canal ; position exacte des navires non précisée.</div>
 <span class="tag">Mer Noire · Sécurité</span>
 <h3>Trois navires commerciaux touchés par des drones près du canal roumain de Sulina</h3>
 <p>Le Premier ministre roumain rapporte des frappes sur trois navires en mer Noire. Les équipages ont maîtrisé les incendies et aucune victime n’est signalée ; Bucarest n’a pas identifié l’origine des drones et a de nouveau fait décoller des avions de chasse.</p>
 <div class="source">Reuters · 15 nov. 13:48 CET</div>
 <a href="https://www.reuters.com/business/aerospace-defense/three-ships-struck-by-drones-black-sea-near-romanian-shipping-canal-pm-says-2026-11-15/" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-15T21:25:54+01:00" data-cat="international">
-<img class="article-image" src="https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Décollage d’une fusée de nuit — illustration" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-15T21:25:54+01:00" data-cat="international" data-map-lat="28.3922" data-map-lon="-80.6077" data-map-zoom="11" data-map-place="Cape Canaveral · Floride, États-Unis" data-map-note="Site de lancement ; point indicatif">
+<div class="news-map" data-lat="28.3922" data-lon="-80.6077" data-zoom="11" data-place="Cape Canaveral · Floride, États-Unis" data-note="Site de lancement ; point indicatif"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Cape Canaveral · Floride, États-Unis. Site de lancement ; point indicatif.</div>
 <span class="tag">Espace · Industrie</span>
 <h3>Une fusée Vulcan échoue et détruit la charge de 40 satellites Amazon Leo</h3>
 <p>Le lanceur de United Launch Alliance a subi une anomalie peu après son départ de Floride et n’a pas placé en orbite les 40 satellites de la constellation Leo. Il s’agit du premier échec de mission de l’entreprise depuis sa création ; l’enquête sur la cause est en cours.</p>
 <div class="source">Reuters · 15 nov. 21:25 CET</div>
 <a href="https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-16T00:05:00+01:00" data-cat="international">
-<img class="article-image" src="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Littoral de l’archipel du Cap-Vert — illustration" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-16T00:05:00+01:00" data-cat="international" data-map-lat="14.933" data-map-lon="-23.5133" data-map-zoom="11" data-map-place="Praia · Cap-Vert" data-map-note="Centre de la capitale ; lieu précis du scrutin non indiqué">
+<div class="news-map" data-lat="14.933" data-lon="-23.5133" data-zoom="11" data-place="Praia · Cap-Vert" data-note="Centre de la capitale ; lieu précis du scrutin non indiqué"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Praia · Cap-Vert. Centre de la capitale ; lieu précis du scrutin non indiqué.</div>
 <span class="tag">Afrique · Élections</span>
 <h3>Au Cap-Vert, José María Neves est réélu dès le premier tour</h3>
 <p>Le président sortant obtient 63,8 % des suffrages selon les résultats provisoires et entame un second mandat. Sa principale adversaire recueille 31,4 % ; l’abstention provisoire est élevée et les résultats définitifs sont attendus dans quelques jours.</p>
 <div class="source">Mediapart / AFP · 16 nov. 00:05 CET</div>
 <a href="https://www.mediapart.fr/journal/fil-dactualites/161126/cap-vert-le-president-sortant-jose-maria-neves-reelu-pour-un-second-mandat" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-15T14:27:00+01:00" data-cat="france">
+<article class="card" data-published="2026-11-15T14:27:00+01:00" data-cat="france" data-map-lat="11.5564" data-map-lon="104.9282" data-map-zoom="12" data-map-place="Phnom Penh · Cambodge" data-map-note="Lieu de la signature des accords">
 <img class="article-image" src="https://information.tv5monde.com/sites/tv5-info/files/styles/entete/public/2026-11/field_media_image-3070339-8d4bd756d8a7b2e431023fc960ff9982ffab8f32.jpg?itok=DHbjK8M0" alt="Emmanuel Macron et Hun Manet lors de la signature des accords à Phnom Penh, le 15 novembre 2026" loading="lazy">
 <div class="image-credit">Crédit : Ludovic Marin / AFP</div>
 <span class="tag">France · Diplomatie / Économie</span>
@@ -213,9 +207,8 @@
 <div class="source">TV5MONDE / AFP · 15 nov. 14:27 CET</div>
 <a href="https://information.tv5monde.com/economie/france-et-cambodge-scellent-leur-partenariat-renouvele-avec-29-accords-2845887" target="_blank" rel="noopener noreferrer">Lire l’article</a>
 </article>
-<article class="card" data-published="2026-11-15T20:54:00+01:00" data-updated="2026-11-15T21:52:00+01:00" data-cat="france">
-<img class="article-image" src="https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Barriques et verre de vin de Bourgogne — illustration" loading="lazy">
-<div class="image-credit">Crédit : Unsplash · image d’illustration</div>
+<article class="card" data-published="2026-11-15T20:54:00+01:00" data-updated="2026-11-15T21:52:00+01:00" data-cat="france" data-map-lat="47.024" data-map-lon="4.838" data-map-zoom="12" data-map-place="Beaune · Côte-d’Or" data-map-note="Lieu de la vente des Hospices de Beaune">
+<div class="news-map" data-lat="47.024" data-lon="4.838" data-zoom="12" data-place="Beaune · Côte-d’Or" data-note="Lieu de la vente des Hospices de Beaune"><div class="maploading">Carte de localisation en cours de chargement…</div></div><div class="image-credit">Carte : © OpenStreetMap · point rouge : Beaune · Côte-d’Or. Lieu de la vente des Hospices de Beaune.</div>
 <span class="tag">France · Économie / Viticulture</span>
 <h3>Les enchères des Hospices de Beaune atteignent 13,6 millions d’euros</h3>
 <p>La vente caritative reste loin du record de 29 millions d’euros de 2022. Après six mois de quasi-sécheresse, la récolte sur les 60 hectares des Hospices a été amputée d’environ moitié ; la pièce des présidents a toutefois été adjugée 770 000 euros.</p>
@@ -230,6 +223,36 @@
   <strong>Sources :</strong> Le Dauphiné Libéré pour les six sujets locaux ; Reuters, Associated Press, The Guardian, AFP et TV5MONDE pour les autres sujets. Les flux RSS et le fil Bluesky d’ICI Drôme Ardèche n’ont pas fourni de contenu lisible pendant cette exécution ; aucun article ICI non vérifié n’a été repris. Les images Unsplash sont des illustrations, les images de presse portent leur crédit lorsqu’il est disponible.
  </div>
 </main>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+function mountNewsMap(el){
+ if(el.dataset.ready==="1")return;
+ const lat=Number(el.dataset.lat),lon=Number(el.dataset.lon),zoom=Number(el.dataset.zoom||10);
+ if(!Number.isFinite(lat)||!Number.isFinite(lon)||!window.L){el.innerHTML='<div class="maploading">Carte indisponible pour le moment.</div>';return}
+ el.dataset.ready="1";el.innerHTML='';
+ const map=L.map(el,{scrollWheelZoom:false,doubleClickZoom:false,boxZoom:false,keyboard:false,zoomControl:false}).setView([lat,lon],zoom);
+ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© OpenStreetMap contributors'}).addTo(map);
+ L.circleMarker([lat,lon],{radius:9,color:'#dc2626',fillColor:'#dc2626',fillOpacity:.96,weight:2}).addTo(map).bindPopup((el.dataset.place||'Localisation')+' — '+(el.dataset.note||'Repère indicatif'));
+ const label=document.createElement('div');label.className='news-map-label';label.textContent='📍 '+(el.dataset.place||'Localisation')+' · '+(el.dataset.note||'Repère indicatif');el.appendChild(label);
+ setTimeout(()=>map.invalidateSize(),120);
+}
+function initNewsMaps(){
+ document.querySelectorAll('.news-map').forEach(mountNewsMap);
+ document.querySelectorAll('.article-image').forEach(img=>{
+  const fallback=()=>{
+   const card=img.closest('.card');if(!card||!card.dataset.mapLat||img.dataset.mapFallback==="1")return;
+   img.dataset.mapFallback="1";
+   const map=document.createElement('div');map.className='news-map';
+   map.dataset.lat=card.dataset.mapLat;map.dataset.lon=card.dataset.mapLon;map.dataset.zoom=card.dataset.mapZoom||'8';map.dataset.place=card.dataset.mapPlace||'Lieu de l’actualité';map.dataset.note=card.dataset.mapNote||'Repère indicatif';
+   img.replaceWith(map);
+   const credit=map.nextElementSibling;if(credit&&credit.classList.contains('image-credit'))credit.textContent='Carte : © OpenStreetMap · point rouge : '+map.dataset.place+'. '+map.dataset.note+'.';
+   mountNewsMap(map);
+  };
+  img.addEventListener('error',fallback,{once:true});
+  if(img.complete&&img.naturalWidth===0)fallback();
+ });
+}
+</script>
 <script>
 const now=new Date();
 function fresh(c){
@@ -250,6 +273,7 @@ const filters=[...document.querySelectorAll(".f")];
 filters.forEach(b=>b.addEventListener("click",()=>{filters.forEach(x=>x.classList.toggle("active",x===b));apply();}));
 document.getElementById("refresh").addEventListener("click",()=>location.replace(location.pathname+"?v=20261116-1&refresh="+Date.now()));
 apply();
+initNewsMaps();
 </script>
 </body>
 </html>
