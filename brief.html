@@ -232,7 +232,7 @@ function mountNewsMap(el){
  el.dataset.ready="1";el.innerHTML='';
  const map=L.map(el,{scrollWheelZoom:false,doubleClickZoom:false,boxZoom:false,keyboard:false,zoomControl:false}).setView([lat,lon],zoom);
  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© OpenStreetMap contributors'}).addTo(map);
- L.circleMarker([lat,lon],{radius:9,color:'#dc2626',fillColor:'#dc2626',fillOpacity:.96,weight:2}).addTo(map).bindPopup((el.dataset.place||'Localisation')+' — '+(el.dataset.note||'Repère indicatif'));
+ if(el.dataset.note!=="Sujet sans lieu géographique unique")L.circleMarker([lat,lon],{radius:9,color:'#dc2626',fillColor:'#dc2626',fillOpacity:.96,weight:2}).addTo(map).bindPopup((el.dataset.place||'Localisation')+' — '+(el.dataset.note||'Repère indicatif'));
  const label=document.createElement('div');label.className='news-map-label';label.textContent='📍 '+(el.dataset.place||'Localisation')+' · '+(el.dataset.note||'Repère indicatif');el.appendChild(label);
  setTimeout(()=>map.invalidateSize(),120);
 }
