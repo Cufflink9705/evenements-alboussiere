@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T06:23:09+01:00",
-  "publishedAt": "2026-11-16T06:23:09+01:00",
-  "expiresAt": "2026-11-17T06:23:09+01:00",
+  "generatedAt": "2026-11-16T08:18:05+01:00",
+  "publishedAt": "2026-11-16T08:18:05+01:00",
+  "expiresAt": "2026-11-17T08:18:05+01:00",
   "items": [
     {
       "title": "Marché de Noël de Saint-Just-d’Ardèche",
@@ -208,6 +208,51 @@
       "category": "Culture et loisir",
       "description": "Atelier animé par Claire Bogard et organisé par l’association Amusaté é Boujaté. Fournitures prévues ; tarif et inscription à confirmer auprès de l’association.",
       "url": "https://www.saintbarthelemygrozon.fr/agenda/do/organizers/comite-des-fetes/",
+      "price": "Non précisé"
+    },
+    {
+      "title": "Exposition « Les cycles du vivant »",
+      "date": "16 novembre–20 décembre 2026, 10h–18h30 (jours d’ouverture à confirmer)",
+      "location": "18 venelle de la Motte, 26270 Cliousclat, France",
+      "category": "Culture et loisir",
+      "description": "Exposition repérée dans l’agenda officiel de la Vallée de la Drôme. Les jours précis d’ouverture restent à confirmer.",
+      "url": "https://www.valleedeladrome-tourisme.com/votre-sejour/sortir/tout-lagenda/",
+      "price": "Non précisé"
+    },
+    {
+      "title": "Chants corses avec le Chœur de Sartène",
+      "date": "21 novembre 2026, 20h–21h15",
+      "location": "Place de l’Église, 26270 Loriol-sur-Drôme, France",
+      "category": "Culture et loisir",
+      "description": "Concert annoncé dans l’agenda de la Vallée de la Drôme.",
+      "url": "https://www.valleedeladrome-tourisme.com/votre-sejour/sortir/tout-lagenda/",
+      "price": "Non précisé"
+    },
+    {
+      "title": "Marché de Noël de Loriol-sur-Drôme",
+      "date": "28 novembre 2026, 11h–17h",
+      "location": "Rue Louis d’Arbalestier, 26270 Loriol-sur-Drôme, France",
+      "category": "Vie locale",
+      "description": "Marché de Noël annoncé dans l’agenda de la Vallée de la Drôme.",
+      "url": "https://www.valleedeladrome-tourisme.com/votre-sejour/sortir/tout-lagenda/",
+      "price": "Non précisé"
+    },
+    {
+      "title": "Village de Noël de Livron-sur-Drôme",
+      "date": "27–29 novembre 2026",
+      "location": "Place de l’Hôtel de Ville, 26250 Livron-sur-Drôme, France",
+      "category": "Vie locale",
+      "description": "Village de Noël annoncé du 27 au 29 novembre ; horaires non précisés dans l’agenda consulté.",
+      "url": "https://www.valleedeladrome-tourisme.com/votre-sejour/sortir/tout-lagenda/",
+      "price": "Non précisé"
+    },
+    {
+      "title": "Exposition « Océan – Une plongée insolite »",
+      "date": "18 novembre 2026–28 février 2027",
+      "location": "Champ de Mars, 26400 Crest, France",
+      "category": "Culture et loisir",
+      "description": "Exposition annoncée dans l’agenda de la Vallée de la Drôme.",
+      "url": "https://www.valleedeladrome-tourisme.com/votre-sejour/sortir/tout-lagenda/",
       "price": "Non précisé"
     }
   ]
