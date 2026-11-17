@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-16T08:18:05+01:00",
+  "updated_at": "2026-11-17T06:29:06+01:00",
   "results": [
     {
       "title": "Banquet Drômois – Le Canon Français",
       "date": "8 mai 2027, 12h–17h",
-      "location": "Palais des Congrès Charles Aznavour, avenue du 14 Juillet 1789, 26200 Montélimar",
+      "location": "Palais des Congrès Charles Aznavour, avenue du 14 Juillet 1789, 26200 Montélimar, France",
       "price": "79,99 €",
       "url": "https://www.billetweb.fr/banquet-dromois3",
-      "source": "Billetterie officielle Billetweb de SAS Le Canon Français, vérifiée le 16 novembre 2026",
-      "checked_at": "2026-11-16T08:18:05+01:00",
-      "description": "Événement toujours annoncé à la billetterie officielle ; date, lieu, horaires et tarif revérifiés le 16 novembre 2026."
+      "source": "Billetterie officielle Billetweb de SAS Le Canon Français, vérifiée le 17 novembre 2026",
+      "checked_at": "2026-11-17T06:29:06+01:00",
+      "description": "Événement toujours annoncé sur la billetterie officielle ; date, lieu, horaires et tarif revérifiés le 17 novembre 2026. Aucun nouveau banquet dans les départements surveillés n’a été confirmé."
     },
     {
       "title": "Rammstein – aucune date française officielle confirmée",
-      "date": "Vérification du 16 novembre 2026",
+      "date": "Vérification du 17 novembre 2026",
       "location": "France",
-      "description": "Aucune nouvelle date officielle de concert du groupe Rammstein en France identifiée lors de cette vérification. La page officielle d’actualités ne publie pas de nouvelle tournée ; les dates de Till Lindemann en solo et les concerts tribute/covers ne sont pas comptés.",
+      "description": "Aucune nouvelle date officielle de concert du groupe Rammstein en France identifiée lors de cette vérification. Les concerts de Till Lindemann en solo et les spectacles tribute/covers ne sont pas comptés.",
       "url": "https://www.rammstein.de/en/tour/",
-      "source": "Site officiel Rammstein – page tournée et actualités, vérifiés le 16 novembre 2026",
-      "checked_at": "2026-11-16T08:18:05+01:00"
+      "source": "Site officiel Rammstein – page tournée et actualités, vérifiées le 17 novembre 2026",
+      "checked_at": "2026-11-17T06:29:06+01:00"
     }
   ]
 }
