@@ -144,7 +144,7 @@ function render(){
  const cat=document.getElementById('category').value;
  const now=new Date(),horizon=new Date(now);horizon.setDate(horizon.getDate()+60);
  const isActive=e=>e.end?e.end>now:e.start>=now;
- const filtered=state.events.filter(e=>(!q||(e.summary+' '+(e.location||'')+' '+(e.description||'')).toLowerCase().includes(q))&&(!cat||categoryGroup(category(e))===cat)&&isActive(e)&&e.start<=horizon).sort((a,b)=>a.start-b.start);
+ const filtered=state.events.filter(e=>(!q||(e.summary+' '+(e.location||'')+' '+(e.description||'')).toLowerCase().includes(q))&&(!cat||category(e)===cat)&&isActive(e)&&e.start<=horizon).sort((a,b)=>a.start-b.start);
  document.getElementById('count').textContent=filtered.length+' événement'+(filtered.length>1?'s':'');
  const root=document.getElementById('events');root.innerHTML='';
  if(!filtered.length){root.innerHTML='<div class="empty">Aucun événement à venir ou en cours ne correspond à votre recherche.</div>';return}
