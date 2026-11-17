@@ -1,259 +1,232 @@
 {
-  "generatedAt": "2026-11-16T08:18:05+01:00",
-  "publishedAt": "2026-11-16T08:18:05+01:00",
-  "expiresAt": "2026-11-17T08:18:05+01:00",
+  "generatedAt": "2026-11-17T06:29:06+01:00",
+  "publishedAt": "2026-11-17T06:29:06+01:00",
+  "expiresAt": "2026-11-18T06:29:06+01:00",
   "items": [
     {
-      "title": "Marché de Noël de Saint-Just-d’Ardèche",
-      "date": "22 novembre 2026, 10h–20h",
-      "location": "Centre du village, 07700 Saint-Just-d’Ardèche, France",
-      "category": "Vie locale",
-      "description": "Plus de 40 exposants, Père Noël, balade à poney, mascotte, santons, château gonflable, montée au clocher, restauration et buvette. Accès libre ; lieu précis dans le centre du village.",
-      "url": "https://brocantes-et-marches.fr/villes/saint-just-dardeche/marche-de-noel-de-saint-just-dardeche",
+      "title": "La Grande Récup’ de Noël",
+      "date": "21 novembre 2026, 10h–18h",
+      "location": "166 chemin du Pigeonnier, 07150 Vallon-Pont-d’Arc, France",
+      "category": "Famille et nature",
+      "description": "Journée familiale autour du réemploi : gratiferia, marché de Noël alternatif, spectacles gratuits, repair café et ateliers parents-enfants. Source : Berg & Coiron Tourisme.",
+      "url": "https://www.berg-coiron-tourisme.com/gastronomie/marches-hebdomadaires/la-grande-recup-de-noel-91-8055602/",
       "price": "Gratuit"
     },
     {
-      "title": "Marché de Noël de Peaugres",
-      "date": "22 novembre 2026, 9h30–18h",
-      "location": "Salle L’Entre 2, ZA La Boissonnette, 07340 Peaugres, France",
+      "title": "Saint-Clément en fête !",
+      "date": "21 novembre 2026, 14h–18h",
+      "location": "L’École du Vent, 4 chemin de Largailler, 07310 Saint-Clément, France",
       "category": "Vie locale",
-      "description": "Marché d’artistes créateurs et d’artisans. Accès libre.",
-      "url": "https://brocantes-et-marches.fr/villes/peaugres/marche-de-noel-de-peaugres",
+      "description": "Après-midi festif et portes ouvertes. Programme détaillé et prix du repas annoncés ultérieurement ; accompagnateur adulte obligatoire pour les mineurs. Source : École du Vent.",
+      "url": "https://www.ecole-du-vent.com/notre-agenda/6091681_saint-clement-en-fete/",
+      "price": "Repas à confirmer"
+    },
+    {
+      "title": "Salon de l’Artisanat",
+      "date": "21–22 novembre 2026, 10h–18h",
+      "location": "Stade Pompidou, avenue de Romans, 26000 Valence, France",
+      "category": "Vie locale",
+      "description": "Près de 100 artisans, métiers d’art, habitat, décoration, gastronomie et bien-être ; démonstrations et animations familiales. Source : Département de la Drôme.",
+      "url": "https://www.ladrome.fr/evenements/salon-de-lartisanat/",
       "price": "Gratuit"
     },
     {
-      "title": "Bourse aux jouets de Veyras",
-      "date": "22 novembre 2026, 9h–16h",
-      "location": "Salle de la mairie, 1101 place de la République, 07000 Veyras, France",
+      "title": "Foire aux skis du Schuss Valentinois",
+      "date": "28 novembre 2026, 9h30–16h30",
+      "location": "Palais des Expositions, 16 avenue Georges Clemenceau, 26000 Valence, France",
       "category": "Vie locale",
-      "description": "Bourse organisée par le Sou des écoles, petite restauration salée et sucrée et buvette. Entrée gratuite ; table exposant 5 €.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/bourse-aux-jouets-8046433/",
-      "price": "Gratuit visiteurs ; 5 € la table exposant"
+      "description": "Vente de matériel et vêtements techniques de ski neufs et d’occasion, exposants professionnels et particuliers. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/foire-aux-skis-8024980/",
+      "price": "Entrée gratuite"
     },
     {
-      "title": "Marché de Noël de Lachapelle-sous-Aubenas",
-      "date": "21 novembre 2026, 8h–17h",
-      "location": "Place Antoine du Roure, 07200 Lachapelle-sous-Aubenas, France",
-      "category": "Vie locale",
-      "description": "Marché de créateurs locaux, chants, conteurs, sapin participatif et visite du Père Noël. Accès libre.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/marche-de-noel-7600522/",
+      "title": "2e édition : Baz’art imaginaire et récréatif – Les p’tits Z’éclats",
+      "date": "28 novembre 2026, 10h–19h (horaire de fermeture à confirmer)",
+      "location": "Domaine des Clévos, 390 route de Marmans, 26800 Étoile-sur-Rhône, France",
+      "category": "Famille et nature",
+      "description": "Journée de découvertes et d’activités créatives pour les familles. L’horaire d’ouverture indique 10h–19h, le descriptif 10h–18h. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/2eme-edition-baz-art-imaginaire-et-recreatif-les-p-tits-z-eclats-8035581/",
+      "price": "Gratuit ; spectacles à participation libre"
+    },
+    {
+      "title": "La magie de Noël pour tous les enfants",
+      "date": "28 novembre 2026, 10h–17h",
+      "location": "Place Val Fontaine, 26750 Saint-Michel-sur-Savasse, France",
+      "category": "Famille et nature",
+      "description": "Jouet offert à chaque enfant, mascottes, musique, lectures de Noël, jeux en bois, Père Noël et petite restauration. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/saint-michel-sur-savasse-2977950/la-magie-de-noel-pour-tous-les-enfants-8029087/",
       "price": "Gratuit"
     },
     {
-      "title": "Marché de Noël de Berrias-et-Casteljau",
-      "date": "21 novembre 2026, 14h–21h ; 22 novembre, 10h–18h",
-      "location": "Place de la mairie, 07460 Berrias-et-Casteljau, France",
+      "title": "Bourse aux jouets, vêtements et puériculture de Peaugres",
+      "date": "29 novembre 2026, 9h–16h",
+      "location": "Salle de l’Entre 2, route de la Boissonnette, 07340 Peaugres, France",
       "category": "Vie locale",
-      "description": "Productions locales, petite restauration, cyclo-tour à bois, tours de poney, atelier de décoration de fers à cheval à prix libre, spéléotruck le dimanche et contes à 15h30. Accès gratuit.",
-      "url": "https://brocantes-et-marches.fr/villes/berrias-et-casteljau/marche-de-noel-de-berrias-et-casteljau",
-      "price": "Gratuit ; atelier à prix libre"
+      "description": "Bourse de l’Amicale laïque des Champs Fleuris, animations enfants, Père Noël le matin, buvette et restauration. Source : HelloAsso.",
+      "url": "https://www.helloasso.com/associations/amicale-laique-des-champs-fleuris-de-peaugres/evenements/bourse-aux-jouets-amicale-laique-peaugres",
+      "price": "Tarif visiteurs non précisé ; exposants 5 € la table, 2 € le portant"
     },
     {
-      "title": "Japan and Geek Show — 3e édition",
-      "date": "21 novembre 2026, 10h–19h30 ; 22 novembre, 10h–17h",
-      "location": "Gymnase, 38260 Saint-Hilaire-de-la-Côte, France",
+      "title": "Bourse aux jouets et vêtements de Vinsobres",
+      "date": "29 novembre 2026, 9h–17h",
+      "location": "Salle polyvalente, traverse Butavent, 26110 Vinsobres, France",
+      "category": "Vie locale",
+      "description": "Jouets, vêtements enfants, livres, jeux et puériculture. Bénéfices au profit de la MAM Grandir à petits pas. Source : Office de tourisme du Pays de Dieulefit-Bourdeaux.",
+      "url": "https://www.dieulefit-tourisme.com/fete-manifestation/bourse-aux-jouets-et-vetements/",
+      "price": "Gratuit ; table exposant 5 €"
+    },
+    {
+      "title": "Bourse à la vaisselle et au linge de maison",
+      "date": "4–5 décembre 2026",
+      "location": "MJC Châteauvert, 3 place des Buissonnets, 26000 Valence, France",
+      "category": "Vie locale",
+      "description": "Dépôt le 4 décembre 8h–15h ; vente le 4 de 16h à 19h et le 5 de 9h à 12h30 ; retrait des invendus le 5 de 17h à 18h. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/en/catalog/detail/valence-2971053/bourse-a-la-vaisselle-et-au-linge-de-maison-8053912/",
+      "price": "Accès gratuit"
+    },
+    {
+      "title": "Vide-grenier de Noël",
+      "date": "5 décembre 2026, 8h–14h",
+      "location": "Salle polyvalente, 11 passage René Cotty, 26500 Bourg-lès-Valence, France",
+      "category": "Vie locale",
+      "description": "Vide-grenier de l’APE Jacques Reynaud, buvette et restauration sur place. Source : La Drôme Tourisme.",
+      "url": "https://www.drome-cestmanature.com/sit/vide-grenier-de-noel/",
+      "price": "Accès libre"
+    },
+    {
+      "title": "Grande Braderie de Jouets – Croix-Rouge",
+      "date": "5 décembre 2026, 8h30–16h",
+      "location": "41 chemin de la Nitrière, 26200 Montélimar, France",
+      "category": "Vie locale",
+      "description": "Braderie de jouets organisée par la Croix-Rouge, environ 10 exposants annoncés. Source : vide-greniers.org.",
+      "url": "https://vide-greniers.org/evenement/1044871",
+      "price": "Entrée gratuite"
+    },
+    {
+      "title": "Défi Bloc Vitesse",
+      "date": "28 octobre–18 novembre 2026, chaque jour à partir de 19h",
+      "location": "The Roof, 155 allée des Deux Sœurs, 26300 Bourg-de-Péage, France",
+      "category": "Sport",
+      "description": "Qualifications gratuites ; les 16 meilleurs chronos se qualifient pour la finale du 25 novembre à 19h. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/en/catalog/detail/bourg-de-peage-3031020/defi-bloc-vitesse-8030868/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Finale du Défi Bloc Vitesse",
+      "date": "25 novembre 2026, 19h",
+      "location": "The Roof, 155 allée des Deux Sœurs, 26300 Bourg-de-Péage, France",
+      "category": "Sport",
+      "description": "Finale entre les 16 meilleurs chronos des qualifications. Fin de l’épreuve non précisée. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/en/catalog/detail/bourg-de-peage-3031020/defi-bloc-vitesse-8030868/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Initiation moulinette gratuite en novembre",
+      "date": "1er–30 novembre 2026 (sauf 24 et 28 novembre)",
+      "location": "The Roof Salle d’escalade, 155 allée des Deux Sœurs, 26300 Bourg-de-Péage, France",
+      "category": "Sport",
+      "description": "Initiation gratuite à l’assurage en moulinette, dès 18 ans, sans niveau préalable. Créneaux limités, réservation nécessaire. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/nl/catalogus/detail/bourg-de-peage-3031020/initiation-moulinette-gratuite-en-novembre-8057658/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Mathieu Vassy expose ses Calligrammes",
+      "date": "20 octobre–22 novembre 2026, 18h30–20h les jours de spectacle",
+      "location": "La Maison Nugues, 18 rue de l’Armillerie, 26100 Romans-sur-Isère, France",
       "category": "Culture et loisir",
-      "description": "Culture geek et pop japonaise, cosplay, jeux vidéo, artisans, expositions et démonstrations d’arts martiaux. Billetterie HelloAsso.",
-      "url": "https://www.helloasso.com/associations/team-saint-hilaire-esports/evenements/japan-and-geek-show-3-jeux-video-cosplay-artisans-associations-expos-food-truck",
-      "price": "5 € la journée ; 8 € le week-end ; gratuit moins de 12 ans"
-    },
-    {
-      "title": "La Bonne Soupe — rendez-vous de Résocommun",
-      "date": "18 novembre 2026, 18h",
-      "location": "Place Ollier, 07140 Les Vans, France (repli annoncé : terrasse du Serre de Bar)",
-      "category": "Vie locale",
-      "description": "Rendez-vous collectif gratuit de Résocommun autour d’une soupe. Fin de séance non publiée ; seule la première date annoncée est intégrée à l’agenda.",
-      "url": "https://www.ledauphine.com/culture-loisirs/2026/11/14/la-bonne-soupe-le-rendez-vous-de-resocommun-de-retour",
+      "description": "Exposition de calligrammes mêlant écriture et arts graphiques. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/romans-sur-isere-2983011/mathieu-vassy-expose-ses-calligrammes-8016123/",
       "price": "Gratuit"
     },
     {
-      "title": "Marché de Noël de Mars",
-      "date": "22 novembre 2026, 9h–18h",
-      "location": "Salle de Saint-Romain-le-Désert, 07320 Mars, France",
-      "category": "Vie locale",
-      "description": "Marché de Noël de l’association Bien vivre à Mars, restauration et buvette sur place. Accès libre.",
-      "url": "https://brocantes-et-marches.fr/villes/mars",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël de l’Art des Choix",
-      "date": "27 novembre 2026, 15h30–20h",
-      "location": "8 quai de Merle, 07100 Annonay, France",
-      "category": "Vie locale",
-      "description": "Marché de créateurs et d’artisans, buvette et restauration sur place. Entrée libre.",
-      "url": "https://brocantes-et-marches.fr/villes/annonay/marche-de-noel-de-lart-des-choix-a-annonay",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël de Saint-Jeures",
-      "date": "21 novembre 2026, 10h–18h ; 22 novembre, 9h–18h",
-      "location": "Salle du Bru, 38 chemin du Bru, 43200 Saint-Jeures, France",
-      "category": "Vie locale",
-      "description": "Artisans et producteurs locaux, buvette et petite restauration. Entrée gratuite.",
-      "url": "https://villagedenoel.fr/evenement/saint-jeures-marche-noel-2026",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël de Saint-Julien-Molhesabate",
-      "date": "22 novembre 2026, à partir de 9h",
-      "location": "Maison du Suc, 43220 Saint-Julien-Molhesabate, France",
-      "category": "Vie locale",
-      "description": "Artisans, producteurs locaux, créations et produits gourmands. Entrée gratuite ; heure de fin non publiée.",
-      "url": "https://brocantes-et-marches.fr/villes/saint-julien-molhesabate/marche-de-noel-de-saint-julien-molhesabate",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël des Amis de Deyras à Saint-Victor",
-      "date": "22 novembre 2026, à partir de 9h",
-      "location": "Salle Pouyol, 07410 Saint-Victor, France",
-      "category": "Vie locale",
-      "description": "Créations, gourmandises, buvette et petite restauration. Fin annoncée à 17h par l’agenda ; un autre relais indique 18h, fermeture à confirmer.",
-      "url": "https://brocantes-et-marches.fr/villes/saint-victor-07/marche-de-noel-des-amis-de-deyras-a-saint-victor",
-      "price": "Non précisé"
-    },
-    {
-      "title": "Marché de Noël de Grospierres",
-      "date": "28 novembre 2026, 16h–22h",
-      "location": "Parc du château de Bournet, 110 route du Château de Bournet, 07120 Grospierres, France",
-      "category": "Vie locale",
-      "description": "Environ 40 exposants annoncés, artisans, producteurs locaux et gourmandises. Accès libre.",
-      "url": "https://brocantes-et-marches.fr/villes/grospierres/marche-de-noel-de-grospierres",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël des Amis de l’Hôpital",
-      "date": "28 novembre 2026, 14h30–17h",
-      "location": "Cloître de l’hôpital intercommunal, entrées quai Fabry et avenue Notre-Dame, 07700 Bourg-Saint-Andéol, France",
-      "category": "Vie locale",
-      "description": "Nombreux exposants, crêpes, gâteaux et boissons chaudes. Entrée libre.",
-      "url": "https://www.berg-coiron-tourisme.com/gastronomie/marches-hebdomadaires/marche-de-noel-des-amis-de-lhopital-91-8029576/",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël de Viviers",
-      "date": "28 novembre 2026, 10h30–20h ; 29 novembre, 10h30–18h",
-      "location": "Hostellerie Charles de Foucauld, 1 place Riquet, 07220 Viviers, France",
-      "category": "Vie locale",
-      "description": "Artisans locaux, chants et contes, maquillage, jeux, Père et Mère Noël, restauration et buvette. Accès libre.",
-      "url": "https://allezonsort.fr/evenement/marche-de-noel-viviers/",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël de Guilherand-Granges",
-      "date": "28 novembre 2026, 15h–20h ; 29 novembre, 10h–18h",
-      "location": "Abords de la mairie, place des 5 Continents, 07500 Guilherand-Granges, France",
-      "category": "Vie locale",
-      "description": "Stands, artisanat, produits du terroir et animations. Samedi : déambulation lumineuse à 17h15 puis feu d’artifice à 18h. Accès libre.",
-      "url": "https://www.guilherand-granges.fr/je-souhaite/consulter-l-agenda",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël et vin nouveau d’Issarlès",
-      "date": "28 novembre 2026, 9h–17h",
-      "location": "Salle polyvalente Vispron, 07470 Issarlès, France",
-      "category": "Vie locale",
-      "description": "Exposants du plateau ardéchois, artisanat et gastronomie. En soirée : fête du vin nouveau et concert de Mathieu Pirro ; horaire du concert non publié.",
-      "url": "https://www.ardeche.com/issarles/marche-de-noel-et-vin-nouveau-431406.html",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël du Béage",
-      "date": "29 novembre 2026, 10h–18h",
-      "location": "Salle du Montfol, 07630 Le Béage, France",
-      "category": "Vie locale",
-      "description": "Artisans, producteurs locaux, cosmétiques, décoration, buvette, crêpes et gâteaux. À partir de 13h30 : maquillage, sculpture de ballons et Père Noël. Accès libre.",
-      "url": "https://brocantes-et-marches.fr/villes/le-beage/marche-de-noel-du-beage",
-      "price": "Gratuit"
-    },
-    {
-      "title": "22e marché de Noël de Lentillères",
-      "date": "29 novembre 2026, 9h–18h",
-      "location": "Place du village, 07200 Lentillères, France",
-      "category": "Vie locale",
-      "description": "Artisans, créateurs, producteurs locaux, Père Noël, tombola, buvette et petite restauration. Gratuit.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/22eme-edition-du-marche-de-noel-lentilleres-574876/",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël de Lachamp-Raphaël",
-      "date": "29 novembre 2026, 10h–18h",
-      "location": "Espace Raphaël, 07530 Lachamp-Raphaël, France",
-      "category": "Vie locale",
-      "description": "Exposants en extérieur, artisans et créateurs en salle, produits locaux ; randonnée canine avec un musher annoncée toute la journée. Accès libre.",
-      "url": "https://brocantes-et-marches.fr/villes/lachamp-raphael/marche-de-noel-de-lachamp-raphael",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël d’Ozon",
-      "date": "29 novembre 2026, 10h–18h",
-      "location": "Salle des fêtes René Rochegue, 415 route des Sables, 07370 Ozon, France",
-      "category": "Vie locale",
-      "description": "Stands de produits locaux et artisanaux, buvette, buffet sucré et Père Noël. Accès libre.",
-      "url": "https://brocantes-et-marches.fr/villes/ozon/marche-de-noel-dozon",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Marché de Noël de Vagnas",
-      "date": "29 novembre 2026, 10h–18h",
-      "location": "Centre du village, 07150 Vagnas, France",
-      "category": "Vie locale",
-      "description": "80 exposants annoncés, artisanat local, déambulations, chorales, maquillage, jeux en bois, petit manège et tombola. Accès libre.",
-      "url": "https://brocantes-et-marches.fr/villes/vagnas/marche-de-noel-de-vagnas",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Atelier loisirs créatifs à Grozon",
-      "date": "25 novembre 2026, 14h–16h30",
-      "location": "Salle des associations, ancienne école, Grozon, 07270 Saint-Barthélemy-Grozon, France",
+      "title": "Exposition « Au plaisir du photographe »",
+      "date": "2 septembre–22 novembre 2026",
+      "location": "Lux Scène Nationale, 36 boulevard Général-de-Gaulle, 26000 Valence, France",
       "category": "Culture et loisir",
-      "description": "Atelier animé par Claire Bogard et organisé par l’association Amusaté é Boujaté. Fournitures prévues ; tarif et inscription à confirmer auprès de l’association.",
-      "url": "https://www.saintbarthelemygrozon.fr/agenda/do/organizers/comite-des-fetes/",
-      "price": "Non précisé"
+      "description": "Carte blanche au Musée Nicéphore Niépce. Horaires détaillés sur la fiche officielle. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/valence-2971053/exposition-au-plaisir-du-photographe-carte-blanche-au-musee-nicephore-niepce-7906054/",
+      "price": "Gratuit"
     },
     {
-      "title": "Exposition « Les cycles du vivant »",
-      "date": "16 novembre–20 décembre 2026, 10h–18h30 (jours d’ouverture à confirmer)",
-      "location": "18 venelle de la Motte, 26270 Cliousclat, France",
+      "title": "Exposition Didier-Michel – Couleurs et parfum de lumière",
+      "date": "9–22 novembre 2026",
+      "location": "Maison du Gardien, avenue de la Comète, parc Jouvet, 26000 Valence, France",
       "category": "Culture et loisir",
-      "description": "Exposition repérée dans l’agenda officiel de la Vallée de la Drôme. Les jours précis d’ouverture restent à confirmer.",
-      "url": "https://www.valleedeladrome-tourisme.com/votre-sejour/sortir/tout-lagenda/",
-      "price": "Non précisé"
+      "description": "Exposition de peinture ; ouvert du lundi au vendredi 11h–18h, week-ends et jours fériés 10h30–18h. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/valence-2971053/exposition-didier-michel-couleurs-et-parfum-de-lumiere-8043409/",
+      "price": "Entrée libre"
     },
     {
-      "title": "Chants corses avec le Chœur de Sartène",
-      "date": "21 novembre 2026, 20h–21h15",
-      "location": "Place de l’Église, 26270 Loriol-sur-Drôme, France",
+      "title": "Exposition « La Grande Guerre en Drôme » – trois médiathèques",
+      "date": "3–27 novembre 2026",
+      "location": "Médiathèques du Plan, Fontbarlettes et Valence Sud, 26000 Valence, France",
       "category": "Culture et loisir",
-      "description": "Concert annoncé dans l’agenda de la Vallée de la Drôme.",
-      "url": "https://www.valleedeladrome-tourisme.com/votre-sejour/sortir/tout-lagenda/",
-      "price": "Non précisé"
+      "description": "Objets et documents sur la vie quotidienne des soldats et civils pendant la Première Guerre mondiale. Trois lieux avec horaires distincts sur les fiches officielles. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/valence-2971053/exposition-la-grande-guerre-en-drome-au-dela-des-tranchees-8032047/",
+      "price": "Entrée libre"
     },
     {
-      "title": "Marché de Noël de Loriol-sur-Drôme",
-      "date": "28 novembre 2026, 11h–17h",
-      "location": "Rue Louis d’Arbalestier, 26270 Loriol-sur-Drôme, France",
-      "category": "Vie locale",
-      "description": "Marché de Noël annoncé dans l’agenda de la Vallée de la Drôme.",
-      "url": "https://www.valleedeladrome-tourisme.com/votre-sejour/sortir/tout-lagenda/",
-      "price": "Non précisé"
-    },
-    {
-      "title": "Village de Noël de Livron-sur-Drôme",
-      "date": "27–29 novembre 2026",
-      "location": "Place de l’Hôtel de Ville, 26250 Livron-sur-Drôme, France",
-      "category": "Vie locale",
-      "description": "Village de Noël annoncé du 27 au 29 novembre ; horaires non précisés dans l’agenda consulté.",
-      "url": "https://www.valleedeladrome-tourisme.com/votre-sejour/sortir/tout-lagenda/",
-      "price": "Non précisé"
-    },
-    {
-      "title": "Exposition « Océan – Une plongée insolite »",
-      "date": "18 novembre 2026–28 février 2027",
-      "location": "Champ de Mars, 26400 Crest, France",
+      "title": "Exposition « Résilience – Histoires de femmes inspirant le changement »",
+      "date": "15 octobre 2026–28 février 2027",
+      "location": "Centre du Patrimoine Arménien, 14 rue Louis Gallet, 26000 Valence, France",
       "category": "Culture et loisir",
-      "description": "Exposition annoncée dans l’agenda de la Vallée de la Drôme.",
-      "url": "https://www.valleedeladrome-tourisme.com/votre-sejour/sortir/tout-lagenda/",
-      "price": "Non précisé"
+      "description": "Photographies World Press Photo sur les femmes, les droits et l’égalité ; visites guidées et visites éclairages à plusieurs dates. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/exposition-resilience-histoires-de-femmes-inspirant-le-changement-7955769/",
+      "price": "5 € plein tarif, 4 € réduit, gratuit étudiants de moins de 26 ans"
+    },
+    {
+      "title": "Exposition « Là où elle pose, quand l’intime s’habille avec style »",
+      "date": "3 octobre 2026–12 février 2027",
+      "location": "Théâtre de Privas, place André Malraux, 07000 Privas, France",
+      "category": "Culture et loisir",
+      "description": "Photographies, danse et films ; ouvert selon un calendrier précis et fermé du 20 décembre au 3 janvier. Source : Théâtre de Privas.",
+      "url": "https://www.theatredeprivas.com/saison/26-27/ou-elle-pose",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Exposition « Un début à tout – Les premières fois qui ont fait l’Ardèche »",
+      "date": "18 mars–31 décembre 2026",
+      "location": "Archives départementales de l’Ardèche, 14 place André Malraux, 07000 Privas, France",
+      "category": "Culture et loisir",
+      "description": "Documents d’archives sur les innovations ardéchoises et l’histoire du territoire. Source : Ardèche Guide / Archives départementales.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/exposition-un-debut-a-tout-les-premieres-fois-qui-ont-fait-lardeche-7723486/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Exposition « Pigments et lumières »",
+      "date": "3–28 novembre 2026",
+      "location": "Le Mix, 24 avenue Vincent d’Indy, 07240 Vernoux-en-Vivarais, France",
+      "category": "Culture et loisir",
+      "description": "Aquarelles de Laurette Gévaudan et photographies d’Alex Perret ; du mardi au samedi 14h–19h. Source : Office de tourisme Cœur d’Ardèche.",
+      "url": "https://www.coeur-ardeche.fr/fete-manifestation/exposition-pigments-et-lumieres-peintures-de-laurettre-gevaudan-et-photographies-dalex-perret-8055744/",
+      "price": "Entrée libre"
+    },
+    {
+      "title": "Exposition « Paroles de cœur perdues »",
+      "date": "7–28 novembre 2026",
+      "location": "Moustache et Dentelles, 22 rue Franki Kramer, 07100 Annonay, France",
+      "category": "Culture et loisir",
+      "description": "Calligraphies et aquarelles de Caroline Morel ; ouvert du mardi au vendredi 14h–17h, présence de l’artiste le 28 novembre 10h–17h. Source : Ardèche Guide.",
+      "url": "https://www.ardeche-guide.com/fete-manifestation/exposition-paroles-de-coeur-perdues-8058182/",
+      "price": "Accès libre"
+    },
+    {
+      "title": "Exposition photos de Sabine Fischer — dates corrigées",
+      "date": "9 septembre 2026–4 janvier 2027",
+      "location": "RDB – Radio des Boutières, 20 rue de la République, 07160 Le Cheylard, France",
+      "category": "Culture et loisir",
+      "description": "Correction de la date de début dans l’agenda selon la fiche officielle ; ouvert du lundi au vendredi 9h–12h et 13h–16h. Source : Office de tourisme Ardèche Hautes Vallées.",
+      "url": "https://www.ardeche-hautes-vallees.fr/agenda/exposition-photos-de-sabine-fischer/occ/137/",
+      "price": "Gratuit"
+    },
+    {
+      "title": "Exposition « Plus belle la mort » — date de début corrigée",
+      "date": "8 mai 2026–15 novembre 2028",
+      "location": "Grand Site de France de l’Aven d’Orgnac, 07150 Orgnac-l’Aven, France",
+      "category": "Culture et loisir",
+      "description": "Date de début corrigée à partir de la période indiquée dans la description de la fiche déjà présente dans l’agenda. Source : fiche de l’événement.",
+      "url": "https://www.ardeche-guide.com/agenda/page/377/",
+      "price": "Selon billet d’entrée du site"
     }
   ]
 }
