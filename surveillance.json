@@ -1,24 +1,34 @@
 {
-  "updated_at": "2026-11-17T06:29:06+01:00",
+  "updated_at": "2026-11-18T05:56:00+01:00",
   "results": [
     {
       "title": "Banquet Drômois – Le Canon Français",
       "date": "8 mai 2027, 12h–17h",
-      "location": "Palais des Congrès Charles Aznavour, avenue du 14 Juillet 1789, 26200 Montélimar, France",
+      "location": "Palais des Congrès Charles Aznavour, avenue du 14 Juillet 1789, 26200 Montélimar, Drôme, France",
       "price": "79,99 €",
       "url": "https://www.billetweb.fr/banquet-dromois3",
-      "source": "Billetterie officielle Billetweb de SAS Le Canon Français, vérifiée le 17 novembre 2026",
-      "checked_at": "2026-11-17T06:29:06+01:00",
-      "description": "Événement toujours annoncé sur la billetterie officielle ; date, lieu, horaires et tarif revérifiés le 17 novembre 2026. Aucun nouveau banquet dans les départements surveillés n’a été confirmé."
+      "source": "Billetterie officielle Billetweb de SAS Le Canon Français, revérifiée le 18 novembre 2026",
+      "checked_at": "2026-11-18T05:56:00+01:00",
+      "description": "Date, lieu, horaires et tarif toujours confirmés sur la billetterie officielle."
     },
     {
-      "title": "Rammstein – aucune date française officielle confirmée",
-      "date": "Vérification du 17 novembre 2026",
+      "title": "Banquet Roannais – Le Canon Français",
+      "date": "28 août 2027, 12h–17h",
+      "location": "Le Scarabée, rue du Marclet, 42153 Riorges, Loire, France",
+      "price": "79,99 €",
+      "url": "https://www.billetweb.fr/banquet-roannais1",
+      "source": "Site officiel Le Canon Français et billetterie officielle Billetweb, vérifiés le 18 novembre 2026",
+      "checked_at": "2026-11-18T05:56:00+01:00",
+      "description": "Nouvelle date officielle confirmée pour la troisième édition dans la Loire ; ouverture des portes à 12h, fin annoncée à 17h."
+    },
+    {
+      "title": "Rammstein – aucune date française officielle nouvelle confirmée",
+      "date": "Vérification du 18 novembre 2026",
       "location": "France",
-      "description": "Aucune nouvelle date officielle de concert du groupe Rammstein en France identifiée lors de cette vérification. Les concerts de Till Lindemann en solo et les spectacles tribute/covers ne sont pas comptés.",
       "url": "https://www.rammstein.de/en/tour/",
-      "source": "Site officiel Rammstein – page tournée et actualités, vérifiées le 17 novembre 2026",
-      "checked_at": "2026-11-17T06:29:06+01:00"
+      "source": "Recherche sur le site officiel Rammstein ; page de tournée non accessible lors du contrôle",
+      "checked_at": "2026-11-18T05:56:00+01:00",
+      "description": "Aucune nouvelle annonce officielle de concert du groupe Rammstein en France repérée dans les sources consultables. La page de tournée officielle n’a pas rendu de contenu exploitable lors de cette vérification ; contrôle partiel. Les concerts de Till Lindemann en solo et les spectacles tribute/covers ne sont pas comptés."
     }
   ]
 }

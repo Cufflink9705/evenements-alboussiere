@@ -1,232 +1,79 @@
 {
-  "generatedAt": "2026-11-17T06:29:06+01:00",
-  "publishedAt": "2026-11-17T06:29:06+01:00",
-  "expiresAt": "2026-11-18T06:29:06+01:00",
+  "generatedAt": "2026-11-18T05:56:00+01:00",
+  "publishedAt": "2026-11-18T05:56:00+01:00",
+  "expiresAt": "2026-11-19T05:56:00+01:00",
   "items": [
     {
-      "title": "La Grande Récup’ de Noël",
-      "date": "21 novembre 2026, 10h–18h",
-      "location": "166 chemin du Pigeonnier, 07150 Vallon-Pont-d’Arc, France",
-      "category": "Famille et nature",
-      "description": "Journée familiale autour du réemploi : gratiferia, marché de Noël alternatif, spectacles gratuits, repair café et ateliers parents-enfants. Source : Berg & Coiron Tourisme.",
-      "url": "https://www.berg-coiron-tourisme.com/gastronomie/marches-hebdomadaires/la-grande-recup-de-noel-91-8055602/",
-      "price": "Gratuit"
+      "title": "Week-end chantant Les Baladins",
+      "date": "21–22 novembre 2026, samedi 14h–19h et dimanche 9h–17h",
+      "location": "Salle des Glaces, place du Bosquet, 07210 Chomérac, Ardèche, France",
+      "category": "Culture et loisir",
+      "description": "Samedi 21 novembre : accueil 13h30, chants 14h–19h. Dimanche 22 novembre : reprise 9h, restitution 17h. Travail de quatre chants polyphoniques avec deux chefs de chœur et piano. Tarifs : 30 € adulte, 20 € étudiant ou personne en situation de handicap, 15 € enfant. Source : HelloAsso / Dance Chomérac.",
+      "url": "https://www.helloasso.com/associations/dance-chomerac/evenements/week-end-chantant-les-baladins",
+      "price": "15–30 € selon tarif"
     },
     {
-      "title": "Saint-Clément en fête !",
-      "date": "21 novembre 2026, 14h–18h",
-      "location": "L’École du Vent, 4 chemin de Largailler, 07310 Saint-Clément, France",
-      "category": "Vie locale",
-      "description": "Après-midi festif et portes ouvertes. Programme détaillé et prix du repas annoncés ultérieurement ; accompagnateur adulte obligatoire pour les mineurs. Source : École du Vent.",
-      "url": "https://www.ecole-du-vent.com/notre-agenda/6091681_saint-clement-en-fete/",
-      "price": "Repas à confirmer"
-    },
-    {
-      "title": "Salon de l’Artisanat",
-      "date": "21–22 novembre 2026, 10h–18h",
-      "location": "Stade Pompidou, avenue de Romans, 26000 Valence, France",
-      "category": "Vie locale",
-      "description": "Près de 100 artisans, métiers d’art, habitat, décoration, gastronomie et bien-être ; démonstrations et animations familiales. Source : Département de la Drôme.",
-      "url": "https://www.ladrome.fr/evenements/salon-de-lartisanat/",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Foire aux skis du Schuss Valentinois",
-      "date": "28 novembre 2026, 9h30–16h30",
-      "location": "Palais des Expositions, 16 avenue Georges Clemenceau, 26000 Valence, France",
-      "category": "Vie locale",
-      "description": "Vente de matériel et vêtements techniques de ski neufs et d’occasion, exposants professionnels et particuliers. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/foire-aux-skis-8024980/",
-      "price": "Entrée gratuite"
-    },
-    {
-      "title": "2e édition : Baz’art imaginaire et récréatif – Les p’tits Z’éclats",
-      "date": "28 novembre 2026, 10h–19h (horaire de fermeture à confirmer)",
-      "location": "Domaine des Clévos, 390 route de Marmans, 26800 Étoile-sur-Rhône, France",
-      "category": "Famille et nature",
-      "description": "Journée de découvertes et d’activités créatives pour les familles. L’horaire d’ouverture indique 10h–19h, le descriptif 10h–18h. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/2eme-edition-baz-art-imaginaire-et-recreatif-les-p-tits-z-eclats-8035581/",
-      "price": "Gratuit ; spectacles à participation libre"
-    },
-    {
-      "title": "La magie de Noël pour tous les enfants",
-      "date": "28 novembre 2026, 10h–17h",
-      "location": "Place Val Fontaine, 26750 Saint-Michel-sur-Savasse, France",
-      "category": "Famille et nature",
-      "description": "Jouet offert à chaque enfant, mascottes, musique, lectures de Noël, jeux en bois, Père Noël et petite restauration. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/saint-michel-sur-savasse-2977950/la-magie-de-noel-pour-tous-les-enfants-8029087/",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Bourse aux jouets, vêtements et puériculture de Peaugres",
-      "date": "29 novembre 2026, 9h–16h",
-      "location": "Salle de l’Entre 2, route de la Boissonnette, 07340 Peaugres, France",
-      "category": "Vie locale",
-      "description": "Bourse de l’Amicale laïque des Champs Fleuris, animations enfants, Père Noël le matin, buvette et restauration. Source : HelloAsso.",
-      "url": "https://www.helloasso.com/associations/amicale-laique-des-champs-fleuris-de-peaugres/evenements/bourse-aux-jouets-amicale-laique-peaugres",
-      "price": "Tarif visiteurs non précisé ; exposants 5 € la table, 2 € le portant"
-    },
-    {
-      "title": "Bourse aux jouets et vêtements de Vinsobres",
-      "date": "29 novembre 2026, 9h–17h",
-      "location": "Salle polyvalente, traverse Butavent, 26110 Vinsobres, France",
-      "category": "Vie locale",
-      "description": "Jouets, vêtements enfants, livres, jeux et puériculture. Bénéfices au profit de la MAM Grandir à petits pas. Source : Office de tourisme du Pays de Dieulefit-Bourdeaux.",
-      "url": "https://www.dieulefit-tourisme.com/fete-manifestation/bourse-aux-jouets-et-vetements/",
-      "price": "Gratuit ; table exposant 5 €"
-    },
-    {
-      "title": "Bourse à la vaisselle et au linge de maison",
-      "date": "4–5 décembre 2026",
-      "location": "MJC Châteauvert, 3 place des Buissonnets, 26000 Valence, France",
-      "category": "Vie locale",
-      "description": "Dépôt le 4 décembre 8h–15h ; vente le 4 de 16h à 19h et le 5 de 9h à 12h30 ; retrait des invendus le 5 de 17h à 18h. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/en/catalog/detail/valence-2971053/bourse-a-la-vaisselle-et-au-linge-de-maison-8053912/",
-      "price": "Accès gratuit"
-    },
-    {
-      "title": "Vide-grenier de Noël",
-      "date": "5 décembre 2026, 8h–14h",
-      "location": "Salle polyvalente, 11 passage René Cotty, 26500 Bourg-lès-Valence, France",
-      "category": "Vie locale",
-      "description": "Vide-grenier de l’APE Jacques Reynaud, buvette et restauration sur place. Source : La Drôme Tourisme.",
-      "url": "https://www.drome-cestmanature.com/sit/vide-grenier-de-noel/",
-      "price": "Accès libre"
-    },
-    {
-      "title": "Grande Braderie de Jouets – Croix-Rouge",
-      "date": "5 décembre 2026, 8h30–16h",
-      "location": "41 chemin de la Nitrière, 26200 Montélimar, France",
-      "category": "Vie locale",
-      "description": "Braderie de jouets organisée par la Croix-Rouge, environ 10 exposants annoncés. Source : vide-greniers.org.",
-      "url": "https://vide-greniers.org/evenement/1044871",
-      "price": "Entrée gratuite"
-    },
-    {
-      "title": "Défi Bloc Vitesse",
-      "date": "28 octobre–18 novembre 2026, chaque jour à partir de 19h",
-      "location": "The Roof, 155 allée des Deux Sœurs, 26300 Bourg-de-Péage, France",
+      "title": "Entraînement orientation – Chambonas",
+      "date": "21 novembre 2026, rendez-vous 13h45, séance 14h–17h",
+      "location": "Parking face au cimetière, Chambonas, Ardèche, France",
       "category": "Sport",
-      "description": "Qualifications gratuites ; les 16 meilleurs chronos se qualifient pour la finale du 25 novembre à 19h. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/en/catalog/detail/bourg-de-peage-3031020/defi-bloc-vitesse-8030868/",
-      "price": "Gratuit"
+      "description": "Rendez-vous 13h45, séance 14h–17h, tous niveaux dès 8 ans ; mineurs accompagnés. Gratuit adhérents et parents accompagnateurs ; 5 € non-adhérents. Inscription jusqu’au 19 novembre à 20h. Source : HelloAsso / Chassezac Sports Nature.",
+      "url": "https://www.helloasso.com/associations/chassezac-sports-nature/evenements/entrainement-orientation-21-novembre-chambonas",
+      "price": "Gratuit adhérents ; 5 € non-adhérents"
     },
     {
-      "title": "Finale du Défi Bloc Vitesse",
-      "date": "25 novembre 2026, 19h",
-      "location": "The Roof, 155 allée des Deux Sœurs, 26300 Bourg-de-Péage, France",
+      "title": "Concert Gospel – Ard’Gospel",
+      "date": "21 novembre 2026, 20h–22h",
+      "location": "Église La Plaine, 07400 Alba-la-Romaine, Ardèche, France",
+      "category": "Culture et loisir",
+      "description": "Concert solidaire d’Ardèche Afrique Solidaires pour financer un projet de collège en Guinée. Environ trente choristes accompagnés au piano. Participation libre et consciente, minimum conseillé 10 €. Source : HelloAsso.",
+      "url": "https://www.helloasso.com/associations/ardeche-afrique-solidaires/evenements/concert-gospel",
+      "price": "Participation libre, minimum conseillé 10 €"
+    },
+    {
+      "title": "Bourse du 2 roues – motos et pièces détachées",
+      "date": "5 décembre 2026, 7h–18h",
+      "location": "Terrain de motocross, ruelle du Rhône, 07800 La Voulte-sur-Rhône, Ardèche, France",
+      "category": "Vie locale",
+      "description": "Deuxième marché de la moto et de la pièce détachée, particuliers et professionnels, buvette et restauration. Entrée visiteurs gratuite ; stand exposant 10 € pour 4 × 4 m. Source : Moto Club La Voulte / HelloAsso ; horaires visiteurs recoupés avec AgendaAutoMoto.",
+      "url": "https://www.helloasso.com/associations/motoclub-la-voulte/evenements/bourse-du-2-roues",
+      "price": "Entrée gratuite ; stand 10 €"
+    },
+    {
+      "title": "Randonnée moto / quad / buggy du Téléthon – Saint-Félicien",
+      "date": "5 décembre 2026, 8h–18h",
+      "location": "Saint-Félicien, Ardèche, France (lieu de départ à confirmer)",
       "category": "Sport",
-      "description": "Finale entre les 16 meilleurs chronos des qualifications. Fin de l’épreuve non précisée. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/en/catalog/detail/bourg-de-peage-3031020/defi-bloc-vitesse-8030868/",
-      "price": "Gratuit"
+      "description": "Randonnée conviviale pour motos enduro, quads et buggys homologués, avec repas et produits locaux ; une partie des recettes est reversée au Téléthon. Inscription 50 €. La page HelloAsso indiquait 104 places disponibles lors du contrôle. Source : HelloAsso / La Moto Fa Fait Mal.",
+      "url": "https://www.helloasso.com/associations/la-moto-fa-fait-mal/evenements/rando-moto-telethon-saint-felicien-07",
+      "price": "50 €"
     },
     {
-      "title": "Initiation moulinette gratuite en novembre",
-      "date": "1er–30 novembre 2026 (sauf 24 et 28 novembre)",
-      "location": "The Roof Salle d’escalade, 155 allée des Deux Sœurs, 26300 Bourg-de-Péage, France",
-      "category": "Sport",
-      "description": "Initiation gratuite à l’assurage en moulinette, dès 18 ans, sans niveau préalable. Créneaux limités, réservation nécessaire. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/nl/catalogus/detail/bourg-de-peage-3031020/initiation-moulinette-gratuite-en-novembre-8057658/",
-      "price": "Gratuit"
+      "title": "Les Soirées de Chauvet – parcours lumineux et sonore",
+      "date": "19 décembre 2026–3 janvier 2027, à la tombée de la nuit",
+      "location": "Grotte Chauvet 2 – Ardèche, 4941 route de Bourg-Saint-Andéol, 07150 Vallon-Pont-d’Arc, Ardèche, France",
+      "category": "Famille et nature",
+      "description": "Du 19 décembre 2026 au 3 janvier 2027. Parcours lumineux et sonore à la tombée de la nuit, durée environ 1h30. Horaires variables selon les jours ; gratuit pour les moins de 10 ans, autres tarifs selon billetterie. Source : Office de tourisme Cévennes d’Ardèche.",
+      "url": "https://www.cevennes-ardeche.com/evenement/les-soirees-de-chauvet-pendant-les-vacances-de-noel-6935090/",
+      "price": "Gratuit moins de 10 ans ; autres tarifs selon billetterie"
     },
     {
-      "title": "Mathieu Vassy expose ses Calligrammes",
-      "date": "20 octobre–22 novembre 2026, 18h30–20h les jours de spectacle",
-      "location": "La Maison Nugues, 18 rue de l’Armillerie, 26100 Romans-sur-Isère, France",
+      "title": "Concert de l’Avent – De Bach à Prévert",
+      "date": "11 décembre 2026, 20h–21h30",
+      "location": "La Fontaine d’Ananda, 2055 route des Sylvains, 26120 Chabeuil, Drôme, France",
       "category": "Culture et loisir",
-      "description": "Exposition de calligrammes mêlant écriture et arts graphiques. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/romans-sur-isere-2983011/mathieu-vassy-expose-ses-calligrammes-8016123/",
-      "price": "Gratuit"
+      "description": "Marine Beelen (soprano) et Martin Bauer (viole de gambe et flûte à bec) proposent un programme de Bach à Prévert dans le cadre du marché de Noël. Tarifs : 15 € adulte, 20 € tarif de soutien, gratuit moins de 16 ans. Source : Valence Romans Tourisme / HelloAsso.",
+      "url": "https://www.helloasso.com/associations/la-fontaine-d-ananda/evenements/concert-de-l-avent-de-bach-a-prevert",
+      "price": "15–20 € adulte ; gratuit moins de 16 ans"
     },
     {
-      "title": "Exposition « Au plaisir du photographe »",
-      "date": "2 septembre–22 novembre 2026",
-      "location": "Lux Scène Nationale, 36 boulevard Général-de-Gaulle, 26000 Valence, France",
+      "title": "Le Grand Concert de Noël – Joël Valence",
+      "date": "19 décembre 2026, 20h (portes 19h15)",
+      "location": "Église Notre-Dame-de-Lourdes, 22 place Jean Jaurès, 26100 Romans-sur-Isère, Drôme, France",
       "category": "Culture et loisir",
-      "description": "Carte blanche au Musée Nicéphore Niépce. Horaires détaillés sur la fiche officielle. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/valence-2971053/exposition-au-plaisir-du-photographe-carte-blanche-au-musee-nicephore-niepce-7906054/",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Exposition Didier-Michel – Couleurs et parfum de lumière",
-      "date": "9–22 novembre 2026",
-      "location": "Maison du Gardien, avenue de la Comète, parc Jouvet, 26000 Valence, France",
-      "category": "Culture et loisir",
-      "description": "Exposition de peinture ; ouvert du lundi au vendredi 11h–18h, week-ends et jours fériés 10h30–18h. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/valence-2971053/exposition-didier-michel-couleurs-et-parfum-de-lumiere-8043409/",
-      "price": "Entrée libre"
-    },
-    {
-      "title": "Exposition « La Grande Guerre en Drôme » – trois médiathèques",
-      "date": "3–27 novembre 2026",
-      "location": "Médiathèques du Plan, Fontbarlettes et Valence Sud, 26000 Valence, France",
-      "category": "Culture et loisir",
-      "description": "Objets et documents sur la vie quotidienne des soldats et civils pendant la Première Guerre mondiale. Trois lieux avec horaires distincts sur les fiches officielles. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/valence-2971053/exposition-la-grande-guerre-en-drome-au-dela-des-tranchees-8032047/",
-      "price": "Entrée libre"
-    },
-    {
-      "title": "Exposition « Résilience – Histoires de femmes inspirant le changement »",
-      "date": "15 octobre 2026–28 février 2027",
-      "location": "Centre du Patrimoine Arménien, 14 rue Louis Gallet, 26000 Valence, France",
-      "category": "Culture et loisir",
-      "description": "Photographies World Press Photo sur les femmes, les droits et l’égalité ; visites guidées et visites éclairages à plusieurs dates. Source : Valence Romans Tourisme.",
-      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/exposition-resilience-histoires-de-femmes-inspirant-le-changement-7955769/",
-      "price": "5 € plein tarif, 4 € réduit, gratuit étudiants de moins de 26 ans"
-    },
-    {
-      "title": "Exposition « Là où elle pose, quand l’intime s’habille avec style »",
-      "date": "3 octobre 2026–12 février 2027",
-      "location": "Théâtre de Privas, place André Malraux, 07000 Privas, France",
-      "category": "Culture et loisir",
-      "description": "Photographies, danse et films ; ouvert selon un calendrier précis et fermé du 20 décembre au 3 janvier. Source : Théâtre de Privas.",
-      "url": "https://www.theatredeprivas.com/saison/26-27/ou-elle-pose",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Exposition « Un début à tout – Les premières fois qui ont fait l’Ardèche »",
-      "date": "18 mars–31 décembre 2026",
-      "location": "Archives départementales de l’Ardèche, 14 place André Malraux, 07000 Privas, France",
-      "category": "Culture et loisir",
-      "description": "Documents d’archives sur les innovations ardéchoises et l’histoire du territoire. Source : Ardèche Guide / Archives départementales.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/exposition-un-debut-a-tout-les-premieres-fois-qui-ont-fait-lardeche-7723486/",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Exposition « Pigments et lumières »",
-      "date": "3–28 novembre 2026",
-      "location": "Le Mix, 24 avenue Vincent d’Indy, 07240 Vernoux-en-Vivarais, France",
-      "category": "Culture et loisir",
-      "description": "Aquarelles de Laurette Gévaudan et photographies d’Alex Perret ; du mardi au samedi 14h–19h. Source : Office de tourisme Cœur d’Ardèche.",
-      "url": "https://www.coeur-ardeche.fr/fete-manifestation/exposition-pigments-et-lumieres-peintures-de-laurettre-gevaudan-et-photographies-dalex-perret-8055744/",
-      "price": "Entrée libre"
-    },
-    {
-      "title": "Exposition « Paroles de cœur perdues »",
-      "date": "7–28 novembre 2026",
-      "location": "Moustache et Dentelles, 22 rue Franki Kramer, 07100 Annonay, France",
-      "category": "Culture et loisir",
-      "description": "Calligraphies et aquarelles de Caroline Morel ; ouvert du mardi au vendredi 14h–17h, présence de l’artiste le 28 novembre 10h–17h. Source : Ardèche Guide.",
-      "url": "https://www.ardeche-guide.com/fete-manifestation/exposition-paroles-de-coeur-perdues-8058182/",
-      "price": "Accès libre"
-    },
-    {
-      "title": "Exposition photos de Sabine Fischer — dates corrigées",
-      "date": "9 septembre 2026–4 janvier 2027",
-      "location": "RDB – Radio des Boutières, 20 rue de la République, 07160 Le Cheylard, France",
-      "category": "Culture et loisir",
-      "description": "Correction de la date de début dans l’agenda selon la fiche officielle ; ouvert du lundi au vendredi 9h–12h et 13h–16h. Source : Office de tourisme Ardèche Hautes Vallées.",
-      "url": "https://www.ardeche-hautes-vallees.fr/agenda/exposition-photos-de-sabine-fischer/occ/137/",
-      "price": "Gratuit"
-    },
-    {
-      "title": "Exposition « Plus belle la mort » — date de début corrigée",
-      "date": "8 mai 2026–15 novembre 2028",
-      "location": "Grand Site de France de l’Aven d’Orgnac, 07150 Orgnac-l’Aven, France",
-      "category": "Culture et loisir",
-      "description": "Date de début corrigée à partir de la période indiquée dans la description de la fiche déjà présente dans l’agenda. Source : fiche de l’événement.",
-      "url": "https://www.ardeche-guide.com/agenda/page/377/",
-      "price": "Selon billet d’entrée du site"
+      "description": "Concert de chants de Noël par Joël Valence, accompagné sur plusieurs titres par une chorale. Ouverture des portes à 19h15, placement libre. Tarif unique : 18 €. Source : Valence Romans Tourisme.",
+      "url": "https://www.valence-romans-tourisme.com/fr/catalogue/detail/le-grand-concert-de-noel-joel-valence-8055226/",
+      "price": "18 €"
     }
   ]
 }
